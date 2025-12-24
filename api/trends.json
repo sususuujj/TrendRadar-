@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-24T16:28:47.877882+08:00",
-  "total_titles_processed": 1262,
+  "generated_at": "2025-12-24T17:24:11.213045+08:00",
+  "total_titles_processed": 1352,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 42,
+      "match_count": 44,
       "titles": [
         {
           "title": "特朗普公布 \"黄金舰队\"计划，首艘舰艇预计在2028年完工",
@@ -60,11 +60,12 @@
             11,
             17,
             19,
-            20
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时36分 ~ 16时28分]"
+          "appearance_count": 20,
+          "time_info": "[00时36分 ~ 17时24分]"
         },
         {
           "title": "特朗普又自恋,新战舰用自己名",
@@ -80,8 +81,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时36分 ~ 16时28分]"
+          "appearance_count": 21,
+          "time_info": "[00时36分 ~ 17时24分]"
         },
         {
           "title": "爱泼斯坦案文件恢复 特朗普出镜两次",
@@ -95,6 +96,18 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时36分 ~ 07时26分]"
+        },
+        {
+          "title": "特朗普的资本重构：一场万亿美元级别的资金流向大转移",
+          "url": "https://wallstreetcn.com/articles/3761916",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时06分 ~ 17时24分]"
         },
         {
           "title": "“特朗普级”新型战列舰命名打破惯例",
@@ -111,6 +124,20 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时36分 ~ 05时26分]"
+        },
+        {
+          "title": "特朗普提必要条件：敢降息，“不同意永远不可能成为美联储主席”",
+          "url": "https://wallstreetcn.com/articles/3761946",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时26分 ~ 17时24分]"
         },
         {
           "title": "美军将建造“特朗普级”战舰",
@@ -140,18 +167,6 @@
           "time_info": "[10时06分 ~ 15时23分]"
         },
         {
-          "title": "特朗普的资本重构：一场万亿美元级别的资金流向大转移",
-          "url": "https://wallstreetcn.com/articles/3761916",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时06分 ~ 16时28分]"
-        },
-        {
           "title": "美新型战舰被命名为特朗普级你咋看",
           "url": "https://www.toutiao.com/trending/7586859203608772635/",
           "source": "今日头条",
@@ -164,17 +179,15 @@
           "time_info": "[02时40分 ~ 10时06分]"
         },
         {
-          "title": "特朗普提必要条件：敢降息，“不同意永远不可能成为美联储主席”",
-          "url": "https://wallstreetcn.com/articles/3761946",
-          "source": "华尔街见闻",
+          "title": "特朗普发小作文称《怦然心动》导演“精神错乱”招批评",
+          "url": "https://news.ifeng.com/c/8pLddKy6eAN",
+          "source": "凤凰网",
           "ranks": [
-            10,
-            9,
-            7
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时26分 ~ 16时28分]"
+          "appearance_count": 2,
+          "time_info": "[17时23分 ~ 17时24分]"
         },
         {
           "title": "特朗普回应克林顿大尺度照被公布",
@@ -407,6 +420,17 @@
           "time_info": "[14时32分 ~ 15时23分]"
         },
         {
+          "title": "美联储“2025回忆录”：特朗普威压下坚守独立，降息75基点后明年何去何从？",
+          "url": "https://www.cls.cn/detail/2238581",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时23分 ~ 17时24分]"
+        },
+        {
           "title": "美国总统特朗普：通货膨胀会自行解决。",
           "url": "https://flash.jin10.com/detail/20251224020017627800",
           "source": "金十数据",
@@ -534,7 +558,7 @@
     },
     {
       "keyword_group": "俄罗斯",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "政权倒台一年后，阿萨德家族被曝在俄罗斯过着“奢华生活”",
@@ -613,11 +637,12 @@
           "source": "今日头条",
           "ranks": [
             18,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时32分 ~ 16时28分]"
+          "appearance_count": 4,
+          "time_info": "[14时32分 ~ 17时24分]"
         },
         {
           "title": "俄罗斯政府将2026年2月15日至6月30日的粮食出口配额设定为2000万吨。",
@@ -642,6 +667,17 @@
           "time_info": "14时32分"
         },
         {
+          "title": "乌克兰国有能源公司纳夫托加兹：俄罗斯在夜间袭击了乌克兰的石油和天然气基础设施。",
+          "url": "https://flash.jin10.com/detail/20251224164634058800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        },
+        {
           "title": "俄罗斯调查委员会：莫斯科汽车爆炸致两名警察及另一人身亡。",
           "url": "https://flash.jin10.com/detail/20251224135853314800",
           "source": "金十数据",
@@ -662,6 +698,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
+        },
+        {
+          "title": "据阿塞拜疆方面报道，俄罗斯总统普京和阿塞拜疆总统阿利耶夫通了电话。",
+          "url": "https://flash.jin10.com/detail/20251224163717321800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
         },
         {
           "title": "俄罗斯总统普京今日将在克里姆林宫颁发国家奖项。",
@@ -881,7 +928,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "2025年黄金年终盘点：宏观环境一变再变 却全是金价上涨理由",
@@ -920,6 +967,29 @@
           "time_info": "[00时36分 ~ 07时26分]"
         },
         {
+          "title": "Dynavax美股盘前涨近38%，赛诺菲以每股15.5美元的现金价格收购该公司。",
+          "url": "https://wallstreetcn.com/livenews/3026125",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        },
+        {
+          "title": "金价银价铜价均创历史新高",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E9%93%9C%E4%BB%B7%E5%9D%87%E5%88%9B%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时28分 ~ 17时24分]"
+        },
+        {
           "title": "金十图示：2025年12月24日（周三）上海金午盘价为1008.94元/克，较国际金价(1012.11元/克)，低3.17元/克",
           "url": "https://flash.jin10.com/detail/20251224150502225800",
           "source": "金十数据",
@@ -951,17 +1021,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时36分"
-        },
-        {
-          "title": "金价银价铜价均创历史新高",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E9%93%9C%E4%BB%B7%E5%9D%87%E5%88%9B%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时28分"
         }
       ]
     },
@@ -994,6 +1053,19 @@
           "time_info": "[00时36分 ~ 07时26分]"
         },
         {
+          "title": "商务部回应美无人机领域清单：若美方一意孤行，中方将采取必要措施",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32238771",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时06分 ~ 17时24分]"
+        },
+        {
           "title": "美将大疆无人机列入“受管制清单”，外交部：坚决反对无理打压中国企业",
           "url": "https://m.thepaper.cn/newsDetail_forward_32227837",
           "source": "澎湃新闻",
@@ -1007,18 +1079,6 @@
           "is_new": false,
           "appearance_count": 18,
           "time_info": "[00时36分 ~ 15时23分]"
-        },
-        {
-          "title": "商务部回应美无人机领域清单：若美方一意孤行，中方将采取必要措施",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32238771",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时06分 ~ 16时28分]"
         },
         {
           "title": "美将大疆无人机列入“受管制清单”，外交部：坚决反对无理打压中国企业",
@@ -1152,8 +1212,20 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时36分 ~ 16时28分]"
+          "appearance_count": 21,
+          "time_info": "[00时36分 ~ 17时24分]"
+        },
+        {
+          "title": "评判一辆智能汽车的价值，关键看它的「硬件」还是「软件」？",
+          "url": "https://www.zhihu.com/question/1972374354886136143",
+          "source": "知乎",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时32分 ~ 17时24分]"
         },
         {
           "title": "随着竞争加剧，西方汽车制造商开始进行文化变革，以大幅缩短开发时间和降低成本。",
@@ -1166,17 +1238,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时23分 ~ 14时32分]"
-        },
-        {
-          "title": "评判一辆智能汽车的价值，关键看它的「硬件」还是「软件」？",
-          "url": "https://www.zhihu.com/question/1972374354886136143",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时32分 ~ 16时28分]"
         },
         {
           "title": "周二（12月23日），彭博电动汽车价格回报指数涨0.03%，报3464.12点。 亚太早盘显著波动，北京时间09:35小幅下跌、刷新日低至3455.20点，10:49开始显著拉升、11:22刷新日高至3479.94点。",
@@ -1226,7 +1287,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         }
@@ -1244,8 +1305,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时06分 ~ 16时28分]"
+          "appearance_count": 9,
+          "time_info": "[10时06分 ~ 17时24分]"
         },
         {
           "title": "两年期美债收益率涨超2个基点，美国GDP等数据带来一波低位反弹行情",
@@ -1269,11 +1330,12 @@
           "url": "https://www.toutiao.com/trending/7587300342778301988/",
           "source": "今日头条",
           "ranks": [
-            13
+            13,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时28分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时28分 ~ 17时24分]"
         },
         {
           "title": "伊朗在安理会感谢中国",
