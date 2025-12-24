@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-24T17:24:11.213045+08:00",
-  "total_titles_processed": 1352,
+  "generated_at": "2025-12-24T18:21:33.196616+08:00",
+  "total_titles_processed": 1429,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,19 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时36分 ~ 07时26分]"
+        },
+        {
+          "title": "特朗普的资本重构：一场万亿美元级别的资金流向大转移",
+          "url": "https://wallstreetcn.com/articles/3761916",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时06分 ~ 18时21分]"
         },
         {
           "title": "泰国外长：上次停火谈判太仓促，就为了给特朗普面子",
@@ -78,11 +91,12 @@
             20,
             21,
             23,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时36分 ~ 17时24分]"
+          "appearance_count": 22,
+          "time_info": "[00时36分 ~ 18时21分]"
         },
         {
           "title": "爱泼斯坦案文件恢复 特朗普出镜两次",
@@ -98,16 +112,18 @@
           "time_info": "[00时36分 ~ 07时26分]"
         },
         {
-          "title": "特朗普的资本重构：一场万亿美元级别的资金流向大转移",
-          "url": "https://wallstreetcn.com/articles/3761916",
+          "title": "特朗普提必要条件：敢降息，“不同意永远不可能成为美联储主席”",
+          "url": "https://wallstreetcn.com/articles/3761946",
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            7,
+            6
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[10时06分 ~ 17时24分]"
+          "time_info": "[12时26分 ~ 18时21分]"
         },
         {
           "title": "“特朗普级”新型战列舰命名打破惯例",
@@ -126,20 +142,6 @@
           "time_info": "[00时36分 ~ 05时26分]"
         },
         {
-          "title": "特朗普提必要条件：敢降息，“不同意永远不可能成为美联储主席”",
-          "url": "https://wallstreetcn.com/articles/3761946",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时26分 ~ 17时24分]"
-        },
-        {
           "title": "美军将建造“特朗普级”战舰",
           "url": "https://www.douyin.com/hot/2345209",
           "source": "抖音",
@@ -151,6 +153,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[04时30分 ~ 13时23分]"
+        },
+        {
+          "title": "特朗普发小作文称《怦然心动》导演“精神错乱”招批评",
+          "url": "https://news.ifeng.com/c/8pLddKy6eAN",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时23分 ~ 18时21分]"
         },
         {
           "title": "特朗普表示不同意其观点的人不会成为美联储主席 | 环球市场",
@@ -177,17 +190,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时40分 ~ 10时06分]"
-        },
-        {
-          "title": "特朗普发小作文称《怦然心动》导演“精神错乱”招批评",
-          "url": "https://news.ifeng.com/c/8pLddKy6eAN",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时23分 ~ 17时24分]"
         },
         {
           "title": "特朗普回应克林顿大尺度照被公布",
@@ -558,7 +560,7 @@
     },
     {
       "keyword_group": "俄罗斯",
-      "match_count": 19,
+      "match_count": 25,
       "titles": [
         {
           "title": "政权倒台一年后，阿萨德家族被曝在俄罗斯过着“奢华生活”",
@@ -596,6 +598,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时23分"
+        },
+        {
+          "title": "克里姆林宫拒绝就普京是否与叙利亚外长讨论了俄罗斯军事基地的未来命运一事置评。",
+          "url": "https://flash.jin10.com/detail/20251224175237565800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
         },
         {
           "title": "俄罗斯过去一天损失1090名士兵。",
@@ -656,6 +669,17 @@
           "time_info": "14时32分"
         },
         {
+          "title": "克里姆林宫：（就美国提出的乌克兰和平方案）俄罗斯将在不久的将来制定自身立场并继续保持接触。",
+          "url": "https://flash.jin10.com/detail/20251224175112125800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
           "title": "巴西驻莫斯科大使：巴西准备与俄罗斯在稀土金属领域开展合作",
           "url": "https://flash.jin10.com/detail/20251224140047218800",
           "source": "金十数据",
@@ -673,9 +697,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时24分"
+        },
+        {
+          "title": "克里姆林宫：俄总统特别代表德米特里耶夫已就美国之行向俄罗斯总统普京汇报。",
+          "url": "https://flash.jin10.com/detail/20251224175100872800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
         },
         {
           "title": "俄罗斯调查委员会：莫斯科汽车爆炸致两名警察及另一人身亡。",
@@ -706,7 +741,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时24分"
         },
@@ -720,6 +755,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
+        },
+        {
+          "title": "俄罗斯央行：俄罗斯银行1月至11月净利润为3.4万亿卢布，低于上年同期的3.6万亿卢布。俄罗斯银行11月净利润环比增长27%，达到3940亿卢布。",
+          "url": "https://flash.jin10.com/detail/20251224173053060800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
         },
         {
           "title": "当地州长：乌克兰无人机袭击在俄罗斯图拉州一工业场地引发火灾。",
@@ -744,6 +790,17 @@
           "time_info": "10时06分"
         },
         {
+          "title": "俄罗斯国防部：俄军袭击了乌克兰境内的军工企业。",
+          "url": "https://flash.jin10.com/detail/20251224172639049800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
           "title": "俄罗斯莫斯科南部发生汽车爆炸 致两人受伤",
           "url": "https://flash.jin10.com/detail/20251224092514235800",
           "source": "金十数据",
@@ -753,6 +810,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
+        },
+        {
+          "title": "据俄新社：俄罗斯军队占领乌克兰东部的Zarichne。",
+          "url": "https://flash.jin10.com/detail/20251224172520656800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
         },
         {
           "title": "俄罗斯国防部：夜间，俄罗斯防空系统在俄罗斯境内摧毁了172架乌克兰无人机。",
@@ -780,7 +848,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "强劲GDP打击降息预期，美股低开，金银铜再创新高，伦铜突破1.2万美元，日元两日反弹",
@@ -806,6 +874,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[07时25分 ~ 14时32分]"
+        },
+        {
+          "title": "耐克美股盘前涨超2%，苹果首席执行官蒂姆·库克于12月22日购入价值295万美元的耐克股票。",
+          "url": "https://wallstreetcn.com/livenews/3026156",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
         },
         {
           "title": "UiPath美股盘后涨5.4%。",
@@ -971,11 +1050,12 @@
           "url": "https://wallstreetcn.com/livenews/3026125",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时24分 ~ 18时21分]"
         },
         {
           "title": "金价银价铜价均创历史新高",
@@ -983,11 +1063,12 @@
           "source": "百度热搜",
           "ranks": [
             27,
-            30
+            30,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时28分 ~ 17时24分]"
+          "appearance_count": 4,
+          "time_info": "[16时28分 ~ 18时21分]"
         },
         {
           "title": "金十图示：2025年12月24日（周三）上海金午盘价为1008.94元/克，较国际金价(1012.11元/克)，低3.17元/克",
@@ -1059,11 +1140,12 @@
           "ranks": [
             7,
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时06分 ~ 17时24分]"
+          "appearance_count": 10,
+          "time_info": "[10时06分 ~ 18时21分]"
         },
         {
           "title": "美将大疆无人机列入“受管制清单”，外交部：坚决反对无理打压中国企业",
@@ -1195,7 +1277,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "汽车角度分析COD之父车祸",
@@ -1240,6 +1322,17 @@
           "time_info": "[13时23分 ~ 14时32分]"
         },
         {
+          "title": "星源卓镁：获新能源汽车项目定点通知 预计未来4年销售总金额约5.75亿元",
+          "url": "https://wallstreetcn.com/livenews/3026132",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
           "title": "周二（12月23日），彭博电动汽车价格回报指数涨0.03%，报3464.12点。 亚太早盘显著波动，北京时间09:35小幅下跌、刷新日低至3455.20点，10:49开始显著拉升、11:22刷新日高至3479.94点。",
           "url": "https://wallstreetcn.com/livenews/3025769",
           "source": "华尔街见闻-快讯",
@@ -1249,6 +1342,47 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "伊朗为何愿联合委内瑞拉对抗美威胁",
+          "url": "https://www.toutiao.com/trending/7587300342778301988/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            22,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时28分 ~ 18时21分]"
+        },
+        {
+          "title": "伊朗在安理会感谢中国",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%9C%A8%E5%AE%89%E7%90%86%E4%BC%9A%E6%84%9F%E8%B0%A2%E4%B8%AD%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "伊朗代表：感谢中俄",
+          "url": "https://www.douyin.com/hot/2345871",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
         }
       ]
     },
@@ -1305,8 +1439,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时06分 ~ 17时24分]"
+          "appearance_count": 10,
+          "time_info": "[10时06分 ~ 18时21分]"
         },
         {
           "title": "两年期美债收益率涨超2个基点，美国GDP等数据带来一波低位反弹行情",
@@ -1322,31 +1456,19 @@
       ]
     },
     {
-      "keyword_group": "伊朗",
-      "match_count": 2,
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
       "titles": [
         {
-          "title": "伊朗为何愿联合委内瑞拉对抗美威胁",
-          "url": "https://www.toutiao.com/trending/7587300342778301988/",
-          "source": "今日头条",
+          "title": "腾讯元宝DeepSeek模式使用量较年初增长超100倍",
+          "url": "https://wallstreetcn.com/livenews/3026145",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13,
-            22
+            7
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时28分 ~ 17时24分]"
-        },
-        {
-          "title": "伊朗在安理会感谢中国",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%9C%A8%E5%AE%89%E7%90%86%E4%BC%9A%E6%84%9F%E8%B0%A2%E4%B8%AD%E5%9B%BD",
-          "source": "百度热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时06分"
+          "time_info": "18时21分"
         }
       ]
     },
@@ -1419,6 +1541,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时27分 ~ 13时23分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "武器",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "专家称日本理论上半年内可造出核武器",
+          "url": "https://www.toutiao.com/trending/7586717169801478150/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
         }
       ]
     }
