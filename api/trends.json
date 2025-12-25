@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-25T09:27:53.672599+08:00",
-  "total_titles_processed": 736,
+  "generated_at": "2025-12-25T11:26:51.423037+08:00",
+  "total_titles_processed": 881,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "美股收盘：三大指数连涨五日 道指、标普双双收新高",
@@ -14,11 +14,12 @@
           "ranks": [
             12,
             7,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时19分 ~ 09时27分]"
+          "appearance_count": 6,
+          "time_info": "[06时19分 ~ 11时26分]"
         },
         {
           "title": "平安夜美股债汇涨，标普新高，黄金失守4500，人民币三连涨，加密货币疲软",
@@ -27,9 +28,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时27分 ~ 11时26分]"
         },
         {
           "title": "美股行业ETF普遍收涨",
@@ -135,6 +136,17 @@
           "time_info": "[00时24分 ~ 01时17分]"
         },
         {
+          "title": "英特尔美股盘前大跌5%，报道：英伟达暂缓推进测试英特尔18A工艺",
+          "url": "https://wallstreetcn.com/articles/3762016",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
+        },
+        {
           "title": "行业ETF美股盘初涨跌各异，全球航空业ETF跌0.45%，能源业ETF跌0.39%，银行业ETF跌0.24%，网络股指数ETF跌0.12%，半导体ETF则涨0.08%，科技行业ETF涨0.09%。",
           "url": "https://wallstreetcn.com/livenews/3026259",
           "source": "华尔街见闻-快讯",
@@ -160,7 +172,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "特朗普发小作文称《怦然心动》导演“精神错乱”招批评",
@@ -181,11 +193,12 @@
             9,
             8,
             7,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时24分 ~ 09时27分]"
+          "appearance_count": 13,
+          "time_info": "[00时24分 ~ 11时26分]"
         },
         {
           "title": "特朗普要建“特朗普级”战列舰，称战力爆棚，专家打出多个问号",
@@ -289,6 +302,28 @@
           "time_info": "[03时16分 ~ 05时18分]"
         },
         {
+          "title": "特朗普发表圣诞祝福 不忘自夸政绩",
+          "url": "https://flash.jin10.com/detail/20251225103018828800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
+        },
+        {
+          "title": "“特朗普”级战列舰来了",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E2%80%9D%E7%BA%A7%E6%88%98%E5%88%97%E8%88%B0%E6%9D%A5%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
+        },
+        {
           "title": "学者：特朗普锚定“第四处战场”",
           "url": "https://www.toutiao.com/trending/7587309584843279899/",
           "source": "今日头条",
@@ -303,7 +338,7 @@
     },
     {
       "keyword_group": "俄罗斯",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "俄罗斯统计局：俄罗斯截至12月22日一周的消费者通胀率为0.20%，前一周为0.05%。",
@@ -404,6 +439,17 @@
           "time_info": "00时24分"
         },
         {
+          "title": "俄罗斯黑海港口储油罐遭袭起火",
+          "url": "https://wallstreetcn.com/livenews/3026460",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
+        },
+        {
           "title": "俄罗斯统计局：俄罗斯企业1月至10月利润同比下降9.9%，至21.6万亿卢布。",
           "url": "https://flash.jin10.com/detail/20251225000131058800",
           "source": "金十数据",
@@ -418,7 +464,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "河南许昌汽车站倒闭系谣言",
@@ -428,8 +474,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时24分 ~ 09时27分]"
+          "appearance_count": 13,
+          "time_info": "[00时24分 ~ 11时26分]"
         },
         {
           "title": "汽车角度分析COD之父车祸",
@@ -439,11 +485,12 @@
             1,
             6,
             29,
-            2
+            2,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时17分 ~ 05时18分]"
+          "appearance_count": 5,
+          "time_info": "[01时17分 ~ 11时26分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步大致收平。 热门中概股里，再鼎医药初步收涨约6.2%，阿特斯太阳能涨2.1%，汽车之家涨1.3%。",
@@ -455,6 +502,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时29分"
+        },
+        {
+          "title": "金十图示：2025年12月25日（周四）全球汽车制造商市值变化",
+          "url": "https://flash.jin10.com/detail/20251225110755695800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
         },
         {
           "title": "周三（12月24日），彭博电动汽车价格回报指数涨0.65%，报3485.54点。",
@@ -507,9 +565,21 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时27分 ~ 11时26分]"
+        },
+        {
+          "title": "俄乌大量光纤无人机参战密如蛛网",
+          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E4%B9%8C%E5%A4%A7%E9%87%8F%E5%85%89%E7%BA%A4%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%8F%82%E6%88%98%E5%AF%86%E5%A6%82%E8%9B%9B%E7%BD%91",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时27分 ~ 11时26分]"
         },
         {
           "title": "乌克兰军队今年接收300万架FPV无人机",
@@ -524,6 +594,18 @@
           "time_info": "[06时20分 ~ 07时19分]"
         },
         {
+          "title": "乌军今年接收300万架FPV无人机",
+          "url": "https://www.toutiao.com/trending/7586866709907308585/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时27分 ~ 11时26分]"
+        },
+        {
           "title": "乌克兰军队今年接收300万架FPV无人机",
           "url": "https://wallstreetcn.com/livenews/3026349",
           "source": "华尔街见闻-快讯",
@@ -534,28 +616,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时20分 ~ 07时19分]"
-        },
-        {
-          "title": "乌军今年接收300万架FPV无人机",
-          "url": "https://www.toutiao.com/trending/7586866709907308585/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时27分"
-        },
-        {
-          "title": "俄乌大量光纤无人机参战密如蛛网",
-          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E4%B9%8C%E5%A4%A7%E9%87%8F%E5%85%89%E7%BA%A4%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%8F%82%E6%88%98%E5%AF%86%E5%A6%82%E8%9B%9B%E7%BD%91",
-          "source": "百度热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时27分"
         },
         {
           "title": "乌无人机绑钓鱼竿击落6架俄无人机",
@@ -605,7 +665,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
         },
@@ -630,6 +690,57 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "金价狂飙 千元内几乎买不到金饰",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E7%8B%82%E9%A3%99+%E5%8D%83%E5%85%83%E5%86%85%E5%87%A0%E4%B9%8E%E4%B9%B0%E4%B8%8D%E5%88%B0%E9%87%91%E9%A5%B0",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时27分 ~ 11时26分]"
+        },
+        {
+          "title": "联合国专家谴责美对委的封锁 多家国际机构预计明年金价冲击5000美元 | 环球市场",
+          "url": "https://www.cls.cn/detail/2239423",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
+        },
+        {
+          "title": "金价又创历史新高",
+          "url": "https://www.douyin.com/hot/2346801",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
+          "title": "金十图示：2025年12月25日（周四）上海金早盘价为1002.46元/克，较国际金价(1008.23元/克)，低5.77元/克",
+          "url": "https://flash.jin10.com/detail/20251225102210297800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
         }
       ]
     },
@@ -672,34 +783,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "金价又创历史新高",
-          "url": "https://www.douyin.com/hot/2346801",
-          "source": "抖音",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时27分"
-        },
-        {
-          "title": "金价狂飙 千元内几乎买不到金饰",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E7%8B%82%E9%A3%99+%E5%8D%83%E5%85%83%E5%86%85%E5%87%A0%E4%B9%8E%E4%B9%B0%E4%B8%8D%E5%88%B0%E9%87%91%E9%A5%B0",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时27分"
         }
       ]
     },
