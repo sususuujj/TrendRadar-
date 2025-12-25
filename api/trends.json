@@ -1,12 +1,36 @@
 {
-  "generated_at": "2025-12-25T07:19:18.249839+08:00",
-  "total_titles_processed": 576,
+  "generated_at": "2025-12-25T09:27:53.672599+08:00",
+  "total_titles_processed": 736,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "美股收盘：三大指数连涨五日 道指、标普双双收新高",
+          "url": "https://www.cls.cn/detail/2239383",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时19分 ~ 09时27分]"
+        },
+        {
+          "title": "平安夜美股债汇涨，标普新高，黄金失守4500，人民币三连涨，加密货币疲软",
+          "url": "https://wallstreetcn.com/articles/3761989",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
         {
           "title": "美股行业ETF普遍收涨",
           "url": "https://wallstreetcn.com/livenews/3026322",
@@ -72,18 +96,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时20分 ~ 07时19分]"
-        },
-        {
-          "title": "美股收盘：三大指数连涨五日 道指、标普双双收新高",
-          "url": "https://www.cls.cn/detail/2239383",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时19分 ~ 07时19分]"
         },
         {
           "title": "美股七巨头收盘播报｜苹果收涨超0.5%，英伟达跌超0.3%",
@@ -162,23 +174,24 @@
           "time_info": "[00时24分 ~ 07时19分]"
         },
         {
-          "title": "特朗普要建“特朗普级”战列舰，称战力爆棚，专家打出多个问号",
-          "url": "https://news.ifeng.com/c/8pLfVGV6nLv",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时24分 ~ 07时19分]"
-        },
-        {
           "title": "特朗普要“确保太空优势”，美国“太空股”会成为下一个“量子科技”吗？",
           "url": "https://wallstreetcn.com/articles/3761983",
           "source": "华尔街见闻",
           "ranks": [
             9,
             8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时24分 ~ 09时27分]"
+        },
+        {
+          "title": "特朗普要建“特朗普级”战列舰，称战力爆棚，专家打出多个问号",
+          "url": "https://news.ifeng.com/c/8pLfVGV6nLv",
+          "source": "凤凰网",
+          "ranks": [
             7
           ],
           "is_new": false,
@@ -415,8 +428,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时24分 ~ 07时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时24分 ~ 09时27分]"
         },
         {
           "title": "汽车角度分析COD之父车祸",
@@ -484,8 +497,82 @@
       ]
     },
     {
+      "keyword_group": "无人机",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "俄乌大量光纤无人机参战密如蛛网",
+          "url": "https://www.toutiao.com/trending/7586559532818759743/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
+          "title": "乌克兰军队今年接收300万架FPV无人机",
+          "url": "https://flash.jin10.com/detail/20251225053932351800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时20分 ~ 07时19分]"
+        },
+        {
+          "title": "乌克兰军队今年接收300万架FPV无人机",
+          "url": "https://wallstreetcn.com/livenews/3026349",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时20分 ~ 07时19分]"
+        },
+        {
+          "title": "乌军今年接收300万架FPV无人机",
+          "url": "https://www.toutiao.com/trending/7586866709907308585/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
+          "title": "俄乌大量光纤无人机参战密如蛛网",
+          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E4%B9%8C%E5%A4%A7%E9%87%8F%E5%85%89%E7%BA%A4%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%8F%82%E6%88%98%E5%AF%86%E5%A6%82%E8%9B%9B%E7%BD%91",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
+          "title": "乌无人机绑钓鱼竿击落6架俄无人机",
+          "url": "https://www.toutiao.com/trending/7586540761311658047/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        }
+      ]
+    },
+    {
       "keyword_group": "伊朗",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "伊朗在波斯湾查获一艘走私燃料的船只",
@@ -510,6 +597,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时24分 ~ 05时18分]"
+        },
+        {
+          "title": "以色列防长称正密切关注伊朗局势",
+          "url": "https://wallstreetcn.com/livenews/3026401",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
         },
         {
           "title": "伊朗在波斯湾查获一艘走私燃料的船只",
@@ -578,43 +676,30 @@
       ]
     },
     {
-      "keyword_group": "无人机",
-      "match_count": 3,
+      "keyword_group": "金价",
+      "match_count": 2,
       "titles": [
         {
-          "title": "乌克兰军队今年接收300万架FPV无人机",
-          "url": "https://flash.jin10.com/detail/20251225053932351800",
-          "source": "金十数据",
+          "title": "金价又创历史新高",
+          "url": "https://www.douyin.com/hot/2346801",
+          "source": "抖音",
           "ranks": [
-            6,
-            11
+            15
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时20分 ~ 07时19分]"
-        },
-        {
-          "title": "乌克兰军队今年接收300万架FPV无人机",
-          "url": "https://wallstreetcn.com/livenews/3026349",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时20分 ~ 07时19分]"
-        },
-        {
-          "title": "乌无人机绑钓鱼竿击落6架俄无人机",
-          "url": "https://www.toutiao.com/trending/7586540761311658047/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时21分"
+          "time_info": "09时27分"
+        },
+        {
+          "title": "金价狂飙 千元内几乎买不到金饰",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E7%8B%82%E9%A3%99+%E5%8D%83%E5%85%83%E5%86%85%E5%87%A0%E4%B9%8E%E4%B9%B0%E4%B8%8D%E5%88%B0%E9%87%91%E9%A5%B0",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
         }
       ]
     },
@@ -660,7 +745,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
         }
