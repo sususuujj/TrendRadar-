@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-25T13:23:48.046927+08:00",
-  "total_titles_processed": 1074,
+  "generated_at": "2025-12-25T14:31:54.017152+08:00",
+  "total_titles_processed": 1166,
   "failed_sources": [],
   "trends": [
     {
@@ -186,6 +186,17 @@
       "match_count": 13,
       "titles": [
         {
+          "title": "平安夜美股债汇涨，标普新高，黄金失守4500，人民币三连涨，加密货币疲软",
+          "url": "https://wallstreetcn.com/articles/3761989",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时27分 ~ 14时31分]"
+        },
+        {
           "title": "美股收盘：三大指数连涨五日 道指、标普双双收新高",
           "url": "https://www.cls.cn/detail/2239383",
           "source": "财联社热门",
@@ -198,17 +209,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[06时19分 ~ 12时37分]"
-        },
-        {
-          "title": "平安夜美股债汇涨，标普新高，黄金失守4500，人民币三连涨，加密货币疲软",
-          "url": "https://wallstreetcn.com/articles/3761989",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时27分 ~ 13时23分]"
         },
         {
           "title": "美股行业ETF普遍收涨",
@@ -302,6 +302,17 @@
           "time_info": "[05时18分 ~ 06时20分]"
         },
         {
+          "title": "英特尔美股盘前大跌5%，报道：英伟达暂缓推进测试英特尔18A工艺",
+          "url": "https://wallstreetcn.com/articles/3762016",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时26分 ~ 14时31分]"
+        },
+        {
           "title": "中概股金山云美股盘初跌1.3%，世纪互联、名创优品、万国数据、阿里巴巴跌0.81%-0.64%，小鹏跌0.58%，百度跌0.19%。 携程则涨0.61%，小马智行涨0.63%，阿特斯太阳能反弹2.59%，再鼎医药涨6.58%。",
           "url": "https://wallstreetcn.com/livenews/3026260",
           "source": "华尔街见闻-快讯",
@@ -312,17 +323,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时24分 ~ 01时17分]"
-        },
-        {
-          "title": "英特尔美股盘前大跌5%，报道：英伟达暂缓推进测试英特尔18A工艺",
-          "url": "https://wallstreetcn.com/articles/3762016",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时26分"
         },
         {
           "title": "行业ETF美股盘初涨跌各异，全球航空业ETF跌0.45%，能源业ETF跌0.39%，银行业ETF跌0.24%，网络股指数ETF跌0.12%，半导体ETF则涨0.08%，科技行业ETF涨0.09%。",
@@ -349,147 +349,8 @@
       ]
     },
     {
-      "keyword_group": "汽车",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "河南许昌汽车站倒闭系谣言",
-          "url": "https://www.toutiao.com/trending/7586977710678622214/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时24分 ~ 11时26分]"
-        },
-        {
-          "title": "汽车角度分析COD之父车祸",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B1%BD%E8%BD%A6%E8%A7%92%E5%BA%A6%E5%88%86%E6%9E%90COD%E4%B9%8B%E7%88%B6%E8%BD%A6%E7%A5%B8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            6,
-            29,
-            2,
-            13,
-            18,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时17分 ~ 13时23分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数初步大致收平。 热门中概股里，再鼎医药初步收涨约6.2%，阿特斯太阳能涨2.1%，汽车之家涨1.3%。",
-          "url": "https://wallstreetcn.com/livenews/3026308",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时29分"
-        },
-        {
-          "title": "金十图示：2025年12月25日（周四）全球汽车制造商市值变化",
-          "url": "https://flash.jin10.com/detail/20251225110755695800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时26分"
-        },
-        {
-          "title": "丰田：11月份全球汽车产量同比下降5.5%，至821,723辆。",
-          "url": "https://wallstreetcn.com/livenews/3026529",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时37分 ~ 13时23分]"
-        },
-        {
-          "title": "周三（12月24日），彭博电动汽车价格回报指数涨0.65%，报3485.54点。",
-          "url": "https://wallstreetcn.com/livenews/3026310",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            16,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时16分 ~ 05时18分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌0.07%，报7633.83点。 热门中概股里，再鼎医药初步收涨约6.2%，阿特斯太阳能涨2.1%，汽车之家涨1.3%。 ETF中，中概互联网指数ETF（KWEB）收跌0.20%，中国科技指数ETF（CQQQ）收涨0.66%。 德银嘉实沪深300指数ETF（ASHR）收涨0.31%，XtrackersHarvest中证50（ASHS）收涨0.98%。",
-          "url": "https://wallstreetcn.com/livenews/3026308",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            17,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时16分 ~ 05时18分]"
-        },
-        {
-          "title": "亚马逊旗下自动驾驶汽车公司Zoox因软件问题召回332辆车",
-          "url": "https://wallstreetcn.com/livenews/3026274",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时17分]"
-        },
-        {
-          "title": "丰田：11月份丰田集团海外汽车产量同比下降3.4%，至563,546辆。",
-          "url": "https://flash.jin10.com/detail/20251225123115229800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时23分"
-        },
-        {
-          "title": "丰田：11月份日本本土汽车产量（仅限丰田品牌）同比下降9.7%，至258,177辆。",
-          "url": "https://flash.jin10.com/detail/20251225123104033800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时23分"
-        },
-        {
-          "title": "丰田：11月份丰田集团全球汽车产量同比下降5.5%，至821,723辆。",
-          "url": "https://flash.jin10.com/detail/20251225123037096800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时23分"
-        }
-      ]
-    },
-    {
       "keyword_group": "俄罗斯",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "俄罗斯统计局：俄罗斯截至12月22日一周的消费者通胀率为0.20%，前一周为0.05%。",
@@ -601,6 +462,28 @@
           "time_info": "11时26分"
         },
         {
+          "title": "俄罗斯国防部：空系统在夜间拦截并摧毁了在俄罗斯多个地区上空飞行的141架乌克兰无人机。",
+          "url": "https://flash.jin10.com/detail/20251225131136307800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时31分"
+        },
+        {
+          "title": "俄罗斯国防部称，俄罗斯图-95MS战略轰炸机在巴伦支海和挪威海的国际水域执行了计划中的飞行任务，并在部分区域受到外国战斗机的伴飞。",
+          "url": "https://flash.jin10.com/detail/20251225131055904800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时31分"
+        },
+        {
           "title": "俄罗斯统计局：俄罗斯企业1月至10月利润同比下降9.9%，至21.6万亿卢布。",
           "url": "https://flash.jin10.com/detail/20251225000131058800",
           "source": "金十数据",
@@ -614,6 +497,146 @@
       ]
     },
     {
+      "keyword_group": "汽车",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "河南许昌汽车站倒闭系谣言",
+          "url": "https://www.toutiao.com/trending/7586977710678622214/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时24分 ~ 11时26分]"
+        },
+        {
+          "title": "汽车角度分析COD之父车祸",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B1%BD%E8%BD%A6%E8%A7%92%E5%BA%A6%E5%88%86%E6%9E%90COD%E4%B9%8B%E7%88%B6%E8%BD%A6%E7%A5%B8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            6,
+            29,
+            2,
+            13,
+            18,
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时17分 ~ 14时31分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数初步大致收平。 热门中概股里，再鼎医药初步收涨约6.2%，阿特斯太阳能涨2.1%，汽车之家涨1.3%。",
+          "url": "https://wallstreetcn.com/livenews/3026308",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时29分"
+        },
+        {
+          "title": "金十图示：2025年12月25日（周四）全球汽车制造商市值变化",
+          "url": "https://flash.jin10.com/detail/20251225110755695800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时26分"
+        },
+        {
+          "title": "丰田：11月份全球汽车产量同比下降5.5%，至821,723辆。",
+          "url": "https://wallstreetcn.com/livenews/3026529",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时37分 ~ 13时23分]"
+        },
+        {
+          "title": "周三（12月24日），彭博电动汽车价格回报指数涨0.65%，报3485.54点。",
+          "url": "https://wallstreetcn.com/livenews/3026310",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            16,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时16分 ~ 05时18分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌0.07%，报7633.83点。 热门中概股里，再鼎医药初步收涨约6.2%，阿特斯太阳能涨2.1%，汽车之家涨1.3%。 ETF中，中概互联网指数ETF（KWEB）收跌0.20%，中国科技指数ETF（CQQQ）收涨0.66%。 德银嘉实沪深300指数ETF（ASHR）收涨0.31%，XtrackersHarvest中证50（ASHS）收涨0.98%。",
+          "url": "https://wallstreetcn.com/livenews/3026308",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            17,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时16分 ~ 05时18分]"
+        },
+        {
+          "title": "亚马逊旗下自动驾驶汽车公司Zoox因软件问题召回332辆车",
+          "url": "https://wallstreetcn.com/livenews/3026274",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 01时17分]"
+        },
+        {
+          "title": "丰田：11月份丰田集团海外汽车产量同比下降3.4%，至563,546辆。",
+          "url": "https://flash.jin10.com/detail/20251225123115229800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时23分"
+        },
+        {
+          "title": "丰田：11月份日本本土汽车产量（仅限丰田品牌）同比下降9.7%，至258,177辆。",
+          "url": "https://flash.jin10.com/detail/20251225123104033800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时23分"
+        },
+        {
+          "title": "丰田：11月份丰田集团全球汽车产量同比下降5.5%，至821,723辆。",
+          "url": "https://flash.jin10.com/detail/20251225123037096800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时23分"
+        }
+      ]
+    },
+    {
       "keyword_group": "无人机",
       "match_count": 8,
       "titles": [
@@ -623,22 +646,12 @@
           "source": "今日头条",
           "ranks": [
             1,
-            6
+            6,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时27分 ~ 13时23分]"
-        },
-        {
-          "title": "特多称有无人机在该国机场非法拍摄军事设施",
-          "url": "https://wallstreetcn.com/livenews/3026545",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时23分"
+          "appearance_count": 5,
+          "time_info": "[09时27分 ~ 14时31分]"
         },
         {
           "title": "俄乌大量光纤无人机参战密如蛛网",
@@ -653,6 +666,31 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时27分 ~ 13时23分]"
+        },
+        {
+          "title": "特多称有无人机在该国机场非法拍摄军事设施",
+          "url": "https://wallstreetcn.com/livenews/3026545",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时23分 ~ 14时31分]"
+        },
+        {
+          "title": "美国为何着急打压中国无人机",
+          "url": "https://www.toutiao.com/trending/7587609246309551679/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            20,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时37分 ~ 14时31分]"
         },
         {
           "title": "乌克兰军队今年接收300万架FPV无人机",
@@ -689,18 +727,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时20分 ~ 07时19分]"
-        },
-        {
-          "title": "美国为何着急打压中国无人机",
-          "url": "https://www.toutiao.com/trending/7587609246309551679/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时37分 ~ 13时23分]"
         },
         {
           "title": "乌无人机绑钓鱼竿击落6架俄无人机",
