@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-26T04:21:54.956484+08:00",
-  "total_titles_processed": 420,
+  "generated_at": "2025-12-26T05:18:51.130728+08:00",
+  "total_titles_processed": 440,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "俄罗斯",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "俄罗斯：俄方正在分析最新版“和平计划”草案",
@@ -15,11 +15,12 @@
             6,
             8,
             15,
-            17
+            17,
+            25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 04时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 05时18分]"
         },
         {
           "title": "俄罗斯国家原子能公司负责人阿列克谢·利哈切夫：未来作为国际合作的一部分，采矿场和数据处理中心可能设在扎波罗热核电站附近。",
@@ -29,11 +30,38 @@
             2,
             13,
             18,
-            21
+            21,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 04时21分]"
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 05时18分]"
+        },
+        {
+          "title": "乌克兰袭击俄罗斯罗斯托夫州的新沙赫京斯基炼油厂",
+          "url": "https://wallstreetcn.com/livenews/3026826",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时18分"
+        },
+        {
+          "title": "俄罗斯邮政暂停向拉脱维亚、立陶宛、斯洛文尼亚、克罗地亚和爱沙尼亚提供地面配送服务。",
+          "url": "https://flash.jin10.com/detail/20251226003231658800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            17,
+            22,
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 05时18分]"
         },
         {
           "title": "俄罗斯发射“联盟-2.1a”运载火箭",
@@ -63,18 +91,18 @@
           "time_info": "[00时24分 ~ 02时28分]"
         },
         {
-          "title": "俄罗斯邮政暂停向拉脱维亚、立陶宛、斯洛文尼亚、克罗地亚和爱沙尼亚提供地面配送服务。",
-          "url": "https://flash.jin10.com/detail/20251226003231658800",
+          "title": "俄罗斯天然气工业股份公司：2025年，俄罗斯天然气工业股份公司通过“西伯利亚力量”向中国输送了388亿立方米天然气。",
+          "url": "https://flash.jin10.com/detail/20251226013434248800",
           "source": "金十数据",
           "ranks": [
             6,
-            17,
-            22,
-            25
+            11,
+            14,
+            19
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[01时18分 ~ 04时21分]"
+          "time_info": "[02时28分 ~ 05时18分]"
         },
         {
           "title": "俄罗斯央行：在连续三个月增长之后，11月非居民对俄联邦债券的投资下降了10.8%至1170亿卢布。",
@@ -91,30 +119,18 @@
           "time_info": "[01时18分 ~ 04时21分]"
         },
         {
-          "title": "俄罗斯天然气工业股份公司：2025年，俄罗斯天然气工业股份公司通过“西伯利亚力量”向中国输送了388亿立方米天然气。",
-          "url": "https://flash.jin10.com/detail/20251226013434248800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            11,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时28分 ~ 04时21分]"
-        },
-        {
           "title": "俄罗斯联邦航空运输署解除对从俄罗斯飞往以色列的夜间航班限制。",
           "url": "https://flash.jin10.com/detail/20251226013120374800",
           "source": "金十数据",
           "ranks": [
             8,
             13,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时28分 ~ 04时21分]"
+          "appearance_count": 4,
+          "time_info": "[02时28分 ~ 05时18分]"
         },
         {
           "title": "俄罗斯央行：将12月26日官方卢布汇率定为每美元77.8844卢布（此前为78.4368）。",
@@ -176,8 +192,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 04时21分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 05时18分]"
         },
         {
           "title": "特朗普政府的移民局：要求阿富汗移民在圣诞节及元旦报到",
@@ -185,11 +201,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            5
+            5,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时28分 ~ 04时21分]"
+          "appearance_count": 4,
+          "time_info": "[02时28分 ~ 05时18分]"
         },
         {
           "title": "特朗普政府节假日严查阿富汗移民 要求于圣诞节与元旦报到",
@@ -197,11 +214,26 @@
           "source": "金十数据",
           "ranks": [
             2,
-            5
+            5,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时16分 ~ 04时21分]"
+          "appearance_count": 3,
+          "time_info": "[03时16分 ~ 05时18分]"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：与美国特使威特科夫和特朗普高级顾问库什纳通话约一小时。",
+          "url": "https://flash.jin10.com/detail/20251226013420505800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            12,
+            15,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时28分 ~ 05时18分]"
         },
         {
           "title": "乌克兰总统泽连斯基：今天与美国特使威特科夫、特朗普高级顾问库什纳进行了通话。",
@@ -216,19 +248,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时18分 ~ 04时21分]"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：与美国特使威特科夫和特朗普高级顾问库什纳通话约一小时。",
-          "url": "https://flash.jin10.com/detail/20251226013420505800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            12,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时28分 ~ 04时21分]"
         }
       ]
     },
@@ -241,11 +260,12 @@
           "url": "https://wallstreetcn.com/livenews/3026820",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时16分 ~ 04时21分]"
+          "appearance_count": 3,
+          "time_info": "[03时16分 ~ 05时18分]"
         },
         {
           "title": "以军称在黎巴嫩打死一名伊朗“圣城旅”关键武装人员",
@@ -267,11 +287,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            6
+            6,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时16分 ~ 04时21分]"
+          "appearance_count": 3,
+          "time_info": "[03时16分 ~ 05时18分]"
         },
         {
           "title": "以色列国防军：今天早些时候，以色列国防军与辛贝特在黎巴嫩纳萨里耶地区击毙了“圣城旅”第840作战单位的关键分子哈辛·马哈茂德·马尔沙德·阿勒-乔哈利。过去数年，他一直参与推动在叙黎战区针对以色列国的恐怖行动。哈辛在伊朗革命卫队服役，参与了伊朗指挥的针对以色列国和安全部队的恐怖活动。",
@@ -297,11 +318,12 @@
           "ranks": [
             12,
             11,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 04时21分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 05时18分]"
         },
         {
           "title": "加拿大皇家银行BlueBay资管公司首席投资官马克·道丁：新任美联储主席不会简单迎合特朗普，金价或难重现2025年强劲涨幅。（每经网）",
@@ -363,8 +385,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 04时21分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 05时18分]"
         }
       ]
     },
@@ -380,8 +402,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 04时21分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 05时18分]"
         }
       ]
     },
@@ -398,8 +420,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 04时21分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 05时18分]"
         }
       ]
     },
@@ -414,11 +436,12 @@
           "ranks": [
             2,
             7,
-            10
+            10,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时28分 ~ 04时21分]"
+          "appearance_count": 4,
+          "time_info": "[02时28分 ~ 05时18分]"
         }
       ]
     }
