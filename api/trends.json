@@ -1,23 +1,12 @@
 {
-  "generated_at": "2025-12-25T18:21:53.797279+08:00",
-  "total_titles_processed": 1519,
+  "generated_at": "2025-12-25T19:17:58.405973+08:00",
+  "total_titles_processed": 1585,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "俄罗斯",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
-        {
-          "title": "据报道，俄罗斯外交部发言人扎哈罗娃驳斥了有关俄罗斯有意修改对乌计划的报道。",
-          "url": "https://flash.jin10.com/detail/20251225174902381800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时21分"
-        },
         {
           "title": "俄罗斯副总理诺瓦克：预计2025年俄罗斯石油产量将与2024年持平，约为5.16亿吨。",
           "url": "https://flash.jin10.com/detail/20251225164322551800",
@@ -28,17 +17,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
-        },
-        {
-          "title": "乌克兰安全局官员：乌克兰远程无人机袭击了俄罗斯奥伦堡的一座天然气处理厂。",
-          "url": "https://flash.jin10.com/detail/20251225173912186800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时21分"
         },
         {
           "title": "民调：超半数俄罗斯民众认为俄乌冲突或明年结束",
@@ -52,15 +30,15 @@
           "time_info": "17时22分"
         },
         {
-          "title": "乌克兰安全局官员：乌克兰远程无人机袭击了俄罗斯捷姆留克港的油品储罐。",
-          "url": "https://flash.jin10.com/detail/20251225173549922800",
+          "title": "俄罗斯否认美媒有关寻求修改美国和平提案的报道",
+          "url": "https://flash.jin10.com/detail/20251225183750489800",
           "source": "金十数据",
           "ranks": [
-            4
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时21分"
+          "time_info": "19时17分"
         },
         {
           "title": "俄罗斯统计局：俄罗斯截至12月22日一周的消费者通胀率为0.20%，前一周为0.05%。",
@@ -125,6 +103,18 @@
           "time_info": "[17时22分 ~ 18时21分]"
         },
         {
+          "title": "据报道，俄罗斯外交部发言人扎哈罗娃驳斥了有关俄罗斯有意修改对乌计划的报道。",
+          "url": "https://flash.jin10.com/detail/20251225174902381800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时21分 ~ 19时17分]"
+        },
+        {
           "title": "俄罗斯统计局：由于天气温和，俄罗斯11月天然气产量下降3%至598亿立方米。",
           "url": "https://flash.jin10.com/detail/20251225004710154800",
           "source": "金十数据",
@@ -150,16 +140,41 @@
           "time_info": "[00时24分 ~ 01时17分]"
         },
         {
+          "title": "乌克兰安全局官员：乌克兰远程无人机袭击了俄罗斯奥伦堡的一座天然气处理厂。",
+          "url": "https://flash.jin10.com/detail/20251225173912186800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时21分 ~ 19时17分]"
+        },
+        {
+          "title": "乌克兰安全局官员：乌克兰远程无人机袭击了俄罗斯捷姆留克港的油品储罐。",
+          "url": "https://flash.jin10.com/detail/20251225173549922800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时21分 ~ 19时17分]"
+        },
+        {
           "title": "俄副总理诺瓦克：俄罗斯2026年石油产量将增长约2%。 俄罗斯推迟实现年产1亿吨液化天然气（LNG）目标的计划。",
           "url": "https://wallstreetcn.com/livenews/3026671",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11,
-            18
+            18,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时22分 ~ 18时21分]"
+          "appearance_count": 3,
+          "time_info": "[17时22分 ~ 19时17分]"
         },
         {
           "title": "俄官方民调：大多数俄罗斯人预计乌克兰冲突2026年结束",
@@ -174,13 +189,24 @@
           "time_info": "[01时17分 ~ 02时29分]"
         },
         {
+          "title": "克里姆林宫：俄罗斯已就遭监禁的法国研究员Vinatier向法国提出一项提议。现在球在法国一边。",
+          "url": "https://flash.jin10.com/detail/20251225183602267800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
+        },
+        {
           "title": "俄罗斯国防部：俄军已夺取乌克兰顿涅茨克地区的斯维亚托-波克罗夫斯克。",
           "url": "https://flash.jin10.com/detail/20251225170406627800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         },
@@ -202,7 +228,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         },
@@ -213,7 +239,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         },
@@ -390,8 +416,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时22分 ~ 18时21分]"
+          "appearance_count": 3,
+          "time_info": "[17时22分 ~ 19时17分]"
         },
         {
           "title": "肯尼迪中心冠特朗普名后，年度音乐会取消",
@@ -402,8 +428,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时22分 ~ 18时21分]"
+          "appearance_count": 3,
+          "time_info": "[17时22分 ~ 19时17分]"
         },
         {
           "title": "特朗普回应克林顿大尺度照被公布",
@@ -426,7 +452,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         },
@@ -440,17 +466,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-25）",
-          "url": "https://flash.jin10.com/detail/20251225173408748800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时21分"
         },
         {
           "title": "特朗普为何强调新战列舰不针对中国",
@@ -530,6 +545,18 @@
           "time_info": "[12时37分 ~ 13时23分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-25）",
+          "url": "https://flash.jin10.com/detail/20251225173408748800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时21分 ~ 19时17分]"
+        },
+        {
           "title": "特朗普发表圣诞祝福 不忘自夸政绩",
           "url": "https://flash.jin10.com/detail/20251225103018828800",
           "source": "金十数据",
@@ -577,8 +604,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时27分 ~ 18时21分]"
+          "appearance_count": 10,
+          "time_info": "[09时27分 ~ 19时17分]"
         },
         {
           "title": "美股收盘：三大指数连涨五日 道指、标普双双收新高",
@@ -601,11 +628,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时26分 ~ 18时21分]"
+          "appearance_count": 7,
+          "time_info": "[11时26分 ~ 19时17分]"
         },
         {
           "title": "美股行业ETF普遍收涨",
@@ -802,6 +830,19 @@
           "time_info": "[12时37分 ~ 13时23分]"
         },
         {
+          "title": "智己汽车发布内部信，12月首次实现全成本口径盈利",
+          "url": "https://wallstreetcn.com/livenews/3026675",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            14,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时22分 ~ 19时17分]"
+        },
+        {
           "title": "周三（12月24日），彭博电动汽车价格回报指数涨0.65%，报3485.54点。",
           "url": "https://wallstreetcn.com/livenews/3026310",
           "source": "华尔街见闻-快讯",
@@ -826,18 +867,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时16分 ~ 05时18分]"
-        },
-        {
-          "title": "智己汽车发布内部信，12月首次实现全成本口径盈利",
-          "url": "https://wallstreetcn.com/livenews/3026675",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时22分 ~ 18时21分]"
         },
         {
           "title": "亚马逊旗下自动驾驶汽车公司Zoox因软件问题召回332辆车",
@@ -888,7 +917,7 @@
     },
     {
       "keyword_group": "无人机",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "俄乌大量光纤无人机参战密如蛛网",
@@ -980,6 +1009,17 @@
           "time_info": "[06时20分 ~ 07时19分]"
         },
         {
+          "title": "据报道，乌克兰基辅因无人机袭击威胁已发布空中警报。",
+          "url": "https://flash.jin10.com/detail/20251225181501350800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
+        },
+        {
           "title": "乌无人机绑钓鱼竿击落6架俄无人机",
           "url": "https://www.toutiao.com/trending/7586540761311658047/",
           "source": "今日头条",
@@ -1005,7 +1045,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "金十图示：2025年12月25日（周四）上海金午盘价为1002.83元/克，较国际金价(1008.17元/克)，低5.34元/克",
@@ -1045,6 +1085,17 @@
           "time_info": "[11时26分 ~ 13时23分]"
         },
         {
+          "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
+          "url": "https://www.zhihu.com/question/1987171318681068732",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
+        },
+        {
           "title": "金价又创历史新高",
           "url": "https://www.douyin.com/hot/2346801",
           "source": "抖音",
@@ -1070,7 +1121,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "伊朗在波斯湾查获一艘走私燃料的船只",
@@ -1095,6 +1146,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时24分 ~ 05时18分]"
+        },
+        {
+          "title": "以色列公民被控为伊朗间谍 曾侦察前总理住所",
+          "url": "https://flash.jin10.com/detail/20251225181314638800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
         },
         {
           "title": "以色列防长称正密切关注伊朗局势",
