@@ -1,34 +1,12 @@
 {
-  "generated_at": "2025-12-27T00:23:18.135149+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-27T01:17:32.506518+08:00",
+  "total_titles_processed": 369,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "俄罗斯",
-      "match_count": 8,
+      "match_count": 13,
       "titles": [
-        {
-          "title": "俄罗斯统计局：俄罗斯10月实际工资同比上涨6.1%，高于前月的4.7%。",
-          "url": "https://flash.jin10.com/detail/20251227000242305800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "俄罗斯统计局：俄罗斯11月失业率为2.1%，低于上月的2.2%。",
-          "url": "https://flash.jin10.com/detail/20251227000231795800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
         {
           "title": "Ryabkov：俄罗斯与美国接近就乌克兰问题达成协议。（塔斯社）",
           "url": "https://wallstreetcn.com/livenews/3027414",
@@ -36,53 +14,136 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
+        },
+        {
+          "title": "俄罗斯统计局：俄罗斯10月实际工资同比上涨6.1%，高于前月的4.7%。",
+          "url": "https://flash.jin10.com/detail/20251227000242305800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时17分]"
+        },
+        {
+          "title": "俄罗斯统计局：俄罗斯11月失业率为2.1%，低于上月的2.2%。",
+          "url": "https://flash.jin10.com/detail/20251227000231795800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时17分]"
         },
         {
           "title": "俄罗斯经济部：俄罗斯1月至11月GDP同比增长1%，与1月至10月的同比增幅持平。",
           "url": "https://flash.jin10.com/detail/20251227000157605800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时17分]"
         },
         {
           "title": "俄罗斯经济部：俄罗斯11月GDP同比上涨0.1%，10月为同比上涨1.6%。",
           "url": "https://flash.jin10.com/detail/20251227000149892800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时17分]"
         },
         {
           "title": "俄罗斯11月零售销售同比增长3.3%，预期增长3.9%。 11月货物发送量同比下降3.0%。 11月失业率2.1%，预期2.2%。 10月薪资同比增长6.1%，预期增长4.2%。",
           "url": "https://wallstreetcn.com/livenews/3027411",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时17分]"
         },
         {
           "title": "白俄罗斯国防部：已接收新一批俄苏-30SM2战斗机",
           "url": "https://wallstreetcn.com/livenews/3027397",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            18,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时17分]"
+        },
+        {
+          "title": "俄罗斯副外长里亚布科夫：俄罗斯和美国即将就乌克兰问题达成协议。",
+          "url": "https://flash.jin10.com/detail/20251227002239368800",
+          "source": "金十数据",
+          "ranks": [
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时23分"
+          "time_info": "01时17分"
+        },
+        {
+          "title": "俄罗斯副外长里亚布科夫：如果没有安克雷奇共识作为基础，任何协议都无从谈起。",
+          "url": "https://flash.jin10.com/detail/20251227002206383800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时17分"
+        },
+        {
+          "title": "俄罗斯副外长里亚布科夫：当前为和平协议设定任何最后期限都是不恰当的。",
+          "url": "https://flash.jin10.com/detail/20251227001946015800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时17分"
+        },
+        {
+          "title": "据塔斯社：俄罗斯副外长里亚布科夫表示，基辅的计划与俄罗斯讨论的不同。",
+          "url": "https://flash.jin10.com/detail/20251227001828416800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时17分"
+        },
+        {
+          "title": "俄罗斯统计局：俄罗斯11月零售销售额同比增长3.3%，低于前月的4.8%。",
+          "url": "https://flash.jin10.com/detail/20251227000302540800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时17分"
         },
         {
           "title": "白俄罗斯国防部26日发布消息称，新一批俄罗斯苏-30SM2战斗机已抵达白俄罗斯某机场，将列装部队。消息称，未来白俄罗斯还将接收新的技术装备。",
@@ -91,7 +152,91 @@
           "ranks": [
             20
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "特朗普圣诞夜动手！美国空袭尼日利亚，目标直指石油和稀土？",
+          "url": "https://wallstreetcn.com/articles/3762107",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 01时17分]"
+        },
+        {
+          "title": "美媒：泽连斯基“准备”就特朗普停火计划举行公投",
+          "url": "https://flash.jin10.com/detail/20251227010749216800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时17分"
+        },
+        {
+          "title": "据AXIOS网站：乌克兰总统泽连斯基“准备”就美国总统特朗普的停火计划举行公投。",
+          "url": "https://flash.jin10.com/detail/20251227010459037800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时17分"
+        },
+        {
+          "title": "美媒自问自答：特朗普“黄金舰队”能匹敌中国吗？难",
+          "url": "https://news.ifeng.com/c/8pOsqY3DwLX",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 01时17分]"
+        },
+        {
+          "title": "乌总统：乌美安全保障协议接近完成，签署取决于与特朗普会晤",
+          "url": "https://wallstreetcn.com/livenews/3027395",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时17分]"
+        },
+        {
+          "title": "俄罗斯副外长Ryabkov：在（俄罗斯总统普京与美国总统特朗普）达成的Ankorage Agreements（安克雷奇协议）之外，不可能达成其他协议。（塔斯社）",
+          "url": "https://wallstreetcn.com/livenews/3027414",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时17分"
+        },
+        {
+          "title": "乌总统：乌美安全保障协议接近完成 签署取决于与特朗普会晤",
+          "url": "https://flash.jin10.com/detail/20251226230113914800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
         }
@@ -106,11 +251,12 @@
           "url": "https://wallstreetcn.com/articles/3762133",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 00时23分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 01时17分]"
         },
         {
           "title": "美股三大期指涨跌不一 市场静待“圣诞老人行情” | 今夜看点",
@@ -120,30 +266,32 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 00时23分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 01时17分]"
         },
         {
           "title": "标普500续创新高 “圣诞老人行情”预期支撑美股",
           "url": "https://flash.jin10.com/detail/20251226234452132800",
           "source": "金十数据",
           "ranks": [
-            10
+            10,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时17分]"
         },
         {
           "title": "纽约银日内涨幅达6.0%，报76美元/盎司。现货白银日内涨幅达5.5%，报75.85美元/盎司。 现货铂金涨10%，报2452.95美元，创历史新高，美股开盘后短暂回落至2380美元下方、随后加速上涨。 现货黄金涨1.28%，报4537.07美元。纽约金日内涨幅达1.5%，报4570.4美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3027401",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            15,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时17分]"
         },
         {
           "title": "韩国电商Coupang美股盘初涨11%，创5月7日以来最佳盘中表现。",
@@ -152,7 +300,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
         },
@@ -163,57 +311,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "特朗普圣诞夜动手！美国空袭尼日利亚，目标直指石油和稀土？",
-          "url": "https://wallstreetcn.com/articles/3762107",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 00时23分]"
-        },
-        {
-          "title": "美媒自问自答：特朗普“黄金舰队”能匹敌中国吗？难",
-          "url": "https://news.ifeng.com/c/8pOsqY3DwLX",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 00时23分]"
-        },
-        {
-          "title": "乌总统：乌美安全保障协议接近完成，签署取决于与特朗普会晤",
-          "url": "https://wallstreetcn.com/livenews/3027395",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "乌总统：乌美安全保障协议接近完成 签署取决于与特朗普会晤",
-          "url": "https://flash.jin10.com/detail/20251226230113914800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "00时23分"
         }
@@ -231,19 +329,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 00时23分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 01时17分]"
         },
         {
           "title": "全球销量前十电动汽车8款来自中国",
           "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E9%94%80%E9%87%8F%E5%89%8D%E5%8D%81%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A68%E6%AC%BE%E6%9D%A5%E8%87%AA%E4%B8%AD%E5%9B%BD",
           "source": "百度热搜",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 00时23分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 01时17分]"
         },
         {
           "title": "汽车坠河一家5口遇难，知情人：车主能吃苦，前几年才在广州买房",
@@ -253,8 +352,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 00时23分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 01时17分]"
         },
         {
           "title": "小鹏汽车(XPEV.N)涨超8%。",
@@ -263,7 +362,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
         }
@@ -278,11 +377,12 @@
           "url": "https://wallstreetcn.com/articles/3762105",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 00时23分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 01时17分]"
         }
       ]
     },
@@ -298,8 +398,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 00时23分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 01时17分]"
         }
       ]
     }
