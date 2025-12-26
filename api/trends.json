@@ -1,176 +1,11 @@
 {
-  "generated_at": "2025-12-26T13:21:47.648471+08:00",
-  "total_titles_processed": 959,
+  "generated_at": "2025-12-26T14:32:02.161539+08:00",
+  "total_titles_processed": 1053,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "肯尼迪中心冠特朗普名后，年度音乐会取消",
-          "url": "https://v.ifeng.com/c/8pNDMX3vTpu",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时24分 ~ 07时20分]"
-        },
-        {
-          "title": "特朗普圣诞夜动手！美国空袭尼日利亚，目标直指石油和稀土？",
-          "url": "https://wallstreetcn.com/articles/3762107",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时24分 ~ 13时21分]"
-        },
-        {
-          "title": "特朗普政府的移民局：要求阿富汗移民在圣诞节及元旦报到",
-          "url": "https://wallstreetcn.com/livenews/3026815",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            5,
-            13,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时28分 ~ 06时19分]"
-        },
-        {
-          "title": "特朗普政府节假日严查阿富汗移民 要求于圣诞节与元旦报到",
-          "url": "https://flash.jin10.com/detail/20251226025244857800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            5,
-            10,
-            13,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时16分 ~ 07时20分]"
-        },
-        {
-          "title": "美国总统特朗普：战争部执行了无数次完美打击。",
-          "url": "https://flash.jin10.com/detail/20251226070310001800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        },
-        {
-          "title": "美国总统特朗普：今晚，美国对尼日利亚西北部的ISIS恐怖分子发动了强大而致命的打击。",
-          "url": "https://flash.jin10.com/detail/20251226070308886800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：与美国特使威特科夫和特朗普高级顾问库什纳通话约一小时。",
-          "url": "https://flash.jin10.com/detail/20251226013420505800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            12,
-            15,
-            20,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时28分 ~ 06时19分]"
-        },
-        {
-          "title": "特朗普官宣“黄金舰队”计划：真不是冲着中国，两国关系可好了",
-          "url": "https://news.ifeng.com/c/8pOSTawSWI3",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时24分 ~ 13时21分]"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：今天与美国特使威特科夫、特朗普高级顾问库什纳进行了通话。",
-          "url": "https://flash.jin10.com/detail/20251226001306612800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            21,
-            26,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 04时21分]"
-        },
-        {
-          "title": "美媒：为试图减少对中国供应链依赖，特朗普政府推动补贴电池产业",
-          "url": "https://flash.jin10.com/detail/20251226065412046800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        },
-        {
-          "title": "金银亚盘暴力拉升，现货白银一度上破75美元/盎司；特朗普宣称美军打击尼日利亚ISIS恐怖分子，此前曾警告美国将“火力全开”进入尼日利亚……后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
-          "url": "https://flash.jin10.com/detail/20251226104958577800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时24分"
-        },
-        {
-          "title": "俄外交部：希望特朗普在委内瑞拉局势问题上“务实和理性”",
-          "url": "https://wallstreetcn.com/livenews/3026898",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时28分"
-        },
-        {
-          "title": "专家：特朗普或在2026“压榨”美联储",
-          "url": "https://www.toutiao.com/trending/7587727738132270635/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时28分"
-        }
-      ]
-    },
-    {
       "keyword_group": "俄罗斯",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "俄罗斯国家原子能公司负责人阿列克谢·利哈切夫：未来作为国际合作的一部分，采矿场和数据处理中心可能设在扎波罗热核电站附近。",
@@ -202,6 +37,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时24分 ~ 05时18分]"
+        },
+        {
+          "title": "俄罗斯诺里尔斯克镍业公司负责人Potanin：诺镍预计在2026年实现正现金流以支付股息。",
+          "url": "https://flash.jin10.com/detail/20251226141748869800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时32分"
         },
         {
           "title": "俄罗斯邮政暂停向拉脱维亚、立陶宛、斯洛文尼亚、克罗地亚和爱沙尼亚提供地面配送服务。",
@@ -327,6 +173,17 @@
           "time_info": "[00时24分 ~ 01时18分]"
         },
         {
+          "title": "俄罗斯国防部：夜间至少有77架乌克兰无人机在俄罗斯境内被击落。",
+          "url": "https://flash.jin10.com/detail/20251226132024827800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时32分"
+        },
+        {
           "title": "乌克兰总统泽连斯基：俄罗斯军队今天再次袭击乌克兰东部城市。",
           "url": "https://flash.jin10.com/detail/20251225220829053800",
           "source": "金十数据",
@@ -347,6 +204,276 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 14,
+      "titles": [
+        {
+          "title": "肯尼迪中心冠特朗普名后，年度音乐会取消",
+          "url": "https://v.ifeng.com/c/8pNDMX3vTpu",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时24分 ~ 07时20分]"
+        },
+        {
+          "title": "特朗普圣诞夜动手！美国空袭尼日利亚，目标直指石油和稀土？",
+          "url": "https://wallstreetcn.com/articles/3762107",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时24分 ~ 14时32分]"
+        },
+        {
+          "title": "特朗普政府的移民局：要求阿富汗移民在圣诞节及元旦报到",
+          "url": "https://wallstreetcn.com/livenews/3026815",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            5,
+            13,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时28分 ~ 06时19分]"
+        },
+        {
+          "title": "特朗普政府节假日严查阿富汗移民 要求于圣诞节与元旦报到",
+          "url": "https://flash.jin10.com/detail/20251226025244857800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            5,
+            10,
+            13,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时16分 ~ 07时20分]"
+        },
+        {
+          "title": "特朗普官宣“黄金舰队”计划：真不是冲着中国，两国关系可好了",
+          "url": "https://news.ifeng.com/c/8pOSTawSWI3",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时24分 ~ 14时32分]"
+        },
+        {
+          "title": "美国总统特朗普：战争部执行了无数次完美打击。",
+          "url": "https://flash.jin10.com/detail/20251226070310001800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "美国总统特朗普：今晚，美国对尼日利亚西北部的ISIS恐怖分子发动了强大而致命的打击。",
+          "url": "https://flash.jin10.com/detail/20251226070308886800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：与美国特使威特科夫和特朗普高级顾问库什纳通话约一小时。",
+          "url": "https://flash.jin10.com/detail/20251226013420505800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            12,
+            15,
+            20,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时28分 ~ 06时19分]"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：今天与美国特使威特科夫、特朗普高级顾问库什纳进行了通话。",
+          "url": "https://flash.jin10.com/detail/20251226001306612800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            21,
+            26,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时18分 ~ 04时21分]"
+        },
+        {
+          "title": "美媒：为试图减少对中国供应链依赖，特朗普政府推动补贴电池产业",
+          "url": "https://flash.jin10.com/detail/20251226065412046800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "金银亚盘暴力拉升，现货白银一度上破75美元/盎司；特朗普宣称美军打击尼日利亚ISIS恐怖分子，此前曾警告美国将“火力全开”进入尼日利亚……后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20251226104958577800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时24分"
+        },
+        {
+          "title": "欧盟竞争事务专员Teresa Ribera表示，欧洲必须更加有力地捍卫其监管体系，才能保持全球竞争力。她呼吁抵制美国总统特朗普以及那些在欧盟内进行游说要求改革的人所施加的压力。",
+          "url": "https://flash.jin10.com/detail/20251226130524809800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时32分"
+        },
+        {
+          "title": "俄外交部：希望特朗普在委内瑞拉局势问题上“务实和理性”",
+          "url": "https://wallstreetcn.com/livenews/3026898",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
+          "title": "专家：特朗普或在2026“压榨”美联储",
+          "url": "https://www.toutiao.com/trending/7587727738132270635/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
+          "url": "https://www.zhihu.com/question/1987171318681068732",
+          "source": "知乎",
+          "ranks": [
+            12,
+            11,
+            10,
+            7,
+            8,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时24分 ~ 07时20分]"
+        },
+        {
+          "title": "圣诞节后第一天，金银再创新高，《货币战争》作者“明年金价10000美元，银价200美元见！”",
+          "url": "https://wallstreetcn.com/articles/3762105",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时24分 ~ 14时32分]"
+        },
+        {
+          "title": "加拿大皇家银行BlueBay资管公司首席投资官马克·道丁：新任美联储主席不会简单迎合特朗普，金价或难重现2025年强劲涨幅。（每经网）",
+          "url": "https://wallstreetcn.com/livenews/3026784",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            17,
+            24,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 04时21分]"
+        },
+        {
+          "title": "铂金价格飙升至每盎司2390美元以上，创历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3026999",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            23,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时24分 ~ 13时21分]"
+        },
+        {
+          "title": "金价疯涨一年突破4500美元，银行理财相关产品却在大幅收缩，头部公司二元看涨策略全面退场",
+          "url": "https://www.cls.cn/detail/2240558",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时31分 ~ 14时32分]"
+        },
+        {
+          "title": "铂金价格创纪录新高，因欧盟拟撤销燃油车禁售令",
+          "url": "https://flash.jin10.com/detail/20251226112935984800",
+          "source": "金十数据",
+          "ranks": [
+            18,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时35分 ~ 13时21分]"
+        },
+        {
+          "title": "中信证券：流动性宽松预期下金价有望延续涨势，2026年或冲击5000美元",
+          "url": "https://wallstreetcn.com/livenews/3026903",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时28分"
         }
       ]
     },
@@ -437,89 +564,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
-          "url": "https://www.zhihu.com/question/1987171318681068732",
-          "source": "知乎",
-          "ranks": [
-            12,
-            11,
-            10,
-            7,
-            8,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时24分 ~ 07时20分]"
-        },
-        {
-          "title": "加拿大皇家银行BlueBay资管公司首席投资官马克·道丁：新任美联储主席不会简单迎合特朗普，金价或难重现2025年强劲涨幅。（每经网）",
-          "url": "https://wallstreetcn.com/livenews/3026784",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            17,
-            24,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 04时21分]"
-        },
-        {
-          "title": "圣诞节后第一天，金银再创新高，《货币战争》作者“明年金价10000美元，银价200美元见！”",
-          "url": "https://wallstreetcn.com/articles/3762105",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时24分 ~ 13时21分]"
-        },
-        {
-          "title": "铂金价格飙升至每盎司2390美元以上，创历史新高。",
-          "url": "https://wallstreetcn.com/livenews/3026999",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            23,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时24分 ~ 13时21分]"
-        },
-        {
-          "title": "铂金价格创纪录新高，因欧盟拟撤销燃油车禁售令",
-          "url": "https://flash.jin10.com/detail/20251226112935984800",
-          "source": "金十数据",
-          "ranks": [
-            18,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时35分 ~ 13时21分]"
-        },
-        {
-          "title": "中信证券：流动性宽松预期下金价有望延续涨势，2026年或冲击5000美元",
-          "url": "https://wallstreetcn.com/livenews/3026903",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时28分"
         }
       ]
     },
@@ -627,8 +671,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时24分 ~ 13时21分]"
+          "appearance_count": 18,
+          "time_info": "[00时24分 ~ 14时32分]"
         }
       ]
     },
@@ -646,6 +690,23 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时24分 ~ 07时20分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "战争",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "柬埔寨一士兵「富贵险中求」，在前线直播带货防晒霜，如何看待这一行为？这场战争对他们意味着什么？",
+          "url": "https://www.zhihu.com/question/1987470779722522743",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时31分 ~ 14时32分]"
         }
       ]
     },
