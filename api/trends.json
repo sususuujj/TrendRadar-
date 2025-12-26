@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-27T02:28:54.181468+08:00",
-  "total_titles_processed": 413,
+  "generated_at": "2025-12-27T03:16:32.550216+08:00",
+  "total_titles_processed": 443,
   "failed_sources": [],
   "trends": [
     {
@@ -17,17 +17,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
-        },
-        {
-          "title": "白俄国防部：白俄罗斯接收新一批苏-30SM2战机。",
-          "url": "https://flash.jin10.com/detail/20251227013710925800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时28分"
         },
         {
           "title": "俄罗斯统计局：俄罗斯10月实际工资同比上涨6.1%，高于前月的4.7%。",
@@ -95,16 +84,29 @@
           "time_info": "[00时23分 ~ 02时28分]"
         },
         {
+          "title": "白俄国防部：白俄罗斯接收新一批苏-30SM2战机。",
+          "url": "https://flash.jin10.com/detail/20251227013710925800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时28分 ~ 03时16分]"
+        },
+        {
           "title": "俄罗斯副外长里亚布科夫：俄罗斯和美国即将就乌克兰问题达成协议。",
           "url": "https://flash.jin10.com/detail/20251227002239368800",
           "source": "金十数据",
           "ranks": [
             12,
-            21
+            21,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时17分 ~ 02时28分]"
+          "appearance_count": 3,
+          "time_info": "[01时17分 ~ 03时16分]"
         },
         {
           "title": "俄罗斯副外长里亚布科夫：如果没有安克雷奇共识作为基础，任何协议都无从谈起。",
@@ -112,11 +114,12 @@
           "source": "金十数据",
           "ranks": [
             13,
-            22
+            22,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时17分 ~ 02时28分]"
+          "appearance_count": 3,
+          "time_info": "[01时17分 ~ 03时16分]"
         },
         {
           "title": "俄罗斯副外长里亚布科夫：当前为和平协议设定任何最后期限都是不恰当的。",
@@ -191,8 +194,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 02时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 03时16分]"
         },
         {
           "title": "美媒自问自答：特朗普“黄金舰队”能匹敌中国吗？难",
@@ -202,8 +205,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 02时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 03时16分]"
         },
         {
           "title": "美媒：泽连斯基“准备”就特朗普停火计划举行公投",
@@ -211,11 +214,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            9
+            9,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时17分 ~ 02时28分]"
+          "appearance_count": 3,
+          "time_info": "[01时17分 ~ 03时16分]"
         },
         {
           "title": "据AXIOS网站：乌克兰总统泽连斯基“准备”就美国总统特朗普的停火计划举行公投。",
@@ -223,11 +227,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            10
+            10,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时17分 ~ 02时28分]"
+          "appearance_count": 3,
+          "time_info": "[01时17分 ~ 03时16分]"
         },
         {
           "title": "俄罗斯副外长Ryabkov：在（俄罗斯总统普京与美国总统特朗普）达成的Ankorage Agreements（安克雷奇协议）之外，不可能达成其他协议。（塔斯社）",
@@ -235,11 +240,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             11,
-            19
+            19,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时17分 ~ 02时28分]"
+          "appearance_count": 3,
+          "time_info": "[01时17分 ~ 03时16分]"
         },
         {
           "title": "乌总统：乌美安全保障协议接近完成，签署取决于与特朗普会晤",
@@ -279,8 +285,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 02时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 03时16分]"
         },
         {
           "title": "美股三大期指涨跌不一 市场静待“圣诞老人行情” | 今夜看点",
@@ -290,8 +296,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 02时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 03时16分]"
         },
         {
           "title": "标普500续创新高 “圣诞老人行情”预期支撑美股",
@@ -351,11 +357,12 @@
           "source": "今日头条",
           "ranks": [
             6,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 02时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 03时16分]"
         },
         {
           "title": "全球销量前十电动汽车8款来自中国",
@@ -366,8 +373,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 02时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 03时16分]"
         },
         {
           "title": "汽车坠河一家5口遇难，知情人：车主能吃苦，前几年才在广州买房",
@@ -377,8 +384,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 02时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 03时16分]"
         },
         {
           "title": "小鹏汽车(XPEV.N)涨超8%。",
@@ -406,8 +413,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 02时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 03时16分]"
         }
       ]
     },
@@ -423,8 +430,25 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 02时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 03时16分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "无人机",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "泽连斯基主持最高统帅部会议 聚焦无人机作战全链条部署",
+          "url": "https://flash.jin10.com/detail/20251227030952501800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
         }
       ]
     }
