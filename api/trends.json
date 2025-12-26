@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-26T19:19:10.724766+08:00",
-  "total_titles_processed": 1496,
+  "generated_at": "2025-12-26T20:39:50.069563+08:00",
+  "total_titles_processed": 1609,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "俄罗斯",
-      "match_count": 24,
+      "match_count": 30,
       "titles": [
         {
           "title": "俄罗斯国家原子能公司负责人阿列克谢·利哈切夫：未来作为国际合作的一部分，采矿场和数据处理中心可能设在扎波罗热核电站附近。",
@@ -225,7 +225,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
         },
@@ -241,6 +241,17 @@
           "time_info": "15时21分"
         },
         {
+          "title": "俄罗斯总统新闻秘书佩斯科夫：俄罗斯分析了和平计划的相关信息。",
+          "url": "https://wallstreetcn.com/livenews/3027314",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时39分"
+        },
+        {
           "title": "俄罗斯航天局：“联盟-5”号运载火箭首次发射推迟。",
           "url": "https://flash.jin10.com/detail/20251226154028727800",
           "source": "金十数据",
@@ -250,6 +261,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
+        },
+        {
+          "title": "克里姆林宫表示已就乌克兰和平计划与美国联系，俄罗斯和美国同意继续对话。（IFX）",
+          "url": "https://wallstreetcn.com/livenews/3027313",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时39分"
+        },
+        {
+          "title": "据接近会谈的消息人士称，俄罗斯总统特别代表德米特里耶夫与俄罗斯总统助理乌沙科夫一同参加了与美国的会谈。",
+          "url": "https://flash.jin10.com/detail/20251226193532256800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时39分"
         },
         {
           "title": "俄罗斯国防部：夜间至少有77架乌克兰无人机在俄罗斯境内被击落。",
@@ -283,6 +316,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
+        },
+        {
+          "title": "克里姆林宫：俄罗斯已分析和平计划相关信息。",
+          "url": "https://flash.jin10.com/detail/20251226191746408800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时39分"
+        },
+        {
+          "title": "克里姆林宫：在俄罗斯总统普京与俄罗斯商界领袖会晤期间，讨论了与美国就乌克兰问题进行磋商的部分议题。",
+          "url": "https://flash.jin10.com/detail/20251226191611525800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时39分"
+        },
+        {
+          "title": "克里姆林宫：应俄罗斯总统普京指示，俄罗斯总统助理乌沙科夫与美国政府通话。已与美国达成共识，将继续对话。",
+          "url": "https://flash.jin10.com/detail/20251226191542631800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时39分"
         },
         {
           "title": "乌克兰总统泽连斯基：俄罗斯军队今天再次袭击乌克兰东部城市。",
@@ -333,8 +399,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时24分 ~ 19时19分]"
+          "appearance_count": 14,
+          "time_info": "[11时24分 ~ 20时39分]"
         },
         {
           "title": "特朗普官宣“黄金舰队”计划：真不是冲着中国，两国关系可好了",
@@ -377,6 +443,17 @@
           "time_info": "[03时16分 ~ 07时20分]"
         },
         {
+          "title": "美媒自问自答：特朗普“黄金舰队”能匹敌中国吗？难",
+          "url": "https://news.ifeng.com/c/8pOsqY3DwLX",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时21分 ~ 20时39分]"
+        },
+        {
           "title": "美国总统特朗普：战争部执行了无数次完美打击。",
           "url": "https://flash.jin10.com/detail/20251226070310001800",
           "source": "金十数据",
@@ -397,17 +474,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
-        },
-        {
-          "title": "美媒自问自答：特朗普“黄金舰队”能匹敌中国吗？难",
-          "url": "https://news.ifeng.com/c/8pOsqY3DwLX",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时21分 ~ 19时19分]"
         },
         {
           "title": "乌克兰总统泽连斯基：与美国特使威特科夫和特朗普高级顾问库什纳通话约一小时。",
@@ -563,7 +629,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "中国首批L3级自动驾驶汽车开启规模化上路运行",
@@ -650,6 +716,17 @@
           "time_info": "17时22分"
         },
         {
+          "title": "汽车坠河一家5口遇难，知情人：车主能吃苦，前几年才在广州买房",
+          "url": "https://news.ifeng.com/c/8pP745uL2xK",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时39分"
+        },
+        {
           "title": "全球首个电动汽车电耗限值强制性标准明年起实施",
           "url": "https://wallstreetcn.com/livenews/3026963",
           "source": "华尔街见闻-快讯",
@@ -697,7 +774,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "圣诞节后第一天，金银再创新高，《货币战争》作者“明年金价10000美元，银价200美元见！”",
@@ -709,8 +786,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时24分 ~ 19时19分]"
+          "appearance_count": 14,
+          "time_info": "[11时24分 ~ 20时39分]"
         },
         {
           "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
@@ -790,6 +867,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时35分 ~ 13时21分]"
+        },
+        {
+          "title": "金价暴涨还能买吗",
+          "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E8%BF%98%E8%83%BD%E4%B9%B0%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时39分"
         },
         {
           "title": "中信证券：流动性宽松预期下金价有望延续涨势，2026年或冲击5000美元",
@@ -936,11 +1024,12 @@
           "url": "https://news.ifeng.com/c/8pOsGb4wdEG",
           "source": "凤凰网",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时21分 ~ 19时19分]"
+          "appearance_count": 6,
+          "time_info": "[17时21分 ~ 20时39分]"
         },
         {
           "title": "外交部发言人就反制美国向中国台湾地区出售武器答记者问",
@@ -953,6 +1042,38 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时22分 ~ 18时21分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "无人机",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "俄国防部：在俄四个地区击落48架乌克兰无人机",
+          "url": "https://flash.jin10.com/detail/20251226020225392800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            7,
+            10,
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时28分 ~ 06时19分]"
+        },
+        {
+          "title": "俄第一副总理称年产数百万架无人机，产量将持续提升",
+          "url": "https://flash.jin10.com/detail/20251226194309010800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时39分"
         }
       ]
     },
@@ -1026,27 +1147,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[14时31分 ~ 17时21分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "无人机",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "俄国防部：在俄四个地区击落48架乌克兰无人机",
-          "url": "https://flash.jin10.com/detail/20251226020225392800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            7,
-            10,
-            15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时28分 ~ 06时19分]"
         }
       ]
     }
