@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-26T20:39:50.069563+08:00",
-  "total_titles_processed": 1609,
+  "generated_at": "2025-12-26T21:32:52.163752+08:00",
+  "total_titles_processed": 1692,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "俄罗斯",
-      "match_count": 30,
+      "match_count": 32,
       "titles": [
         {
           "title": "俄罗斯国家原子能公司负责人阿列克谢·利哈切夫：未来作为国际合作的一部分，采矿场和数据处理中心可能设在扎波罗热核电站附近。",
@@ -161,6 +161,30 @@
           "time_info": "[01时18分 ~ 04时21分]"
         },
         {
+          "title": "俄罗斯总统新闻秘书佩斯科夫：俄罗斯分析了和平计划的相关信息。",
+          "url": "https://wallstreetcn.com/livenews/3027314",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时39分 ~ 21时32分]"
+        },
+        {
+          "title": "克里姆林宫表示已就乌克兰和平计划与美国联系，俄罗斯和美国同意继续对话。（IFX）",
+          "url": "https://wallstreetcn.com/livenews/3027313",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时39分 ~ 21时32分]"
+        },
+        {
           "title": "俄罗斯金属生产商Nornickel计划到2030年将镍产量提高20%。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3027177",
           "source": "华尔街见闻-快讯",
@@ -230,6 +254,17 @@
           "time_info": "19时19分"
         },
         {
+          "title": "乌克兰总统泽连斯基：盟友可以向俄罗斯施压，以确保在可能举行的公投和选举期间的安全。",
+          "url": "https://flash.jin10.com/detail/20251226210311768800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
           "title": "俄罗斯央行宣布2026年上半年外汇干预计划。",
           "url": "https://flash.jin10.com/detail/20251226150033779800",
           "source": "金十数据",
@@ -239,17 +274,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
-        },
-        {
-          "title": "俄罗斯总统新闻秘书佩斯科夫：俄罗斯分析了和平计划的相关信息。",
-          "url": "https://wallstreetcn.com/livenews/3027314",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时39分"
         },
         {
           "title": "俄罗斯航天局：“联盟-5”号运载火箭首次发射推迟。",
@@ -263,24 +287,13 @@
           "time_info": "16时26分"
         },
         {
-          "title": "克里姆林宫表示已就乌克兰和平计划与美国联系，俄罗斯和美国同意继续对话。（IFX）",
-          "url": "https://wallstreetcn.com/livenews/3027313",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时39分"
-        },
-        {
           "title": "据接近会谈的消息人士称，俄罗斯总统特别代表德米特里耶夫与俄罗斯总统助理乌沙科夫一同参加了与美国的会谈。",
           "url": "https://flash.jin10.com/detail/20251226193532256800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时39分"
         },
@@ -324,7 +337,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时39分"
         },
@@ -335,7 +348,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时39分"
         },
@@ -346,9 +359,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时39分"
+        },
+        {
+          "title": "据国际文传电讯社援引联邦安全局消息，俄罗斯法院以向美国情报机构泄露机密信息为由，判处前俄罗斯外交部员工12年监禁。",
+          "url": "https://flash.jin10.com/detail/20251226204314576800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         },
         {
           "title": "乌克兰总统泽连斯基：俄罗斯军队今天再次袭击乌克兰东部城市。",
@@ -376,7 +400,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 28,
       "titles": [
         {
           "title": "肯尼迪中心冠特朗普名后，年度音乐会取消",
@@ -399,8 +423,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时24分 ~ 20时39分]"
+          "appearance_count": 15,
+          "time_info": "[11时24分 ~ 21时32分]"
         },
         {
           "title": "特朗普官宣“黄金舰队”计划：真不是冲着中国，两国关系可好了",
@@ -412,6 +436,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[11时24分 ~ 16时26分]"
+        },
+        {
+          "title": "美媒自问自答：特朗普“黄金舰队”能匹敌中国吗？难",
+          "url": "https://news.ifeng.com/c/8pOsqY3DwLX",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时21分 ~ 21时32分]"
         },
         {
           "title": "特朗普政府的移民局：要求阿富汗移民在圣诞节及元旦报到",
@@ -441,17 +476,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时16分 ~ 07时20分]"
-        },
-        {
-          "title": "美媒自问自答：特朗普“黄金舰队”能匹敌中国吗？难",
-          "url": "https://news.ifeng.com/c/8pOsqY3DwLX",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时21分 ~ 20时39分]"
         },
         {
           "title": "美国总统特朗普：战争部执行了无数次完美打击。",
@@ -527,6 +551,17 @@
           "time_info": "18时21分"
         },
         {
+          "title": "泽连斯基：预计将于周日在佛罗里达与特朗普会面",
+          "url": "https://wallstreetcn.com/livenews/3027347",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
           "title": "美媒：为试图减少对中国供应链依赖，特朗普政府推动补贴电池产业",
           "url": "https://flash.jin10.com/detail/20251226065412046800",
           "source": "金十数据",
@@ -582,6 +617,39 @@
           "time_info": "11时24分"
         },
         {
+          "title": "乌克兰总统泽连斯基：想与特朗普讨论对俄罗斯施加额外压力的问题。",
+          "url": "https://flash.jin10.com/detail/20251226205730248800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：无法确定周日与美国总统特朗普的会晤是否会促成任何协议的签署。",
+          "url": "https://flash.jin10.com/detail/20251226205149177800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：乌克兰将在与特朗普的会晤中提出那些缺乏妥协空间的问题。",
+          "url": "https://flash.jin10.com/detail/20251226204831614800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
           "title": "欧盟竞争事务专员Teresa Ribera表示，欧洲必须更加有力地捍卫其监管体系，才能保持全球竞争力。她呼吁抵制美国总统特朗普以及那些在欧盟内进行游说要求改革的人所施加的压力。",
           "url": "https://flash.jin10.com/detail/20251226130524809800",
           "source": "金十数据",
@@ -591,6 +659,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：预计将于周日在佛罗里达与美国总统特朗普会面。",
+          "url": "https://flash.jin10.com/detail/20251226204630246800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：计划与美国总统特朗普讨论安全保障和重建问题。",
+          "url": "https://flash.jin10.com/detail/20251226204553454800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         },
         {
           "title": "俄外交部：希望特朗普在委内瑞拉局势问题上“务实和理性”",
@@ -613,6 +703,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
+        },
+        {
+          "title": "乌方称特朗普与泽连斯基拟周日会面 寻求敲定和平协议",
+          "url": "https://flash.jin10.com/detail/20251226203140257800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         },
         {
           "title": "泽连斯基称近期将与美总统特朗普会面",
@@ -694,6 +795,17 @@
           "time_info": "[00时24分 ~ 01时18分]"
         },
         {
+          "title": "汽车坠河一家5口遇难，知情人：车主能吃苦，前几年才在广州买房",
+          "url": "https://news.ifeng.com/c/8pP745uL2xK",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时39分 ~ 21时32分]"
+        },
+        {
           "title": "LG新能源：弗雷德里希斯贝格电池动力系统（Freudenberg Battery Power Systems）取消电动汽车电池供应协议，原因系该公司已放弃电池业务计划。被取消的合同预计金额约为3.92万亿韩元。",
           "url": "https://flash.jin10.com/detail/20251226164211880800",
           "source": "金十数据",
@@ -714,17 +826,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
-        },
-        {
-          "title": "汽车坠河一家5口遇难，知情人：车主能吃苦，前几年才在广州买房",
-          "url": "https://news.ifeng.com/c/8pP745uL2xK",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时39分"
         },
         {
           "title": "全球首个电动汽车电耗限值强制性标准明年起实施",
@@ -786,8 +887,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时24分 ~ 20时39分]"
+          "appearance_count": 15,
+          "time_info": "[11时24分 ~ 21时32分]"
         },
         {
           "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
@@ -857,6 +958,18 @@
           "time_info": "[11时24分 ~ 13时21分]"
         },
         {
+          "title": "金价暴涨还能买吗",
+          "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E8%BF%98%E8%83%BD%E4%B9%B0%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时39分 ~ 21时32分]"
+        },
+        {
           "title": "铂金价格创纪录新高，因欧盟拟撤销燃油车禁售令",
           "url": "https://flash.jin10.com/detail/20251226112935984800",
           "source": "金十数据",
@@ -867,17 +980,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时35分 ~ 13时21分]"
-        },
-        {
-          "title": "金价暴涨还能买吗",
-          "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E8%BF%98%E8%83%BD%E4%B9%B0%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时39分"
         },
         {
           "title": "中信证券：流动性宽松预期下金价有望延续涨势，2026年或冲击5000美元",
@@ -1028,8 +1130,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时21分 ~ 20时39分]"
+          "appearance_count": 7,
+          "time_info": "[17时21分 ~ 21时32分]"
         },
         {
           "title": "外交部发言人就反制美国向中国台湾地区出售武器答记者问",
@@ -1071,7 +1173,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时39分"
         }
