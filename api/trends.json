@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T11:24:53.734206+08:00",
-  "total_titles_processed": 814,
+  "generated_at": "2025-12-26T12:35:01.319463+08:00",
+  "total_titles_processed": 919,
   "failed_sources": [],
   "trends": [
     {
@@ -70,6 +70,18 @@
           "time_info": "07时20分"
         },
         {
+          "title": "特朗普圣诞夜动手！美国空袭尼日利亚，目标直指石油和稀土？",
+          "url": "https://wallstreetcn.com/articles/3762107",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时24分 ~ 12时35分]"
+        },
+        {
           "title": "乌克兰总统泽连斯基：与美国特使威特科夫和特朗普高级顾问库什纳通话约一小时。",
           "url": "https://flash.jin10.com/detail/20251226013420505800",
           "source": "金十数据",
@@ -99,26 +111,15 @@
           "time_info": "[01时18分 ~ 04时21分]"
         },
         {
-          "title": "特朗普圣诞夜动手！美国空袭尼日利亚，目标直指石油和稀土？",
-          "url": "https://wallstreetcn.com/articles/3762107",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时24分"
-        },
-        {
           "title": "特朗普官宣“黄金舰队”计划：真不是冲着中国，两国关系可好了",
           "url": "https://news.ifeng.com/c/8pOSTawSWI3",
           "source": "凤凰网",
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时24分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时24分 ~ 12时35分]"
         },
         {
           "title": "美媒：为试图减少对中国供应链依赖，特朗普政府推动补贴电池产业",
@@ -138,7 +139,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
         },
@@ -353,17 +354,6 @@
       "match_count": 7,
       "titles": [
         {
-          "title": "金十图示：2025年12月26日（周五）全球汽车制造商市值变化",
-          "url": "https://flash.jin10.com/detail/20251226110616887800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时24分"
-        },
-        {
           "title": "汽车零部件巨头变机器人新势力？中鼎股份子公司出资3000万元，与逐际动力等共同经营人形机器人代工",
           "url": "https://wallstreetcn.com/livenews/3026785",
           "source": "华尔街见闻-快讯",
@@ -378,6 +368,30 @@
           "time_info": "[00时24分 ~ 04时21分]"
         },
         {
+          "title": "金十图示：2025年12月26日（周五）全球汽车制造商市值变化",
+          "url": "https://flash.jin10.com/detail/20251226110616887800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时24分 ~ 12时35分]"
+        },
+        {
+          "title": "广东江门一汽车坠河 一家五口遇难",
+          "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E6%B1%9F%E9%97%A8%E4%B8%80%E6%B1%BD%E8%BD%A6%E5%9D%A0%E6%B2%B3+%E4%B8%80%E5%AE%B6%E4%BA%94%E5%8F%A3%E9%81%87%E9%9A%BE",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时24分 ~ 12时35分]"
+        },
+        {
           "title": "卢伟冰发布小米汽车最新交付成绩",
           "url": "https://www.toutiao.com/trending/7586845024520863807/",
           "source": "今日头条",
@@ -390,24 +404,13 @@
           "time_info": "[00时24分 ~ 01时18分]"
         },
         {
-          "title": "广东江门一汽车坠河 一家五口遇难",
-          "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E6%B1%9F%E9%97%A8%E4%B8%80%E6%B1%BD%E8%BD%A6%E5%9D%A0%E6%B2%B3+%E4%B8%80%E5%AE%B6%E4%BA%94%E5%8F%A3%E9%81%87%E9%9A%BE",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时24分"
-        },
-        {
           "title": "全球首个电动汽车电耗限值强制性标准明年起实施",
           "url": "https://wallstreetcn.com/livenews/3026963",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
         },
@@ -429,7 +432,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
         }
@@ -437,7 +440,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
@@ -470,26 +473,27 @@
           "time_info": "[00时24分 ~ 04时21分]"
         },
         {
-          "title": "铂金价格飙升至每盎司2390美元以上，创历史新高。",
-          "url": "https://wallstreetcn.com/livenews/3026999",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时24分"
-        },
-        {
           "title": "圣诞节后第一天，金银再创新高，《货币战争》作者“明年金价10000美元，银价200美元见！”",
           "url": "https://wallstreetcn.com/articles/3762105",
           "source": "华尔街见闻",
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时24分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时24分 ~ 12时35分]"
+        },
+        {
+          "title": "铂金价格飙升至每盎司2390美元以上，创历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3026999",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时24分 ~ 12时35分]"
         },
         {
           "title": "中信证券：流动性宽松预期下金价有望延续涨势，2026年或冲击5000美元",
@@ -501,6 +505,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
+        },
+        {
+          "title": "铂金价格创纪录新高，因欧盟拟撤销燃油车禁售令",
+          "url": "https://flash.jin10.com/detail/20251226112935984800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时35分"
         }
       ]
     },
@@ -565,6 +580,35 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "平安夜美股债汇涨，标普新高，黄金失守4500，人民币三连涨，加密货币疲软",
+          "url": "https://wallstreetcn.com/articles/3761989",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时24分 ~ 07时20分]"
+        },
+        {
+          "title": "美股今日正常开市，欧洲股市继续休市",
+          "url": "https://flash.jin10.com/detail/20251226112952955800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时35分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
@@ -578,8 +622,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时24分 ~ 11时24分]"
+          "appearance_count": 15,
+          "time_info": "[00时24分 ~ 12时35分]"
         }
       ]
     },
@@ -593,24 +637,6 @@
           "source": "华尔街见闻",
           "ranks": [
             10
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时24分 ~ 07时20分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "平安夜美股债汇涨，标普新高，黄金失守4500，人民币三连涨，加密货币疲软",
-          "url": "https://wallstreetcn.com/articles/3761989",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            3
           ],
           "is_new": false,
           "appearance_count": 11,
