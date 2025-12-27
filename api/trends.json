@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-27T16:26:15.585936+08:00",
-  "total_titles_processed": 1076,
+  "generated_at": "2025-12-27T17:20:33.665059+08:00",
+  "total_titles_processed": 1137,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "俄罗斯",
-      "match_count": 26,
+      "match_count": 31,
       "titles": [
         {
           "title": "金正恩致电普京：朝鲜永远同俄罗斯在一起",
@@ -16,8 +16,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时23分 ~ 16时26分]"
+          "appearance_count": 9,
+          "time_info": "[11时23分 ~ 17时20分]"
         },
         {
           "title": "白俄国防部：白俄罗斯接收新一批苏-30SM2战机。",
@@ -45,6 +45,17 @@
           "time_info": "[04时21分 ~ 09时25分]"
         },
         {
+          "title": "据国际文传电讯社：俄罗斯将汽油出口禁令延长至2月底。",
+          "url": "https://flash.jin10.com/detail/20251227170215707800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
+        },
+        {
           "title": "金正恩致电普京：朝鲜永远同俄罗斯在一起",
           "url": "https://flash.jin10.com/detail/20251227090021406800",
           "source": "金十数据",
@@ -56,17 +67,6 @@
           "time_info": "09时25分"
         },
         {
-          "title": "基辅军事管理局：俄罗斯炮击基辅，造成一名平民死亡，16人受伤。",
-          "url": "https://flash.jin10.com/detail/20251227154806743800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时26分"
-        },
-        {
           "title": "Ryabkov：俄罗斯与美国接近就乌克兰问题达成协议。（塔斯社）",
           "url": "https://wallstreetcn.com/livenews/3027414",
           "source": "华尔街见闻-快讯",
@@ -76,6 +76,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：俄罗斯夜间向乌克兰发动了袭击，出动近500架无人机和40枚导弹，目标是能源和民用基础设施。",
+          "url": "https://flash.jin10.com/detail/20251227165605504800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
+        },
+        {
+          "title": "乌克兰外交部长：俄罗斯袭击后，基辅有三分之一地区没有供暖。",
+          "url": "https://flash.jin10.com/detail/20251227164205679800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
         },
         {
           "title": "由于俄罗斯对乌克兰的袭击，波兰暂时关闭了两个机场",
@@ -102,6 +124,20 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时21分 ~ 09时25分]"
+        },
+        {
+          "title": "俄罗斯对基辅进行大规模导弹袭击，造成5人受伤",
+          "url": "https://flash.jin10.com/detail/20251227135054121800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            12,
+            19,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时29分 ~ 17时20分]"
         },
         {
           "title": "俄罗斯、阿联酋等多国发声",
@@ -169,17 +205,16 @@
           "time_info": "[00时23分 ~ 02时28分]"
         },
         {
-          "title": "俄罗斯对基辅进行大规模导弹袭击，造成5人受伤",
-          "url": "https://flash.jin10.com/detail/20251227135054121800",
+          "title": "基辅军事管理局：俄罗斯炮击基辅，造成一名平民死亡，16人受伤。",
+          "url": "https://flash.jin10.com/detail/20251227154806743800",
           "source": "金十数据",
           "ranks": [
-            4,
-            12,
-            19
+            2,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时29分 ~ 16时26分]"
+          "appearance_count": 2,
+          "time_info": "[16时26分 ~ 17时20分]"
         },
         {
           "title": "乌克兰媒体报道，俄罗斯导弹袭击后，基辅部分地区出现紧急停电。",
@@ -232,6 +267,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时17分 ~ 03时16分]"
+        },
+        {
+          "title": "乌克兰DTEK电力公司表示，俄罗斯袭击后基辅实施了紧急停电。",
+          "url": "https://flash.jin10.com/detail/20251227151517828800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时26分 ~ 17时20分]"
         },
         {
           "title": "金正恩致电普京：朝鲜永远同俄罗斯在一起",
@@ -294,15 +341,26 @@
           "time_info": "[00时23分 ~ 01时17分]"
         },
         {
-          "title": "乌克兰DTEK电力公司表示，俄罗斯袭击后基辅实施了紧急停电。",
-          "url": "https://flash.jin10.com/detail/20251227151517828800",
+          "title": "基辅当局表示，俄罗斯袭击后，基辅地区超过32万户家庭断电。",
+          "url": "https://flash.jin10.com/detail/20251227160606187800",
           "source": "金十数据",
           "ranks": [
-            6
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时26分"
+          "time_info": "17时20分"
+        },
+        {
+          "title": "基辅市行政部门：俄罗斯袭击后，基辅有超过2600栋住宅楼断供暖。",
+          "url": "https://flash.jin10.com/detail/20251227155850217800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
         },
         {
           "title": "白俄罗斯国防部26日发布消息称，新一批俄罗斯苏-30SM2战斗机已抵达白俄罗斯某机场，将列装部队。消息称，未来白俄罗斯还将接收新的技术装备。",
@@ -391,11 +449,12 @@
             5,
             7,
             10,
-            13
+            13,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时32分 ~ 16时26分]"
+          "appearance_count": 6,
+          "time_info": "[12时32分 ~ 17时20分]"
         },
         {
           "title": "将见泽连斯基，特朗普放话：未经我批准，他无法敲定任何事",
@@ -410,17 +469,6 @@
           "time_info": "[11时23分 ~ 12时32分]"
         },
         {
-          "title": "特朗普回应泽连斯基：没我，你啥都不是",
-          "url": "https://news.ifeng.com/c/8pQGvvrjsvt",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时25分 ~ 16时26分]"
-        },
-        {
           "title": "泽连斯基：将与特朗普会晤，讨论“敏感”问题",
           "url": "https://news.ifeng.com/c/8pPc87WsghO",
           "source": "凤凰网",
@@ -432,6 +480,18 @@
           "time_info": "09时25分"
         },
         {
+          "title": "特朗普回应泽连斯基：没我，你啥都不是",
+          "url": "https://news.ifeng.com/c/8pQGvvrjsvt",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时25分 ~ 17时20分]"
+        },
+        {
           "title": "特朗普：“未经我批准，泽连斯基一无所有”",
           "url": "https://flash.jin10.com/detail/20251227085451542800",
           "source": "金十数据",
@@ -441,6 +501,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
+        },
+        {
+          "title": "特朗普：美国目前没有承认索马里兰的计划",
+          "url": "https://flash.jin10.com/detail/20251227140350372800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            10,
+            17,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时29分 ~ 17时20分]"
         },
         {
           "title": "加利福尼亚州确认已撤回针对美国总统特朗普政府撤销逾40亿美元高铁资金决定的诉讼。",
@@ -457,19 +531,6 @@
           "time_info": "[13时21分 ~ 16时26分]"
         },
         {
-          "title": "特朗普：美国目前没有承认索马里兰的计划",
-          "url": "https://flash.jin10.com/detail/20251227140350372800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            10,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时29分 ~ 16时26分]"
-        },
-        {
           "title": "特朗普：未经我批准 泽连斯基一无所有",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E6%9C%AA%E7%BB%8F%E6%88%91%E6%89%B9%E5%87%86+%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E4%B8%80%E6%97%A0%E6%89%80%E6%9C%89",
           "source": "百度热搜",
@@ -479,8 +540,33 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时29分 ~ 17时20分]"
+        },
+        {
+          "title": "日本给特朗普的5500亿“大礼包”第一笔要落地了，财务省拨460亿支持投资及核电",
+          "url": "https://wallstreetcn.com/articles/3762159",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[14时29分 ~ 16时26分]"
+          "time_info": "[15时18分 ~ 17时20分]"
+        },
+        {
+          "title": "美国参议员们呼吁特朗普政府暂停提高国家公园门票价格",
+          "url": "https://flash.jin10.com/detail/20251227143953526800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            13,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时18分 ~ 17时20分]"
         },
         {
           "title": "根据白宫的指引，特朗普将于当地时间周日下午3点在海湖庄园会见泽连斯基。",
@@ -509,17 +595,6 @@
           "time_info": "[14时29分 ~ 16时26分]"
         },
         {
-          "title": "日本给特朗普的5500亿“大礼包”第一笔要落地了，财务省拨460亿支持投资及核电",
-          "url": "https://wallstreetcn.com/articles/3762159",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时18分 ~ 16时26分]"
-        },
-        {
           "title": "俄罗斯副外长Ryabkov：在（俄罗斯总统普京与美国总统特朗普）达成的Ankorage Agreements（安克雷奇协议）之外，不可能达成其他协议。（塔斯社）",
           "url": "https://wallstreetcn.com/livenews/3027414",
           "source": "华尔街见闻-快讯",
@@ -531,18 +606,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时17分 ~ 03时16分]"
-        },
-        {
-          "title": "美国参议员们呼吁特朗普政府暂停提高国家公园门票价格",
-          "url": "https://flash.jin10.com/detail/20251227143953526800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时18分 ~ 16时26分]"
         },
         {
           "title": "周五（12月26日），降息赢家指数涨0.03%，报100.38点，本周累计上涨0.45%。 “特朗普关税输家”指数涨0.48%，报112.72点，本周累跌跌0.18%。 散户抱团概念股指数/迷因股（meme stock）指数跌1.85%，报16.03点，本周累跌4.89%。",
@@ -626,8 +689,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时25分 ~ 16时26分]"
+          "appearance_count": 10,
+          "time_info": "[09时25分 ~ 17时20分]"
         },
         {
           "title": "霸王茶姬美股跌超 14%，创上市以来新低，其咖啡因争议影响有多大？现在做什么才能挽回声誉？",
@@ -638,8 +701,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时25分 ~ 16时26分]"
+          "appearance_count": 10,
+          "time_info": "[09时25分 ~ 17时20分]"
         },
         {
           "title": "美股指开盘涨跌不一，霸王茶姬股价创新低，金属再度狂飙，金银铜齐创新高，沪铜首次站上十万关口",
@@ -655,6 +718,19 @@
           "time_info": "[00时22分 ~ 05时17分]"
         },
         {
+          "title": "美股收盘：三大指数集体微跌 金银铜铝板块涨幅居前",
+          "url": "https://www.cls.cn/detail/2241688",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时25分 ~ 17时20分]"
+        },
+        {
           "title": "美股三大期指涨跌不一 市场静待“圣诞老人行情” | 今夜看点",
           "url": "https://www.cls.cn/detail/2241565",
           "source": "财联社热门",
@@ -668,19 +744,6 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[00时22分 ~ 14时29分]"
-        },
-        {
-          "title": "美股收盘：三大指数集体微跌 金银铜铝板块涨幅居前",
-          "url": "https://www.cls.cn/detail/2241688",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时25分 ~ 16时26分]"
         },
         {
           "title": "节后首日美股走低，贵金属“疯狂”，白银暴涨10%，和平曙光重挫油价，比特币遭冷落",
@@ -995,11 +1058,12 @@
           "ranks": [
             3,
             11,
-            18
+            18,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时29分 ~ 16时26分]"
+          "appearance_count": 4,
+          "time_info": "[14时29分 ~ 17时20分]"
         }
       ]
     },
