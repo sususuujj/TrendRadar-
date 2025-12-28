@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T19:17:06.377406+08:00",
-  "total_titles_processed": 1065,
+  "generated_at": "2025-12-28T20:38:25.868513+08:00",
+  "total_titles_processed": 1150,
   "failed_sources": [],
   "trends": [
     {
@@ -38,11 +38,12 @@
           "ranks": [
             10,
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时43分 ~ 19时17分]"
+          "appearance_count": 11,
+          "time_info": "[12时43分 ~ 20时38分]"
         },
         {
           "title": "特朗普海湖庄园将上演“鸿门宴”吗",
@@ -92,11 +93,12 @@
           "ranks": [
             8,
             1,
-            2
+            2,
+            28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时25分 ~ 19时17分]"
+          "appearance_count": 6,
+          "time_info": "[16时25分 ~ 20时38分]"
         },
         {
           "title": "日本给特朗普的5500亿“大礼包”第一笔要落地了，财务省拨460亿支持投资及核电",
@@ -108,6 +110,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时22分 ~ 03时16分]"
+        },
+        {
+          "title": "泽连斯基：我想跟特朗普谈5个问题",
+          "url": "https://news.ifeng.com/c/8pS8Ckuh1cP",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时20分 ~ 20时38分]"
         },
         {
           "title": "乌媒：泽连斯基概述想和特朗普讨论“和平计划”的5个问题",
@@ -160,17 +173,6 @@
           "time_info": "[09时46分 ~ 11时47分]"
         },
         {
-          "title": "泽连斯基：我想跟特朗普谈5个问题",
-          "url": "https://news.ifeng.com/c/8pS8Ckuh1cP",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时20分 ~ 19时17分]"
-        },
-        {
           "title": "特朗普与泽连斯基会晤时间有所调整",
           "url": "https://flash.jin10.com/detail/20251228094750696800",
           "source": "金十数据",
@@ -196,6 +198,18 @@
           "time_info": "[09时46分 ~ 11时47分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-28）",
+          "url": "https://flash.jin10.com/detail/20251228180224795800",
+          "source": "金十数据",
+          "ranks": [
+            18,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时17分 ~ 20时38分]"
+        },
+        {
           "title": "特朗普为美国带来了什么改变",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BA%E7%BE%8E%E5%9B%BD%E5%B8%A6%E6%9D%A5%E4%BA%86%E4%BB%80%E4%B9%88%E6%94%B9%E5%8F%98",
           "source": "bilibili 热搜",
@@ -205,17 +219,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-28）",
-          "url": "https://flash.jin10.com/detail/20251228180224795800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时17分"
         },
         {
           "title": "特朗普又盯上格陵兰岛 这次是动真格吗",
@@ -270,17 +273,6 @@
           "time_info": "[00时23分 ~ 07时19分]"
         },
         {
-          "title": "乌克兰军方：已袭击位于俄罗斯萨马拉州的瑟兹兰炼油厂。",
-          "url": "https://flash.jin10.com/detail/20251228190558622800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时17分"
-        },
-        {
           "title": "俄罗斯外长拉夫罗夫：驻乌克兰的欧洲部队将成为俄罗斯军队的合法目标。",
           "url": "https://flash.jin10.com/detail/20251228123310364800",
           "source": "金十数据",
@@ -331,6 +323,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时19分 ~ 17时20分]"
+        },
+        {
+          "title": "乌克兰军方：已袭击位于俄罗斯萨马拉州的瑟兹兰炼油厂。",
+          "url": "https://flash.jin10.com/detail/20251228190558622800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时17分 ~ 20时38分]"
         },
         {
           "title": "俄罗斯国防部：俄军已对乌克兰国防部门使用的能源设施、导弹发动机部件生产车间以及乌克兰攻击无人机组装基地实施打击。俄军同时对乌克兰武装部队在148个地区的临时部署点实施了打击。",
@@ -509,11 +513,12 @@
             3,
             4,
             8,
-            18
+            18,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时25分 ~ 19时17分]"
+          "appearance_count": 5,
+          "time_info": "[16时25分 ~ 20时38分]"
         },
         {
           "title": "重庆追加汽车置换、汽车报废更新补贴",
@@ -713,8 +718,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时46分 ~ 19时17分]"
+          "appearance_count": 13,
+          "time_info": "[11时46分 ~ 20时38分]"
         },
         {
           "title": "伊朗总统警告美以勿发动新的攻击",
@@ -794,7 +799,7 @@
     },
     {
       "keyword_group": "新能源",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "新能源车高速电量耗尽，2 人慢车道推车被撞身亡，这起事故责任如何划分？该情况正确处置流程是怎样的？",
@@ -841,6 +846,18 @@
         },
         {
           "title": "女子开新能源车意外冲进河里遇难",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%BC%80%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E6%84%8F%E5%A4%96%E5%86%B2%E8%BF%9B%E6%B2%B3%E9%87%8C%E9%81%87%E9%9A%BE",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时16分 ~ 20时38分]"
+        },
+        {
+          "title": "女子开新能源车意外冲进河里遇难",
           "url": "https://www.toutiao.com/trending/7588528256232587283/",
           "source": "今日头条",
           "ranks": [
@@ -853,15 +870,15 @@
           "time_info": "[15时19分 ~ 18时20分]"
         },
         {
-          "title": "女子开新能源车意外冲进河里遇难",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%BC%80%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E6%84%8F%E5%A4%96%E5%86%B2%E8%BF%9B%E6%B2%B3%E9%87%8C%E9%81%87%E9%9A%BE",
-          "source": "百度热搜",
+          "title": "宁德举办锂电新能源产业专题推介会 签约项目总投资74.7亿元",
+          "url": "https://flash.jin10.com/detail/20251228193814473800",
+          "source": "金十数据",
           "ranks": [
-            17
+            7
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时16分 ~ 19时17分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
         }
       ]
     },
@@ -875,11 +892,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时19分 ~ 19时17分]"
+          "appearance_count": 6,
+          "time_info": "[15时19分 ~ 20时38分]"
         },
         {
           "title": "铂金价格一周涨了超20% 黄金白银铂金价格都爆了什么原因?",
@@ -893,6 +911,35 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时47分 ~ 13时23分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "战争",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "泽连斯基称俄无意结束战争",
+          "url": "https://www.douyin.com/hot/2349337",
+          "source": "抖音",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[03时15分 ~ 07时19分]"
+        },
+        {
+          "title": "日本民众集会怒斥政府煽动战争",
+          "url": "https://www.toutiao.com/trending/7587990427363262470/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
         }
       ]
     },
@@ -935,24 +982,6 @@
       ]
     },
     {
-      "keyword_group": "战争",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "泽连斯基称俄无意结束战争",
-          "url": "https://www.douyin.com/hot/2349337",
-          "source": "抖音",
-          "ranks": [
-            7,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时15分 ~ 07时19分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "武器",
       "match_count": 1,
       "titles": [
@@ -967,11 +996,12 @@
             8,
             4,
             2,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时46分 ~ 19时17分]"
+          "appearance_count": 13,
+          "time_info": "[11时46分 ~ 20时38分]"
         }
       ]
     }
