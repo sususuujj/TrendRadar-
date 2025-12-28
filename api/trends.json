@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-28T09:46:23.219503+08:00",
-  "total_titles_processed": 513,
+  "generated_at": "2025-12-28T11:47:13.074114+08:00",
+  "total_titles_processed": 612,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "特朗普回应泽连斯基：没我，你啥都不是",
@@ -88,33 +88,47 @@
           "url": "https://flash.jin10.com/detail/20251228090239381800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时46分 ~ 11时47分]"
         },
         {
           "title": "特朗普敦促共和党人终结参议院的阻挠议事规则",
           "url": "https://flash.jin10.com/detail/20251228090052065800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时46分 ~ 11时47分]"
         },
         {
           "title": "泽连斯基抵达美国，准备与特朗普会谈",
           "url": "https://flash.jin10.com/detail/20251228084239521800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时46分 ~ 11时47分]"
+        },
+        {
+          "title": "特朗普与泽连斯基会晤时间有所调整",
+          "url": "https://flash.jin10.com/detail/20251228094750696800",
+          "source": "金十数据",
+          "ranks": [
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时46分"
+          "time_info": "11时47分"
         },
         {
           "title": "特朗普又盯上格陵兰岛 这次是动真格吗",
@@ -188,11 +202,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            6
+            6,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时27分 ~ 09时46分]"
+          "appearance_count": 8,
+          "time_info": "[02时27分 ~ 11时47分]"
         },
         {
           "title": "塞尔维亚总统武契奇：鉴于全球紧张局势加剧以及加强国家安全的需要，塞尔维亚将在3月底前开设一家大型无人机生产厂。",
@@ -208,76 +223,8 @@
       ]
     },
     {
-      "keyword_group": "汽车",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "吉利汽车旗下公司起诉电池企业欣旺达「电芯存在质量问题」，索赔 23 亿元，将对其业务造成哪些冲击？",
-          "url": "https://www.zhihu.com/question/1988011205906935872",
-          "source": "知乎",
-          "ranks": [
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时22分 ~ 09时46分]"
-        },
-        {
-          "title": "台湾地震 房屋狂摇汽车警报响成一片",
-          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E5%9C%B0%E9%9C%87+%E6%88%BF%E5%B1%8B%E7%8B%82%E6%91%87%E6%B1%BD%E8%BD%A6%E8%AD%A6%E6%8A%A5%E5%93%8D%E6%88%90%E4%B8%80%E7%89%87",
-          "source": "百度热搜",
-          "ranks": [
-            7,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时17分 ~ 07时19分]"
-        },
-        {
-          "title": "物业禁止新能源汽车进地下车库",
-          "url": "https://www.toutiao.com/trending/7587592446197383177/",
-          "source": "今日头条",
-          "ranks": [
-            25,
-            28,
-            24,
-            23,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时27分 ~ 07时19分]"
-        },
-        {
-          "title": "汽车国家队重回牌桌中央",
-          "url": "https://wallstreetcn.com/articles/3762186",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时46分"
-        },
-        {
-          "title": "台湾海域地震房屋狂摇汽车警报响不停",
-          "url": "https://www.toutiao.com/trending/7588674278820957705/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时46分"
-        }
-      ]
-    },
-    {
       "keyword_group": "俄罗斯",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "卫星图曝光！美疑发现“榛树”导弹在白俄罗斯部署地",
@@ -288,8 +235,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时22分 ~ 09时46分]"
+          "appearance_count": 15,
+          "time_info": "[00时22分 ~ 11时47分]"
         },
         {
           "title": "泽连斯基：俄罗斯无意结束战争",
@@ -324,6 +271,128 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时23分 ~ 01时17分]"
+        },
+        {
+          "title": "俄罗斯外长拉夫罗夫表示，俄罗斯敦促日本慎重考虑其向军事化转变的举动。",
+          "url": "https://flash.jin10.com/detail/20251228095708258800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "汽车",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "吉利汽车旗下公司起诉电池企业欣旺达「电芯存在质量问题」，索赔 23 亿元，将对其业务造成哪些冲击？",
+          "url": "https://www.zhihu.com/question/1988011205906935872",
+          "source": "知乎",
+          "ranks": [
+            4,
+            3,
+            2,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时22分 ~ 11时47分]"
+        },
+        {
+          "title": "台湾地震 房屋狂摇汽车警报响成一片",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E5%9C%B0%E9%9C%87+%E6%88%BF%E5%B1%8B%E7%8B%82%E6%91%87%E6%B1%BD%E8%BD%A6%E8%AD%A6%E6%8A%A5%E5%93%8D%E6%88%90%E4%B8%80%E7%89%87",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时17分 ~ 07时19分]"
+        },
+        {
+          "title": "物业禁止新能源汽车进地下车库",
+          "url": "https://www.toutiao.com/trending/7587592446197383177/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            28,
+            24,
+            23,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[02时27分 ~ 07时19分]"
+        },
+        {
+          "title": "汽车国家队重回牌桌中央",
+          "url": "https://wallstreetcn.com/articles/3762186",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时46分 ~ 11时47分]"
+        },
+        {
+          "title": "台湾海域地震房屋狂摇汽车警报响不停",
+          "url": "https://www.toutiao.com/trending/7588674278820957705/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "伊朗总统称，如今伊朗的军队和武器比以色列夏季发动袭击时更加强大。",
+          "url": "https://flash.jin10.com/detail/20251228090341310800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时46分 ~ 11时47分]"
+        },
+        {
+          "title": "伊朗总统：我们正跟西方全面开战，战况比两伊战争更复杂严峻",
+          "url": "https://news.ifeng.com/c/8pRrVSRVRbc",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时46分 ~ 11时47分]"
+        },
+        {
+          "title": "伊朗专家成功实现了战略材料沸石的本地化生产，沸石可用于天然气脱硫、医疗设备和氧气发生器。",
+          "url": "https://flash.jin10.com/detail/20251228085718597800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时46分 ~ 11时47分]"
         }
       ]
     },
@@ -333,67 +402,59 @@
       "titles": [
         {
           "title": "新能源车高速公路电量耗尽，司乘二人下来推车被撞身亡",
-          "url": "https://news.ifeng.com/c/8pQgfOmDcWs",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时22分 ~ 09时46分]"
-        },
-        {
-          "title": "新能源车高速公路电量耗尽，司乘二人下来推车被撞身亡",
           "url": "https://m.thepaper.cn/newsDetail_forward_32265274",
           "source": "澎湃新闻",
           "ranks": [
             15,
             16,
             17,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时22分 ~ 11时47分]"
+        },
+        {
+          "title": "新能源车高速公路电量耗尽，司乘二人下来推车被撞身亡",
+          "url": "https://news.ifeng.com/c/8pQgfOmDcWs",
+          "source": "凤凰网",
+          "ranks": [
+            11,
             12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时22分 ~ 09时46分]"
+          "appearance_count": 15,
+          "time_info": "[00时22分 ~ 11时47分]"
         },
         {
           "title": "新能源车高速电量耗尽，2 人慢车道推车被撞身亡，这起事故责任如何划分？该情况正确处置流程是怎样的？",
           "url": "https://www.zhihu.com/question/1988268256671320017",
           "source": "知乎",
           "ranks": [
-            6
+            6,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时46分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时46分 ~ 11时47分]"
         }
       ]
     },
     {
-      "keyword_group": "伊朗",
-      "match_count": 2,
+      "keyword_group": "金价",
+      "match_count": 1,
       "titles": [
         {
-          "title": "伊朗总统称，如今伊朗的军队和武器比以色列夏季发动袭击时更加强大。",
-          "url": "https://flash.jin10.com/detail/20251228090341310800",
+          "title": "铂金价格一周涨了超20% 黄金白银铂金价格都爆了什么原因?",
+          "url": "https://flash.jin10.com/detail/20251228100400527800",
           "source": "金十数据",
           "ranks": [
-            3
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时46分"
-        },
-        {
-          "title": "伊朗专家成功实现了战略材料沸石的本地化生产，沸石可用于天然气脱硫、医疗设备和氧气发生器。",
-          "url": "https://flash.jin10.com/detail/20251228085718597800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时46分"
+          "time_info": "11时47分"
         }
       ]
     },
@@ -450,6 +511,23 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[03时15分 ~ 07时19分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "武器",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "日本向多国免费提供武器装备",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%90%91%E5%A4%9A%E5%9B%BD%E5%85%8D%E8%B4%B9%E6%8F%90%E4%BE%9B%E6%AD%A6%E5%99%A8%E8%A3%85%E5%A4%87",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时46分 ~ 11时47分]"
         }
       ]
     }
