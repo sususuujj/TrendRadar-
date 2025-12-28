@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T13:23:37.727167+08:00",
-  "total_titles_processed": 717,
+  "generated_at": "2025-12-28T14:31:06.451658+08:00",
+  "total_titles_processed": 780,
   "failed_sources": [],
   "trends": [
     {
@@ -108,6 +108,17 @@
           "time_info": "[09时46分 ~ 11时47分]"
         },
         {
+          "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
+          "url": "https://wallstreetcn.com/articles/3762196",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时43分 ~ 14时31分]"
+        },
+        {
           "title": "特朗普与泽连斯基会晤时间有所调整",
           "url": "https://flash.jin10.com/detail/20251228094750696800",
           "source": "金十数据",
@@ -133,24 +144,13 @@
           "time_info": "[09时46分 ~ 11时47分]"
         },
         {
-          "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
-          "url": "https://wallstreetcn.com/articles/3762196",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时43分 ~ 13时23分]"
-        },
-        {
           "title": "特朗普为美国带来了什么改变",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BA%E7%BE%8E%E5%9B%BD%E5%B8%A6%E6%9D%A5%E4%BA%86%E4%BB%80%E4%B9%88%E6%94%B9%E5%8F%98",
           "source": "bilibili 热搜",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
         },
@@ -169,7 +169,7 @@
     },
     {
       "keyword_group": "俄罗斯",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "卫星图曝光！美疑发现“榛树”导弹在白俄罗斯部署地",
@@ -207,15 +207,38 @@
           "time_info": "[00时23分 ~ 07时19分]"
         },
         {
+          "title": "拉夫罗夫：欧洲公开表示准备与俄罗斯开战 布鲁塞尔已成为和平的主要障碍",
+          "url": "https://flash.jin10.com/detail/20251228135740413800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时31分"
+        },
+        {
+          "title": "拉夫罗夫：俄罗斯准备与美国进一步合作，就乌克兰问题达成协议",
+          "url": "https://flash.jin10.com/detail/20251228134036219800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时31分"
+        },
+        {
           "title": "俄罗斯外长拉夫罗夫：驻乌克兰的欧洲部队将成为俄罗斯军队的合法目标。",
           "url": "https://flash.jin10.com/detail/20251228123310364800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时23分 ~ 14时31分]"
         },
         {
           "title": "俄罗斯外长拉夫罗夫表示，俄罗斯敦促日本慎重考虑其向军事化转变的举动。",
@@ -239,6 +262,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时23分 ~ 01时17分]"
+        },
+        {
+          "title": "俄罗斯国防部称，俄罗斯防空部队夜间在多个地区拦截了25架乌克兰无人机。",
+          "url": "https://flash.jin10.com/detail/20251228130525494800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时31分"
         }
       ]
     },
@@ -297,8 +331,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时46分 ~ 13时23分]"
+          "appearance_count": 7,
+          "time_info": "[09时46分 ~ 14时31分]"
         },
         {
           "title": "深圳一汽车连轧多条实线变道下高速",
@@ -306,11 +340,12 @@
           "source": "今日头条",
           "ranks": [
             17,
-            18
+            18,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时43分 ~ 13时23分]"
+          "appearance_count": 4,
+          "time_info": "[12时43分 ~ 14时31分]"
         },
         {
           "title": "台湾海域地震房屋狂摇汽车警报响不停",
@@ -354,21 +389,6 @@
           "time_info": "[00时23分 ~ 09时46分]"
         },
         {
-          "title": "莫斯科市长：击落多架飞往俄首都的乌无人机",
-          "url": "https://wallstreetcn.com/livenews/3027580",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            6,
-            13,
-            15,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时27分 ~ 13时23分]"
-        },
-        {
           "title": "莫斯科市长：三架飞向莫斯科的无人机已被击落。应急服务部门正在无人机残骸坠落现场开展工作。",
           "url": "https://flash.jin10.com/detail/20251227220228072800",
           "source": "金十数据",
@@ -379,6 +399,22 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时23分 ~ 09时46分]"
+        },
+        {
+          "title": "莫斯科市长：击落多架飞往俄首都的乌无人机",
+          "url": "https://wallstreetcn.com/livenews/3027580",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            6,
+            13,
+            15,
+            23,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[02时27分 ~ 14时31分]"
         },
         {
           "title": "塞尔维亚首家大型无人机工厂明年启用",
@@ -408,7 +444,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "伊朗总统：我们正跟西方全面开战，战况比两伊战争更复杂严峻",
@@ -420,8 +456,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时46分 ~ 13时23分]"
+          "appearance_count": 6,
+          "time_info": "[11时46分 ~ 14时31分]"
         },
         {
           "title": "伊朗总统称，如今伊朗的军队和武器比以色列夏季发动袭击时更加强大。",
@@ -436,6 +472,17 @@
           "time_info": "[09时46分 ~ 11时47分]"
         },
         {
+          "title": "伊朗总统：正与美欧打“全面战争”",
+          "url": "https://www.toutiao.com/trending/7588334047006834729/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时30分 ~ 14时31分]"
+        },
+        {
           "title": "伊朗专家成功实现了战略材料沸石的本地化生产，沸石可用于天然气脱硫、医疗设备和氧气发生器。",
           "url": "https://flash.jin10.com/detail/20251228085718597800",
           "source": "金十数据",
@@ -446,6 +493,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时46分 ~ 11时47分]"
+        },
+        {
+          "title": "佩泽希齐扬：伊朗正与美欧打“全面战争”",
+          "url": "https://flash.jin10.com/detail/20251228132149206800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时31分"
         }
       ]
     },
@@ -462,11 +520,12 @@
             16,
             17,
             12,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时22分 ~ 13时23分]"
+          "appearance_count": 19,
+          "time_info": "[00时22分 ~ 14时31分]"
         },
         {
           "title": "新能源车高速公路电量耗尽，司乘二人下来推车被撞身亡",
@@ -489,8 +548,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时46分 ~ 13时23分]"
+          "appearance_count": 7,
+          "time_info": "[09时46分 ~ 14时31分]"
         }
       ]
     },
@@ -579,11 +638,12 @@
           "source": "百度热搜",
           "ranks": [
             24,
-            15
+            15,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时46分 ~ 13时23分]"
+          "appearance_count": 6,
+          "time_info": "[11时46分 ~ 14时31分]"
         }
       ]
     }
