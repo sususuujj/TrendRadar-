@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-28T14:31:06.451658+08:00",
-  "total_titles_processed": 780,
+  "generated_at": "2025-12-28T15:19:53.975135+08:00",
+  "total_titles_processed": 818,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "特朗普回应泽连斯基：没我，你啥都不是",
@@ -84,6 +84,40 @@
           "time_info": "[00时22分 ~ 03时16分]"
         },
         {
+          "title": "乌媒：泽连斯基概述想和特朗普讨论“和平计划”的5个问题",
+          "url": "https://flash.jin10.com/detail/20251228145227378800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
+          "title": "特朗普秘密指令对24个“贩毒集团”实施海上打击",
+          "url": "https://flash.jin10.com/detail/20251228144705189800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
+          "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
+          "url": "https://wallstreetcn.com/articles/3762196",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时43分 ~ 15时19分]"
+        },
+        {
           "title": "泽连斯基：将在特朗普会晤后与欧洲领导人举行会谈",
           "url": "https://flash.jin10.com/detail/20251228090239381800",
           "source": "金十数据",
@@ -106,17 +140,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时46分 ~ 11时47分]"
-        },
-        {
-          "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
-          "url": "https://wallstreetcn.com/articles/3762196",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时43分 ~ 14时31分]"
         },
         {
           "title": "特朗普与泽连斯基会晤时间有所调整",
@@ -169,7 +192,7 @@
     },
     {
       "keyword_group": "俄罗斯",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "卫星图曝光！美疑发现“榛树”导弹在白俄罗斯部署地",
@@ -207,26 +230,15 @@
           "time_info": "[00时23分 ~ 07时19分]"
         },
         {
-          "title": "拉夫罗夫：欧洲公开表示准备与俄罗斯开战 布鲁塞尔已成为和平的主要障碍",
-          "url": "https://flash.jin10.com/detail/20251228135740413800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时31分"
-        },
-        {
-          "title": "拉夫罗夫：俄罗斯准备与美国进一步合作，就乌克兰问题达成协议",
-          "url": "https://flash.jin10.com/detail/20251228134036219800",
+          "title": "俄罗斯高级议员斯卢茨基表示，俄罗斯议员和美国国会议员已达成初步协议，将举行会晤，有关会晤时间和地点的细节预计将在近期公布。",
+          "url": "https://flash.jin10.com/detail/20251228144336369800",
           "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时31分"
+          "time_info": "15时19分"
         },
         {
           "title": "俄罗斯外长拉夫罗夫：驻乌克兰的欧洲部队将成为俄罗斯军队的合法目标。",
@@ -234,11 +246,48 @@
           "source": "金十数据",
           "ranks": [
             1,
+            11,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时23分 ~ 15时19分]"
+        },
+        {
+          "title": "拉夫罗夫：欧洲公开表示准备与俄罗斯开战 布鲁塞尔已成为和平的主要障碍",
+          "url": "https://flash.jin10.com/detail/20251228135740413800",
+          "source": "金十数据",
+          "ranks": [
+            3,
             11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时23分 ~ 14时31分]"
+          "time_info": "[14时31分 ~ 15时19分]"
+        },
+        {
+          "title": "拉夫罗夫：俄罗斯准备与美国进一步合作，就乌克兰问题达成协议",
+          "url": "https://flash.jin10.com/detail/20251228134036219800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时31分 ~ 15时19分]"
+        },
+        {
+          "title": "俄罗斯国防部称，俄罗斯防空部队夜间在多个地区拦截了25架乌克兰无人机。",
+          "url": "https://flash.jin10.com/detail/20251228130525494800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时31分 ~ 15时19分]"
         },
         {
           "title": "俄罗斯外长拉夫罗夫表示，俄罗斯敦促日本慎重考虑其向军事化转变的举动。",
@@ -262,23 +311,101 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时23分 ~ 01时17分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "伊朗总统：我们正跟西方全面开战，战况比两伊战争更复杂严峻",
+          "url": "https://news.ifeng.com/c/8pRrVSRVRbc",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时46分 ~ 15时19分]"
         },
         {
-          "title": "俄罗斯国防部称，俄罗斯防空部队夜间在多个地区拦截了25架乌克兰无人机。",
-          "url": "https://flash.jin10.com/detail/20251228130525494800",
+          "title": "伊朗总统警告美以勿发动新的攻击",
+          "url": "https://flash.jin10.com/detail/20251228144104744800",
           "source": "金十数据",
           "ranks": [
-            9
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时31分"
+          "time_info": "15时19分"
+        },
+        {
+          "title": "伊朗总统称，如今伊朗的军队和武器比以色列夏季发动袭击时更加强大。",
+          "url": "https://flash.jin10.com/detail/20251228090341310800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时46分 ~ 11时47分]"
+        },
+        {
+          "title": "伊朗总统：正与美欧打“全面战争”",
+          "url": "https://www.toutiao.com/trending/7588334047006834729/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时30分 ~ 15时19分]"
+        },
+        {
+          "title": "伊朗专家成功实现了战略材料沸石的本地化生产，沸石可用于天然气脱硫、医疗设备和氧气发生器。",
+          "url": "https://flash.jin10.com/detail/20251228085718597800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时46分 ~ 11时47分]"
+        },
+        {
+          "title": "佩泽希齐扬：伊朗正与美欧打“全面战争”",
+          "url": "https://flash.jin10.com/detail/20251228132149206800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时31分 ~ 15时19分]"
+        },
+        {
+          "title": "伊朗总统：伊朗正跟西方全面开战",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%EF%BC%9A%E4%BC%8A%E6%9C%97%E6%AD%A3%E8%B7%9F%E8%A5%BF%E6%96%B9%E5%85%A8%E9%9D%A2%E5%BC%80%E6%88%98",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
         }
       ]
     },
     {
       "keyword_group": "汽车",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "吉利汽车旗下公司起诉电池企业欣旺达「电芯存在质量问题」，索赔 23 亿元，将对其业务造成哪些冲击？",
@@ -331,8 +458,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时46分 ~ 14时31分]"
+          "appearance_count": 8,
+          "time_info": "[09时46分 ~ 15时19分]"
+        },
+        {
+          "title": "史上最严电动汽车电耗国标来了",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%B2%E4%B8%8A%E6%9C%80%E4%B8%A5%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E7%94%B5%E8%80%97%E5%9B%BD%E6%A0%87%E6%9D%A5%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
         },
         {
           "title": "深圳一汽车连轧多条实线变道下高速",
@@ -410,11 +548,12 @@
             13,
             15,
             23,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[02时27分 ~ 14时31分]"
+          "appearance_count": 12,
+          "time_info": "[02时27分 ~ 15时19分]"
         },
         {
           "title": "塞尔维亚首家大型无人机工厂明年启用",
@@ -443,74 +582,21 @@
       ]
     },
     {
-      "keyword_group": "伊朗",
-      "match_count": 5,
+      "keyword_group": "新能源",
+      "match_count": 4,
       "titles": [
         {
-          "title": "伊朗总统：我们正跟西方全面开战，战况比两伊战争更复杂严峻",
-          "url": "https://news.ifeng.com/c/8pRrVSRVRbc",
-          "source": "凤凰网",
+          "title": "新能源车高速电量耗尽，2 人慢车道推车被撞身亡，这起事故责任如何划分？该情况正确处置流程是怎样的？",
+          "url": "https://www.zhihu.com/question/1988268256671320017",
+          "source": "知乎",
           "ranks": [
             6,
-            3,
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时46分 ~ 14时31分]"
+          "appearance_count": 8,
+          "time_info": "[09时46分 ~ 15时19分]"
         },
-        {
-          "title": "伊朗总统称，如今伊朗的军队和武器比以色列夏季发动袭击时更加强大。",
-          "url": "https://flash.jin10.com/detail/20251228090341310800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时46分 ~ 11时47分]"
-        },
-        {
-          "title": "伊朗总统：正与美欧打“全面战争”",
-          "url": "https://www.toutiao.com/trending/7588334047006834729/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时30分 ~ 14时31分]"
-        },
-        {
-          "title": "伊朗专家成功实现了战略材料沸石的本地化生产，沸石可用于天然气脱硫、医疗设备和氧气发生器。",
-          "url": "https://flash.jin10.com/detail/20251228085718597800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时46分 ~ 11时47分]"
-        },
-        {
-          "title": "佩泽希齐扬：伊朗正与美欧打“全面战争”",
-          "url": "https://flash.jin10.com/detail/20251228132149206800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新能源",
-      "match_count": 3,
-      "titles": [
         {
           "title": "新能源车高速公路电量耗尽，司乘二人下来推车被撞身亡",
           "url": "https://m.thepaper.cn/newsDetail_forward_32265274",
@@ -524,8 +610,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时22分 ~ 14时31分]"
+          "appearance_count": 20,
+          "time_info": "[00时22分 ~ 15时19分]"
         },
         {
           "title": "新能源车高速公路电量耗尽，司乘二人下来推车被撞身亡",
@@ -540,22 +626,21 @@
           "time_info": "[00时22分 ~ 11时47分]"
         },
         {
-          "title": "新能源车高速电量耗尽，2 人慢车道推车被撞身亡，这起事故责任如何划分？该情况正确处置流程是怎样的？",
-          "url": "https://www.zhihu.com/question/1988268256671320017",
-          "source": "知乎",
+          "title": "女子开新能源车意外冲进河里遇难",
+          "url": "https://www.toutiao.com/trending/7588528256232587283/",
+          "source": "今日头条",
           "ranks": [
-            6,
-            4
+            20
           ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时46分 ~ 14时31分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "铂金价格一周涨了超20% 黄金白银铂金价格都爆了什么原因?",
@@ -569,6 +654,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时47分 ~ 13时23分]"
+        },
+        {
+          "title": "Ed Yardeni 2026展望：美国不衰退，标普7700，美债收益率超4%，金价6000美元",
+          "url": "https://wallstreetcn.com/articles/3762200",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
         }
       ]
     },
@@ -639,11 +735,12 @@
           "ranks": [
             24,
             15,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时46分 ~ 14时31分]"
+          "appearance_count": 7,
+          "time_info": "[11时46分 ~ 15时19分]"
         }
       ]
     }
