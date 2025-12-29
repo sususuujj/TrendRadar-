@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-29T19:18:46.901879+08:00",
-  "total_titles_processed": 1495,
+  "generated_at": "2025-12-29T20:42:20.984648+08:00",
+  "total_titles_processed": 1596,
   "failed_sources": [],
   "trends": [
     {
@@ -299,6 +299,18 @@
           "time_info": "[03时15分 ~ 07时19分]"
         },
         {
+          "title": "特朗普暗示泽连斯基：为了不再失去领土，还是尽快达成协议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32272421",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时25分 ~ 20时42分]"
+        },
+        {
           "title": "美国总统特朗普在与乌克兰总统泽连斯基会面之前表示：已经与俄罗斯总统普京进行富有成效的对话。",
           "url": "https://wallstreetcn.com/livenews/3027681",
           "source": "华尔街见闻-快讯",
@@ -324,18 +336,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时25分 ~ 17时29分]"
-        },
-        {
-          "title": "特朗普暗示泽连斯基：为了不再失去领土，还是尽快达成协议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32272421",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时25分 ~ 19时18分]"
         },
         {
           "title": "美银CEO：预计明年特朗普政府将缓和关税局势",
@@ -598,7 +598,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
@@ -752,7 +752,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
@@ -936,7 +936,7 @@
     },
     {
       "keyword_group": "俄罗斯",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "俄罗斯发射“一箭52星”",
@@ -1003,6 +1003,17 @@
           "time_info": "[00时24分 ~ 05时18分]"
         },
         {
+          "title": "俄罗斯总统任命德米特里·波利安斯基为驻欧安组织特使。",
+          "url": "https://flash.jin10.com/detail/20251229202115045800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
+        },
+        {
           "title": "乌克兰总统泽连斯基：俄罗斯显然目前并不想停火。",
           "url": "https://flash.jin10.com/detail/20251229170458000800",
           "source": "金十数据",
@@ -1056,8 +1067,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时22分 ~ 19时18分]"
+          "appearance_count": 3,
+          "time_info": "[18时22分 ~ 20时42分]"
         },
         {
           "title": "德国政府发言人：我们注意到，俄罗斯公开宣布的内容与实际发生的情况之间存在一定程度的差异。",
@@ -1066,7 +1077,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
@@ -1077,7 +1088,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
@@ -1099,9 +1110,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
+        },
+        {
+          "title": "俄罗斯新沙赫廷斯克工厂在遭遇袭击后暂停石油加工。",
+          "url": "https://flash.jin10.com/detail/20251229195839384800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
         },
         {
           "title": "克里姆林宫：俄罗斯正考虑在实现其目标的背景下结束冲突。",
@@ -1121,7 +1143,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
@@ -1162,7 +1184,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "极石汽车闫枫：2026年极石全球销量目标3万辆",
@@ -1176,6 +1198,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时24分 ~ 05时18分]"
+        },
+        {
+          "title": "长安汽车：拟定增募资不超60亿元，用于新能源车型及数智平台开发等项目",
+          "url": "https://wallstreetcn.com/livenews/3028151",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
         },
         {
           "title": "恒生科技指数涨超1%，零跑汽车涨超6%，小米跌超2%。",
@@ -1225,6 +1258,30 @@
           "time_info": "[11时49分 ~ 12时48分]"
         },
         {
+          "title": "天奇股份：拟定增募资不超过9.77亿元，用于汽车装备智能制造基地建设项目、面向汽车行业应用的机器人具身智能系统研发中心建设项目、补充流动资金。",
+          "url": "https://wallstreetcn.com/livenews/3028087",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时18分 ~ 20时42分]"
+        },
+        {
+          "title": "理想汽车全年64万辆目标仅完成56%",
+          "url": "https://www.baidu.com/s?wd=%E7%90%86%E6%83%B3%E6%B1%BD%E8%BD%A6%E5%85%A8%E5%B9%B464%E4%B8%87%E8%BE%86%E7%9B%AE%E6%A0%87%E4%BB%85%E5%AE%8C%E6%88%9056%25",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时18分 ~ 20时42分]"
+        },
+        {
           "title": "零跑汽车CEO朱江明：目标是在十年内跻身年销量超过4百万辆的中国五大汽车制造商之列。",
           "url": "https://flash.jin10.com/detail/20251229090955675800",
           "source": "金十数据",
@@ -1267,28 +1324,101 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时49分"
-        },
+        }
+      ]
+    },
+    {
+      "keyword_group": "无人机",
+      "match_count": 8,
+      "titles": [
         {
-          "title": "天奇股份：拟定增募资不超过9.77亿元，用于汽车装备智能制造基地建设项目、面向汽车行业应用的机器人具身智能系统研发中心建设项目、补充流动资金。",
-          "url": "https://wallstreetcn.com/livenews/3028087",
-          "source": "华尔街见闻-快讯",
+          "title": "解放军无人机俯瞰台北101大厦",
+          "url": "https://www.toutiao.com/trending/7588764981060091923/",
+          "source": "今日头条",
           "ranks": [
-            18
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时18分"
+          "time_info": "20时42分"
         },
         {
-          "title": "理想汽车全年64万辆目标仅完成56%",
-          "url": "https://www.baidu.com/s?wd=%E7%90%86%E6%83%B3%E6%B1%BD%E8%BD%A6%E5%85%A8%E5%B9%B464%E4%B8%87%E8%BE%86%E7%9B%AE%E6%A0%87%E4%BB%85%E5%AE%8C%E6%88%9056%25",
+          "title": "解放军无人机与台北101大厦同框",
+          "url": "https://www.baidu.com/s?wd=%E8%A7%A3%E6%94%BE%E5%86%9B%E6%97%A0%E4%BA%BA%E6%9C%BA%E4%B8%8E%E5%8F%B0%E5%8C%97101%E5%A4%A7%E5%8E%A6%E5%90%8C%E6%A1%86",
           "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
+        },
+        {
+          "title": "解放军无人机俯瞰台北101大厦",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E6%94%BE%E5%86%9B%E6%97%A0%E4%BA%BA%E6%9C%BA%E4%BF%AF%E7%9E%B0%E5%8F%B0%E5%8C%97101%E5%A4%A7%E5%8E%A6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
+        },
+        {
+          "title": "解放军无人机俯瞰台北101大厦",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%A7%A3%E6%94%BE%E5%86%9B%E6%97%A0%E4%BA%BA%E6%9C%BA%E4%BF%AF%E7%9E%B0%E5%8F%B0%E5%8C%97101%E5%A4%A7%E5%8E%A6%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
+        },
+        {
+          "title": "解放军无人机俯瞰台北101大厦",
+          "url": "https://www.douyin.com/hot/2351188",
+          "source": "抖音",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
+        },
+        {
+          "title": "轰炸机无人机等开展打击演练",
+          "url": "https://search.bilibili.com/all?keyword=%E8%BD%B0%E7%82%B8%E6%9C%BA%E6%97%A0%E4%BA%BA%E6%9C%BA%E7%AD%89%E5%BC%80%E5%B1%95%E6%89%93%E5%87%BB%E6%BC%94%E7%BB%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时48分 ~ 14时33分]"
+        },
+        {
+          "title": "轰炸机无人机等开展打击演练",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%BD%B0%E7%82%B8%E6%9C%BA%E6%97%A0%E4%BA%BA%E6%9C%BA%E7%AD%89%E5%BC%80%E5%B1%95%E6%89%93%E5%87%BB%E6%BC%94%E7%BB%83%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时44分 ~ 09时45分]"
+        },
+        {
+          "title": "市场消息：泰国军方指责柬埔寨违反停火协议，出动超过250架无人机。",
+          "url": "https://flash.jin10.com/detail/20251229170004063800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时18分"
+          "time_info": "17时29分"
         }
       ]
     },
@@ -1379,7 +1509,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美股冲刺历史新高 年末聚焦美联储政策与板块轮动",
@@ -1406,6 +1536,29 @@
           "time_info": "07时19分"
         },
         {
+          "title": "美股白银股盘前下跌，科尔矿业跌3.5%，赫克拉矿业跌3.3%，First Majestic白银跌3%，泛美白银跌2.4%，希尔威金属矿业跌2.3%，Endeavour Silver跌2.1%，此前白银从纪录高位回落。",
+          "url": "https://wallstreetcn.com/livenews/3028100",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时18分 ~ 20时42分]"
+        },
+        {
+          "title": "受科技股拖累，美股指期货走低，贵金属全线回落，现货白银新高后跳水日内大跌6%，WTI原油涨逾2%",
+          "url": "https://wallstreetcn.com/articles/3762238",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
+        },
+        {
           "title": "美股三大股指期货走低，标普500指数期货下跌0.3%，纳斯达克100指数期货下跌0.5%，道琼斯指数期货下跌0.1%。",
           "url": "https://flash.jin10.com/detail/20251229170123670800",
           "source": "金十数据",
@@ -1415,17 +1568,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
-        },
-        {
-          "title": "美股白银股盘前下跌，科尔矿业跌3.5%，赫克拉矿业跌3.3%，First Majestic白银跌3%，泛美白银跌2.4%，希尔威金属矿业跌2.3%，Endeavour Silver跌2.1%，此前白银从纪录高位回落。",
-          "url": "https://wallstreetcn.com/livenews/3028100",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时18分"
         }
       ]
     },
@@ -1513,42 +1655,31 @@
       ]
     },
     {
-      "keyword_group": "无人机",
-      "match_count": 3,
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
       "titles": [
         {
-          "title": "轰炸机无人机等开展打击演练",
-          "url": "https://search.bilibili.com/all?keyword=%E8%BD%B0%E7%82%B8%E6%9C%BA%E6%97%A0%E4%BA%BA%E6%9C%BA%E7%AD%89%E5%BC%80%E5%B1%95%E6%89%93%E5%87%BB%E6%BC%94%E7%BB%83",
-          "source": "bilibili 热搜",
+          "title": "年终盘点|DeepSeek点燃AI热，贵金属引领周期逆袭，商业航天奏响年末最强音......一文看懂2025年A股热炒题材",
+          "url": "https://www.cls.cn/detail/2242969",
+          "source": "财联社热门",
           "ranks": [
-            18,
-            27
+            10,
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时48分 ~ 14时33分]"
+          "time_info": "[19时18分 ~ 20时42分]"
         },
         {
-          "title": "轰炸机无人机等开展打击演练",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%BD%B0%E7%82%B8%E6%9C%BA%E6%97%A0%E4%BA%BA%E6%9C%BA%E7%AD%89%E5%BC%80%E5%B1%95%E6%89%93%E5%87%BB%E6%BC%94%E7%BB%83%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
+          "title": "DeepSeek一夜爆火、Labubu引爆全球抢购潮、“史诗级”外卖大战……2025年中国十大商业事件全盘点",
+          "url": "https://wallstreetcn.com/articles/3762071",
+          "source": "华尔街见闻",
           "ranks": [
-            30
+            10
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时44分 ~ 09时45分]"
-        },
-        {
-          "title": "市场消息：泰国军方指责柬埔寨违反停火协议，出动超过250架无人机。",
-          "url": "https://flash.jin10.com/detail/20251229170004063800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时29分"
+          "time_info": "20时42分"
         }
       ]
     },
@@ -1574,24 +1705,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "年终盘点|DeepSeek点燃AI热，贵金属引领周期逆袭，商业航天奏响年末最强音......一文看懂2025年A股热炒题材",
-          "url": "https://www.cls.cn/detail/2242969",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         }
