@@ -1,870 +1,72 @@
 {
-  "generated_at": "2025-12-31T23:20:41.573660+08:00",
-  "total_titles_processed": 1937,
+  "generated_at": "2026-01-01T00:25:17.487089+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 28,
+      "keyword_group": "俄罗斯",
+      "match_count": 4,
       "titles": [
         {
-          "title": "外交部回应特朗普涉中国军演言论",
-          "url": "https://news.ifeng.com/c/8pVVKejSSSi",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时26分 ~ 07时18分]"
-        },
-        {
-          "title": "普京通知特朗普自己官邸遇袭，泽连斯基：完全的捏造",
-          "url": "https://news.ifeng.com/c/8pVTIAwBtvp",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时26分 ~ 07时18分]"
-        },
-        {
-          "title": "得知普京官邸遭袭，特朗普：我很生气！",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32280626",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时26分 ~ 09时29分]"
-        },
-        {
-          "title": "特朗普称不担心解放军绕台军演",
-          "url": "https://www.douyin.com/hot/2351614",
-          "source": "抖音",
-          "ranks": [
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时26分 ~ 07时18分]"
-        },
-        {
-          "title": "中方回应特朗普涉东部战区军演言论",
-          "url": "https://www.toutiao.com/trending/7589836293949902363/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            12,
-            5,
-            7,
-            28,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时26分 ~ 17时24分]"
-        },
-        {
-          "title": "特朗普：正考虑以“严重失职”为由起诉鲍威尔，1月或公布下任美联储主席人选",
-          "url": "https://wallstreetcn.com/articles/3762272",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 05时19分]"
-        },
-        {
-          "title": "特朗普为何称不担心解放军绕台军演",
-          "url": "https://www.toutiao.com/trending/7589509514882891795/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时26分"
-        },
-        {
-          "title": "李在明展示特朗普送的白宫金钥匙(图)",
-          "url": "https://news.ifeng.com/c/8pWu87Onyz4",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时20分 ~ 21时32分]"
-        },
-        {
-          "title": "报道：特朗普移动推迟原定今年底交付智能手机的计划",
-          "url": "https://wallstreetcn.com/livenews/3029129",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时32分 ~ 15时23分]"
-        },
-        {
-          "title": "据英国金融时报：由特朗普集团推出的手机公司Trump Mobile已推迟原定于今年年底发售金色智能手机的计划。",
-          "url": "https://flash.jin10.com/detail/20251231130723991800",
+          "title": "白俄罗斯总统卢卡申科和俄罗斯总统普京今晚进行了电话交谈。",
+          "url": "https://flash.jin10.com/detail/20251231235531200800",
           "source": "金十数据",
           "ranks": [
-            3,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时24分 ~ 14时32分]"
-        },
-        {
-          "title": "美国上诉法院允许特朗普政府在22个州执行一项剥夺计划生育组织医疗补助资金的法律。",
-          "url": "https://flash.jin10.com/detail/20251231054352146800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时19分 ~ 07时18分]"
-        },
-        {
-          "title": "特朗普媒体科技集团(DJT.O)盘前上涨5.8%，此前该公司宣布计划向股东分发数字代币。",
-          "url": "https://flash.jin10.com/detail/20251231214148176800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时19分 ~ 23时20分]"
-        },
-        {
-          "title": "法官裁定：特朗普政府必须从美联储为CFPB申请资金",
-          "url": "https://wallstreetcn.com/livenews/3028915",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时19分 ~ 06时19分]"
-        },
-        {
-          "title": "国台办回应特朗普称不担心台海局势",
-          "url": "https://www.toutiao.com/trending/7589884892247543346/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时32分 ~ 16时28分]"
-        },
-        {
-          "title": "外交部回应特朗普谈解放军军演",
-          "url": "https://www.douyin.com/hot/2352044",
-          "source": "抖音",
-          "ranks": [
-            23,
-            30,
-            29,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时22分 ~ 07时18分]"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：如果美国总统特朗普访问乌克兰，这将“很有用”。",
-          "url": "https://flash.jin10.com/detail/20251230235722002800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 01时20分]"
-        },
-        {
-          "title": "周二（12月30日），降息赢家指数跌0.33%，报99.34点。 “特朗普关税输家”指数跌0.70%，报111.29点。 “特朗普金融指数”跌0.60%，报173.74点。 散户抱团概念股指数/迷因股（meme stock）指数跌0.97%，报15.49点。",
-          "url": "https://wallstreetcn.com/livenews/3028928",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时19分 ~ 07时18分]"
-        },
-        {
-          "title": "希腊雅典证交所综合指数收跌0.13%，报2120.82点。 2025年以来，该国股市已经累计上涨超过44.30%，1-8月持续、相对平滑地上涨（特朗普关税威胁曾在4月份造成一波V型“插曲”），后续高位持稳——试探2010年（欧债危机期间）年初顶部。 年线上连续第五年走高——追平2007年所创最长年度连涨纪录。",
-          "url": "https://wallstreetcn.com/livenews/3028855",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 02时30分]"
-        },
-        {
-          "title": "美军首次袭击委内瑞拉陆地目标？特朗普称美军摧毁一“大型设施”",
-          "url": "https://wallstreetcn.com/articles/3762270",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-31）",
-          "url": "https://flash.jin10.com/detail/20251231183553822800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时18分"
-        },
-        {
-          "title": "特朗普媒体科技集团(DJT.O)：计划向本集团持有者分发数字代币，将利用Crypto.com的技术进行（数字代币）分发。",
-          "url": "https://flash.jin10.com/detail/20251231213255545800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时19分"
-        },
-        {
-          "title": "特朗普媒体科技集团(DJT.O)涨2.6%，此前该公司宣布计划向股东分发数字代币。",
-          "url": "https://flash.jin10.com/detail/20251231223046840800",
-          "source": "金十数据",
-          "ranks": [
-            11
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时20分"
+          "time_info": "00时25分"
         },
         {
-          "title": "美媒：特朗普正试图让世界MAGA化",
-          "url": "https://www.toutiao.com/trending/7589793491610242587/",
-          "source": "今日头条",
+          "title": "跑路油轮突然画了面俄罗斯旗，追了十天的美国人懵了",
+          "url": "https://news.ifeng.com/c/8pXAeeI00LV",
+          "source": "凤凰网",
           "ranks": [
-            20
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时26分"
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 00时25分]"
         },
         {
-          "title": "美国法庭裁决指出，特朗普政府关于消费者金融保护局（CFPB）拨款存在法律障碍的说法是企图“扼杀该机构的透明化尝试”。",
-          "url": "https://flash.jin10.com/detail/20251230232531255800",
+          "title": "乌克兰军方称其还袭击了俄罗斯克拉斯诺达尔地区的石油码头。",
+          "url": "https://flash.jin10.com/detail/20251231234915337800",
           "source": "金十数据",
           "ranks": [
-            20
+            7
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时26分"
+          "time_info": "00时25分"
         },
         {
-          "title": "泽连斯基：与特朗普讨论了将美军部署在乌克兰的问题",
-          "url": "https://flash.jin10.com/detail/20251231022340934800",
+          "title": "乌克兰军方表示，其袭击了俄罗斯图阿普谢的一家炼油厂。",
+          "url": "https://flash.jin10.com/detail/20251231234734256800",
           "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时17分"
-        },
-        {
-          "title": "美国联邦法官告知美国总统特朗普政府，其必须为消费者金融保护局申请资金。",
-          "url": "https://flash.jin10.com/detail/20251230232316390800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
-        },
-        {
-          "title": "特朗普集团旗下Trump Mobile推迟原定于今年发布的金色智能手机",
-          "url": "https://flash.jin10.com/detail/20251231131511777800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时32分"
-        },
-        {
-          "title": "特朗普关于伊朗的强硬表态释放何信号",
-          "url": "https://www.toutiao.com/trending/7589843589102833215/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "汽车",
-      "match_count": 26,
-      "titles": [
-        {
-          "title": "2026年国补方案出炉：新增智能产品，剔除家装、电动自行车，调整家电、汽车补贴标准",
-          "url": "https://wallstreetcn.com/articles/3762313",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时26分 ~ 17时24分]"
-        },
-        {
-          "title": "明年汽车“国补”调整为按比例补贴：购新能源车最高补12%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32284463",
-          "source": "澎湃新闻",
-          "ranks": [
-            2,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时37分 ~ 20时40分]"
-        },
-        {
-          "title": "2026 年汽车「国补」来了，按车价比例进行补贴，最高不超 2 万元，将如何影响车市？",
-          "url": "https://www.zhihu.com/question/1989627854183483240",
-          "source": "知乎",
-          "ranks": [
-            5,
-            2,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时24分 ~ 23时20分]"
-        },
-        {
-          "title": "2026年我国将扩大汽车报废更新补贴支持范围",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32289197",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            15,
-            11,
-            10,
-            7,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时26分 ~ 23时20分]"
-        },
-        {
-          "title": "2026年汽车国补细则",
-          "url": "https://www.douyin.com/hot/2352698",
-          "source": "抖音",
-          "ranks": [
-            4,
-            11,
-            12,
-            15,
-            17,
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时26分 ~ 20时40分]"
-        },
-        {
-          "title": "汽车以旧换新国补将按车价比例补贴",
-          "url": "https://www.baidu.com/s?wd=%E6%B1%BD%E8%BD%A6%E4%BB%A5%E6%97%A7%E6%8D%A2%E6%96%B0%E5%9B%BD%E8%A1%A5%E5%B0%86%E6%8C%89%E8%BD%A6%E4%BB%B7%E6%AF%94%E4%BE%8B%E8%A1%A5%E8%B4%B4",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            9,
-            6,
-            8,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时26分 ~ 09时29分]"
-        },
-        {
-          "title": "汽车以旧换新国补将按车价比例补贴",
-          "url": "https://www.toutiao.com/trending/7589611017433517578/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            13,
-            9,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时26分 ~ 07时18分]"
-        },
-        {
-          "title": "2026年汽车“国补”细则来了",
-          "url": "https://www.cls.cn/detail/2244801",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时26分 ~ 15时23分]"
-        },
-        {
-          "title": "2026汽车报废置换补贴解读",
-          "url": "https://search.bilibili.com/all?keyword=2026%E6%B1%BD%E8%BD%A6%E6%8A%A5%E5%BA%9F%E7%BD%AE%E6%8D%A2%E8%A1%A5%E8%B4%B4%E8%A7%A3%E8%AF%BB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            12,
-            15,
-            28,
-            26,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时37分 ~ 22时19分]"
-        },
-        {
-          "title": "【早报】2026年“国补”政策来了；汽车以旧换新补贴实施细则出炉",
-          "url": "https://www.cls.cn/detail/2244743",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时29分 ~ 11时26分]"
-        },
-        {
-          "title": "恒指低开0.21%，报25801.49点；恒生科技指数跌0.22%。蔚来涨超3%，小鹏汽车涨超2%；携程跌2%，京东健康、京东集团、网易、快手跌超1%。",
-          "url": "https://wallstreetcn.com/livenews/3028999",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时29分"
-        },
-        {
-          "title": "2026年将扩大汽车报废更新补贴范围",
-          "url": "https://www.baidu.com/s?wd=2026%E5%B9%B4%E5%B0%86%E6%89%A9%E5%A4%A7%E6%B1%BD%E8%BD%A6%E6%8A%A5%E5%BA%9F%E6%9B%B4%E6%96%B0%E8%A1%A5%E8%B4%B4%E8%8C%83%E5%9B%B4",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            24,
-            26,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时29分 ~ 14时32分]"
-        },
-        {
-          "title": "商务部等8部门办公厅印发《2026年汽车以旧换新补贴实施细则》通知",
-          "url": "https://wallstreetcn.com/livenews/3028858",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            11,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 02时30分]"
-        },
-        {
-          "title": "商务部等8部门印发《2026年汽车以旧换新补贴实施细则》",
-          "url": "https://flash.jin10.com/detail/20251231000628691800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 01时20分]"
-        },
-        {
-          "title": "周二（12月30日），彭博电动汽车价格回报指数跌0.23%，报3458.80点。 北京时间09:32，指数显著下跌，刷新日低至3438.18点，13:08出现一波显著的反弹行情，13:55刷新日高至3482.11点。",
-          "url": "https://wallstreetcn.com/livenews/3028921",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时19分 ~ 06时19分]"
-        },
-        {
-          "title": "金十图示：2025年12月31日（周三）全球汽车制造商市值变化",
-          "url": "https://flash.jin10.com/detail/20251231111053110800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时26分 ~ 12时38分]"
-        },
-        {
-          "title": "工业和信息化部开展汽车动力电池碳足迹申报",
-          "url": "https://wallstreetcn.com/livenews/3029254",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时21分 ~ 19时18分]"
-        },
-        {
-          "title": "明年汽车报废更新最高补2万",
-          "url": "https://www.douyin.com/hot/2352667",
-          "source": "抖音",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时22分 ~ 15时23分]"
-        },
-        {
-          "title": "2026年汽车“两新”政策落地",
-          "url": "https://www.toutiao.com/trending/7589961604490333734/",
-          "source": "今日头条",
-          "ranks": [
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时32分 ~ 22时19分]"
-        },
-        {
-          "title": "中国汽车制造商11月在欧洲电动汽车市场拿下了创纪录的12.8%的份额。",
-          "url": "https://wallstreetcn.com/livenews/3029333",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时40分"
-        },
-        {
-          "title": "小米汽车明年拟推4款新车，包含2款增程",
-          "url": "https://wallstreetcn.com/livenews/3029237",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时21分"
-        },
-        {
-          "title": "长安福特汽车有限公司召回部分福睿斯汽车，共计38473辆",
-          "url": "https://wallstreetcn.com/livenews/3029235",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时21分"
-        },
-        {
-          "title": "恒大汽车：继续停牌",
-          "url": "https://wallstreetcn.com/livenews/3029276",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时18分"
-        },
-        {
-          "title": "中国汽车制造商11月在欧洲电动汽车市场拿下了创纪录的12.8%的份额。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3029333",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时32分"
-        },
-        {
-          "title": "2026年我国将扩大汽车报废更新补贴支持范围",
-          "url": "https://flash.jin10.com/detail/20251231080119270800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时29分"
-        },
-        {
-          "title": "2026年汽车“国补”细则正式发布",
-          "url": "https://www.toutiao.com/trending/7589211170859634230/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时24分"
+          "time_info": "00时25分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "美股回调，金属全线回落，现货白银重挫8%，沪金跌破千元关口，原油反弹",
-          "url": "https://wallstreetcn.com/articles/3762238",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时26分 ~ 07时18分]"
-        },
         {
           "title": "交投情绪清淡，美股指三连跌，黄金反弹后劲不足，白银涨逾5%，伦铜八连涨",
           "url": "https://wallstreetcn.com/articles/3762305",
           "source": "华尔街见闻",
           "ranks": [
-            5,
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[07时18分 ~ 23时20分]"
-        },
-        {
-          "title": "静待美联储会议纪要，美股指集体低开，现货黄金反弹至4400美元，白银涨逾5%，在岸人民币破7",
-          "url": "https://wallstreetcn.com/articles/3762305",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 05时19分]"
-        },
-        {
-          "title": "美股收盘：三大指数携手三连跌 金属上涨潮卷土重来",
-          "url": "https://www.cls.cn/detail/2244733",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时29分 ~ 11时26分]"
-        },
-        {
-          "title": "白银价格大幅反弹 美股三大期指微跌 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2244587",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时26分 ~ 09时29分]"
-        },
-        {
-          "title": "会议纪要难挽交投情绪，美股指三连跌，Meta涨，黄金反弹后劲不足，白银涨逾5%",
-          "url": "https://wallstreetcn.com/articles/3762305",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时19分"
-        },
-        {
-          "title": "金十图示：2025年12月30日（周二）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251231050526825800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            19,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时19分 ~ 07时18分]"
-        },
-        {
-          "title": "金十图示：2025年12月30日（周二）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251231050523953800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            20,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时19分 ~ 07时18分]"
-        },
-        {
-          "title": "周三美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3029392",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时19分 ~ 23时20分]"
-        },
-        {
-          "title": "美股收盘：三大股指小幅收跌 百度涨超4%",
-          "url": "https://flash.jin10.com/detail/20251231050133467800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            21,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时19分 ~ 07时18分]"
-        },
-        {
-          "title": "特朗普媒体科技集团美股盘前涨近6%，此前该公司宣布计划向股东分发数字代币。",
-          "url": "https://wallstreetcn.com/livenews/3029381",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时19分 ~ 23时20分]"
-        },
-        {
-          "title": "（美股）费城金银指数收涨0.79%，报347.01点。 （全球时段）纽约证交所ARCA金矿开采商指数收涨0.79%，报2469.28点，北京时间22:30美股开盘之前维持微幅下跌状态、之后“跳空”至2498.05点刷新日高又在极大程度上快速回吐这一波涨幅。 原材料指数跌0.17%，报228.42点。 金属与矿业指数跌0.29%，报217.41点。",
-          "url": "https://wallstreetcn.com/livenews/3028934",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时19分 ~ 07时18分]"
-        },
-        {
-          "title": "美股七巨头收盘播报｜特斯拉收跌超1.1%，Meta涨1.1%",
-          "url": "https://wallstreetcn.com/livenews/3028929",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时19分 ~ 07时18分]"
-        },
-        {
-          "title": "金十图示：2025年12月31日（周三）美股热门股票行情一览",
-          "url": "https://flash.jin10.com/detail/20251231223720967800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时20分"
-        },
-        {
-          "title": "行业ETF美股盘初涨跌各异，生物科技指数ETF跌0.36%，网络股指数ETF跌0.2%，能源业ETF跌0.1%，科技行业ETF涨0.1%，全球科技股指数ETF涨0.15%。",
-          "url": "https://wallstreetcn.com/livenews/3029404",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时20分"
-        },
-        {
-          "title": "金十图示：2025年12月30日（周二）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251231013358697800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时30分"
+          "time_info": "[00时24分 ~ 00时25分]"
         },
         {
           "title": "美股三大期指小幅走弱 年末获利了结情绪升温 | 今夜看点",
@@ -873,940 +75,127 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时20分"
-        },
-        {
-          "title": "金十图示：2025年12月30日（周二）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251231013021067800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时30分"
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 00时25分]"
         },
         {
-          "title": "美股开盘，道指涨0.01%，标普500指数涨0.04%，纳指涨0.01%。热门中概股涨跌分化，小鹏汽车(XPEV.N)跌4%，理想汽车(LI.O)跌超3%，台积电(TSM.N)涨1.4%。",
-          "url": "https://flash.jin10.com/detail/20251231223019762800",
-          "source": "金十数据",
+          "title": "行业ETF美股盘初涨跌各异，生物科技指数ETF跌0.36%，网络股指数ETF跌0.2%，能源业ETF跌0.1%，科技行业ETF涨0.1%，全球科技股指数ETF涨0.15%。",
+          "url": "https://wallstreetcn.com/livenews/3029404",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            24
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时20分"
-        },
-        {
-          "title": "生物科技ETF收跌将近1.1%，领跌美股行业ETF，能源ETF涨约0.8%",
-          "url": "https://wallstreetcn.com/livenews/3028922",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时19分"
-        },
-        {
-          "title": "行业ETF美股盘初多数走低，可选消费ETF、生物科技指数ETF跌超0.4%，网络股指数ETF跌约0.3%，全球科技股指数ETF涨0.1%，半导体ETF涨超0.3%。",
-          "url": "https://wallstreetcn.com/livenews/3028834",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
-        },
-        {
-          "title": "美股开盘：百度高开超4%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%BC%80%E7%9B%98%EF%BC%9A%E7%99%BE%E5%BA%A6%E9%AB%98%E5%BC%80%E8%B6%854%25",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
+          "time_info": "00时25分"
         }
       ]
     },
     {
-      "keyword_group": "俄罗斯",
-      "match_count": 22,
+      "keyword_group": "汽车",
+      "match_count": 2,
       "titles": [
         {
-          "title": "俄罗斯外交部：反对任何形式“台独”分裂行径",
-          "url": "https://news.ifeng.com/c/8pWc7iFgpjm",
-          "source": "凤凰网",
+          "title": "2026年我国将扩大汽车报废更新补贴支持范围",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32289197",
+          "source": "澎湃新闻",
           "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时29分 ~ 16时28分]"
-        },
-        {
-          "title": "跑路油轮突然画了面俄罗斯旗，追了十天的美国人懵了",
-          "url": "https://news.ifeng.com/c/8pXAeeI00LV",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时20分 ~ 23时20分]"
-        },
-        {
-          "title": "克里姆林宫：俄罗斯总统普京与塔吉克斯坦总统拉赫蒙通了电话，后者谴责了基辅企图袭击俄罗斯总统官邸的行为。",
-          "url": "https://flash.jin10.com/detail/20251231165028232800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时24分"
-        },
-        {
-          "title": "被美追捕油轮“火线入籍”俄罗斯",
-          "url": "https://www.toutiao.com/trending/7589929881664753188/",
-          "source": "今日头条",
-          "ranks": [
-            16,
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时20分 ~ 19时18分]"
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 00时25分]"
         },
         {
-          "title": "俄罗斯三季度GDP终值同比增长0.6%，初值增长0.6%，符合预期。",
-          "url": "https://wallstreetcn.com/livenews/3028857",
-          "source": "华尔街见闻-快讯",
+          "title": "2026 年汽车「国补」来了，按车价比例进行补贴，最高不超 2 万元，将如何影响车市？",
+          "url": "https://www.zhihu.com/question/1989627854183483240",
+          "source": "知乎",
           "ranks": [
-            2,
-            12,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 02时30分]"
-        },
-        {
-          "title": "据俄新社：俄罗斯总参谋长格拉西莫夫视察了俄罗斯武装力量的“北方”部队集群。",
-          "url": "https://flash.jin10.com/detail/20251231120518317800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            9
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时38分 ~ 13时24分]"
-        },
-        {
-          "title": "俄罗斯第三季度GDP年率终值录得0.6%，与初步数据持平。",
-          "url": "https://flash.jin10.com/detail/20251231000311147800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 01时20分]"
-        },
-        {
-          "title": "据国际文传电讯社：俄罗斯总参谋长格拉西莫夫表示，普京总统已下令在2026年继续扩大乌克兰苏梅和哈尔科夫地区的战略缓冲地带。",
-          "url": "https://flash.jin10.com/detail/20251231120331191800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时38分 ~ 13时24分]"
-        },
-        {
-          "title": "据国际文传电讯社：俄罗斯总参谋长瓦列里·格拉西莫夫表示，俄罗斯军队正信心十足地向乌克兰防御纵深推进。",
-          "url": "https://flash.jin10.com/detail/20251231120246843800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时38分 ~ 13时24分]"
-        },
-        {
-          "title": "乌克兰安全局官员：乌克兰袭击了俄罗斯城市雷宾斯克的一处油库。",
-          "url": "https://flash.jin10.com/detail/20251231213500644800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时19分 ~ 23时20分]"
-        },
-        {
-          "title": "白俄罗斯总统卢卡申科签署法令，批准了2026年国家投资计划。该计划将拨款约29.88亿白俄罗斯卢布用于资助相关项目。",
-          "url": "https://flash.jin10.com/detail/20251231003400676800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 02时30分]"
-        },
-        {
-          "title": "乌克兰总统泽连斯基重申，他随时准备以任何形式会见俄罗斯总统普京。",
-          "url": "https://flash.jin10.com/detail/20251230235610981800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 01时20分]"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：乌克兰谈判代表已与美国团队讨论了针对俄罗斯总统普京官邸的虚假袭击事件。",
-          "url": "https://flash.jin10.com/detail/20251230235240175800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 01时20分]"
-        },
-        {
-          "title": "市场消息：俄罗斯国防部发布视频称，画面显示一架飞向普京官邸的乌克兰无人机被击落。",
-          "url": "https://flash.jin10.com/detail/20251231171852278800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时21分"
-        },
-        {
-          "title": "市场消息：俄罗斯国防部公布了试图袭击普京官邸的乌克兰无人机的飞行路线图。",
-          "url": "https://flash.jin10.com/detail/20251231171225905800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时21分"
-        },
-        {
-          "title": "莫斯科时间16:00至20:00（北京时间昨日21:00-今日01:00），俄罗斯防空部队击落109架乌克兰无人机。",
-          "url": "https://flash.jin10.com/detail/20251231014739089800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时30分"
-        },
-        {
-          "title": "俄方公布乌克兰无人机袭击俄罗斯总统官邸详细情况",
-          "url": "https://flash.jin10.com/detail/20251231181120587800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时18分"
-        },
-        {
-          "title": "芬兰警方：船员为俄罗斯、格鲁吉亚、哈萨克斯坦和阿塞拜疆公民。",
-          "url": "https://flash.jin10.com/detail/20251231222938987800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时20分"
-        },
-        {
-          "title": "乌克兰袭击俄罗斯能源设施次数创下月度新高",
-          "url": "https://flash.jin10.com/detail/20251231002802747800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
-        },
-        {
-          "title": "芬兰边防警卫队：菲特堡号船只正从俄罗斯圣彼得堡驶往以色列。",
-          "url": "https://flash.jin10.com/detail/20251231221252274800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时20分"
-        },
-        {
-          "title": "美解除对一名俄罗斯前银行高管的制裁",
-          "url": "https://wallstreetcn.com/livenews/3029022",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时26分"
-        },
-        {
-          "title": "美国更新与俄罗斯相关制裁名单中的指定对象。",
-          "url": "https://flash.jin10.com/detail/20251230230617014800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "time_info": "[00时24分 ~ 00时25分]"
         }
       ]
     },
     {
       "keyword_group": "无人机",
-      "match_count": 10,
+      "match_count": 2,
       "titles": [
         {
-          "title": "解放军无人机视角俯瞰台湾省",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32286100",
-          "source": "澎湃新闻",
+          "title": "俄公布普京官邸遭无人机袭击细节",
+          "url": "https://news.ifeng.com/c/8pXKRbe4jYs",
+          "source": "凤凰网",
           "ranks": [
-            4,
-            5
+            7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时29分 ~ 22时19分]"
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 00时25分]"
         },
         {
           "title": "来去自如,解放军无人机俯瞰台北",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348539&amp;topic_name=%E6%9D%A5%E5%8E%BB%E8%87%AA%E5%A6%82%2C%E8%A7%A3%E6%94%BE%E5%86%9B%E6%97%A0%E4%BA%BA%E6%9C%BA%E4%BF%AF%E7%9E%B0%E5%8F%B0%E5%8C%97",
           "source": "贴吧",
           "ranks": [
-            2,
-            7,
-            12,
-            15,
-            17,
-            19,
-            20,
-            22,
             23
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时26分 ~ 23时20分]"
-        },
-        {
-          "title": "“馆长”解读解放军无人机俯瞰台北",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E9%A6%86%E9%95%BF%E2%80%9D%E8%A7%A3%E8%AF%BB%E8%A7%A3%E6%94%BE%E5%86%9B%E6%97%A0%E4%BA%BA%E6%9C%BA%E4%BF%AF%E7%9E%B0%E5%8F%B0%E5%8C%97",
-          "source": "百度热搜",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时26分 ~ 07时18分]"
-        },
-        {
-          "title": "俄外长称乌几十架无人机袭击普京官邸，中方回应",
-          "url": "https://news.ifeng.com/c/8pVVsjuofq8",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 06时19分]"
-        },
-        {
-          "title": "俄公布普京官邸遭无人机袭击细节",
-          "url": "https://news.ifeng.com/c/8pXKRbe4jYs",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时20分 ~ 23时20分]"
-        },
-        {
-          "title": "解放军无人机视角俯瞰台湾省",
-          "url": "https://www.baidu.com/s?wd=%E8%A7%A3%E6%94%BE%E5%86%9B%E6%97%A0%E4%BA%BA%E6%9C%BA%E8%A7%86%E8%A7%92%E4%BF%AF%E7%9E%B0%E5%8F%B0%E6%B9%BE%E7%9C%81",
-          "source": "百度热搜",
-          "ranks": [
-            2,
-            12,
-            24,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时29分 ~ 13时24分]"
-        },
-        {
-          "title": "俄方公布乌克兰袭击普京官邸细节：其中一无人机携带6公斤爆破炸药",
-          "url": "https://wallstreetcn.com/livenews/3029389",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            18
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时19分 ~ 23时20分]"
-        },
-        {
-          "title": "“馆长”解读解放军无人机俯瞰台北",
-          "url": "https://www.toutiao.com/trending/7589195157876310042/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 18时21分]"
-        },
-        {
-          "title": "最新视频曝光：解放军无人机视角俯瞰台湾省",
-          "url": "https://www.cls.cn/detail/2244569",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时29分"
-        },
-        {
-          "title": "千架无人机万发烟花点亮2026",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%83%E6%9E%B6%E6%97%A0%E4%BA%BA%E6%9C%BA%E4%B8%87%E5%8F%91%E7%83%9F%E8%8A%B1%E7%82%B9%E4%BA%AE2026%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "内塔尼亚胡喊话伊朗：不要犯这样的错误",
-          "url": "https://news.ifeng.com/c/8pXFMyQDXcJ",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时20分 ~ 22时19分]"
-        },
-        {
-          "title": "伊朗外长：伊朗不会放弃和平核技术",
-          "url": "https://wallstreetcn.com/livenews/3028875",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            22,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时30分 ~ 04时22分]"
-        },
-        {
-          "title": "年末伊朗又起内忧：货币暴跌、三年来最大抗议",
-          "url": "https://news.ifeng.com/c/8pXBVSUicd9",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时24分"
-        },
-        {
-          "title": "伊朗称成功挫败针对其通信基础设施的大规模网络攻击",
-          "url": "https://flash.jin10.com/detail/20251231182320140800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时18分"
-        },
-        {
-          "title": "伊朗称成功挫败针对其通信基础设施的大规模网络攻击",
-          "url": "https://wallstreetcn.com/livenews/3029277",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时18分"
-        },
-        {
-          "title": "伊朗外长：伊朗不会放弃和平核技术",
-          "url": "https://flash.jin10.com/detail/20251231010744539800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时30分"
-        },
-        {
-          "title": "俄罗斯伊朗两国总统通电话 讨论伊核计划等事",
-          "url": "https://wallstreetcn.com/livenews/3028833",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
-        },
-        {
-          "title": "美国更新对伊朗相关制裁名单中的指定对象。",
-          "url": "https://flash.jin10.com/detail/20251230230520346800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23,
-            25,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 07时18分]"
-        },
-        {
-          "title": "金价周二略微反弹",
-          "url": "https://wallstreetcn.com/livenews/3028932",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时19分 ~ 07时18分]"
-        },
-        {
-          "title": "金十图示：2025年12月31日（周三）上海金早盘价为980.89元/克，较国际金价(976.71元/克)，高4.18元/克",
-          "url": "https://flash.jin10.com/detail/20251231105932049800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时26分"
-        },
-        {
-          "title": "金十图示：2025年12月31日（周三）上海金午盘价为973.33元/克，较国际金价(971.38元/克)，高1.95元/克",
-          "url": "https://flash.jin10.com/detail/20251231151034955800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时28分"
-        },
-        {
-          "title": "金价波动",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "周二（12月30日）纽约尾盘，ICE美元指数涨0.21%，报98.241点，日内交投区间为97.939-98.269点。 彭博美元指数涨0.13%，报1202.97点，日内交投区间为1200.04-1203.23点。",
-          "url": "https://wallstreetcn.com/livenews/3028908",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时22分 ~ 05时19分]"
-        },
-        {
-          "title": "美联储会议纪要公布后，现货金银短线波动不大，美元指数DXY小幅走高。",
-          "url": "https://flash.jin10.com/detail/20251231030228136800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时17分 ~ 04时22分]"
-        },
-        {
-          "title": "美元指数30日上涨",
-          "url": "https://flash.jin10.com/detail/20251231041346663800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时19分 ~ 06时19分]"
-        },
-        {
-          "title": "巴西圣保罗证交所指数收涨0.71%，报16.2万点，2025年累计上涨大约35%。 12月30日，巴西雷亚尔兑美元涨1.74%，报5.4753雷亚尔，2025年以来累计上涨11.31%。 巴西股市将于12月31日休市。",
-          "url": "https://wallstreetcn.com/livenews/3028943",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新能源",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "澎湃漫评｜新能源车禁入地库是刻舟求剑",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32282577",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18,
-            19,
-            16,
-            13,
-            10,
-            11,
-            9,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时26分 ~ 19时18分]"
-        },
-        {
-          "title": "山西大同一物业通知禁止新能源车进地库，街道办回应正收集业主意见",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32289737",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时40分 ~ 23时20分]"
-        },
-        {
-          "title": "两部门：到2030年“西电东送”规模超过4.2亿千瓦 支撑新能源发电量占比达到30%左右",
-          "url": "https://wallstreetcn.com/livenews/3029175",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时28分 ~ 17时24分]"
-        },
-        {
-          "title": "商务部等8部门：2026年对换购符合条件新能源乘用车的 按新车销售价格的8%给予补贴",
-          "url": "https://flash.jin10.com/detail/20251231000954631800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "武器",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "一图看懂｜“正义使命”围台演习第一天有何看点？出动哪些先进武器？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32280647",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时26分 ~ 09时29分]"
-        },
-        {
-          "title": "沙特主导联军：进入也门穆卡拉港的两艘船只载有武器弹药",
-          "url": "https://flash.jin10.com/detail/20251231090637337800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时29分"
-        },
-        {
-          "title": "也门由沙特主导的联军表示，两艘装载军用车辆以及装有武器和弹药集装箱的船只进入后，也门港口已被关闭。",
-          "url": "https://flash.jin10.com/detail/20251231035902102800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            11,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时22分 ~ 06时19分]"
-        },
-        {
-          "title": "也门由沙特领导的联军表示，装载武器和弹药的集装箱仍停留在也门的一个基地。",
-          "url": "https://flash.jin10.com/detail/20251231041143005800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时19分 ~ 06时19分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "软银集团宣布完成对OpenAI的额外225亿美元投资，在OpenAI中的合计持股比例现约为11%。",
-          "url": "https://flash.jin10.com/detail/20251231080437966800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时29分"
-        },
-        {
-          "title": "报道：软银已完成对OpenAI的400亿美元投资承诺",
-          "url": "https://wallstreetcn.com/livenews/3028826",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
-        },
-        {
-          "title": "软银：完成对OpenAI的225亿美元追加投资，共计持有OpenAI约11%的股份。",
-          "url": "https://wallstreetcn.com/livenews/3028971",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美联储会议纪要发布后，美元指数涨幅重新扩大至将近0.2%，逼近北京时间23:44刷新的日高98.269点。 美国10年期国债收益率持稳于4.12%附近，维持大约1个基点的涨幅；两年期美债收益率持稳于3.4450%附近，保持微幅下挫状态。 2/10年期美债收益率利差维持大约1.4个基点的涨幅，持稳于+67个基点下方。",
-          "url": "https://wallstreetcn.com/livenews/3028902",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            5,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时17分 ~ 05时19分]"
-        },
-        {
-          "title": "2年期美债收益率在美联储会议纪要公布后小幅走低，现报3.463%。",
-          "url": "https://flash.jin10.com/detail/20251231030419555800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            21,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时17分 ~ 05时19分]"
-        },
-        {
-          "title": "中长期美债收益率涨超1个基点",
-          "url": "https://wallstreetcn.com/livenews/3028910",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时19分 ~ 06时19分]"
+          "time_info": "[00时24分 ~ 00时25分]"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
-          "title": "英伟达洽谈按至多30亿美元收购以色列AI21 Labs。 在2023年那一轮融资中，AI21 Labs获得14亿美元估值，英伟达和Alphabet旗下谷歌公司都参与了那次融资。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3028884",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            16,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时30分 ~ 04时22分]"
-        },
-        {
-          "title": "谷歌旗下的自动驾驶公司Waymo已获得内华达州授权，并开始在拉斯维加斯进行配备安全员的自动驾驶测试。",
-          "url": "https://flash.jin10.com/detail/20251231031255557800",
+          "title": "谷歌旗下自动驾驶公司Waymo：正为明年在伦敦的商业发布做准备。",
+          "url": "https://flash.jin10.com/detail/20260101000228879800",
           "source": "金十数据",
           "ranks": [
-            18,
-            26
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "非洲股市收盘播报｜周三（12月31日），南非富时/JSE非洲领先40可交易指数收跌0.69%，报10.8万点，大致持稳于12月24日所创历史最高位（接近11.0万点）附近。 南非股市2025年累计上涨大约46.35%，虽然屡屡遭到特朗普政府的威胁，但月线上仍然全年走高、连续四个季度走强，并连续三年上涨。",
+          "url": "https://wallstreetcn.com/livenews/3029419",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "山西大同一物业通知禁止新能源车进地库，街道办回应正收集业主意见",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32289737",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时22分 ~ 05时19分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "如何看待黄金白银价格波动",
-          "url": "https://www.douyin.com/hot/2351661",
-          "source": "抖音",
-          "ranks": [
-            18,
-            24,
-            29,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时26分 ~ 16时28分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "战争",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "年终特稿｜枪支还是黄油：当德国开始进入“战争准备”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32268033",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时26分 ~ 07时18分]"
+          "time_info": "[00时24分 ~ 00时25分]"
         }
       ]
     }
