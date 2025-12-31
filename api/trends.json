@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-31T16:28:59.458248+08:00",
-  "total_titles_processed": 1338,
+  "generated_at": "2025-12-31T17:24:57.215269+08:00",
+  "total_titles_processed": 1431,
   "failed_sources": [],
   "trends": [
     {
@@ -62,11 +62,12 @@
             12,
             5,
             7,
-            28
+            28,
+            23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时26分 ~ 16时28分]"
+          "appearance_count": 9,
+          "time_info": "[11时26分 ~ 17时24分]"
         },
         {
           "title": "特朗普：正考虑以“严重失职”为由起诉鲍威尔，1月或公布下任美联储主席人选",
@@ -275,7 +276,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         }
@@ -283,7 +284,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "2026年国补方案出炉：新增智能产品，剔除家装、电动自行车，调整家电、汽车补贴标准",
@@ -294,8 +295,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时26分 ~ 16时28分]"
+          "appearance_count": 20,
+          "time_info": "[00时26分 ~ 17时24分]"
         },
         {
           "title": "明年汽车“国补”调整为按比例补贴：购新能源车最高补12%",
@@ -306,8 +307,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时37分 ~ 16时28分]"
+          "appearance_count": 8,
+          "time_info": "[12时37分 ~ 17时24分]"
         },
         {
           "title": "汽车以旧换新国补将按车价比例补贴",
@@ -325,6 +326,20 @@
           "time_info": "[00时26分 ~ 09时29分]"
         },
         {
+          "title": "2026年汽车国补细则",
+          "url": "https://www.douyin.com/hot/2352698",
+          "source": "抖音",
+          "ranks": [
+            4,
+            11,
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时26分 ~ 17时24分]"
+        },
+        {
           "title": "汽车以旧换新国补将按车价比例补贴",
           "url": "https://www.toutiao.com/trending/7589611017433517578/",
           "source": "今日头条",
@@ -337,19 +352,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时26分 ~ 07时18分]"
-        },
-        {
-          "title": "2026年汽车国补细则",
-          "url": "https://www.douyin.com/hot/2352698",
-          "source": "抖音",
-          "ranks": [
-            4,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时26分 ~ 16时28分]"
         },
         {
           "title": "2026年汽车“国补”细则来了",
@@ -375,8 +377,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时26分 ~ 16时28分]"
+          "appearance_count": 9,
+          "time_info": "[11时26分 ~ 17时24分]"
         },
         {
           "title": "【早报】2026年“国补”政策来了；汽车以旧换新补贴实施细则出炉",
@@ -426,6 +428,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时37分 ~ 14时32分]"
+        },
+        {
+          "title": "2026 年汽车「国补」来了，按车价比例进行补贴，最高不超 2 万元，将如何影响车市？",
+          "url": "https://www.zhihu.com/question/1989627854183483240",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
         },
         {
           "title": "商务部等8部门办公厅印发《2026年汽车以旧换新补贴实施细则》通知",
@@ -497,6 +510,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时29分"
+        },
+        {
+          "title": "2026年汽车“国补”细则正式发布",
+          "url": "https://www.toutiao.com/trending/7589211170859634230/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
         }
       ]
     },
@@ -526,8 +550,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时18分 ~ 16时28分]"
+          "appearance_count": 11,
+          "time_info": "[07时18分 ~ 17时24分]"
         },
         {
           "title": "静待美联储会议纪要，美股指集体低开，现货黄金反弹至4400美元，白银涨逾5%，在岸人民币破7",
@@ -696,7 +720,7 @@
     },
     {
       "keyword_group": "俄罗斯",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "俄罗斯外交部：反对任何形式“台独”分裂行径",
@@ -709,6 +733,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[09时29分 ~ 16时28分]"
+        },
+        {
+          "title": "克里姆林宫：俄罗斯总统普京与塔吉克斯坦总统拉赫蒙通了电话，后者谴责了基辅企图袭击俄罗斯总统官邸的行为。",
+          "url": "https://flash.jin10.com/detail/20251231165028232800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
         },
         {
           "title": "俄罗斯三季度GDP终值同比增长0.6%，初值增长0.6%，符合预期。",
@@ -866,8 +901,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时29分 ~ 16时28分]"
+          "appearance_count": 10,
+          "time_info": "[09时29分 ~ 17时24分]"
         },
         {
           "title": "来去自如,解放军无人机俯瞰台北",
@@ -879,11 +914,12 @@
             12,
             15,
             17,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时26分 ~ 16时28分]"
+          "appearance_count": 20,
+          "time_info": "[00时26分 ~ 17时24分]"
         },
         {
           "title": "“馆长”解读解放军无人机俯瞰台北",
@@ -982,7 +1018,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         },
@@ -992,6 +1028,69 @@
           "source": "微博",
           "ranks": [
             26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "伊朗外长：伊朗不会放弃和平核技术",
+          "url": "https://wallstreetcn.com/livenews/3028875",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            22,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时30分 ~ 04时22分]"
+        },
+        {
+          "title": "年末伊朗又起内忧：货币暴跌、三年来最大抗议",
+          "url": "https://news.ifeng.com/c/8pXBVSUicd9",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        },
+        {
+          "title": "伊朗外长：伊朗不会放弃和平核技术",
+          "url": "https://flash.jin10.com/detail/20251231010744539800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时30分"
+        },
+        {
+          "title": "俄罗斯伊朗两国总统通电话 讨论伊核计划等事",
+          "url": "https://wallstreetcn.com/livenews/3028833",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时26分"
+        },
+        {
+          "title": "美国更新对伊朗相关制裁名单中的指定对象。",
+          "url": "https://flash.jin10.com/detail/20251230230520346800",
+          "source": "金十数据",
+          "ranks": [
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -1049,58 +1148,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "伊朗外长：伊朗不会放弃和平核技术",
-          "url": "https://wallstreetcn.com/livenews/3028875",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            22,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时30分 ~ 04时22分]"
-        },
-        {
-          "title": "伊朗外长：伊朗不会放弃和平核技术",
-          "url": "https://flash.jin10.com/detail/20251231010744539800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时30分"
-        },
-        {
-          "title": "俄罗斯伊朗两国总统通电话 讨论伊核计划等事",
-          "url": "https://wallstreetcn.com/livenews/3028833",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
-        },
-        {
-          "title": "美国更新对伊朗相关制裁名单中的指定对象。",
-          "url": "https://flash.jin10.com/detail/20251230230520346800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
         }
       ]
     },
@@ -1262,19 +1309,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时26分 ~ 16时28分]"
+          "appearance_count": 20,
+          "time_info": "[00时26分 ~ 17时24分]"
         },
         {
           "title": "两部门：到2030年“西电东送”规模超过4.2亿千瓦 支撑新能源发电量占比达到30%左右",
           "url": "https://wallstreetcn.com/livenews/3029175",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            13,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时28分 ~ 17时24分]"
         },
         {
           "title": "商务部等8部门：2026年对换购符合条件新能源乘用车的 按新车销售价格的8%给予补贴",
