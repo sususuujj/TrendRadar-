@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-31T12:38:14.548493+08:00",
-  "total_titles_processed": 1010,
+  "generated_at": "2025-12-31T13:24:23.100228+08:00",
+  "total_titles_processed": 1066,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "外交部回应特朗普涉中国军演言论",
@@ -66,6 +66,17 @@
           "time_info": "[00时26分 ~ 05时19分]"
         },
         {
+          "title": "据英国金融时报：由特朗普集团推出的手机公司Trump Mobile已推迟原定于今年年底发售金色智能手机的计划。",
+          "url": "https://flash.jin10.com/detail/20251231130723991800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
           "title": "特朗普为何称不担心解放军绕台军演",
           "url": "https://www.toutiao.com/trending/7589509514882891795/",
           "source": "今日头条",
@@ -101,6 +112,18 @@
           "time_info": "[05时19分 ~ 06时19分]"
         },
         {
+          "title": "中方回应特朗普涉东部战区军演言论",
+          "url": "https://www.toutiao.com/trending/7589836293949902363/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时26分 ~ 13时24分]"
+        },
+        {
           "title": "外交部回应特朗普谈解放军军演",
           "url": "https://www.douyin.com/hot/2352044",
           "source": "抖音",
@@ -113,18 +136,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时22分 ~ 07时18分]"
-        },
-        {
-          "title": "中方回应特朗普涉东部战区军演言论",
-          "url": "https://www.toutiao.com/trending/7589836293949902363/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时26分 ~ 12时38分]"
         },
         {
           "title": "乌克兰总统泽连斯基：如果美国总统特朗普访问乌克兰，这将“很有用”。",
@@ -256,8 +267,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时18分 ~ 12时38分]"
+          "appearance_count": 6,
+          "time_info": "[07时18分 ~ 13时24分]"
         },
         {
           "title": "美股收盘：三大指数携手三连跌 金属上涨潮卷土重来",
@@ -426,8 +437,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时26分 ~ 12时38分]"
+          "appearance_count": 15,
+          "time_info": "[00时26分 ~ 13时24分]"
         },
         {
           "title": "汽车以旧换新国补将按车价比例补贴",
@@ -459,6 +470,17 @@
           "time_info": "[00时26分 ~ 07时18分]"
         },
         {
+          "title": "明年汽车“国补”调整为按比例补贴：购新能源车最高补12%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32284463",
+          "source": "澎湃新闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时37分 ~ 13时24分]"
+        },
+        {
           "title": "【早报】2026年“国补”政策来了；汽车以旧换新补贴实施细则出炉",
           "url": "https://www.cls.cn/detail/2244743",
           "source": "财联社热门",
@@ -470,26 +492,28 @@
           "time_info": "[09时29分 ~ 11时26分]"
         },
         {
-          "title": "明年汽车“国补”调整为按比例补贴：购新能源车最高补12%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32284463",
-          "source": "澎湃新闻",
+          "title": "2026年汽车“国补”细则来了",
+          "url": "https://www.cls.cn/detail/2244801",
+          "source": "财联社热门",
           "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时37分 ~ 12时38分]"
-        },
-        {
-          "title": "2026汽车报废置换补贴解读",
-          "url": "https://search.bilibili.com/all?keyword=2026%E6%B1%BD%E8%BD%A6%E6%8A%A5%E5%BA%9F%E7%BD%AE%E6%8D%A2%E8%A1%A5%E8%B4%B4%E8%A7%A3%E8%AF%BB",
-          "source": "bilibili 热搜",
-          "ranks": [
+            9,
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时37分 ~ 12时38分]"
+          "appearance_count": 4,
+          "time_info": "[11时26分 ~ 13时24分]"
+        },
+        {
+          "title": "2026年汽车国补细则",
+          "url": "https://www.douyin.com/hot/2352698",
+          "source": "抖音",
+          "ranks": [
+            4,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时26分 ~ 13时24分]"
         },
         {
           "title": "恒指低开0.21%，报25801.49点；恒生科技指数跌0.22%。蔚来涨超3%，小鹏汽车涨超2%；携程跌2%，京东健康、京东集团、网易、快手跌超1%。",
@@ -503,28 +527,30 @@
           "time_info": "09时29分"
         },
         {
-          "title": "2026年汽车“国补”细则来了",
-          "url": "https://www.cls.cn/detail/2244801",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时26分 ~ 12时38分]"
-        },
-        {
-          "title": "2026年汽车国补细则",
-          "url": "https://www.douyin.com/hot/2352698",
-          "source": "抖音",
+          "title": "2026汽车报废置换补贴解读",
+          "url": "https://search.bilibili.com/all?keyword=2026%E6%B1%BD%E8%BD%A6%E6%8A%A5%E5%BA%9F%E7%BD%AE%E6%8D%A2%E8%A1%A5%E8%B4%B4%E8%A7%A3%E8%AF%BB",
+          "source": "bilibili 热搜",
           "ranks": [
             4,
-            11
+            12
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时26分 ~ 12时38分]"
+          "time_info": "[12时37分 ~ 13时24分]"
+        },
+        {
+          "title": "2026年将扩大汽车报废更新补贴范围",
+          "url": "https://www.baidu.com/s?wd=2026%E5%B9%B4%E5%B0%86%E6%89%A9%E5%A4%A7%E6%B1%BD%E8%BD%A6%E6%8A%A5%E5%BA%9F%E6%9B%B4%E6%96%B0%E8%A1%A5%E8%B4%B4%E8%8C%83%E5%9B%B4",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            24,
+            26,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时29分 ~ 13时24分]"
         },
         {
           "title": "商务部等8部门办公厅印发《2026年汽车以旧换新补贴实施细则》通知",
@@ -576,29 +602,17 @@
           "time_info": "[11时26分 ~ 12时38分]"
         },
         {
-          "title": "2026年将扩大汽车报废更新补贴范围",
-          "url": "https://www.baidu.com/s?wd=2026%E5%B9%B4%E5%B0%86%E6%89%A9%E5%A4%A7%E6%B1%BD%E8%BD%A6%E6%8A%A5%E5%BA%9F%E6%9B%B4%E6%96%B0%E8%A1%A5%E8%B4%B4%E8%8C%83%E5%9B%B4",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            24,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时29分 ~ 12时38分]"
-        },
-        {
           "title": "2026年我国将扩大汽车报废更新补贴支持范围",
           "url": "https://m.thepaper.cn/newsDetail_forward_32289197",
           "source": "澎湃新闻",
           "ranks": [
             17,
-            15
+            15,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时26分 ~ 12时38分]"
+          "appearance_count": 4,
+          "time_info": "[11时26分 ~ 13时24分]"
         },
         {
           "title": "2026年我国将扩大汽车报废更新补贴支持范围",
@@ -626,41 +640,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时29分 ~ 12时38分]"
-        },
-        {
-          "title": "据俄新社：俄罗斯总参谋长格拉西莫夫视察了俄罗斯武装力量的“北方”部队集群。",
-          "url": "https://flash.jin10.com/detail/20251231120518317800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时38分"
-        },
-        {
-          "title": "据国际文传电讯社：俄罗斯总参谋长格拉西莫夫表示，普京总统已下令在2026年继续扩大乌克兰苏梅和哈尔科夫地区的战略缓冲地带。",
-          "url": "https://flash.jin10.com/detail/20251231120331191800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时38分"
-        },
-        {
-          "title": "据国际文传电讯社：俄罗斯总参谋长瓦列里·格拉西莫夫表示，俄罗斯军队正信心十足地向乌克兰防御纵深推进。",
-          "url": "https://flash.jin10.com/detail/20251231120246843800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时38分"
+          "appearance_count": 5,
+          "time_info": "[09时29分 ~ 13时24分]"
         },
         {
           "title": "俄罗斯三季度GDP终值同比增长0.6%，初值增长0.6%，符合预期。",
@@ -676,6 +657,18 @@
           "time_info": "[00时26分 ~ 02时30分]"
         },
         {
+          "title": "据俄新社：俄罗斯总参谋长格拉西莫夫视察了俄罗斯武装力量的“北方”部队集群。",
+          "url": "https://flash.jin10.com/detail/20251231120518317800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时38分 ~ 13时24分]"
+        },
+        {
           "title": "俄罗斯第三季度GDP年率终值录得0.6%，与初步数据持平。",
           "url": "https://flash.jin10.com/detail/20251231000311147800",
           "source": "金十数据",
@@ -686,6 +679,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时26分 ~ 01时20分]"
+        },
+        {
+          "title": "据国际文传电讯社：俄罗斯总参谋长格拉西莫夫表示，普京总统已下令在2026年继续扩大乌克兰苏梅和哈尔科夫地区的战略缓冲地带。",
+          "url": "https://flash.jin10.com/detail/20251231120331191800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时38分 ~ 13时24分]"
+        },
+        {
+          "title": "据国际文传电讯社：俄罗斯总参谋长瓦列里·格拉西莫夫表示，俄罗斯军队正信心十足地向乌克兰防御纵深推进。",
+          "url": "https://flash.jin10.com/detail/20251231120246843800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时38分 ~ 13时24分]"
         },
         {
           "title": "白俄罗斯总统卢卡申科签署法令，批准了2026年国家投资计划。该计划将拨款约29.88亿白俄罗斯卢布用于资助相关项目。",
@@ -783,8 +800,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时26分 ~ 12时38分]"
+          "appearance_count": 15,
+          "time_info": "[00时26分 ~ 13时24分]"
         },
         {
           "title": "“馆长”解读解放军无人机俯瞰台北",
@@ -814,11 +831,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32286100",
           "source": "澎湃新闻",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时29分 ~ 12时38分]"
+          "appearance_count": 5,
+          "time_info": "[09时29分 ~ 13时24分]"
         },
         {
           "title": "解放军无人机视角俯瞰台湾省",
@@ -827,11 +845,12 @@
           "ranks": [
             2,
             12,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时29分 ~ 12时38分]"
+          "appearance_count": 5,
+          "time_info": "[09时29分 ~ 13时24分]"
         },
         {
           "title": "最新视频曝光：解放军无人机视角俯瞰台湾省",
@@ -1191,8 +1210,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时26分 ~ 12时38分]"
+          "appearance_count": 15,
+          "time_info": "[00时26分 ~ 13时24分]"
         },
         {
           "title": "商务部等8部门：2026年对换购符合条件新能源乘用车的 按新车销售价格的8%给予补贴",
@@ -1216,11 +1235,12 @@
           "url": "https://www.douyin.com/hot/2351661",
           "source": "抖音",
           "ranks": [
-            18
+            18,
+            24
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时26分"
+          "appearance_count": 2,
+          "time_info": "[11时26分 ~ 13时24分]"
         }
       ]
     },
