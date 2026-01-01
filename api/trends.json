@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T06:19:47.794354+08:00",
-  "total_titles_processed": 454,
+  "generated_at": "2026-01-02T07:19:52.053336+08:00",
+  "total_titles_processed": 476,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,27 @@
           "ranks": [
             2,
             4,
-            9
+            9,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时16分 ~ 06时19分]"
+          "appearance_count": 5,
+          "time_info": "[03时16分 ~ 07时19分]"
+        },
+        {
+          "title": "俄罗斯要求美国停止追捕一艘大西洋逃逸油轮",
+          "url": "https://flash.jin10.com/detail/20260102022454180800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            9,
+            13,
+            16,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时16分 ~ 07时19分]"
         },
         {
           "title": "俄罗斯向美国移交袭击普京官邸的被击落无人机数据",
@@ -45,20 +61,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
-        },
-        {
-          "title": "俄罗斯要求美国停止追捕一艘大西洋逃逸油轮",
-          "url": "https://flash.jin10.com/detail/20260102022454180800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            9,
-            13,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时16分 ~ 06时19分]"
         },
         {
           "title": "俄罗斯赫尔松州州长：赫尔松地区发布空中危险警报。",
@@ -95,11 +97,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            6
+            6,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时19分 ~ 06时19分]"
+          "appearance_count": 3,
+          "time_info": "[05时19分 ~ 07时19分]"
         },
         {
           "title": "俄罗斯外交部：对赫尔松州霍尔利平民发动袭击的责任人将受到不可避免的惩罚。",
@@ -152,8 +155,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时25分 ~ 06时19分]"
+          "appearance_count": 11,
+          "time_info": "[00时25分 ~ 07时19分]"
         },
         {
           "title": "美国缩减对意大利面关税，意大利称特朗普时期政策回调",
@@ -164,11 +167,12 @@
             8,
             10,
             12,
-            17
+            17,
+            23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时20分 ~ 06时19分]"
+          "appearance_count": 7,
+          "time_info": "[01时20分 ~ 07时19分]"
         },
         {
           "title": "白宫：特朗普总统已签署一项行政命令，修改对进口到美国的木材、木料及其衍生产品的关税。",
@@ -193,11 +197,12 @@
           "ranks": [
             3,
             7,
-            10
+            10,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时23分 ~ 06时19分]"
+          "appearance_count": 4,
+          "time_info": "[04时23分 ~ 07时19分]"
         },
         {
           "title": "报告：若俄乌冲突结束，特朗普或将加大力度与俄罗斯建立对话",
@@ -206,11 +211,12 @@
           "ranks": [
             7,
             11,
-            14
+            14,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时23分 ~ 06时19分]"
+          "appearance_count": 4,
+          "time_info": "[04时23分 ~ 07时19分]"
         },
         {
           "title": "美媒：特朗普每日服用阿司匹林剂量超出医嘱范围",
@@ -250,8 +256,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时25分 ~ 06时19分]"
+          "appearance_count": 11,
+          "time_info": "[00时25分 ~ 07时19分]"
         },
         {
           "title": "伊朗一警察局遭暴徒袭击 已致3死17伤",
@@ -261,11 +267,12 @@
             2,
             4,
             6,
-            11
+            11,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时29分 ~ 06时19分]"
+          "appearance_count": 6,
+          "time_info": "[02时29分 ~ 07时19分]"
         },
         {
           "title": "据伊朗法尔斯通讯社：伊朗西南部拉德甘市发生抗议和骚乱，造成两人死亡。",
@@ -307,8 +314,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时25分 ~ 06时19分]"
+          "appearance_count": 11,
+          "time_info": "[00时25分 ~ 07时19分]"
         },
         {
           "title": "DeepSeek开年发布新论文",
@@ -323,8 +330,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时25分 ~ 06时19分]"
+          "appearance_count": 11,
+          "time_info": "[00时25分 ~ 07时19分]"
         },
         {
           "title": "DeepSeek梁文锋又发论文了",
@@ -335,8 +342,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 06时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时25分 ~ 07时19分]"
         }
       ]
     },
@@ -404,11 +411,12 @@
             10,
             12,
             14,
-            19
+            19,
+            25
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 06时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 07时19分]"
         },
         {
           "title": "莫斯科市长表示，防空系统击退了另外五架飞向莫斯科的无人机的攻击。",
@@ -443,6 +451,34 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美股收盘：三大指数低调收官 中国金龙指数全年累计上涨11.33%",
+          "url": "https://www.cls.cn/detail/2246008",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时25分 ~ 07时19分]"
+        },
+        {
+          "title": "美股三大股指期货周五开盘微涨。",
+          "url": "https://flash.jin10.com/detail/20260102070027378800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        }
+      ]
+    },
+    {
       "keyword_group": "汽车",
       "match_count": 2,
       "titles": [
@@ -454,11 +490,12 @@
             2,
             1,
             4,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时25分 ~ 06时19分]"
+          "appearance_count": 11,
+          "time_info": "[00时25分 ~ 07时19分]"
         },
         {
           "title": "比亚迪：12月新能源汽车销量42.04万辆",
@@ -474,23 +511,6 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美股收盘：三大指数低调收官 中国金龙指数全年累计上涨11.33%",
-          "url": "https://www.cls.cn/detail/2246008",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时25分 ~ 06时19分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "武器",
       "match_count": 1,
       "titles": [
@@ -500,11 +520,12 @@
           "source": "澎湃新闻",
           "ranks": [
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时25分 ~ 06时19分]"
+          "appearance_count": 11,
+          "time_info": "[00时25分 ~ 07时19分]"
         }
       ]
     }
