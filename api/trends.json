@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T21:33:24.102272+08:00",
-  "total_titles_processed": 1473,
+  "generated_at": "2026-01-01T22:19:34.341207+08:00",
+  "total_titles_processed": 1532,
   "failed_sources": [],
   "trends": [
     {
@@ -31,6 +31,23 @@
           "time_info": "[00时24分 ~ 07时19分]"
         },
         {
+          "title": "小鹏汽车：2025年12月交付37,508辆汽车，同比增长2%。2025年交付429,445辆汽车，同比增长126%。",
+          "url": "https://wallstreetcn.com/livenews/3029592",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            8,
+            12,
+            16,
+            26,
+            28,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时28分 ~ 22时19分]"
+        },
+        {
           "title": "2026 年 1 月 1 日起至次年购置的新能源汽车将减半征收车辆购置税，哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/1989014402733717101",
           "source": "知乎",
@@ -44,20 +61,20 @@
           "time_info": "[09时47分 ~ 13时27分]"
         },
         {
-          "title": "小鹏汽车：2025年12月交付37,508辆汽车，同比增长2%。2025年交付429,445辆汽车，同比增长126%。",
-          "url": "https://wallstreetcn.com/livenews/3029592",
+          "title": "塔塔汽车：2026财年第三季度销量达171,013辆，较139,829辆有所增长。",
+          "url": "https://wallstreetcn.com/livenews/3029597",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            8,
-            12,
-            16,
-            26,
-            28
+            6,
+            10,
+            20,
+            22,
+            24
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[16时28分 ~ 21时33分]"
+          "time_info": "[17时24分 ~ 22时19分]"
         },
         {
           "title": "吉利汽车：2025年12月的汽车总销量为236,817部，较去年同期增长约13%；2025年全年汽车总销量为3,024,567部，较去年同期增长约39%。",
@@ -70,21 +87,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时22分 ~ 19时18分]"
-        },
-        {
-          "title": "塔塔汽车：2026财年第三季度销量达171,013辆，较139,829辆有所增长。",
-          "url": "https://wallstreetcn.com/livenews/3029597",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            6,
-            10,
-            20,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时24分 ~ 21时33分]"
         },
         {
           "title": "小鹏汽车：2025年12月交付37,508辆汽车，同比增长2%。2025年交付429,445辆汽车，同比增长126%。",
@@ -167,6 +169,20 @@
           "time_info": "[16时28分 ~ 20时40分]"
         },
         {
+          "title": "长城汽车：2025年全年汽车销量为132.4万辆，同比增长7.3%。",
+          "url": "https://wallstreetcn.com/livenews/3029603",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            14,
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时18分 ~ 22时19分]"
+        },
+        {
           "title": "周三（12月31日），彭博电动汽车价格回报指数跌0.40%，报3444.85点。 12月份累涨0.76%呈现出W形走势，四季度累涨0.14%，2025年累计上涨超43.84%。",
           "url": "https://wallstreetcn.com/livenews/3029484",
           "source": "华尔街见闻-快讯",
@@ -178,19 +194,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时18分 ~ 07时19分]"
-        },
-        {
-          "title": "长城汽车：2025年全年汽车销量为132.4万辆，同比增长7.3%。",
-          "url": "https://wallstreetcn.com/livenews/3029603",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            14,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时18分 ~ 21时33分]"
         },
         {
           "title": "极氪汽车：2025年12月交付新车30267台，月销首次超过3万台，创历史新高，同比增长11.3%，环比增长4.9%。2025全年极氪总计交付224133台，较2024年实现同比增长。",
@@ -207,6 +210,19 @@
           "time_info": "[16时28分 ~ 19时18分]"
         },
         {
+          "title": "比亚迪：12月新能源汽车销量42.04万辆",
+          "url": "https://wallstreetcn.com/livenews/3029608",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时40分 ~ 22时19分]"
+        },
+        {
           "title": "2026年汽车国补细则",
           "url": "https://www.douyin.com/hot/2352698",
           "source": "抖音",
@@ -217,6 +233,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时18分 ~ 06时20分]"
+        },
+        {
+          "title": "吉利汽车超额完成2025年全年目标，2026年将冲击345万辆",
+          "url": "https://wallstreetcn.com/livenews/3029602",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时40分 ~ 22时19分]"
         },
         {
           "title": "海南：汽车以旧换新最高补贴2万元",
@@ -244,18 +273,6 @@
           "time_info": "[13时26分 ~ 14时32分]"
         },
         {
-          "title": "比亚迪：12月新能源汽车销量42.04万辆",
-          "url": "https://wallstreetcn.com/livenews/3029608",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时40分 ~ 21时33分]"
-        },
-        {
           "title": "金十图示：2026年01月01日（周四）全球汽车制造商市值变化",
           "url": "https://flash.jin10.com/detail/20260101110745884800",
           "source": "金十数据",
@@ -266,18 +283,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时50分 ~ 12时47分]"
-        },
-        {
-          "title": "吉利汽车超额完成2025年全年目标，2026年将冲击345万辆",
-          "url": "https://wallstreetcn.com/livenews/3029602",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时40分 ~ 21时33分]"
         },
         {
           "title": "岚图汽车2025年交付超15万辆，同比增87%",
@@ -407,7 +412,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "特朗普：将从芝加哥、洛杉矶和波特兰撤走国民警卫队",
@@ -437,6 +442,17 @@
           "time_info": "[03时15分 ~ 07时19分]"
         },
         {
+          "title": "决定从三个城市撤走国民警卫队，特朗普政策反复为哪般？",
+          "url": "https://news.ifeng.com/c/8pZG8Eef0SN",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        },
+        {
           "title": "美国总统特朗普宣布：从芝加哥、洛杉矶、波特兰撤走国民警卫队。",
           "url": "https://wallstreetcn.com/livenews/3029479",
           "source": "华尔街见闻-快讯",
@@ -446,6 +462,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-01）",
+          "url": "https://flash.jin10.com/detail/20260101184638613800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            9,
+            20,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时18分 ~ 22时19分]"
         },
         {
           "title": "迫于物价压力 特朗普推迟对家具及橱柜加征关税至2027年",
@@ -472,19 +502,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时18分 ~ 03时16分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-01）",
-          "url": "https://flash.jin10.com/detail/20260101184638613800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            9,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时18分 ~ 21时33分]"
         },
         {
           "title": "委内瑞拉Orinoco Belt的石油产量两周锐减25%，特朗普政府的封锁造成严重威胁",
@@ -634,7 +651,7 @@
     },
     {
       "keyword_group": "俄罗斯",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "跑路油轮突然画了面俄罗斯旗，追了十天的美国人懵了",
@@ -646,6 +663,45 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时24分 ~ 06时20分]"
+        },
+        {
+          "title": "乌克兰军方表示，已袭击了位于鞑靼斯坦的俄罗斯阿尔梅捷夫斯卡娅石油处理设施。",
+          "url": "https://flash.jin10.com/detail/20260101185934316800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            6,
+            17,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时18分 ~ 22时19分]"
+        },
+        {
+          "title": "乌克兰军方称已袭击俄罗斯的伊尔斯基炼油厂。",
+          "url": "https://flash.jin10.com/detail/20260101185542100800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            7,
+            18,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时18分 ~ 22时19分]"
+        },
+        {
+          "title": "俄罗斯国防部：自清晨以来，已在俄罗斯各地区共击落58架无人机。",
+          "url": "https://flash.jin10.com/detail/20260101214039700800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
         },
         {
           "title": "当地媒体报道称，乌克兰无人机袭击俄罗斯鞑靼斯坦的一处储能设施，引发火灾。",
@@ -674,32 +730,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[18时22分 ~ 21时33分]"
-        },
-        {
-          "title": "乌克兰军方表示，已袭击了位于鞑靼斯坦的俄罗斯阿尔梅捷夫斯卡娅石油处理设施。",
-          "url": "https://flash.jin10.com/detail/20260101185934316800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            6,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时18分 ~ 21时33分]"
-        },
-        {
-          "title": "乌克兰军方称已袭击俄罗斯的伊尔斯基炼油厂。",
-          "url": "https://flash.jin10.com/detail/20260101185542100800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            7,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时18分 ~ 21时33分]"
         },
         {
           "title": "白俄罗斯总统卢卡申科和俄罗斯总统普京今晚进行了电话交谈。",
@@ -768,11 +798,12 @@
           "url": "https://flash.jin10.com/detail/20260101200806097800",
           "source": "金十数据",
           "ranks": [
-            11
+            11,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时33分 ~ 22时19分]"
         },
         {
           "title": "俄罗斯为何死磕顿巴斯与克里米亚",
@@ -813,8 +844,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时47分 ~ 21时33分]"
+          "appearance_count": 18,
+          "time_info": "[09时47分 ~ 22时19分]"
         },
         {
           "title": "美股三大期指小幅走弱 年末获利了结情绪升温 | 今夜看点",
@@ -990,11 +1021,12 @@
           "url": "https://flash.jin10.com/detail/20260101202309019800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时33分 ~ 22时19分]"
         },
         {
           "title": "俄方公布乌无人机袭击普京官邸细节",
@@ -1134,8 +1166,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时21分 ~ 21时33分]"
+          "appearance_count": 7,
+          "time_info": "[18时21分 ~ 22时19分]"
         },
         {
           "title": "DeepSeek发布梁文锋署名新论文 开启架构新篇章",
@@ -1146,11 +1178,12 @@
             7,
             11,
             21,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时24分 ~ 21时33分]"
+          "appearance_count": 6,
+          "time_info": "[17时24分 ~ 22时19分]"
         },
         {
           "title": "DeepSeek发布梁文锋署名新论文：提出mHC新架构 提升大模型训练稳定性",
@@ -1165,6 +1198,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[18时22分 ~ 21时33分]"
+        },
+        {
+          "title": "DeepSeek开年发布新论文",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%BC%80%E5%B9%B4%E5%8F%91%E5%B8%83%E6%96%B0%E8%AE%BA%E6%96%87",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时33分 ~ 22时19分]"
         },
         {
           "title": "DeepSeek开年发布新论文",
@@ -1183,22 +1228,12 @@
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%A2%81%E6%96%87%E9%94%8B%E5%8F%88%E5%8F%91%E8%AE%BA%E6%96%87%E4%BA%86",
           "source": "bilibili 热搜",
           "ranks": [
-            14
+            14,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时33分"
-        },
-        {
-          "title": "DeepSeek开年发布新论文",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%BC%80%E5%B9%B4%E5%8F%91%E5%B8%83%E6%96%B0%E8%AE%BA%E6%96%87",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时33分 ~ 22时19分]"
         }
       ]
     },
@@ -1254,11 +1289,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            12
+            12,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时40分 ~ 21时33分]"
+          "appearance_count": 3,
+          "time_info": "[20时40分 ~ 22时19分]"
         },
         {
           "title": "伊朗总统发表讲话：“伊朗正处于一场全面战争之中”",
@@ -1266,11 +1302,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时40分 ~ 21时33分]"
+          "appearance_count": 3,
+          "time_info": "[20时40分 ~ 22时19分]"
         },
         {
           "title": "内塔尼亚胡喊话伊朗",
@@ -1413,11 +1450,12 @@
             14,
             11,
             10,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时49分 ~ 21时33分]"
+          "appearance_count": 17,
+          "time_info": "[11时49分 ~ 22时19分]"
         }
       ]
     }
