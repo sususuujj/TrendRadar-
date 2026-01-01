@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T22:19:34.341207+08:00",
-  "total_titles_processed": 1532,
+  "generated_at": "2026-01-01T23:20:44.872752+08:00",
+  "total_titles_processed": 1579,
   "failed_sources": [],
   "trends": [
     {
@@ -31,6 +31,23 @@
           "time_info": "[00时24分 ~ 07时19分]"
         },
         {
+          "title": "塔塔汽车：2026财年第三季度销量达171,013辆，较139,829辆有所增长。",
+          "url": "https://wallstreetcn.com/livenews/3029597",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            6,
+            10,
+            20,
+            22,
+            24,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时24分 ~ 23时20分]"
+        },
+        {
           "title": "小鹏汽车：2025年12月交付37,508辆汽车，同比增长2%。2025年交付429,445辆汽车，同比增长126%。",
           "url": "https://wallstreetcn.com/livenews/3029592",
           "source": "华尔街见闻-快讯",
@@ -59,22 +76,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时47分 ~ 13时27分]"
-        },
-        {
-          "title": "塔塔汽车：2026财年第三季度销量达171,013辆，较139,829辆有所增长。",
-          "url": "https://wallstreetcn.com/livenews/3029597",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            6,
-            10,
-            20,
-            22,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时24分 ~ 22时19分]"
         },
         {
           "title": "吉利汽车：2025年12月的汽车总销量为236,817部，较去年同期增长约13%；2025年全年汽车总销量为3,024,567部，较去年同期增长约39%。",
@@ -126,6 +127,21 @@
           "time_info": "16时28分"
         },
         {
+          "title": "长城汽车：2025年全年汽车销量为132.4万辆，同比增长7.3%。",
+          "url": "https://wallstreetcn.com/livenews/3029603",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            14,
+            16,
+            18,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时18分 ~ 23时20分]"
+        },
+        {
           "title": "日本一铁路道口发生汽车与列车相撞",
           "url": "https://flash.jin10.com/detail/20260101161448468800",
           "source": "金十数据",
@@ -169,20 +185,6 @@
           "time_info": "[16时28分 ~ 20时40分]"
         },
         {
-          "title": "长城汽车：2025年全年汽车销量为132.4万辆，同比增长7.3%。",
-          "url": "https://wallstreetcn.com/livenews/3029603",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            14,
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时18分 ~ 22时19分]"
-        },
-        {
           "title": "周三（12月31日），彭博电动汽车价格回报指数跌0.40%，报3444.85点。 12月份累涨0.76%呈现出W形走势，四季度累涨0.14%，2025年累计上涨超43.84%。",
           "url": "https://wallstreetcn.com/livenews/3029484",
           "source": "华尔街见闻-快讯",
@@ -194,6 +196,20 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时18分 ~ 07时19分]"
+        },
+        {
+          "title": "比亚迪：12月新能源汽车销量42.04万辆",
+          "url": "https://wallstreetcn.com/livenews/3029608",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            12,
+            14,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时40分 ~ 23时20分]"
         },
         {
           "title": "极氪汽车：2025年12月交付新车30267台，月销首次超过3万台，创历史新高，同比增长11.3%，环比增长4.9%。2025全年极氪总计交付224133台，较2024年实现同比增长。",
@@ -210,17 +226,18 @@
           "time_info": "[16时28分 ~ 19时18分]"
         },
         {
-          "title": "比亚迪：12月新能源汽车销量42.04万辆",
-          "url": "https://wallstreetcn.com/livenews/3029608",
+          "title": "吉利汽车超额完成2025年全年目标，2026年将冲击345万辆",
+          "url": "https://wallstreetcn.com/livenews/3029602",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            12,
-            14
+            15,
+            17,
+            19,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时40分 ~ 22时19分]"
+          "appearance_count": 4,
+          "time_info": "[20时40分 ~ 23时20分]"
         },
         {
           "title": "2026年汽车国补细则",
@@ -233,19 +250,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时18分 ~ 06时20分]"
-        },
-        {
-          "title": "吉利汽车超额完成2025年全年目标，2026年将冲击345万辆",
-          "url": "https://wallstreetcn.com/livenews/3029602",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            17,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时40分 ~ 22时19分]"
         },
         {
           "title": "海南：汽车以旧换新最高补贴2万元",
@@ -412,7 +416,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "特朗普：将从芝加哥、洛杉矶和波特兰撤走国民警卫队",
@@ -446,11 +450,23 @@
           "url": "https://news.ifeng.com/c/8pZG8Eef0SN",
           "source": "凤凰网",
           "ranks": [
-            3
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时19分 ~ 23时20分]"
+        },
+        {
+          "title": "美媒：特朗普每日服用阿司匹林剂量超出医嘱范围",
+          "url": "https://flash.jin10.com/detail/20260101224323084800",
+          "source": "金十数据",
+          "ranks": [
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时19分"
+          "time_info": "23时20分"
         },
         {
           "title": "美国总统特朗普宣布：从芝加哥、洛杉矶、波特兰撤走国民警卫队。",
@@ -651,7 +667,7 @@
     },
     {
       "keyword_group": "俄罗斯",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "跑路油轮突然画了面俄罗斯旗，追了十天的美国人懵了",
@@ -691,17 +707,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[19时18分 ~ 22时19分]"
-        },
-        {
-          "title": "俄罗斯国防部：自清晨以来，已在俄罗斯各地区共击落58架无人机。",
-          "url": "https://flash.jin10.com/detail/20260101214039700800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时19分"
         },
         {
           "title": "当地媒体报道称，乌克兰无人机袭击俄罗斯鞑靼斯坦的一处储能设施，引发火灾。",
@@ -744,6 +749,18 @@
           "time_info": "[00时25分 ~ 01时18分]"
         },
         {
+          "title": "俄罗斯国防部：自清晨以来，已在俄罗斯各地区共击落58架无人机。",
+          "url": "https://flash.jin10.com/detail/20260101214039700800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时19分 ~ 23时20分]"
+        },
+        {
           "title": "俄罗斯财政部宣布批准降低多个行业中小企业的保险费率。",
           "url": "https://flash.jin10.com/detail/20260101004631738800",
           "source": "金十数据",
@@ -770,6 +787,19 @@
           "time_info": "[19时18分 ~ 21时33分]"
         },
         {
+          "title": "俄罗斯国防部：俄罗斯将把证明乌克兰无人机袭击目标为诺夫哥罗德州总统官邸的证据材料提交给美国。",
+          "url": "https://flash.jin10.com/detail/20260101200806097800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            19,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时33分 ~ 23时20分]"
+        },
+        {
           "title": "乌克兰军方称其还袭击了俄罗斯克拉斯诺达尔地区的石油码头。",
           "url": "https://flash.jin10.com/detail/20251231234915337800",
           "source": "金十数据",
@@ -794,16 +824,15 @@
           "time_info": "[00时25分 ~ 01时18分]"
         },
         {
-          "title": "俄罗斯国防部：俄罗斯将把证明乌克兰无人机袭击目标为诺夫哥罗德州总统官邸的证据材料提交给美国。",
-          "url": "https://flash.jin10.com/detail/20260101200806097800",
+          "title": "俄罗斯人权专员莫斯卡尔科娃呼吁国际社会谴责乌克兰武装部队对赫尔松地区平民的袭击。",
+          "url": "https://flash.jin10.com/detail/20260101222927675800",
           "source": "金十数据",
           "ranks": [
-            11,
-            19
+            7
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时33分 ~ 22时19分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         },
         {
           "title": "俄罗斯为何死磕顿巴斯与克里米亚",
@@ -841,11 +870,12 @@
           "ranks": [
             6,
             7,
-            3
+            3,
+            9
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时47分 ~ 22时19分]"
+          "appearance_count": 19,
+          "time_info": "[09时47分 ~ 23时20分]"
         },
         {
           "title": "美股三大期指小幅走弱 年末获利了结情绪升温 | 今夜看点",
@@ -1022,11 +1052,12 @@
           "source": "金十数据",
           "ranks": [
             7,
-            15
+            15,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时33分 ~ 22时19分]"
+          "appearance_count": 3,
+          "time_info": "[21时33分 ~ 23时20分]"
         },
         {
           "title": "俄方公布乌无人机袭击普京官邸细节",
@@ -1166,8 +1197,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时21分 ~ 22时19分]"
+          "appearance_count": 8,
+          "time_info": "[18时21分 ~ 23时20分]"
         },
         {
           "title": "DeepSeek发布梁文锋署名新论文 开启架构新篇章",
@@ -1205,11 +1236,12 @@
           "source": "百度热搜",
           "ranks": [
             19,
-            4
+            4,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时33分 ~ 22时19分]"
+          "appearance_count": 3,
+          "time_info": "[21时33分 ~ 23时20分]"
         },
         {
           "title": "DeepSeek开年发布新论文",
@@ -1229,11 +1261,132 @@
           "source": "bilibili 热搜",
           "ranks": [
             14,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时33分 ~ 22时19分]"
+          "appearance_count": 3,
+          "time_info": "[21时33分 ~ 23时20分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "据伊朗法尔斯通讯社：伊朗西南部拉德甘市发生抗议和骚乱，造成两人死亡。",
+          "url": "https://flash.jin10.com/detail/20260101223703738800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
+          "title": "伊朗总统：伊朗正处于一场全面战争中",
+          "url": "https://flash.jin10.com/detail/20260101195820608800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            12,
+            20,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时40分 ~ 23时20分]"
+        },
+        {
+          "title": "伊朗总统发表讲话：“伊朗正处于一场全面战争之中”",
+          "url": "https://wallstreetcn.com/livenews/3029613",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            7,
+            9,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时40分 ~ 23时20分]"
+        },
+        {
+          "title": "内塔尼亚胡喊话伊朗",
+          "url": "https://www.baidu.com/s?wd=%E5%86%85%E5%A1%94%E5%B0%BC%E4%BA%9A%E8%83%A1%E5%96%8A%E8%AF%9D%E4%BC%8A%E6%9C%97",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时19分 ~ 07时19分]"
+        },
+        {
+          "title": "伊朗总统发声：伊朗正处于一场全面战争中",
+          "url": "https://news.ifeng.com/c/8pZJzBvxf8X",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "150万美元！OpenAI人均员工薪酬炸裂，刷新科技史纪录",
+          "url": "https://wallstreetcn.com/articles/3762366",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[09时47分 ~ 18时22分]"
+        },
+        {
+          "title": "据The Information：OpenAI整合团队以提升音频AI模型性能，为即将推出的设备做准备。",
+          "url": "https://flash.jin10.com/detail/20260101230819093800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
+          "title": "据The Information：OpenAI采取措施改进语音AI模型。",
+          "url": "https://flash.jin10.com/detail/20260101230736481800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
+          "title": "OpenAI 正在采取措施改进其音频人工智能模型，以此为最终发布由AI驱动的个人设备做准备。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3029628",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         }
       ]
     },
@@ -1276,50 +1429,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时20分 ~ 07时19分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "伊朗总统：伊朗正处于一场全面战争中",
-          "url": "https://flash.jin10.com/detail/20260101195820608800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            12,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时40分 ~ 22时19分]"
-        },
-        {
-          "title": "伊朗总统发表讲话：“伊朗正处于一场全面战争之中”",
-          "url": "https://wallstreetcn.com/livenews/3029613",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时40分 ~ 22时19分]"
-        },
-        {
-          "title": "内塔尼亚胡喊话伊朗",
-          "url": "https://www.baidu.com/s?wd=%E5%86%85%E5%A1%94%E5%B0%BC%E4%BA%9A%E8%83%A1%E5%96%8A%E8%AF%9D%E4%BC%8A%E6%9C%97",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时19分 ~ 07时19分]"
         }
       ]
     },
@@ -1383,25 +1492,6 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "150万美元！OpenAI人均员工薪酬炸裂，刷新科技史纪录",
-          "url": "https://wallstreetcn.com/articles/3762366",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时47分 ~ 18时22分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
       "match_count": 1,
       "titles": [
@@ -1454,8 +1544,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[11时49分 ~ 22时19分]"
+          "appearance_count": 18,
+          "time_info": "[11时49分 ~ 23时20分]"
         }
       ]
     }
