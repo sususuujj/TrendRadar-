@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T05:19:06.445983+08:00",
-  "total_titles_processed": 440,
+  "generated_at": "2026-01-02T06:19:47.794354+08:00",
+  "total_titles_processed": 454,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,27 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            4
+            4,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时16分 ~ 05时19分]"
+          "appearance_count": 4,
+          "time_info": "[03时16分 ~ 06时19分]"
+        },
+        {
+          "title": "俄罗斯向美国移交袭击普京官邸的被击落无人机数据",
+          "url": "https://flash.jin10.com/detail/20260102013018115800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            7,
+            14,
+            18,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时29分 ~ 06时19分]"
         },
         {
           "title": "俄罗斯武装力量总参谋部情报总局负责人：美国移交的解密数据来自飞往俄罗斯总统官邸的乌克兰无人机，这将有助于确定真相。",
@@ -31,29 +47,18 @@
           "time_info": "01时20分"
         },
         {
-          "title": "据乌克兰国际通讯社：乌克兰军方发言人就赫尔松市一家酒店遭无人机袭击一事表示，其部队打击的目标仅为俄罗斯军事设施和能源场所。",
-          "url": "https://flash.jin10.com/detail/20260102041045059800",
+          "title": "俄罗斯要求美国停止追捕一艘大西洋逃逸油轮",
+          "url": "https://flash.jin10.com/detail/20260102022454180800",
           "source": "金十数据",
           "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时19分"
-        },
-        {
-          "title": "俄罗斯向美国移交袭击普京官邸的被击落无人机数据",
-          "url": "https://flash.jin10.com/detail/20260102013018115800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            7,
-            14,
-            18
+            2,
+            9,
+            13,
+            16
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[02时29分 ~ 05时19分]"
+          "time_info": "[03时16分 ~ 06时19分]"
         },
         {
           "title": "俄罗斯赫尔松州州长：赫尔松地区发布空中危险警报。",
@@ -70,17 +75,31 @@
           "time_info": "[00时25分 ~ 03时16分]"
         },
         {
-          "title": "俄罗斯要求美国停止追捕一艘大西洋逃逸油轮",
-          "url": "https://flash.jin10.com/detail/20260102022454180800",
+          "title": "俄罗斯武装力量总参谋部情报总局负责人：向美国移交的解密数据来自飞往俄罗斯总统官邸的乌克兰无人机，这将有助于确定真相。",
+          "url": "https://flash.jin10.com/detail/20260102010102246800",
           "source": "金十数据",
           "ranks": [
-            2,
-            9,
-            13
+            8,
+            11,
+            18,
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时16分 ~ 05时19分]"
+          "appearance_count": 5,
+          "time_info": "[02时29分 ~ 06时19分]"
+        },
+        {
+          "title": "据乌克兰国际通讯社：乌克兰军方发言人就赫尔松市一家酒店遭无人机袭击一事表示，其部队打击的目标仅为俄罗斯军事设施和能源场所。",
+          "url": "https://flash.jin10.com/detail/20260102041045059800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时19分 ~ 06时19分]"
         },
         {
           "title": "俄罗斯外交部：对赫尔松州霍尔利平民发动袭击的责任人将受到不可避免的惩罚。",
@@ -95,20 +114,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时25分 ~ 03时16分]"
-        },
-        {
-          "title": "俄罗斯武装力量总参谋部情报总局负责人：向美国移交的解密数据来自飞往俄罗斯总统官邸的乌克兰无人机，这将有助于确定真相。",
-          "url": "https://flash.jin10.com/detail/20260102010102246800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            11,
-            18,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时29分 ~ 05时19分]"
         },
         {
           "title": "俄罗斯人权专员莫斯卡尔科娃呼吁国际社会谴责乌克兰武装部队对赫尔松地区平民的袭击。",
@@ -147,8 +152,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时25分 ~ 05时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时25分 ~ 06时19分]"
         },
         {
           "title": "美国缩减对意大利面关税，意大利称特朗普时期政策回调",
@@ -158,11 +163,12 @@
             3,
             8,
             10,
-            12
+            12,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时20分 ~ 05时19分]"
+          "appearance_count": 6,
+          "time_info": "[01时20分 ~ 06时19分]"
         },
         {
           "title": "白宫：特朗普总统已签署一项行政命令，修改对进口到美国的木材、木料及其衍生产品的关税。",
@@ -173,11 +179,12 @@
             6,
             9,
             16,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时20分 ~ 05时19分]"
+          "appearance_count": 6,
+          "time_info": "[01时20分 ~ 06时19分]"
         },
         {
           "title": "特朗普：10月份体检时进行的是CT扫描而非核磁共振",
@@ -185,11 +192,25 @@
           "source": "金十数据",
           "ranks": [
             3,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时23分 ~ 05时19分]"
+          "appearance_count": 3,
+          "time_info": "[04时23分 ~ 06时19分]"
+        },
+        {
+          "title": "报告：若俄乌冲突结束，特朗普或将加大力度与俄罗斯建立对话",
+          "url": "https://flash.jin10.com/detail/20260102030004557800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时23分 ~ 06时19分]"
         },
         {
           "title": "美媒：特朗普每日服用阿司匹林剂量超出医嘱范围",
@@ -203,18 +224,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时25分 ~ 02时29分]"
-        },
-        {
-          "title": "报告：若俄乌冲突结束，特朗普或将加大力度与俄罗斯建立对话",
-          "url": "https://flash.jin10.com/detail/20260102030004557800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时23分 ~ 05时19分]"
         },
         {
           "title": "特朗普行使连任后首次否决权，拒绝资助美国科罗拉多州与佛罗里达州基建项目",
@@ -241,8 +250,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时25分 ~ 05时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时25分 ~ 06时19分]"
         },
         {
           "title": "伊朗一警察局遭暴徒袭击 已致3死17伤",
@@ -251,11 +260,12 @@
           "ranks": [
             2,
             4,
-            6
+            6,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时29分 ~ 05时19分]"
+          "appearance_count": 5,
+          "time_info": "[02时29分 ~ 06时19分]"
         },
         {
           "title": "据伊朗法尔斯通讯社：伊朗西南部拉德甘市发生抗议和骚乱，造成两人死亡。",
@@ -297,8 +307,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时25分 ~ 05时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时25分 ~ 06时19分]"
         },
         {
           "title": "DeepSeek开年发布新论文",
@@ -309,11 +319,12 @@
             17,
             16,
             15,
-            22
+            22,
+            21
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时25分 ~ 05时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时25分 ~ 06时19分]"
         },
         {
           "title": "DeepSeek梁文锋又发论文了",
@@ -324,8 +335,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 05时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 06时19分]"
         }
       ]
     },
@@ -342,11 +353,12 @@
             12,
             17,
             19,
-            21
+            21,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 05时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 06时19分]"
         },
         {
           "title": "据The Information：OpenAI整合团队以提升音频AI模型性能，为即将推出的设备做准备。",
@@ -391,11 +403,12 @@
             5,
             10,
             12,
-            14
+            14,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 05时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 06时19分]"
         },
         {
           "title": "莫斯科市长表示，防空系统击退了另外五架飞向莫斯科的无人机的攻击。",
@@ -406,11 +419,12 @@
             9,
             12,
             19,
-            23
+            23,
+            26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时20分 ~ 05时19分]"
+          "appearance_count": 6,
+          "time_info": "[01时20分 ~ 06时19分]"
         },
         {
           "title": "莫斯科市长报告称，防空系统击落了两架飞往莫斯科的无人机。",
@@ -439,11 +453,12 @@
           "ranks": [
             2,
             1,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时25分 ~ 05时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时25分 ~ 06时19分]"
         },
         {
           "title": "比亚迪：12月新能源汽车销量42.04万辆",
@@ -470,8 +485,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时25分 ~ 05时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时25分 ~ 06时19分]"
         }
       ]
     },
@@ -488,8 +503,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时25分 ~ 05时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时25分 ~ 06时19分]"
         }
       ]
     }
