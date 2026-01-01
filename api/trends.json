@@ -1,44 +1,120 @@
 {
-  "generated_at": "2026-01-02T00:25:55.704448+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-02T01:20:11.486610+08:00",
+  "total_titles_processed": 359,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "俄罗斯",
-      "match_count": 4,
+      "keyword_group": "特朗普",
+      "match_count": 5,
       "titles": [
+        {
+          "title": "决定从三个城市撤走国民警卫队，特朗普政策反复为哪般？",
+          "url": "https://news.ifeng.com/c/8pZG8Eef0SN",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 01时20分]"
+        },
+        {
+          "title": "白宫：特朗普总统已签署一项行政命令，修改对进口到美国的木材、木料及其衍生产品的关税。",
+          "url": "https://flash.jin10.com/detail/20260102011611465800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时20分"
+        },
+        {
+          "title": "美国缩减对意大利面关税，意大利称特朗普时期政策回调",
+          "url": "https://wallstreetcn.com/livenews/3029639",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时20分"
+        },
+        {
+          "title": "美媒：特朗普每日服用阿司匹林剂量超出医嘱范围",
+          "url": "https://flash.jin10.com/detail/20260101224323084800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 01时20分]"
+        },
+        {
+          "title": "特朗普行使连任后首次否决权，拒绝资助美国科罗拉多州与佛罗里达州基建项目",
+          "url": "https://wallstreetcn.com/livenews/3029637",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "俄罗斯",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "俄罗斯武装力量总参谋部情报总局负责人：美国移交的解密数据来自飞往俄罗斯总统官邸的乌克兰无人机，这将有助于确定真相。",
+          "url": "https://flash.jin10.com/detail/20260102010102246800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时20分"
+        },
         {
           "title": "俄罗斯赫尔松州州长：赫尔松地区发布空中危险警报。",
           "url": "https://flash.jin10.com/detail/20260101232837732800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 01时20分]"
         },
         {
           "title": "俄罗斯外交部：对赫尔松州霍尔利平民发动袭击的责任人将受到不可避免的惩罚。",
           "url": "https://flash.jin10.com/detail/20260101231156386800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 01时20分]"
         },
         {
           "title": "俄罗斯人权专员莫斯卡尔科娃呼吁国际社会谴责乌克兰武装部队对赫尔松地区平民的袭击。",
           "url": "https://flash.jin10.com/detail/20260101222927675800",
           "source": "金十数据",
           "ranks": [
-            14
+            14,
+            26
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 01时20分]"
         },
         {
           "title": "俄罗斯国防部：自清晨以来，已在俄罗斯各地区共击落58架无人机。",
@@ -65,30 +141,32 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 01时20分]"
         },
         {
           "title": "DeepSeek梁文锋又发论文了",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%A2%81%E6%96%87%E9%94%8B%E5%8F%88%E5%8F%91%E8%AE%BA%E6%96%87%E4%BA%86",
           "source": "bilibili 热搜",
           "ranks": [
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 01时20分]"
         },
         {
           "title": "DeepSeek开年发布新论文",
           "url": "https://www.baidu.com/s?wd=DeepSeek%E5%BC%80%E5%B9%B4%E5%8F%91%E5%B8%83%E6%96%B0%E8%AE%BA%E6%96%87",
           "source": "百度热搜",
           "ranks": [
-            20
+            20,
+            17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 01时20分]"
         }
       ]
     },
@@ -101,33 +179,36 @@
           "url": "https://flash.jin10.com/detail/20260101230819093800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 01时20分]"
         },
         {
           "title": "报道：OpenAI整合团队开发音频AI模型，为发布AI个人设备铺路",
           "url": "https://wallstreetcn.com/livenews/3029628",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 01时20分]"
         },
         {
           "title": "据The Information：OpenAI采取措施改进语音AI模型。",
           "url": "https://flash.jin10.com/detail/20260101230736481800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 01时20分]"
         }
       ]
     },
@@ -143,58 +224,72 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 01时20分]"
         },
         {
           "title": "据伊朗法尔斯通讯社：伊朗西南部拉德甘市发生抗议和骚乱，造成两人死亡。",
           "url": "https://flash.jin10.com/detail/20260101223703738800",
           "source": "金十数据",
           "ranks": [
-            12
+            12,
+            24
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 01时20分]"
         },
         {
           "title": "伊朗总统发表讲话：“伊朗正处于一场全面战争之中”",
           "url": "https://wallstreetcn.com/livenews/3029613",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            22
+            22,
+            27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 01时20分]"
         }
       ]
     },
     {
-      "keyword_group": "特朗普",
-      "match_count": 2,
+      "keyword_group": "无人机",
+      "match_count": 3,
       "titles": [
         {
-          "title": "决定从三个城市撤走国民警卫队，特朗普政策反复为哪般？",
-          "url": "https://news.ifeng.com/c/8pZG8Eef0SN",
-          "source": "凤凰网",
+          "title": "俄说将把乌袭击俄总统官邸无人机资料交给美方",
+          "url": "https://wallstreetcn.com/livenews/3029636",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 01时20分]"
+        },
+        {
+          "title": "莫斯科市长表示，防空系统击退了另外五架飞向莫斯科的无人机的攻击。",
+          "url": "https://flash.jin10.com/detail/20260102005627776800",
+          "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时25分"
+          "time_info": "01时20分"
         },
         {
-          "title": "美媒：特朗普每日服用阿司匹林剂量超出医嘱范围",
-          "url": "https://flash.jin10.com/detail/20260101224323084800",
+          "title": "莫斯科市长报告称，防空系统击落了两架飞往莫斯科的无人机。",
+          "url": "https://flash.jin10.com/detail/20260102000506128800",
           "source": "金十数据",
           "ranks": [
-            11
+            12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时25分"
+          "time_info": "01时20分"
         }
       ]
     },
@@ -207,11 +302,12 @@
           "url": "https://www.toutiao.com/trending/7589897031116816427/",
           "source": "今日头条",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 01时20分]"
         },
         {
           "title": "比亚迪：12月新能源汽车销量42.04万辆",
@@ -238,8 +334,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 01时20分]"
         }
       ]
     },
@@ -255,25 +351,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "无人机",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "俄说将把乌袭击俄总统官邸无人机资料交给美方",
-          "url": "https://wallstreetcn.com/livenews/3029636",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 01时20分]"
         }
       ]
     }
