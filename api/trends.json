@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-02T14:32:12.113000+08:00",
-  "total_titles_processed": 935,
+  "generated_at": "2026-01-02T15:23:36.080383+08:00",
+  "total_titles_processed": 1007,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "决定从三个城市撤走国民警卫队，特朗普政策反复为哪般？",
@@ -107,11 +107,12 @@
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%BF%E8%AE%A4%E6%89%8B%E4%B8%8A%E7%98%80%E4%BC%A4%E6%98%AF%E6%9C%8D%E7%94%A8%E8%8D%AF%E7%89%A9%E9%80%A0%E6%88%90",
           "source": "百度热搜",
           "ranks": [
-            29
+            29,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时31分 ~ 14时32分]"
+          "appearance_count": 3,
+          "time_info": "[14时31分 ~ 15时23分]"
         },
         {
           "title": "马杜罗证实曾与特朗普通话10分钟 重申“要和平不要战争”",
@@ -136,6 +137,17 @@
           "time_info": "09时29分"
         },
         {
+          "title": "特朗普承认服用阿司匹林",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%BF%E8%AE%A4%E6%9C%8D%E7%94%A8%E9%98%BF%E5%8F%B8%E5%8C%B9%E6%9E%97%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
+        },
+        {
           "title": "特朗普行使连任后首次否决权，拒绝资助美国科罗拉多州与佛罗里达州基建项目",
           "url": "https://wallstreetcn.com/livenews/3029637",
           "source": "华尔街见闻-快讯",
@@ -145,6 +157,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
+        },
+        {
+          "title": "特朗普的关税大棒挥不下去了吗",
+          "url": "https://www.toutiao.com/trending/7590646791305956874/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
         }
       ]
     },
@@ -298,11 +321,12 @@
           "source": "凤凰网",
           "ranks": [
             7,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时29分 ~ 14时32分]"
+          "appearance_count": 9,
+          "time_info": "[09时29分 ~ 15时23分]"
         },
         {
           "title": "伊朗总统发声：伊朗正处于一场全面战争中",
@@ -383,7 +407,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "“新汽车”放榜2025",
@@ -452,6 +476,17 @@
           "time_info": "[12时40分 ~ 14时32分]"
         },
         {
+          "title": "长城汽车2025销量132万辆",
+          "url": "https://www.toutiao.com/trending/7590629984754994751/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
+        },
+        {
           "title": "比亚迪：12月新能源汽车销量42.04万辆",
           "url": "https://wallstreetcn.com/livenews/3029608",
           "source": "华尔街见闻-快讯",
@@ -477,8 +512,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时25分 ~ 14时32分]"
+          "appearance_count": 20,
+          "time_info": "[00时25分 ~ 15时23分]"
         },
         {
           "title": "UP主解读DeepSeek梁文锋新论文",
@@ -490,8 +525,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时29分 ~ 14时32分]"
+          "appearance_count": 8,
+          "time_info": "[11时29分 ~ 15时23分]"
         },
         {
           "title": "如何理解 DeepSeek 最新提出的 mHC 架构？",
@@ -503,8 +538,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时29分 ~ 14时32分]"
+          "appearance_count": 8,
+          "time_info": "[11时29分 ~ 15时23分]"
         },
         {
           "title": "DeepSeek梁文锋又发论文了",
@@ -514,11 +549,12 @@
             12,
             9,
             11,
-            19
+            19,
+            14
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时25分 ~ 14时32分]"
+          "appearance_count": 18,
+          "time_info": "[00时25分 ~ 15时23分]"
         },
         {
           "title": "DeepSeek开年发布新论文",
@@ -535,6 +571,124 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时25分 ~ 07时19分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美股收盘：三大指数低调收官 中国金龙指数全年累计上涨11.33%",
+          "url": "https://www.cls.cn/detail/2246008",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 20,
+          "time_info": "[00时25分 ~ 15时23分]"
+        },
+        {
+          "title": "美股三大股指期货周五开盘微涨。",
+          "url": "https://flash.jin10.com/detail/20260102070027378800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        },
+        {
+          "title": "美股期货上涨，纳斯达克指数期货上涨0.58%，标普500指数期货上涨0.39%。",
+          "url": "https://wallstreetcn.com/livenews/3029712",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            17,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时30分 ~ 13时25分]"
+        },
+        {
+          "title": "美股期货上涨，金银领衔贵金属反弹，美元疲软",
+          "url": "https://wallstreetcn.com/articles/3762449",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "无人机",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "俄说将把乌袭击俄总统官邸无人机资料交给美方",
+          "url": "https://wallstreetcn.com/livenews/3029636",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            5,
+            10,
+            12,
+            14,
+            19,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 07时19分]"
+        },
+        {
+          "title": "莫斯科市长表示，防空系统击退了另外五架飞向莫斯科的无人机的攻击。",
+          "url": "https://flash.jin10.com/detail/20260102005627776800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            9,
+            12,
+            19,
+            23,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时20分 ~ 06时19分]"
+        },
+        {
+          "title": "莫斯科市长报告称，防空系统击落了两架飞往莫斯科的无人机。",
+          "url": "https://flash.jin10.com/detail/20260102000506128800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            17,
+            20,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时20分 ~ 04时23分]"
+        },
+        {
+          "title": "俄侦委会：乌无人机袭击赫尔松地区已致27人死亡",
+          "url": "https://wallstreetcn.com/livenews/3029756",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
         }
       ]
     },
@@ -589,45 +743,43 @@
       ]
     },
     {
-      "keyword_group": "美股",
+      "keyword_group": "新能源",
       "match_count": 3,
       "titles": [
         {
-          "title": "美股收盘：三大指数低调收官 中国金龙指数全年累计上涨11.33%",
-          "url": "https://www.cls.cn/detail/2246008",
-          "source": "财联社热门",
+          "title": "多家车企 12 月成绩单出炉，比亚迪新能源车月销 42 万辆，小米交付超 5 万辆，如何解读车企业绩？",
+          "url": "https://www.zhihu.com/question/1990172846333325720",
+          "source": "知乎",
           "ranks": [
-            9,
-            10,
-            12
+            6,
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时25分 ~ 14时32分]"
+          "appearance_count": 6,
+          "time_info": "[12时40分 ~ 15时23分]"
         },
         {
-          "title": "美股三大股指期货周五开盘微涨。",
-          "url": "https://flash.jin10.com/detail/20260102070027378800",
-          "source": "金十数据",
+          "title": "港股光伏板块走强，协鑫新能源涨超20%，协鑫科技涨超4%。",
+          "url": "https://wallstreetcn.com/livenews/3029761",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时19分"
+          "time_info": "15时23分"
         },
         {
-          "title": "美股期货上涨，纳斯达克指数期货上涨0.58%，标普500指数期货上涨0.39%。",
-          "url": "https://wallstreetcn.com/livenews/3029712",
-          "source": "华尔街见闻-快讯",
+          "title": "购置税减半落地新能源车市反应如何",
+          "url": "https://www.toutiao.com/trending/7590538326403203126/",
+          "source": "今日头条",
           "ranks": [
-            2,
-            17,
-            26
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时30分 ~ 13时25分]"
+          "appearance_count": 1,
+          "time_info": "09时29分"
         }
       ]
     },
@@ -658,8 +810,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时29分 ~ 14时32分]"
+          "appearance_count": 8,
+          "time_info": "[11时29分 ~ 15时23分]"
         },
         {
           "title": "人类体能在自然界同体型动物中似乎都很弱，在发明热武器以前如何在自然界中存活？",
@@ -669,61 +821,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时29分 ~ 14时32分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "无人机",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "俄说将把乌袭击俄总统官邸无人机资料交给美方",
-          "url": "https://wallstreetcn.com/livenews/3029636",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            5,
-            10,
-            12,
-            14,
-            19,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 07时19分]"
-        },
-        {
-          "title": "莫斯科市长表示，防空系统击退了另外五架飞向莫斯科的无人机的攻击。",
-          "url": "https://flash.jin10.com/detail/20260102005627776800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            9,
-            12,
-            19,
-            23,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时20分 ~ 06时19分]"
-        },
-        {
-          "title": "莫斯科市长报告称，防空系统击落了两架飞往莫斯科的无人机。",
-          "url": "https://flash.jin10.com/detail/20260102000506128800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            17,
-            20,
-            27
-          ],
-          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[01时20分 ~ 04时23分]"
+          "time_info": "[09时29分 ~ 15时23分]"
         }
       ]
     },
@@ -759,31 +858,19 @@
       ]
     },
     {
-      "keyword_group": "新能源",
-      "match_count": 2,
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
       "titles": [
         {
-          "title": "多家车企 12 月成绩单出炉，比亚迪新能源车月销 42 万辆，小米交付超 5 万辆，如何解读车企业绩？",
-          "url": "https://www.zhihu.com/question/1990172846333325720",
-          "source": "知乎",
+          "title": "谷歌AI的逆风翻盘史",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E7%9A%84%E9%80%86%E9%A3%8E%E7%BF%BB%E7%9B%98%E5%8F%B2",
+          "source": "bilibili 热搜",
           "ranks": [
-            6,
-            5
+            6
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时40分 ~ 14时32分]"
-        },
-        {
-          "title": "购置税减半落地新能源车市反应如何",
-          "url": "https://www.toutiao.com/trending/7590538326403203126/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时29分"
+          "time_info": "15时23分"
         }
       ]
     }
