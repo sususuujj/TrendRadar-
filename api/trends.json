@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-02T21:33:00.479231+08:00",
-  "total_titles_processed": 1496,
+  "generated_at": "2026-01-02T22:20:17.053516+08:00",
+  "total_titles_processed": 1564,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 32,
       "titles": [
         {
           "title": "决定从三个城市撤走国民警卫队，特朗普政策反复为哪般？",
@@ -51,6 +51,20 @@
           "time_info": "[01时20分 ~ 06时19分]"
         },
         {
+          "title": "唐驳虎：特朗普发现“弹药”不够用了",
+          "url": "https://www.toutiao.com/trending/7590682268167835155/",
+          "source": "今日头条",
+          "ranks": [
+            11,
+            16,
+            13,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时21分 ~ 22时20分]"
+        },
+        {
           "title": "特朗普：10月份体检时进行的是CT扫描而非核磁共振",
           "url": "https://flash.jin10.com/detail/20260102032453188800",
           "source": "金十数据",
@@ -76,29 +90,17 @@
           "time_info": "09时29分"
         },
         {
-          "title": "唐驳虎：特朗普发现“弹药”不够用了",
-          "url": "https://www.toutiao.com/trending/7590682268167835155/",
-          "source": "今日头条",
-          "ranks": [
-            11,
-            16,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时21分 ~ 21时33分]"
-        },
-        {
           "title": "特朗普：医生刚刚报告说我身体非常健康。 第三次在认知能力测试中“拿下满分”。",
           "url": "https://wallstreetcn.com/livenews/3029827",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            10
+            10,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时39分 ~ 21时33分]"
+          "appearance_count": 3,
+          "time_info": "[20时39分 ~ 22时20分]"
         },
         {
           "title": "高市早苗与特朗普可能最早在周五晚间通话。（共同社）",
@@ -203,13 +205,36 @@
           "time_info": "[14时31分 ~ 15时23分]"
         },
         {
+          "title": "日本首相高市早苗与美国总统特朗普进行了通话。（共同社）",
+          "url": "https://wallstreetcn.com/livenews/3029830",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时33分 ~ 22时20分]"
+        },
+        {
+          "title": "如何看待特朗普回应健康质疑",
+          "url": "https://www.toutiao.com/trending/7590742092725358143/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时19分 ~ 22时20分]"
+        },
+        {
           "title": "据日本共同社：日本首相高市早苗同意在春季会见美国总统特朗普。",
           "url": "https://flash.jin10.com/detail/20260102210911040800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时33分"
         },
@@ -223,17 +248,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时29分"
-        },
-        {
-          "title": "日本首相高市早苗与美国总统特朗普进行了通话。（共同社）",
-          "url": "https://wallstreetcn.com/livenews/3029830",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时33分"
         },
         {
           "title": "特朗普宣称认知测试再次满分 提议将强制认知测试作为总统参选门槛",
@@ -267,6 +281,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时39分"
+        },
+        {
+          "title": "高市早苗与特朗普商定将于春季访美。（共同社）",
+          "url": "https://wallstreetcn.com/livenews/3029839",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
         },
         {
           "title": "美国总统特朗普：如果伊朗开枪并暴力杀害和平抗议者，美利坚合众国将向他们提供援助。我们已严阵以待，蓄势待发。",
@@ -319,7 +344,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时33分"
         },
@@ -371,7 +396,7 @@
     },
     {
       "keyword_group": "俄罗斯",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "俄罗斯：要求美国停止追捕一艘大西洋逃逸油轮",
@@ -386,17 +411,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时16分 ~ 07时19分]"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：俄罗斯对哈尔科夫发动了骇人听闻的袭击。初步判断，发射了两枚导弹，直接瞄准了居民楼，其中一栋楼严重受损。",
-          "url": "https://flash.jin10.com/detail/20260102212452497800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时33分"
         },
         {
           "title": "俄罗斯要求美国停止追捕一艘大西洋逃逸油轮",
@@ -494,6 +508,18 @@
           "time_info": "[17时24分 ~ 18时21分]"
         },
         {
+          "title": "乌克兰总统泽连斯基：俄罗斯对哈尔科夫发动了骇人听闻的袭击。初步判断，发射了两枚导弹，直接瞄准了居民楼，其中一栋楼严重受损。",
+          "url": "https://flash.jin10.com/detail/20260102212452497800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时33分 ~ 22时20分]"
+        },
+        {
           "title": "俄罗斯国防部：在包括莫斯科地区在内的俄罗斯多个地区击落5架乌克兰无人机。",
           "url": "https://flash.jin10.com/detail/20260102190137159800",
           "source": "金十数据",
@@ -565,6 +591,17 @@
           "time_info": "18时21分"
         },
         {
+          "title": "乌克兰哈尔科夫州长：俄罗斯对乌克兰哈尔科夫一栋多层建筑的袭击已造成至少15人受伤。",
+          "url": "https://flash.jin10.com/detail/20260102214131187800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
           "title": "俄罗斯国防部：自清晨以来，已在俄罗斯各地区共击落58架无人机。",
           "url": "https://flash.jin10.com/detail/20260101214039700800",
           "source": "金十数据",
@@ -601,7 +638,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 13,
+      "match_count": 18,
       "titles": [
         {
           "title": "“新汽车”放榜2025",
@@ -626,8 +663,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时39分 ~ 21时33分]"
+          "appearance_count": 5,
+          "time_info": "[20时39分 ~ 22时20分]"
+        },
+        {
+          "title": "特斯拉(TSLA.O)2025年全年汽车交付量164万辆，市场预期160万辆。",
+          "url": "https://flash.jin10.com/detail/20260102220556158800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
         },
         {
           "title": "日媒：中国汽车全球销量将超日本",
@@ -729,6 +777,17 @@
           "time_info": "[15时23分 ~ 16时28分]"
         },
         {
+          "title": "特斯拉(TSLA.O)第四季度汽车产量434358辆，市场预期为470780辆；Model 3/Y产量422652辆，市场预期为452494辆。",
+          "url": "https://flash.jin10.com/detail/20260102220336461800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
           "title": "葡萄牙汽车协会（ACAP）：葡萄牙12月特斯拉(TSLA.O)新车注册量同比下降12.7%，2025年累计下降22.3%。",
           "url": "https://flash.jin10.com/detail/20260102164902604800",
           "source": "金十数据",
@@ -738,6 +797,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时24分"
+        },
+        {
+          "title": "Rivian(RIVN.O)：第四季度和全年汽车数据均符合公司预期。",
+          "url": "https://flash.jin10.com/detail/20260102213259003800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
+          "title": "美国电动汽车公司Rivian(RIVN.O)2025年全年生产42,284辆汽车，交付42,247辆汽车。",
+          "url": "https://flash.jin10.com/detail/20260102213239515800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
+          "title": "美国电动汽车公司Rivian(RIVN.O)第四季度生产10,974辆汽车，交付9,745辆汽车。",
+          "url": "https://flash.jin10.com/detail/20260102213111832800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
         },
         {
           "title": "西班牙汽车制造商协会（ANFAC）：2025年，西班牙特斯拉(TSLA.O)新车注册量同比下降4%，电动汽车整体注册量则增长94.6%。",
@@ -765,7 +857,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "美股收盘：三大指数低调收官 中国金龙指数全年累计上涨11.33%",
@@ -791,6 +883,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
+        },
+        {
+          "title": "特斯拉第四季度交付量418227辆，同比下降16%，预估440907辆。 第四季度Model 3/Y 交付量406585辆，同比下降14%，预估421796辆。 第四季度汽车产量434358辆，同比下降5.5%，预估470780辆。 第四季度Model 3/Y 产量422652辆，同比下降3.2%，预估452494辆。 特斯拉全年交付量164万，同比下降8.6%，预估160万。 特斯拉美股盘前涨近2%。",
+          "url": "https://wallstreetcn.com/livenews/3029850",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3029846",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
         },
         {
           "title": "美股期货上涨，纳斯达克指数期货上涨0.58%，标普500指数期货上涨0.39%。",
@@ -873,7 +987,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时33分"
         },
@@ -945,26 +1059,17 @@
           "time_info": "[02时29分 ~ 07时19分]"
         },
         {
-          "title": "伊朗警方与示威者冲突致3死17伤",
-          "url": "https://wallstreetcn.com/livenews/3029833",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗",
+          "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97&t=31&band_rank=24&Refer=top",
+          "source": "微博",
           "ranks": [
-            4
+            24,
+            21,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时33分"
-        },
-        {
-          "title": "伊朗议会议长：如果华盛顿冒险行事，该地区的美国基地和部队将成为“合法目标”。",
-          "url": "https://flash.jin10.com/detail/20260102211028236800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时33分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时18分 ~ 22时20分]"
         },
         {
           "title": "伊朗两地发生骚乱 已致3死13伤",
@@ -980,16 +1085,28 @@
           "time_info": "[11时30分 ~ 13时25分]"
         },
         {
-          "title": "伊朗",
-          "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97&t=31&band_rank=24&Refer=top",
-          "source": "微博",
+          "title": "伊朗警方与示威者冲突致3死17伤",
+          "url": "https://wallstreetcn.com/livenews/3029833",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            24,
-            21
+            4,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时18分 ~ 21时33分]"
+          "appearance_count": 2,
+          "time_info": "[21时33分 ~ 22时20分]"
+        },
+        {
+          "title": "伊朗议会议长：如果华盛顿冒险行事，该地区的美国基地和部队将成为“合法目标”。",
+          "url": "https://flash.jin10.com/detail/20260102211028236800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时33分 ~ 22时20分]"
         },
         {
           "title": "伊朗最高领袖顾问：美国干预伊朗内政等同于扰乱地区局势",
@@ -1043,6 +1160,95 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "金价下跌 专家提醒假期投资风险",
+          "url": "https://www.toutiao.com/trending/7589803875436118022/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            24,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时29分 ~ 13时25分]"
+        },
+        {
+          "title": "金价大涨引发抢购潮",
+          "url": "https://www.toutiao.com/trending/7590703628780834347/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时39分 ~ 22时20分]"
+        },
+        {
+          "title": "金价飙升原因找到了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%A3%99%E5%8D%87%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时32分 ~ 22时20分]"
+        },
+        {
+          "title": "金价过山车有人变现近9斤黄金",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E8%BF%87%E5%B1%B1%E8%BD%A6%E6%9C%89%E4%BA%BA%E5%8F%98%E7%8E%B0%E8%BF%919%E6%96%A4%E9%BB%84%E9%87%91",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时32分 ~ 22时20分]"
+        },
+        {
+          "title": "周大福足金价格均为1357元/克，老凤祥1354元/克",
+          "url": "https://wallstreetcn.com/livenews/3029730",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时25分 ~ 14时32分]"
+        },
+        {
+          "title": "金价飙升原因找到了",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E9%A3%99%E5%8D%87%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时19分 ~ 22时20分]"
+        },
+        {
+          "title": "元旦购金热爆棚 金价还能涨到哪",
+          "url": "https://www.toutiao.com/trending/7590749416030473782/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时19分 ~ 22时20分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 6,
       "titles": [
@@ -1056,8 +1262,22 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时28分 ~ 21时33分]"
+          "appearance_count": 9,
+          "time_info": "[16时28分 ~ 22时20分]"
+        },
+        {
+          "title": "OpenAI、Space X和Anthropic，三大“超级IPO”或齐聚今年，单笔募资额预计超过2025年200家IPO总和",
+          "url": "https://wallstreetcn.com/articles/3762451",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时24分 ~ 22时20分]"
         },
         {
           "title": "报道：OpenAI整合团队开发音频AI模型，为发布AI个人设备铺路",
@@ -1074,20 +1294,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时25分 ~ 06时19分]"
-        },
-        {
-          "title": "OpenAI、Space X和Anthropic，三大“超级IPO”或齐聚今年，单笔募资额预计超过2025年200家IPO总和",
-          "url": "https://wallstreetcn.com/articles/3762451",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时24分 ~ 21时33分]"
         },
         {
           "title": "据The Information：OpenAI整合团队以提升音频AI模型性能，为即将推出的设备做准备。",
@@ -1125,8 +1331,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时32分 ~ 21时33分]"
+          "appearance_count": 4,
+          "time_info": "[21时32分 ~ 22时20分]"
         }
       ]
     },
@@ -1177,8 +1383,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时18分 ~ 21时33分]"
+          "appearance_count": 6,
+          "time_info": "[19时18分 ~ 22时20分]"
         },
         {
           "title": "莫斯科市长报告称，防空系统击落了两架飞往莫斯科的无人机。",
@@ -1264,8 +1470,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时29分 ~ 21时33分]"
+          "appearance_count": 17,
+          "time_info": "[11时29分 ~ 22时20分]"
         },
         {
           "title": "DeepSeek梁文锋又发论文了",
@@ -1281,8 +1487,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时25分 ~ 21时33分]"
+          "appearance_count": 27,
+          "time_info": "[00时25分 ~ 22时20分]"
         },
         {
           "title": "DeepSeek开年发布新论文",
@@ -1299,71 +1505,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时25分 ~ 07时19分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "金价下跌 专家提醒假期投资风险",
-          "url": "https://www.toutiao.com/trending/7589803875436118022/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            24,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时29分 ~ 13时25分]"
-        },
-        {
-          "title": "金价大涨引发抢购潮",
-          "url": "https://www.toutiao.com/trending/7590703628780834347/",
-          "source": "今日头条",
-          "ranks": [
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时39分 ~ 21时33分]"
-        },
-        {
-          "title": "周大福足金价格均为1357元/克，老凤祥1354元/克",
-          "url": "https://wallstreetcn.com/livenews/3029730",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时25分 ~ 14时32分]"
-        },
-        {
-          "title": "金价飙升原因找到了",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%A3%99%E5%8D%87%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时32分 ~ 21时33分]"
-        },
-        {
-          "title": "金价过山车有人变现近9斤黄金",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E8%BF%87%E5%B1%B1%E8%BD%A6%E6%9C%89%E4%BA%BA%E5%8F%98%E7%8E%B0%E8%BF%919%E6%96%A4%E9%BB%84%E9%87%91",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时32分 ~ 21时33分]"
         }
       ]
     },
@@ -1397,8 +1538,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时29分 ~ 21时33分]"
+          "appearance_count": 17,
+          "time_info": "[11时29分 ~ 22时20分]"
         },
         {
           "title": "人类体能在自然界同体型动物中似乎都很弱，在发明热武器以前如何在自然界中存活？",
@@ -1407,11 +1548,12 @@
           "ranks": [
             15,
             17,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时29分 ~ 21时33分]"
+          "appearance_count": 13,
+          "time_info": "[09时29分 ~ 22时20分]"
         },
         {
           "title": "也门总统领导委员会副主席法拉杰·巴赫萨尼准将：将武器指向从胡塞武装手中解放出来的地区是不可取且危险的，并将导致更严重的混乱局面。",
@@ -1438,11 +1580,12 @@
             6,
             5,
             4,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时40分 ~ 21时33分]"
+          "appearance_count": 15,
+          "time_info": "[12时40分 ~ 22时20分]"
         },
         {
           "title": "港股光伏板块走强，协鑫新能源涨超20%，协鑫科技涨超4%。",
@@ -1474,6 +1617,19 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "创下2020年以来最佳年度表现后 美债在新年首个交易日延续涨势",
+          "url": "https://wallstreetcn.com/livenews/3029822",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            14,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时39分 ~ 22时20分]"
+        },
+        {
           "title": "美债于2026年首个交易日下跌，就业市场韧性引关注",
           "url": "https://flash.jin10.com/detail/20260102170712304800",
           "source": "金十数据",
@@ -1484,18 +1640,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时24分 ~ 18时21分]"
-        },
-        {
-          "title": "创下2020年以来最佳年度表现后 美债在新年首个交易日延续涨势",
-          "url": "https://wallstreetcn.com/livenews/3029822",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时39分 ~ 21时33分]"
         }
       ]
     },
