@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-04T19:16:51.445061+08:00",
-  "total_titles_processed": 1333,
+  "generated_at": "2026-01-04T20:38:23.927769+08:00",
+  "total_titles_processed": 1438,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 171,
+      "match_count": 173,
       "titles": [
         {
           "title": "特朗普称抓获马杜罗及其夫人并带离委内瑞拉",
@@ -39,8 +39,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时47分 ~ 19时16分]"
+          "appearance_count": 14,
+          "time_info": "[09时47分 ~ 20时38分]"
         },
         {
           "title": "特朗普威胁古巴、哥伦比亚",
@@ -52,8 +52,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时47分 ~ 19时16分]"
+          "appearance_count": 14,
+          "time_info": "[09时47分 ~ 20时38分]"
         },
         {
           "title": "特朗普：美国将接管委内瑞拉事务",
@@ -80,6 +80,19 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[03时15分 ~ 09时47分]"
+        },
+        {
+          "title": "上周六新建账号、本周五下注“马杜罗被抓”、周日爆赚1242%--Polymarket又见“特朗普内幕交易”？",
+          "url": "https://wallstreetcn.com/articles/3762495",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时21分 ~ 20时38分]"
         },
         {
           "title": "特朗普称抓获委内瑞拉总统及其夫人，美国司法部长称二人已在美国被起诉，意味着什么？美国为什么能说抓就抓？",
@@ -151,19 +164,6 @@
           "time_info": "[01时17分 ~ 09时47分]"
         },
         {
-          "title": "上周六新建账号、本周五下注“马杜罗被抓”、周日爆赚1242%--Polymarket又见“特朗普内幕交易”？",
-          "url": "https://wallstreetcn.com/articles/3762495",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时21分 ~ 19时16分]"
-        },
-        {
           "title": "特朗普举行发布会公布行动细节",
           "url": "https://www.douyin.com/hot/2356525",
           "source": "抖音",
@@ -218,8 +218,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时50分 ~ 19时16分]"
+          "appearance_count": 13,
+          "time_info": "[11时50分 ~ 20时38分]"
         },
         {
           "title": "特朗普发布马杜罗在美舰照片",
@@ -232,11 +232,12 @@
             11,
             21,
             23,
-            18
+            18,
+            25
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[02时27分 ~ 19时16分]"
+          "appearance_count": 22,
+          "time_info": "[02时27分 ~ 20时38分]"
         },
         {
           "title": "特朗普公布马杜罗被抓捕后画面",
@@ -268,8 +269,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时50分 ~ 19时16分]"
+          "appearance_count": 13,
+          "time_info": "[11时50分 ~ 20时38分]"
         },
         {
           "title": "特朗普：对委内瑞拉军事行动中有美方人员受伤",
@@ -316,8 +317,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时50分 ~ 19时16分]"
+          "appearance_count": 13,
+          "time_info": "[11时50分 ~ 20时38分]"
         },
         {
           "title": "特朗普称马杜罗夫妇在美国军舰上",
@@ -407,8 +408,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[02时27分 ~ 19时16分]"
+          "appearance_count": 19,
+          "time_info": "[02时27分 ~ 20时38分]"
         },
         {
           "title": "特朗普透露夜袭细节",
@@ -419,11 +420,12 @@
             27,
             24,
             23,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时50分 ~ 19时16分]"
+          "appearance_count": 11,
+          "time_info": "[11时50分 ~ 20时38分]"
         },
         {
           "title": "特朗普称美国将管理委内瑞拉",
@@ -537,6 +539,20 @@
           "time_info": "[11时50分 ~ 17时19分]"
         },
         {
+          "title": "开发委内瑞拉“全球第一的原油储备”？特朗普“理想很丰满”，但“现实很骨感”",
+          "url": "https://wallstreetcn.com/articles/3762494",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时31分 ~ 20时38分]"
+        },
+        {
           "title": "特朗普称已抓获委内瑞拉总统",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B7%B2%E6%8A%93%E8%8E%B7%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E6%80%BB%E7%BB%9F%23&t=31&band_rank=6&Refer=top",
           "source": "微博",
@@ -577,19 +593,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时17分 ~ 07时19分]"
-        },
-        {
-          "title": "开发委内瑞拉“全球第一的原油储备”？特朗普“理想很丰满”，但“现实很骨感”",
-          "url": "https://wallstreetcn.com/articles/3762494",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时31分 ~ 19时16分]"
         },
         {
           "title": "特朗普透露夜袭细节",
@@ -843,6 +846,33 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时27分 ~ 06时19分]"
+        },
+        {
+          "title": "特朗普：如有必要将再打击委",
+          "url": "https://www.douyin.com/hot/2356551",
+          "source": "抖音",
+          "ranks": [
+            29,
+            16,
+            17,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时27分 ~ 20时38分]"
+        },
+        {
+          "title": "特朗普：将让美大型石油公司进入委内瑞拉，不排除二次打击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32307985",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时19分 ~ 20时38分]"
         },
         {
           "title": "特朗普称马杜罗夫妇在美军舰上",
@@ -1136,19 +1166,6 @@
           "time_info": "[02时27分 ~ 05时17分]"
         },
         {
-          "title": "特朗普：如有必要将再打击委",
-          "url": "https://www.douyin.com/hot/2356551",
-          "source": "抖音",
-          "ranks": [
-            29,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时27分 ~ 19时16分]"
-        },
-        {
           "title": "美国总统特朗普：委内瑞拉副总统准备采取必要行动来提供帮助。 （除了配合美国）副总统真的“别无选择”。",
           "url": "https://wallstreetcn.com/livenews/3030136",
           "source": "华尔街见闻-快讯",
@@ -1186,18 +1203,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时27分 ~ 05时17分]"
-        },
-        {
-          "title": "特朗普：将让美大型石油公司进入委内瑞拉，不排除二次打击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32307985",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时19分 ~ 19时16分]"
         },
         {
           "title": "特朗普威胁古巴、哥伦比亚",
@@ -1809,6 +1814,17 @@
           "time_info": "01时17分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-04）",
+          "url": "https://flash.jin10.com/detail/20260104184157171800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
+        },
+        {
           "title": "俄罗斯政府：俄方呼吁（特朗普政府）立即释放委内瑞拉总统马杜罗及其妻子。",
           "url": "https://wallstreetcn.com/livenews/3030092",
           "source": "华尔街见闻-快讯",
@@ -1895,6 +1911,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
+        },
+        {
+          "title": "特朗普：美国将“接管”委内瑞拉和石油，何时还给委内瑞拉人由美国决定",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32309419",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
         },
         {
           "title": "美国总统特朗普在委内瑞拉采取美军行动后，众议院议长约翰逊表示，特朗普政府正努力安排在下周国会返回华盛顿时为议员们举行简报会。",
@@ -2119,6 +2146,148 @@
       ]
     },
     {
+      "keyword_group": "伊朗",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "伊朗最高领袖: 应与抗议者进行对话 但骚乱行径必须得到制止",
+          "url": "https://wallstreetcn.com/articles/3762481",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4,
+            5,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[09时47分 ~ 19时16分]"
+        },
+        {
+          "title": "伊朗这次全国性抗议会演变成政权更替吗？",
+          "url": "https://www.zhihu.com/question/1990341451373122440",
+          "source": "知乎",
+          "ranks": [
+            16,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时24分 ~ 09时47分]"
+        },
+        {
+          "title": "伊朗哈梅内伊为何不惊慌？",
+          "url": "https://www.zhihu.com/question/1991042434596094026",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时26分 ~ 20时38分]"
+        },
+        {
+          "title": "伊朗最高领袖就美国对委军事行动表态：“绝不会向敌人屈服”",
+          "url": "https://wallstreetcn.com/livenews/3030223",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            7,
+            10,
+            14,
+            22,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时50分 ~ 16时27分]"
+        },
+        {
+          "title": "市场消息：伊朗安全部队在伊斯法罕向抗议者开火。",
+          "url": "https://flash.jin10.com/detail/20260104043938060800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时17分 ~ 09时47分]"
+        },
+        {
+          "title": "伊朗外交部：伊朗外交部长与委内瑞拉外交部长进行了通话。",
+          "url": "https://flash.jin10.com/detail/20260104043833561800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时17分 ~ 09时47分]"
+        },
+        {
+          "title": "伊朗最高领袖誓言伊朗绝不屈服",
+          "url": "https://www.toutiao.com/trending/7590405381375836169/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            24,
+            20,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时47分 ~ 13时26分]"
+        },
+        {
+          "title": "内塔尼亚胡谈访美成果：以美坚持伊朗“零铀浓缩”立场",
+          "url": "https://flash.jin10.com/detail/20260104203228542800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
+        },
+        {
+          "title": "煽动伊朗骚乱的带头人被逮捕，供述称收受美元资金",
+          "url": "https://wallstreetcn.com/livenews/3030313",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
+        },
+        {
+          "title": "伊朗警察部队司令：已针对煽动骚乱带头人进行定点逮捕",
+          "url": "https://flash.jin10.com/detail/20260104193346890800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
+        },
+        {
+          "title": "伊朗正面临怎样的危机",
+          "url": "https://www.toutiao.com/trending/7591285330058153499/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        }
+      ]
+    },
+    {
       "keyword_group": "俄罗斯",
       "match_count": 9,
       "titles": [
@@ -2191,11 +2360,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            8
+            8,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 19时16分]"
+          "appearance_count": 3,
+          "time_info": "[18时20分 ~ 20时38分]"
         },
         {
           "title": "俄罗斯强烈敦促美国释放马杜罗",
@@ -2362,115 +2532,6 @@
       ]
     },
     {
-      "keyword_group": "伊朗",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "伊朗最高领袖: 应与抗议者进行对话 但骚乱行径必须得到制止",
-          "url": "https://wallstreetcn.com/articles/3762481",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4,
-            5,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时47分 ~ 19时16分]"
-        },
-        {
-          "title": "伊朗这次全国性抗议会演变成政权更替吗？",
-          "url": "https://www.zhihu.com/question/1990341451373122440",
-          "source": "知乎",
-          "ranks": [
-            16,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时24分 ~ 09时47分]"
-        },
-        {
-          "title": "伊朗最高领袖就美国对委军事行动表态：“绝不会向敌人屈服”",
-          "url": "https://wallstreetcn.com/livenews/3030223",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            7,
-            10,
-            14,
-            22,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时50分 ~ 16时27分]"
-        },
-        {
-          "title": "市场消息：伊朗安全部队在伊斯法罕向抗议者开火。",
-          "url": "https://flash.jin10.com/detail/20260104043938060800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时17分 ~ 09时47分]"
-        },
-        {
-          "title": "伊朗外交部：伊朗外交部长与委内瑞拉外交部长进行了通话。",
-          "url": "https://flash.jin10.com/detail/20260104043833561800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时17分 ~ 09时47分]"
-        },
-        {
-          "title": "伊朗最高领袖誓言伊朗绝不屈服",
-          "url": "https://www.toutiao.com/trending/7590405381375836169/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            24,
-            20,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时47分 ~ 13时26分]"
-        },
-        {
-          "title": "伊朗哈梅内伊为何不惊慌？",
-          "url": "https://www.zhihu.com/question/1991042434596094026",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时26分 ~ 19时16分]"
-        },
-        {
-          "title": "伊朗正面临怎样的危机",
-          "url": "https://www.toutiao.com/trending/7591285330058153499/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时47分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
       "match_count": 4,
       "titles": [
@@ -2530,7 +2591,7 @@
     },
     {
       "keyword_group": "战争",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美国参议院Sanders呼吁国会山批准“战争权力解决方案”（立法草案）。",
@@ -2553,11 +2614,23 @@
           "ranks": [
             20,
             16,
-            10
+            10,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时19分 ~ 19时16分]"
+          "appearance_count": 5,
+          "time_info": "[17时19分 ~ 20时38分]"
+        },
+        {
+          "title": "日本民间团体友好人士：高市言论本质是为发动战争制造舆论",
+          "url": "https://wallstreetcn.com/livenews/3030315",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
         },
         {
           "title": "美国人民不想要另一场战争",
@@ -2566,7 +2639,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         }
