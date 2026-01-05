@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-05T18:24:11.988169+08:00",
-  "total_titles_processed": 1452,
+  "generated_at": "2026-01-05T19:19:48.437394+08:00",
+  "total_titles_processed": 1559,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 79,
+      "match_count": 82,
       "titles": [
         {
           "title": "上周六新建账号、本周五下注“马杜罗被抓”、周日爆赚1242%--Polymarket又见“特朗普内幕交易”？",
@@ -32,6 +32,17 @@
           "time_info": "[00时23分 ~ 09时47分]"
         },
         {
+          "title": "中方回应特朗普威胁古巴等国",
+          "url": "https://news.ifeng.com/c/8pfVwlEUPag",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时31分 ~ 19时19分]"
+        },
+        {
           "title": "美国是否会在哥伦比亚开展行动？特朗普：这听上去挺不错的",
           "url": "https://wallstreetcn.com/articles/3762529",
           "source": "华尔街见闻",
@@ -43,8 +54,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时54分 ~ 18时24分]"
+          "appearance_count": 14,
+          "time_info": "[11时54分 ~ 19时19分]"
         },
         {
           "title": "特朗普威胁委内瑞拉代总统：若不正确行事 将付出更惨痛代价",
@@ -78,15 +89,19 @@
           "time_info": "[11时54分 ~ 17时32分]"
         },
         {
-          "title": "中方回应特朗普威胁古巴等国",
-          "url": "https://news.ifeng.com/c/8pfVwlEUPag",
-          "source": "凤凰网",
+          "title": "“特马”重修旧好？美国突袭委内瑞拉后 特朗普和马斯克共进晚餐",
+          "url": "https://www.cls.cn/detail/2247636",
+          "source": "财联社热门",
           "ranks": [
-            1
+            12,
+            10,
+            8,
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时31分 ~ 18时24分]"
+          "appearance_count": 9,
+          "time_info": "[14时37分 ~ 19时19分]"
         },
         {
           "title": "外交部回应特朗普谈格陵兰岛时涉华言论",
@@ -122,8 +137,23 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时54分 ~ 18时24分]"
+          "appearance_count": 14,
+          "time_info": "[11时54分 ~ 19时19分]"
+        },
+        {
+          "title": "特朗普宣布美国接管委内瑞拉，将让美石油巨头进入委内瑞拉，意味着什么？委内瑞拉接下来将面临哪些危机？",
+          "url": "https://www.zhihu.com/question/1991053595043390487",
+          "source": "知乎",
+          "ranks": [
+            17,
+            19,
+            14,
+            18,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[11时54分 ~ 19时19分]"
         },
         {
           "title": "特朗普威胁委代理总统，还称“绝对需要格陵兰岛”",
@@ -152,20 +182,6 @@
           "time_info": "[00时23分 ~ 07时19分]"
         },
         {
-          "title": "特朗普宣布美国接管委内瑞拉，将让美石油巨头进入委内瑞拉，意味着什么？委内瑞拉接下来将面临哪些危机？",
-          "url": "https://www.zhihu.com/question/1991053595043390487",
-          "source": "知乎",
-          "ranks": [
-            17,
-            19,
-            14,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时54分 ~ 18时24分]"
-        },
-        {
           "title": "特朗普在抓捕马杜罗发布会上称已超越门罗主义，升级为唐罗主义，这反映了怎样的政策转向？核心主张是什么？",
           "url": "https://www.zhihu.com/question/1991082437355201732",
           "source": "知乎",
@@ -191,20 +207,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时23分 ~ 13时35分]"
-        },
-        {
-          "title": "“特马”重修旧好？美国突袭委内瑞拉后 特朗普和马斯克共进晚餐",
-          "url": "https://www.cls.cn/detail/2247636",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时37分 ~ 18时24分]"
         },
         {
           "title": "格陵兰岛总理回应特朗普言论",
@@ -246,6 +248,17 @@
           "time_info": "[00时23分 ~ 07时19分]"
         },
         {
+          "title": "特朗普接连向6国发出威胁，哥总统强硬表态",
+          "url": "https://news.ifeng.com/c/8pfcK5vNmj2",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时23分 ~ 19时19分]"
+        },
+        {
           "title": "特朗普：委内瑞拉是一个“死掉的国家”，美国“正在掌权”",
           "url": "https://news.ifeng.com/c/8pf4IXU084i",
           "source": "凤凰网",
@@ -256,6 +269,31 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时28分 ~ 16时32分]"
+        },
+        {
+          "title": "中方回应特朗普谈格陵兰岛涉华言论",
+          "url": "https://www.toutiao.com/trending/7591783882828431398/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时31分 ~ 19时19分]"
+        },
+        {
+          "title": "委内瑞拉代总统喊话特朗普",
+          "url": "https://www.baidu.com/s?wd=%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E4%BB%A3%E6%80%BB%E7%BB%9F%E5%96%8A%E8%AF%9D%E7%89%B9%E6%9C%97%E6%99%AE",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            6,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时31分 ~ 19时19分]"
         },
         {
           "title": "美国“闪击”委内瑞拉：特朗普称将“管理”委内瑞拉直至实施“安全”过渡，深度介入石油产业",
@@ -344,42 +382,6 @@
           "time_info": "[00时23分 ~ 06时19分]"
         },
         {
-          "title": "特朗普接连向6国发出威胁，哥总统强硬表态",
-          "url": "https://news.ifeng.com/c/8pfcK5vNmj2",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时23分 ~ 18时24分]"
-        },
-        {
-          "title": "中方回应特朗普谈格陵兰岛涉华言论",
-          "url": "https://www.toutiao.com/trending/7591783882828431398/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时31分 ~ 18时24分]"
-        },
-        {
-          "title": "委内瑞拉代总统喊话特朗普",
-          "url": "https://www.baidu.com/s?wd=%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E4%BB%A3%E6%80%BB%E7%BB%9F%E5%96%8A%E8%AF%9D%E7%89%B9%E6%9C%97%E6%99%AE",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            6,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时31分 ~ 18时24分]"
-        },
-        {
           "title": "特朗普：委内瑞拉是一个“死掉的国家”，而美国“正在掌权”",
           "url": "https://wallstreetcn.com/livenews/3030462",
           "source": "华尔街见闻-快讯",
@@ -411,6 +413,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
+        },
+        {
+          "title": "欧盟发言人：欧盟注意到美国总统特朗普关于格陵兰岛的评论。",
+          "url": "https://flash.jin10.com/detail/20260105191645261800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
         },
         {
           "title": "特朗普称正在考虑重新开放美国驻委内瑞拉大使馆",
@@ -571,6 +584,17 @@
           "time_info": "[12时56分 ~ 14时37分]"
         },
         {
+          "title": "国际刑事法院原首席检察官：特朗普犯了“侵略罪”",
+          "url": "https://news.ifeng.com/c/8pfZjM0LgjM",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时23分 ~ 19时19分]"
+        },
+        {
           "title": "美国国务卿鲁比奥：特朗普在委内瑞拉行动上始终拥有多种选择",
           "url": "https://flash.jin10.com/detail/20260105042758533800",
           "source": "金十数据",
@@ -630,17 +654,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时32分 ~ 17时32分]"
-        },
-        {
-          "title": "国际刑事法院原首席检察官：特朗普犯了“侵略罪”",
-          "url": "https://news.ifeng.com/c/8pfZjM0LgjM",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时23分 ~ 18时24分]"
         },
         {
           "title": "美国总统特朗普在《大西洋》月刊采访中表示，委内瑞拉副总统德尔茜·罗德里格斯“若不行正道”将付出比马杜罗更惨痛代价。",
@@ -805,6 +818,17 @@
           "time_info": "[12时56分 ~ 12时57分]"
         },
         {
+          "title": "特朗普多次威胁，尼尔森发文回击：够了！不要再幻想吞并了",
+          "url": "https://wallstreetcn.com/livenews/3030821",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
+        },
+        {
           "title": "特朗普说绝对需要格陵兰岛",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E7%BB%9D%E5%AF%B9%E9%9C%80%E8%A6%81%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%23&t=31&band_rank=8&Refer=top",
           "source": "微博",
@@ -937,6 +961,17 @@
           "time_info": "09时47分"
         },
         {
+          "title": "哥伦比亚总统：特朗普请停止诽谤",
+          "url": "https://www.baidu.com/s?wd=%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A%E6%80%BB%E7%BB%9F%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B7%E5%81%9C%E6%AD%A2%E8%AF%BD%E8%B0%A4",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
+        },
+        {
           "title": "外交部回应特朗普谈格陵兰岛时涉华言论",
           "url": "https://wallstreetcn.com/livenews/3030677",
           "source": "华尔街见闻-快讯",
@@ -962,7 +997,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "比亚迪超越特斯拉，成为 2025 年纯电汽车全球销冠，这意味着什么？你觉得未来电动汽车市场拼的是什么？",
@@ -973,11 +1008,12 @@
             13,
             5,
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时54分 ~ 18时24分]"
+          "appearance_count": 14,
+          "time_info": "[11时54分 ~ 19时19分]"
         },
         {
           "title": "雷军带网友参观小米汽车实验室",
@@ -1011,6 +1047,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[12时56分 ~ 17时32分]"
+        },
+        {
+          "title": "吉利汽车在港交所公告显示，1月5日以每股17.520港元至17.900港元的价格回购342.00万股，回购金额达6031.47万港元。",
+          "url": "https://wallstreetcn.com/livenews/3030825",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
         },
         {
           "title": "金十图示：2026年01月05日（周一）全球汽车制造商市值变化",
@@ -1066,169 +1113,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "内塔尼亚胡谈访美成果：以美坚持伊朗“零铀浓缩”立场",
-          "url": "https://news.ifeng.com/c/8peAynFqde9",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 07时19分]"
         },
         {
-          "title": "伊朗哈梅内伊为何不惊慌？",
-          "url": "https://www.zhihu.com/question/1991042434596094026",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 07时19分]"
-        },
-        {
-          "title": "内塔尼亚胡谈访美成果：以美坚持伊朗“零铀浓缩”立场",
-          "url": "https://wallstreetcn.com/livenews/3030326",
+          "title": "赛力斯：12月新能源汽车销量60,981辆，同比增长63.40%；其中赛力斯汽车销量53,733辆，同比增长77.99%。",
+          "url": "https://wallstreetcn.com/livenews/3030773",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 06时19分]"
-        },
-        {
-          "title": "伊朗呼吁美方释放委内瑞拉总统马杜罗",
-          "url": "https://news.ifeng.com/c/8pfbAio37z3",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时23分 ~ 18时24分]"
-        },
-        {
-          "title": "内塔尼亚胡谈访美成果：以美坚持伊朗“零铀浓缩”立场",
-          "url": "https://flash.jin10.com/detail/20260104203228542800",
-          "source": "金十数据",
-          "ranks": [
-            25,
             29
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 01时17分]"
-        },
-        {
-          "title": "人权组织称伊朗一周的抗议活动至少造成16人死亡",
-          "url": "https://flash.jin10.com/detail/20260105104432340800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时55分"
-        },
-        {
-          "title": "据伊朗塔斯尼姆通讯社：伊朗外长阿拉格齐呼吁通过各领域持续合作，加强和扩大与阿塞拜疆共和国的全面关系。",
-          "url": "https://flash.jin10.com/detail/20260105025806414800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "美股贵金属矿商盘前上涨，金罗斯黄金(KGC.N)涨2%，AngloGold涨1.4%，巴里克黄金(GOLD.N)、纽蒙特矿业(NEM.N)均涨超2%。",
-          "url": "https://flash.jin10.com/detail/20260105171032331800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时32分"
-        },
-        {
-          "title": "美股三大股指期货周一小幅高开。",
-          "url": "https://flash.jin10.com/detail/20260105070122345800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时19分"
-        },
-        {
-          "title": "美股石油股盘前走强，雪佛龙(CVX.N)涨约9%，康菲石油(COP.N)涨8.6%，哈利伯顿(HAL.N)涨11.25%，斯伦贝谢(SLB.N)涨10.7%。",
-          "url": "https://flash.jin10.com/detail/20260105170758179800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时32分"
-        },
-        {
-          "title": "中金2026展望：泡沫加速！美国“财政主导”利好中美股市和金银铜",
-          "url": "https://wallstreetcn.com/articles/3762526",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时31分 ~ 18时24分]"
-        },
-        {
-          "title": "美股盘前，美股存储芯片股走高，美光科技涨超3%，西部数据涨超2%，SanDisk涨超2%，台积电涨近3.5%，AMD涨超2%。美国石油股盘前集体走高，雪佛龙盘前一度上涨近10%，康菲石油涨超8％，埃克森美孚涨超3%。",
-          "url": "https://wallstreetcn.com/livenews/3030750",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时32分 ~ 18时24分]"
-        },
-        {
-          "title": "分析师：委内瑞拉局势或成美股美元长期利好",
-          "url": "https://flash.jin10.com/detail/20260105170146355800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时32分"
+          "time_info": "19时19分"
         }
       ]
     },
     {
       "keyword_group": "俄罗斯",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "俄罗斯国防部：在当地时间下午1点至8点之间，共击落253架乌克兰无人机，其中39架在莫斯科地区上空被击落。",
@@ -1305,6 +1206,196 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
+        },
+        {
+          "title": "匈牙利总理欧尔班：现在不是俄罗斯总统普京访问匈牙利的好时机，没有公开的双边议题需要讨论。",
+          "url": "https://flash.jin10.com/detail/20260105185538801800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
+        },
+        {
+          "title": "俄罗斯联邦航空运输署：首批伊尔-114-300型飞机的交付预计于今年内完成。目前测试已进入最后阶段，完成测试后将首先交付三架该型号飞机。",
+          "url": "https://flash.jin10.com/detail/20260105185255242800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "美股贵金属矿商盘前上涨，金罗斯黄金(KGC.N)涨2%，AngloGold涨1.4%，巴里克黄金(GOLD.N)、纽蒙特矿业(NEM.N)均涨超2%。",
+          "url": "https://flash.jin10.com/detail/20260105171032331800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时32分"
+        },
+        {
+          "title": "美股三大股指期货周一小幅高开。",
+          "url": "https://flash.jin10.com/detail/20260105070122345800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        },
+        {
+          "title": "美股石油股盘前走强，雪佛龙(CVX.N)涨约9%，康菲石油(COP.N)涨8.6%，哈利伯顿(HAL.N)涨11.25%，斯伦贝谢(SLB.N)涨10.7%。",
+          "url": "https://flash.jin10.com/detail/20260105170758179800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时32分"
+        },
+        {
+          "title": "中金2026展望：泡沫加速！美国“财政主导”利好中美股市和金银铜",
+          "url": "https://wallstreetcn.com/articles/3762526",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时31分 ~ 18时24分]"
+        },
+        {
+          "title": "美股盘前，美股存储芯片股走高，美光科技涨超3%，西部数据涨超2%，SanDisk涨超2%，台积电涨近3.5%，AMD涨超2%。美国石油股盘前集体走高，雪佛龙盘前一度上涨近10%，康菲石油涨超8％，埃克森美孚涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3030750",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时32分 ~ 18时24分]"
+        },
+        {
+          "title": "分析师：委内瑞拉局势或成美股美元长期利好",
+          "url": "https://flash.jin10.com/detail/20260105170146355800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时32分"
+        },
+        {
+          "title": "地缘风险预期升温 美股国防板块盘前集体上扬",
+          "url": "https://flash.jin10.com/detail/20260105190339497800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "内塔尼亚胡谈访美成果：以美坚持伊朗“零铀浓缩”立场",
+          "url": "https://news.ifeng.com/c/8peAynFqde9",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 07时19分]"
+        },
+        {
+          "title": "伊朗呼吁美方释放委内瑞拉总统马杜罗",
+          "url": "https://news.ifeng.com/c/8pfbAio37z3",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时23分 ~ 19时19分]"
+        },
+        {
+          "title": "伊朗哈梅内伊为何不惊慌？",
+          "url": "https://www.zhihu.com/question/1991042434596094026",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 07时19分]"
+        },
+        {
+          "title": "内塔尼亚胡谈访美成果：以美坚持伊朗“零铀浓缩”立场",
+          "url": "https://wallstreetcn.com/livenews/3030326",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 06时19分]"
+        },
+        {
+          "title": "内塔尼亚胡谈访美成果：以美坚持伊朗“零铀浓缩”立场",
+          "url": "https://flash.jin10.com/detail/20260104203228542800",
+          "source": "金十数据",
+          "ranks": [
+            25,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时17分]"
+        },
+        {
+          "title": "人权组织称伊朗一周的抗议活动至少造成16人死亡",
+          "url": "https://flash.jin10.com/detail/20260105104432340800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗外长阿拉格齐呼吁通过各领域持续合作，加强和扩大与阿塞拜疆共和国的全面关系。",
+          "url": "https://flash.jin10.com/detail/20260105025806414800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时22分"
         }
       ]
     },
@@ -1386,6 +1477,34 @@
       ]
     },
     {
+      "keyword_group": "无人机",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "俄国防部：200多架乌克兰无人机袭击俄多地",
+          "url": "https://wallstreetcn.com/livenews/3030355",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        },
+        {
+          "title": "据以色列媒体报道，黎巴嫩南部纳巴蒂耶（Nabatieh）发生无人机袭击车辆事件。",
+          "url": "https://flash.jin10.com/detail/20260105184508086800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 1,
       "titles": [
@@ -1429,23 +1548,6 @@
           "source": "金十数据",
           "ranks": [
             1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "无人机",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "俄国防部：200多架乌克兰无人机袭击俄多地",
-          "url": "https://wallstreetcn.com/livenews/3030355",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
           ],
           "is_new": false,
           "appearance_count": 1,
