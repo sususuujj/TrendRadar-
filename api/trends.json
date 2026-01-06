@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T18:22:41.157788+08:00",
-  "total_titles_processed": 1671,
+  "generated_at": "2026-01-06T19:18:44.711735+08:00",
+  "total_titles_processed": 1765,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 64,
+      "match_count": 65,
       "titles": [
         {
           "title": "特朗普接连向6国发出威胁，哥总统强硬表态",
@@ -97,8 +97,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时26分 ~ 18时22分]"
+          "appearance_count": 21,
+          "time_info": "[00时26分 ~ 19时18分]"
         },
         {
           "title": "特朗普宣布美国接管委内瑞拉，将让美石油巨头进入委内瑞拉，意味着什么？委内瑞拉接下来将面临哪些危机？",
@@ -190,8 +190,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时24分 ~ 18时22分]"
+          "appearance_count": 8,
+          "time_info": "[13时24分 ~ 19时18分]"
         },
         {
           "title": "特朗普：美国将深度介入委内瑞拉",
@@ -241,6 +241,19 @@
           "time_info": "07时20分"
         },
         {
+          "title": "格陵兰岛总理回应特朗普",
+          "url": "https://www.douyin.com/hot/2358627",
+          "source": "抖音",
+          "ranks": [
+            29,
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时32分 ~ 19时18分]"
+        },
+        {
           "title": "据NBC：美国总统特朗普表示，美国可能会资助石油公司重建该国能源基础设施。",
           "url": "https://flash.jin10.com/detail/20260106070419372800",
           "source": "金十数据",
@@ -269,7 +282,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
@@ -327,19 +340,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
-        },
-        {
-          "title": "格陵兰岛总理回应特朗普",
-          "url": "https://www.douyin.com/hot/2358627",
-          "source": "抖音",
-          "ranks": [
-            29,
-            16,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时32分 ~ 18时22分]"
         },
         {
           "title": "美国本周将会见石油高管们，讨论（特朗普政府掳走委内瑞拉总统马杜罗之后的）委国“复苏”问题。",
@@ -437,6 +437,18 @@
           "time_info": "[09时29分 ~ 12时39分]"
         },
         {
+          "title": "特朗普不到1年对7国动武",
+          "url": "https://www.toutiao.com/trending/7591141159599276095/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时22分 ~ 19时18分]"
+        },
+        {
           "title": "路透调查：特朗普支持率上升 仅三成美国人赞成美国对委行动",
           "url": "https://flash.jin10.com/detail/20260106030259018800",
           "source": "金十数据",
@@ -509,17 +521,6 @@
           "time_info": "[11时28分 ~ 12时39分]"
         },
         {
-          "title": "特朗普不到1年对7国动武",
-          "url": "https://www.toutiao.com/trending/7591141159599276095/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时22分"
-        },
-        {
           "title": "据NBC：美国总统特朗普表示，美国并未与委内瑞拉开战。",
           "url": "https://flash.jin10.com/detail/20260106070009215800",
           "source": "金十数据",
@@ -548,7 +549,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
@@ -650,6 +651,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
+        },
+        {
+          "title": "丹麦首相要求特朗普停止对格陵兰岛的“威胁”，称其享有北约的安全保障",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32319045",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
         },
         {
           "title": "美国参议员马克·凯利：美国国防部长赫格塞思和唐纳德·特朗普无权决定美国民众如何评价他们的政府。",
@@ -765,7 +777,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "雷军聊小米汽车试验室",
@@ -789,11 +801,12 @@
           "ranks": [
             21,
             18,
-            28
+            28,
+            23
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时29分 ~ 18时22分]"
+          "appearance_count": 11,
+          "time_info": "[09时29分 ~ 19时18分]"
         },
         {
           "title": "金十图示：2026年01月06日（周二）全球汽车制造商市值变化",
@@ -898,6 +911,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时26分"
+        },
+        {
+          "title": "汽车行业困境波及全德 总理承认提升经济竞争力举措不足",
+          "url": "https://flash.jin10.com/detail/20260106183957286800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
         },
         {
           "title": "美国国家公路交通安全管理局：美国大众汽车集团有限公司召回356,649辆美国车辆。通用汽车有限责任公司召回81,177辆美国车辆。",
@@ -1046,8 +1070,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时19分 ~ 18时22分]"
+          "appearance_count": 13,
+          "time_info": "[07时19分 ~ 19时18分]"
         },
         {
           "title": "美股收盘：道指创历史新高 美委局势提振能源板块",
@@ -1195,7 +1219,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "怕清算?伊朗领袖携950亿开溜",
@@ -1205,11 +1229,12 @@
             5,
             4,
             6,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时32分 ~ 18时22分]"
+          "appearance_count": 7,
+          "time_info": "[14时32分 ~ 19时18分]"
         },
         {
           "title": "伊朗要求国际原子能机构谴责针对伊朗核设施的犯罪行为",
@@ -1325,6 +1350,17 @@
           "time_info": "06时20分"
         },
         {
+          "title": "伊朗称随时准备对侵略或敌对行为作出果断回应",
+          "url": "https://wallstreetcn.com/livenews/3031601",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
+        },
+        {
           "title": "以色列总理内塔尼亚胡：如果我们遭到伊朗的攻击，其后果将会极其严重。",
           "url": "https://flash.jin10.com/detail/20260105232040593800",
           "source": "金十数据",
@@ -1351,11 +1387,12 @@
             22,
             23,
             28,
-            24
+            24,
+            17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时39分 ~ 18时22分]"
+          "appearance_count": 9,
+          "time_info": "[12时39分 ~ 19时18分]"
         },
         {
           "title": "据英国《金融时报》：Telegram遭遇5亿美元俄罗斯债券冻结冲击。",
@@ -1488,17 +1525,6 @@
       "match_count": 7,
       "titles": [
         {
-          "title": "金十图示：2026年01月06日（周二）上海金午盘价为1002.84元/克，较国际金价(1001.81元/克)，高1.03元/克",
-          "url": "https://flash.jin10.com/detail/20260106150838647800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时25分"
-        },
-        {
           "title": "工行开年上调积存金风险评级，下周起C3及以上客户才可买，金价走强更多银行不断入局",
           "url": "https://www.cls.cn/detail/2248953",
           "source": "财联社热门",
@@ -1509,8 +1535,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时25分 ~ 18时22分]"
+          "appearance_count": 5,
+          "time_info": "[15时25分 ~ 19时18分]"
+        },
+        {
+          "title": "金十图示：2026年01月06日（周二）上海金午盘价为1002.84元/克，较国际金价(1001.81元/克)，高1.03元/克",
+          "url": "https://flash.jin10.com/detail/20260106150838647800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时25分"
         },
         {
           "title": "瑞银上调金价目标至5000美元",
@@ -1585,8 +1622,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时29分 ~ 18时22分]"
+          "appearance_count": 11,
+          "time_info": "[09时29分 ~ 19时18分]"
         },
         {
           "title": "OpenAI家务机器人售价2万美元",
@@ -1638,8 +1675,19 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "美债收益率震荡回升 市场紧盯经济走软信号",
+          "url": "https://flash.jin10.com/detail/20260106185806265800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
+        },
         {
           "title": "美债价格在ISM数据不及预期后上涨，交易员布局看涨期权",
           "url": "https://wallstreetcn.com/livenews/3031120",
@@ -1822,11 +1870,12 @@
             3,
             4,
             5,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时39分 ~ 18时22分]"
+          "appearance_count": 9,
+          "time_info": "[12时39分 ~ 19时18分]"
         },
         {
           "title": "欧洲央行管委维勒鲁瓦：担心美国可能日益将美元全球支付体系武器化，这正推动部分司法管辖区积极发展替代性支付系统。",
