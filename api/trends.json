@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T17:26:29.114192+08:00",
-  "total_titles_processed": 1586,
+  "generated_at": "2026-01-06T18:22:41.157788+08:00",
+  "total_titles_processed": 1671,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 61,
+      "match_count": 64,
       "titles": [
         {
           "title": "特朗普接连向6国发出威胁，哥总统强硬表态",
@@ -42,6 +42,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时26分 ~ 07时20分]"
+        },
+        {
+          "title": "特朗普向委内瑞拉、哥伦比亚、古巴、伊朗、墨西哥、丹麦 6 国发出威胁，怎样解读？美国会出兵更多国家吗？",
+          "url": "https://www.zhihu.com/question/1991570437310740440",
+          "source": "知乎",
+          "ranks": [
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时29分 ~ 18时22分]"
         },
         {
           "title": "国际刑事法院原首席检察官：特朗普犯了“侵略罪”",
@@ -85,8 +97,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时26分 ~ 17时26分]"
+          "appearance_count": 20,
+          "time_info": "[00时26分 ~ 18时22分]"
         },
         {
           "title": "特朗普宣布美国接管委内瑞拉，将让美石油巨头进入委内瑞拉，意味着什么？委内瑞拉接下来将面临哪些危机？",
@@ -112,16 +124,21 @@
           "time_info": "[01时21分 ~ 09时29分]"
         },
         {
-          "title": "特朗普向委内瑞拉、哥伦比亚、古巴、伊朗、墨西哥、丹麦 6 国发出威胁，怎样解读？美国会出兵更多国家吗？",
-          "url": "https://www.zhihu.com/question/1991570437310740440",
-          "source": "知乎",
+          "title": "中方回应特朗普威胁古巴等国",
+          "url": "https://www.douyin.com/hot/2358268",
+          "source": "抖音",
           "ranks": [
-            11,
-            6
+            14,
+            21,
+            29,
+            18,
+            19,
+            16,
+            13
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[09时29分 ~ 17时26分]"
+          "time_info": "[11时28分 ~ 18时22分]"
         },
         {
           "title": "特朗普称格陵兰岛“到处都是中国船只”，外交部驳斥",
@@ -164,20 +181,17 @@
           "time_info": "[11时28分 ~ 15时25分]"
         },
         {
-          "title": "中方回应特朗普威胁古巴等国",
-          "url": "https://www.douyin.com/hot/2358268",
-          "source": "抖音",
+          "title": "特朗普下一个目标？丹麦首相：美国若“强取”格陵兰岛，意味着北约的终结",
+          "url": "https://wallstreetcn.com/articles/3762615",
+          "source": "华尔街见闻",
           "ranks": [
-            14,
-            21,
-            29,
-            18,
-            19,
-            16
+            10,
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时28分 ~ 17时26分]"
+          "appearance_count": 7,
+          "time_info": "[13时24分 ~ 18时22分]"
         },
         {
           "title": "特朗普：美国将深度介入委内瑞拉",
@@ -227,18 +241,6 @@
           "time_info": "07时20分"
         },
         {
-          "title": "特朗普下一个目标？丹麦首相：美国若“强取”格陵兰岛，意味着北约的终结",
-          "url": "https://wallstreetcn.com/articles/3762615",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时24分 ~ 17时26分]"
-        },
-        {
           "title": "据NBC：美国总统特朗普表示，美国可能会资助石油公司重建该国能源基础设施。",
           "url": "https://flash.jin10.com/detail/20260106070419372800",
           "source": "金十数据",
@@ -259,6 +261,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时29分"
+        },
+        {
+          "title": "特朗普干预主义引发去美元化担忧 杰富瑞看好黄金避险属性",
+          "url": "https://flash.jin10.com/detail/20260106174715588800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
         },
         {
           "title": "丹麦首相表示，她认真对待美国总统特朗普关于格陵兰岛的威胁。",
@@ -314,6 +327,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
+        },
+        {
+          "title": "格陵兰岛总理回应特朗普",
+          "url": "https://www.douyin.com/hot/2358627",
+          "source": "抖音",
+          "ranks": [
+            29,
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时32分 ~ 18时22分]"
         },
         {
           "title": "美国本周将会见石油高管们，讨论（特朗普政府掳走委内瑞拉总统马杜罗之后的）委国“复苏”问题。",
@@ -400,19 +426,6 @@
           "time_info": "[00时26分 ~ 02时31分]"
         },
         {
-          "title": "格陵兰岛总理回应特朗普",
-          "url": "https://www.douyin.com/hot/2358627",
-          "source": "抖音",
-          "ranks": [
-            29,
-            16,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时32分 ~ 17时26分]"
-        },
-        {
           "title": "特朗普放话“我们绝对需要格陵兰岛”，丹麦强硬回击",
           "url": "https://news.ifeng.com/c/8pgZkuVTOGk",
           "source": "凤凰网",
@@ -496,6 +509,17 @@
           "time_info": "[11时28分 ~ 12时39分]"
         },
         {
+          "title": "特朗普不到1年对7国动武",
+          "url": "https://www.toutiao.com/trending/7591141159599276095/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
           "title": "据NBC：美国总统特朗普表示，美国并未与委内瑞拉开战。",
           "url": "https://flash.jin10.com/detail/20260106070009215800",
           "source": "金十数据",
@@ -516,6 +540,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
+        },
+        {
+          "title": "知情人士：特朗普政府计划本周约谈美国石油巨头",
+          "url": "https://flash.jin10.com/detail/20260106174326152800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
         },
         {
           "title": "特朗普政府大幅削减儿童疫苗接种计划",
@@ -753,11 +788,12 @@
           "source": "百度热搜",
           "ranks": [
             21,
-            18
+            18,
+            28
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时29分 ~ 17时26分]"
+          "appearance_count": 10,
+          "time_info": "[09时29分 ~ 18时22分]"
         },
         {
           "title": "金十图示：2026年01月06日（周二）全球汽车制造商市值变化",
@@ -837,7 +873,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时26分"
         },
@@ -859,7 +895,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时26分"
         },
@@ -1010,8 +1046,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时19分 ~ 17时26分]"
+          "appearance_count": 12,
+          "time_info": "[07时19分 ~ 18时22分]"
         },
         {
           "title": "美股收盘：道指创历史新高 美委局势提振能源板块",
@@ -1172,8 +1208,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时32分 ~ 17时26分]"
+          "appearance_count": 6,
+          "time_info": "[14时32分 ~ 18时22分]"
         },
         {
           "title": "伊朗要求国际原子能机构谴责针对伊朗核设施的犯罪行为",
@@ -1262,7 +1298,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时26分"
         },
@@ -1314,11 +1350,12 @@
             12,
             22,
             23,
-            28
+            28,
+            24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时39分 ~ 17时26分]"
+          "appearance_count": 8,
+          "time_info": "[12时39分 ~ 18时22分]"
         },
         {
           "title": "据英国《金融时报》：Telegram遭遇5亿美元俄罗斯债券冻结冲击。",
@@ -1468,11 +1505,12 @@
           "ranks": [
             13,
             11,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时25分 ~ 17时26分]"
+          "appearance_count": 4,
+          "time_info": "[15时25分 ~ 18时22分]"
         },
         {
           "title": "瑞银上调金价目标至5000美元",
@@ -1543,11 +1581,12 @@
             10,
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时29分 ~ 17时26分]"
+          "appearance_count": 10,
+          "time_info": "[09时29分 ~ 18时22分]"
         },
         {
           "title": "OpenAI家务机器人售价2万美元",
@@ -1786,8 +1825,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时39分 ~ 17时26分]"
+          "appearance_count": 8,
+          "time_info": "[12时39分 ~ 18时22分]"
         },
         {
           "title": "欧洲央行管委维勒鲁瓦：担心美国可能日益将美元全球支付体系武器化，这正推动部分司法管辖区积极发展替代性支付系统。",
@@ -1796,7 +1835,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时26分"
         }
