@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-07T22:23:37.164505+08:00",
-  "total_titles_processed": 2104,
+  "generated_at": "2026-01-07T23:24:47.882113+08:00",
+  "total_titles_processed": 2209,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 86,
+      "match_count": 88,
       "titles": [
         {
           "title": "特朗普考虑动用美军等一系列选项得到格陵兰岛，欧洲多国发布联合声明，后续可能会如何发展？格陵兰岛危险吗？",
@@ -17,8 +17,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时29分 ~ 22时23分]"
+          "appearance_count": 16,
+          "time_info": "[09时29分 ~ 23时24分]"
         },
         {
           "title": "特朗普称美国将从委内瑞拉获得5000万桶石油，外交部：中国在委合法权益必须得到保护",
@@ -33,6 +33,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[16时29分 ~ 21时39分]"
+        },
+        {
+          "title": "特朗普称「委内瑞拉临时政府将向美移交 3 千万至 5 千万桶石油」，委内瑞拉妥协了吗？",
+          "url": "https://www.zhihu.com/question/1992144765781840551",
+          "source": "知乎",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[11时28分 ~ 23时24分]"
         },
         {
           "title": "特朗普不到1年对7国动武",
@@ -70,17 +82,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时27分 ~ 07时20分]"
-        },
-        {
-          "title": "特朗普称「委内瑞拉临时政府将向美移交 3 千万至 5 千万桶石油」，委内瑞拉妥协了吗？",
-          "url": "https://www.zhihu.com/question/1992144765781840551",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时28分 ~ 22时23分]"
         },
         {
           "title": "【早报】中方出手！禁止所有两用物项对日本军事用途出口；特朗普考虑动用美军等“一系列选项”获取格陵兰岛",
@@ -137,6 +138,18 @@
           "time_info": "[09时29分 ~ 14时32分]"
         },
         {
+          "title": "特朗普的下一步，难了",
+          "url": "https://news.ifeng.com/c/8pj2YQ7rnj3",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时42分 ~ 23时24分]"
+        },
+        {
           "title": "特朗普支持格陵兰岛独立",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%AF%E6%8C%81%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E7%8B%AC%E7%AB%8B%23&t=31&band_rank=4&Refer=top",
           "source": "微博",
@@ -190,18 +203,6 @@
           "time_info": "[13时25分 ~ 16时29分]"
         },
         {
-          "title": "特朗普的下一步，难了",
-          "url": "https://news.ifeng.com/c/8pj2YQ7rnj3",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时42分 ~ 22时23分]"
-        },
-        {
           "title": "WTI原油短线走低，特朗普称委内瑞拉将向美国交付3000-5000万桶石油",
           "url": "https://wallstreetcn.com/articles/3762696",
           "source": "华尔街见闻",
@@ -238,8 +239,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时23分 ~ 22时23分]"
+          "appearance_count": 8,
+          "time_info": "[18时23分 ~ 23时24分]"
         },
         {
           "title": "特朗普政府正讨论获取格陵兰岛方案",
@@ -646,6 +647,17 @@
           "time_info": "00时28分"
         },
         {
+          "title": "美国总统特朗普：我怀疑，在我们需要的时候北约是否会提供帮助。",
+          "url": "https://wallstreetcn.com/livenews/3032555",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
+        },
+        {
           "title": "特朗普称必须赢得中期选举",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%BF%85%E9%A1%BB%E8%B5%A2%E5%BE%97%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%23&t=31&band_rank=16&Refer=top",
           "source": "微博",
@@ -806,7 +818,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时23分"
         },
@@ -905,9 +917,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时23分"
+        },
+        {
+          "title": "Critical Metals一度涨15%，股价创去年10月以来盘中最高，此前美国总统特朗普声称考虑收购格陵兰岛。",
+          "url": "https://wallstreetcn.com/livenews/3032543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
         },
         {
           "title": "特朗普模仿举重动作嘲讽跨性别运动员",
@@ -1225,7 +1248,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时23分"
         },
@@ -1247,7 +1270,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时23分"
         },
@@ -1310,7 +1333,7 @@
     },
     {
       "keyword_group": "俄罗斯",
-      "match_count": 13,
+      "match_count": 17,
       "titles": [
         {
           "title": "俄罗斯代表谴责美国",
@@ -1353,13 +1376,35 @@
           "time_info": "[06时20分 ~ 07时20分]"
         },
         {
+          "title": "悬挂俄罗斯国旗的船只现已由美国海岸警卫队接管，美军已撤离该船。",
+          "url": "https://flash.jin10.com/detail/20260107230737894800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
+        },
+        {
+          "title": "美国将“代销”委内瑞拉石油，并要求委切断与中国、俄罗斯的经济联系！外交部：典型的霸凌行径",
+          "url": "https://wallstreetcn.com/articles/3762736",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
+        },
+        {
           "title": "据NBC：美国扣押一艘与委内瑞拉有关的俄罗斯籍油轮（原名“贝拉1号”）。",
           "url": "https://flash.jin10.com/detail/20260107214313230800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时23分"
         },
@@ -1441,6 +1486,17 @@
           "time_info": "19时20分"
         },
         {
+          "title": "美国欧洲司令部：扣押俄罗斯油轮行动系执行美国总统令",
+          "url": "https://wallstreetcn.com/livenews/3032549",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
+        },
+        {
           "title": "俄罗斯别尔哥罗德州一处油库遭乌克兰无人机袭击，火势已被扑灭。",
           "url": "https://flash.jin10.com/detail/20260107175326234800",
           "source": "金十数据",
@@ -1461,12 +1517,191 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时39分"
+        },
+        {
+          "title": "俄罗斯交通部：任何国家都无权对在其他国家管辖范围内合法注册的船舶使用武力。",
+          "url": "https://flash.jin10.com/detail/20260107225955115800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 14,
+      "titles": [
+        {
+          "title": "怕清算?伊朗领袖携950亿开溜",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348752&amp;topic_name=%E6%80%95%E6%B8%85%E7%AE%97%3F%E4%BC%8A%E6%9C%97%E9%A2%86%E8%A2%96%E6%90%BA950%E4%BA%BF%E5%BC%80%E6%BA%9C",
+          "source": "贴吧",
+          "ranks": [
+            14,
+            20,
+            22,
+            24,
+            25,
+            26,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 28,
+          "time_info": "[00时27分 ~ 23时24分]"
+        },
+        {
+          "title": "消息人士称，阿曼外交部长将访问伊朗。",
+          "url": "https://flash.jin10.com/detail/20260107202935475800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时43分"
+        },
+        {
+          "title": "美媒：伊朗人士担心美对伊采取类似委内瑞拉的行动",
+          "url": "https://flash.jin10.com/detail/20260107151639470800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        },
+        {
+          "title": "伊朗警告：可能对敌人进行先发制人的打击",
+          "url": "https://flash.jin10.com/detail/20260107040036145800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时23分 ~ 05时20分]"
+        },
+        {
+          "title": "报道：伊朗警告称已准备好对威胁采取先发制人的行动",
+          "url": "https://wallstreetcn.com/livenews/3031865",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时23分 ~ 05时20分]"
+        },
+        {
+          "title": "据伊朗SNN通讯社：伊朗处决一名被指控为以色列从事间谍活动的男子。",
+          "url": "https://flash.jin10.com/detail/20260107122916154800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        },
+        {
+          "title": "英媒称伊朗抗议席卷全国一半省份，至少36人死亡",
+          "url": "https://news.ifeng.com/c/8pj8bQ0XmqB",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
+        },
+        {
+          "title": "市场消息：一名伊朗警察在示威活动中遭枪击身亡。",
+          "url": "https://flash.jin10.com/detail/20260107004241745800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时23分"
+        },
+        {
+          "title": "伊朗央行负责外汇事务的副行长Alireza Gachpazzadeh辞职。（伊朗媒体Fars News）",
+          "url": "https://wallstreetcn.com/livenews/3032395",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时20分"
+        },
+        {
+          "title": "伊朗",
+          "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
+        },
+        {
+          "title": "伊朗外长：目前不具备与美国谈判的合适条件",
+          "url": "https://wallstreetcn.com/livenews/3032445",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时43分"
+        },
+        {
+          "title": "据伊朗媒体Fars News：伊朗央行主管外汇的副行长辞职。",
+          "url": "https://flash.jin10.com/detail/20260107183653495800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时20分"
+        },
+        {
+          "title": "伊朗非政府人权组织称，镇压伊朗抗议活动至少造成27人死亡。",
+          "url": "https://flash.jin10.com/detail/20260106235011438800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时28分"
+        },
+        {
+          "title": "伊朗陆军总司令：不会对敌人的威胁置之不理",
+          "url": "https://wallstreetcn.com/livenews/3032430",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时43分"
         }
       ]
     },
     {
       "keyword_group": "汽车",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "广汽集团：2025年汽车销量172.15万辆，同比下降14.06%",
@@ -1486,7 +1721,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时23分"
         },
@@ -1598,9 +1833,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时23分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数跌超1%。 热门中概股里，网易跌超3.9%，阿特斯太阳能跌超3.7%，腾讯音乐、满帮至少跌超3.6%，小马智行跌2.7%，文远知行跌2.5%，阿里巴巴跌2.3%，京东、贝壳跌超2.2%，大全新能源跌超1.9%，小鹏跌0.9%，百度跌0.7%，新东方、汽车之家、晶科能源也跌超0.5%。 爱奇艺目前涨超2.2%，世纪互联涨超3.5%，万国数据涨4.6%，再鼎医药涨超5.2%。",
+          "url": "https://wallstreetcn.com/livenews/3032547",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
         },
         {
           "title": "长安汽车：网传“取消年终奖”信息不实 已推进激励计划保障员工权益",
@@ -1612,152 +1858,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "怕清算?伊朗领袖携950亿开溜",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348752&amp;topic_name=%E6%80%95%E6%B8%85%E7%AE%97%3F%E4%BC%8A%E6%9C%97%E9%A2%86%E8%A2%96%E6%90%BA950%E4%BA%BF%E5%BC%80%E6%BA%9C",
-          "source": "贴吧",
-          "ranks": [
-            14,
-            20,
-            22,
-            24,
-            25,
-            26,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时27分 ~ 22时23分]"
-        },
-        {
-          "title": "消息人士称，阿曼外交部长将访问伊朗。",
-          "url": "https://flash.jin10.com/detail/20260107202935475800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时43分"
-        },
-        {
-          "title": "美媒：伊朗人士担心美对伊采取类似委内瑞拉的行动",
-          "url": "https://flash.jin10.com/detail/20260107151639470800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时24分"
-        },
-        {
-          "title": "伊朗警告：可能对敌人进行先发制人的打击",
-          "url": "https://flash.jin10.com/detail/20260107040036145800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时23分 ~ 05时20分]"
-        },
-        {
-          "title": "报道：伊朗警告称已准备好对威胁采取先发制人的行动",
-          "url": "https://wallstreetcn.com/livenews/3031865",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时23分 ~ 05时20分]"
-        },
-        {
-          "title": "据伊朗SNN通讯社：伊朗处决一名被指控为以色列从事间谍活动的男子。",
-          "url": "https://flash.jin10.com/detail/20260107122916154800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时25分"
-        },
-        {
-          "title": "市场消息：一名伊朗警察在示威活动中遭枪击身亡。",
-          "url": "https://flash.jin10.com/detail/20260107004241745800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
-        },
-        {
-          "title": "伊朗央行负责外汇事务的副行长Alireza Gachpazzadeh辞职。（伊朗媒体Fars News）",
-          "url": "https://wallstreetcn.com/livenews/3032395",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时20分"
-        },
-        {
-          "title": "伊朗外长：目前不具备与美国谈判的合适条件",
-          "url": "https://wallstreetcn.com/livenews/3032445",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时43分"
-        },
-        {
-          "title": "据伊朗媒体Fars News：伊朗央行主管外汇的副行长辞职。",
-          "url": "https://flash.jin10.com/detail/20260107183653495800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时20分"
-        },
-        {
-          "title": "伊朗非政府人权组织称，镇压伊朗抗议活动至少造成27人死亡。",
-          "url": "https://flash.jin10.com/detail/20260106235011438800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
-        },
-        {
-          "title": "伊朗陆军总司令：不会对敌人的威胁置之不理",
-          "url": "https://wallstreetcn.com/livenews/3032430",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时43分"
         }
       ]
     },
@@ -1789,6 +1889,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时28分 ~ 12时40分]"
+        },
+        {
+          "title": "国际金价为何一路狂飙",
+          "url": "https://www.toutiao.com/trending/7591730575850602502/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时39分 ~ 23时24分]"
         },
         {
           "title": "金价涨超1%，上探4500美元关口",
@@ -1855,24 +1967,24 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
-        },
-        {
-          "title": "国际金价为何一路狂飙",
-          "url": "https://www.toutiao.com/trending/7591730575850602502/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时39分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "美国10年期国债收益率短线从4.1338%反弹至接近4.16%的水平，美国ISM非制造业数据和职位空缺数据发布后，日内整体跌幅收窄至不足2个基点。 两年期美债收益率刷新日高至3.4674%，数据发布前一分钟显著下挫至3.4427%刷新日低。",
+          "url": "https://wallstreetcn.com/livenews/3032569",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
+        },
         {
           "title": "美债收益率在ADP数据公布后维持早盘跌势；10年期收益率最新下跌3.9个基点，报4.14%。",
           "url": "https://flash.jin10.com/detail/20260107212025200800",
@@ -1910,8 +2022,19 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "美元指数DXY短线走低10点，最新报98.53。",
+          "url": "https://flash.jin10.com/detail/20260107230917904800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
+        },
         {
           "title": "美元指数6日上涨",
           "url": "https://flash.jin10.com/detail/20260107050530787800",
@@ -1967,8 +2090,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时27分 ~ 22时23分]"
+          "appearance_count": 28,
+          "time_info": "[00时27分 ~ 23时24分]"
         },
         {
           "title": "日本首相拟继续推动扩大武器出口",
