@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-01-08T16:29:37.212383+08:00",
-  "total_titles_processed": 1451,
+  "generated_at": "2026-01-08T17:28:13.436271+08:00",
+  "total_titles_processed": 1566,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 79,
+      "match_count": 80,
       "titles": [
+        {
+          "title": "特朗普签署备忘录宣布美国退出 66 个国际组织，如何解读？特朗普为何近期大动作频频？",
+          "url": "https://www.zhihu.com/question/1992497349604438807",
+          "source": "知乎",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[11时28分 ~ 17时28分]"
+        },
         {
           "title": "特朗普的下一步，难了",
           "url": "https://news.ifeng.com/c/8pj2YQ7rnj3",
@@ -19,16 +31,18 @@
           "time_info": "[00时29分 ~ 11时29分]"
         },
         {
-          "title": "特朗普签署备忘录宣布美国退出 66 个国际组织，如何解读？特朗普为何近期大动作频频？",
-          "url": "https://www.zhihu.com/question/1992497349604438807",
-          "source": "知乎",
+          "title": "彻底不减支了？特朗普称2027年美军事预算应是1.5万亿美元，较今年暴增50%",
+          "url": "https://wallstreetcn.com/articles/3762789",
+          "source": "华尔街见闻",
           "ranks": [
-            2,
-            1
+            6,
+            5,
+            4,
+            3
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[11时28分 ~ 16时29分]"
+          "time_info": "[12时38分 ~ 17时28分]"
         },
         {
           "title": "特朗普提出将美军费提至1.5万亿美元",
@@ -47,17 +61,18 @@
           "time_info": "[11时28分 ~ 16时29分]"
         },
         {
-          "title": "彻底不减支了？特朗普称2027年美军事预算应是1.5万亿美元，较今年暴增50%",
-          "url": "https://wallstreetcn.com/articles/3762789",
-          "source": "华尔街见闻",
+          "title": "特朗普指示美国退出“不再符合美国利益”的66个国际组织",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32340360",
+          "source": "澎湃新闻",
           "ranks": [
-            6,
-            5,
-            4
+            13,
+            14,
+            15,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时38分 ~ 16时29分]"
+          "appearance_count": 11,
+          "time_info": "[11时28分 ~ 17时28分]"
         },
         {
           "title": "美称西半球是“我们的半球”、特朗普不会容忍安全威胁，外交部回应",
@@ -74,25 +89,24 @@
           "time_info": "[00时29分 ~ 14时33分]"
         },
         {
+          "title": "特朗普骂它像沥青，却为它动武，委内瑞拉的「垃圾」石油到底怎么样？",
+          "url": "https://www.zhihu.com/question/1991444028256907311",
+          "source": "知乎",
+          "ranks": [
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时38分 ~ 17时28分]"
+        },
+        {
           "title": "特朗普威胁吞并格陵兰岛，六种棋局推演",
           "url": "https://news.ifeng.com/c/8pk5HcG7PZo",
           "source": "凤凰网",
           "ranks": [
             10,
             11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时28分 ~ 16时29分]"
-        },
-        {
-          "title": "特朗普指示美国退出“不再符合美国利益”的66个国际组织",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32340360",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            14,
-            15
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -123,18 +137,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时29分 ~ 07时20分]"
-        },
-        {
-          "title": "特朗普骂它像沥青，却为它动武，委内瑞拉的「垃圾」石油到底怎么样？",
-          "url": "https://www.zhihu.com/question/1991444028256907311",
-          "source": "知乎",
-          "ranks": [
-            8,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时38分 ~ 16时29分]"
         },
         {
           "title": "美国总统特朗普：Raytheon必须停止回购股票。",
@@ -176,7 +178,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         },
@@ -204,6 +206,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[13时24分 ~ 16时29分]"
+        },
+        {
+          "title": "美中期选举结果会如何影响特朗普",
+          "url": "https://www.toutiao.com/trending/7592759487010750506/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时23分 ~ 17时28分]"
         },
         {
           "title": "特朗普发表涉住房言论 住宅租赁股遭重创 地产股上涨",
@@ -279,16 +294,16 @@
           "time_info": "[02时31分 ~ 04时24分]"
         },
         {
-          "title": "美中期选举结果会如何影响特朗普",
-          "url": "https://www.toutiao.com/trending/7592759487010750506/",
+          "title": "特朗普急退66个国际组织为哪般",
+          "url": "https://www.toutiao.com/trending/7592878921817787954/",
           "source": "今日头条",
           "ranks": [
-            18,
+            19,
             16
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[15时23分 ~ 16时29分]"
+          "time_info": "[16时29分 ~ 17时28分]"
         },
         {
           "title": "哥伦比亚总统与特朗普通电话",
@@ -300,6 +315,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时23分 ~ 16时29分]"
+        },
+        {
+          "title": "特朗普一口气退出了哪66个国际组织？",
+          "url": "https://news.ifeng.com/c/8pkMcl4Io9K",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时27分 ~ 17时28分]"
         },
         {
           "title": "特朗普向国防承包商回购股票的做法发出威胁",
@@ -757,18 +783,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时29分"
-        },
-        {
-          "title": "特朗普急退66个国际组织为哪般",
-          "url": "https://www.toutiao.com/trending/7592878921817787954/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         },
@@ -856,7 +871,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         },
@@ -878,7 +893,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         },
@@ -922,7 +937,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         }
@@ -930,7 +945,7 @@
     },
     {
       "keyword_group": "俄罗斯",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "美国将“代销”委内瑞拉石油，并要求委切断与中国、俄罗斯的经济联系！外交部：典型的霸凌行径",
@@ -985,8 +1000,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时24分 ~ 16时29分]"
+          "appearance_count": 7,
+          "time_info": "[13时24分 ~ 17时28分]"
         },
         {
           "title": "俄罗斯要求美方尊重“水手”号油轮上的俄公民权益",
@@ -1022,6 +1037,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时31分 ~ 03时20分]"
+        },
+        {
+          "title": "换旗、追逐、武力登船，跨大西洋博弈下美军扣押俄罗斯油轮",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32341494",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时27分 ~ 17时28分]"
+        },
+        {
+          "title": "美国扣押俄罗斯油轮意欲何为",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E6%89%A3%E6%8A%BC%E4%BF%84%E7%BD%97%E6%96%AF%E6%B2%B9%E8%BD%AE%E6%84%8F%E6%AC%B2%E4%BD%95%E4%B8%BA",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时27分 ~ 17时28分]"
         },
         {
           "title": "美国副总统万斯：美国控制着委内瑞拉的财政命脉和能源。被扣押的油轮是“假的”俄罗斯油轮。",
@@ -1148,7 +1186,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "美股收盘：三大指数涨跌不一 国防股遭特朗普点名打压",
@@ -1174,6 +1212,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
+        },
+        {
+          "title": "美股军工股盘前普涨，雷神技术盘前涨超5%，洛克希德马丁涨超6%。",
+          "url": "https://wallstreetcn.com/livenews/3033169",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
         },
         {
           "title": "美股三大期指涨跌不一 贵金属、存储概念盘前承压 | 今夜看点",
@@ -1290,7 +1339,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "怕清算?伊朗领袖携950亿开溜",
@@ -1331,6 +1380,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时29分 ~ 07时20分]"
+        },
+        {
+          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗总统佩泽希齐扬警告，任何囤积或哄抬物价的行为都将受到“严肃而果断”的处理。",
+          "url": "https://flash.jin10.com/detail/20260108171337391800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
         },
         {
           "title": "伊朗谴责以色列外长进入索马里兰",
@@ -1427,7 +1487,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "金十图示：2026年01月08日（周四）全球汽车制造商市值变化",
@@ -1477,6 +1537,17 @@
           "time_info": "[12时39分 ~ 13时24分]"
         },
         {
+          "title": "广州：以汽车企业应用为牵引 推动自主可控汽车芯片的规模化应用",
+          "url": "https://wallstreetcn.com/livenews/3033160",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
+        },
+        {
           "title": "美国财长贝森特：对于在2025至2028年期间购买的新款美国本土组装车辆，符合条件的纳税人每年可抵扣最高1万美元的汽车贷款利息。",
           "url": "https://flash.jin10.com/detail/20260108041952628800",
           "source": "金十数据",
@@ -1494,7 +1565,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         },
@@ -1538,7 +1609,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         },
@@ -1560,6 +1631,18 @@
       "match_count": 6,
       "titles": [
         {
+          "title": "比豆包手机还狠！Gemini电视登场CES，谷歌打响客厅革命第一枪",
+          "url": "https://wallstreetcn.com/articles/3762755",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时23分 ~ 17时28分]"
+        },
+        {
           "title": "时隔七年 谷歌市值重新超越苹果",
           "url": "https://flash.jin10.com/detail/20260108054913345800",
           "source": "金十数据",
@@ -1570,17 +1653,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时20分 ~ 07时20分]"
-        },
-        {
-          "title": "比豆包手机还狠！Gemini电视登场CES，谷歌打响客厅革命第一枪",
-          "url": "https://wallstreetcn.com/articles/3762755",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时23分 ~ 16时29分]"
         },
         {
           "title": "谷歌 2019 年以来首次市值超苹果公司，反映出怎样的市场逻辑？",
@@ -1631,6 +1703,80 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "金十图示：2026年01月08日（周四）上海金午盘价为995.88元/克，较国际金价(995.17元/克)，高0.71元/克",
+          "url": "https://flash.jin10.com/detail/20260108150325507800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        },
+        {
+          "title": "金价已在历史高位 央行为何还在买",
+          "url": "https://www.toutiao.com/trending/7592763349536869894/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时39分 ~ 11时29分]"
+        },
+        {
+          "title": "金价暴涨年轻人改买“道具黄金”",
+          "url": "https://www.toutiao.com/trending/7592498286850998299/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时29分 ~ 17时28分]"
+        },
+        {
+          "title": "汇丰银行：受地缘政治风险和财政债务上升影响，黄金价格或在2026年上半年触及5000美元/盎司；交易波动性水平可能较高。",
+          "url": "https://flash.jin10.com/detail/20260108171213389800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
+        },
+        {
+          "title": "美元走强压制金价 投资者警惕市场波动与获利回吐",
+          "url": "https://flash.jin10.com/detail/20260108135145706800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时33分"
+        },
+        {
+          "title": "国际金价为何一路狂飙",
+          "url": "https://www.toutiao.com/trending/7591730575850602502/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 6,
       "titles": [
@@ -1643,8 +1789,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时39分 ~ 16时29分]"
+          "appearance_count": 12,
+          "time_info": "[09时39分 ~ 17时28分]"
         },
         {
           "title": "美经济数据喜忧参半，美股涨势暂歇，美债受捧，贵金属回落",
@@ -1705,68 +1851,6 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "金十图示：2026年01月08日（周四）上海金午盘价为995.88元/克，较国际金价(995.17元/克)，高0.71元/克",
-          "url": "https://flash.jin10.com/detail/20260108150325507800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时24分"
-        },
-        {
-          "title": "金价已在历史高位 央行为何还在买",
-          "url": "https://www.toutiao.com/trending/7592763349536869894/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时39分 ~ 11时29分]"
-        },
-        {
-          "title": "金价暴涨年轻人改买“道具黄金”",
-          "url": "https://www.toutiao.com/trending/7592498286850998299/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时29分"
-        },
-        {
-          "title": "美元走强压制金价 投资者警惕市场波动与获利回吐",
-          "url": "https://flash.jin10.com/detail/20260108135145706800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时33分"
-        },
-        {
-          "title": "国际金价为何一路狂飙",
-          "url": "https://www.toutiao.com/trending/7591730575850602502/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元",
       "match_count": 3,
       "titles": [
@@ -1808,6 +1892,90 @@
       ]
     },
     {
+      "keyword_group": "武器",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "牢真遭盒武器打击后宣布退网",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348747&amp;topic_name=%E7%89%A2%E7%9C%9F%E9%81%AD%E7%9B%92%E6%AD%A6%E5%99%A8%E6%89%93%E5%87%BB%E5%90%8E%E5%AE%A3%E5%B8%83%E9%80%80%E7%BD%91",
+          "source": "贴吧",
+          "ranks": [
+            24,
+            25,
+            27,
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时29分 ~ 14时33分]"
+        },
+        {
+          "title": "日本距离核武器只差一把螺丝刀",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%B7%9D%E7%A6%BB%E6%A0%B8%E6%AD%A6%E5%99%A8%E5%8F%AA%E5%B7%AE%E4%B8%80%E6%8A%8A%E8%9E%BA%E4%B8%9D%E5%88%80%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时27分 ~ 17时28分]"
+        },
+        {
+          "title": "黎巴嫩军方：已以“有效且切实”的方式在黎巴嫩南部实现了国家对武器的垄断目标。",
+          "url": "https://flash.jin10.com/detail/20260108144243755800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "无人机",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "灵鹊150无人机成功首飞",
+          "url": "https://www.baidu.com/s?wd=%E7%81%B5%E9%B9%8A150%E6%97%A0%E4%BA%BA%E6%9C%BA%E6%88%90%E5%8A%9F%E9%A6%96%E9%A3%9E",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            26,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时38分 ~ 17时28分]"
+        },
+        {
+          "title": "中无人机：签署无人机系统合同，合同总金额超过公司最近一个会计年度经审计营业收入的50%以上，且超过1亿元。",
+          "url": "https://wallstreetcn.com/livenews/3033145",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
+        },
+        {
+          "title": "如何看待俄乌无人机大战更加激烈",
+          "url": "https://www.toutiao.com/trending/7592153446361235499/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时39分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 2,
       "titles": [
@@ -1834,67 +2002,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时24分 ~ 05时19分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "武器",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "牢真遭盒武器打击后宣布退网",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348747&amp;topic_name=%E7%89%A2%E7%9C%9F%E9%81%AD%E7%9B%92%E6%AD%A6%E5%99%A8%E6%89%93%E5%87%BB%E5%90%8E%E5%AE%A3%E5%B8%83%E9%80%80%E7%BD%91",
-          "source": "贴吧",
-          "ranks": [
-            24,
-            25,
-            27,
-            28,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时29分 ~ 14时33分]"
-        },
-        {
-          "title": "黎巴嫩军方：已以“有效且切实”的方式在黎巴嫩南部实现了国家对武器的垄断目标。",
-          "url": "https://flash.jin10.com/detail/20260108144243755800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "无人机",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "灵鹊150无人机成功首飞",
-          "url": "https://www.baidu.com/s?wd=%E7%81%B5%E9%B9%8A150%E6%97%A0%E4%BA%BA%E6%9C%BA%E6%88%90%E5%8A%9F%E9%A6%96%E9%A3%9E",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时38分 ~ 16时29分]"
-        },
-        {
-          "title": "如何看待俄乌无人机大战更加激烈",
-          "url": "https://www.toutiao.com/trending/7592153446361235499/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时39分"
         }
       ]
     },
