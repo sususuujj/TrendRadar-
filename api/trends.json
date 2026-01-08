@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-08T15:24:16.648742+08:00",
-  "total_titles_processed": 1334,
+  "generated_at": "2026-01-08T16:29:37.212383+08:00",
+  "total_titles_processed": 1451,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 73,
+      "match_count": 79,
       "titles": [
         {
           "title": "特朗普的下一步，难了",
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时28分 ~ 15时24分]"
+          "appearance_count": 9,
+          "time_info": "[11时28分 ~ 16时29分]"
         },
         {
           "title": "特朗普提出将美军费提至1.5万亿美元",
@@ -39,11 +39,25 @@
             5,
             6,
             7,
-            9
+            9,
+            22
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时28分 ~ 15时24分]"
+          "appearance_count": 9,
+          "time_info": "[11时28分 ~ 16时29分]"
+        },
+        {
+          "title": "彻底不减支了？特朗普称2027年美军事预算应是1.5万亿美元，较今年暴增50%",
+          "url": "https://wallstreetcn.com/articles/3762789",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时38分 ~ 16时29分]"
         },
         {
           "title": "美称西半球是“我们的半球”、特朗普不会容忍安全威胁，外交部回应",
@@ -60,17 +74,29 @@
           "time_info": "[00时29分 ~ 14时33分]"
         },
         {
-          "title": "彻底不减支了？特朗普称2027年美军事预算应是1.5万亿美元，较今年暴增50%",
-          "url": "https://wallstreetcn.com/articles/3762789",
-          "source": "华尔街见闻",
+          "title": "特朗普威胁吞并格陵兰岛，六种棋局推演",
+          "url": "https://news.ifeng.com/c/8pk5HcG7PZo",
+          "source": "凤凰网",
           "ranks": [
-            6,
-            5,
-            4
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时38分 ~ 15时24分]"
+          "appearance_count": 9,
+          "time_info": "[11时28分 ~ 16时29分]"
+        },
+        {
+          "title": "特朗普指示美国退出“不再符合美国利益”的66个国际组织",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32340360",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时28分 ~ 16时29分]"
         },
         {
           "title": "特朗普称「委内瑞拉临时政府将向美移交 3 千万至 5 千万桶石油」，委内瑞拉妥协了吗？",
@@ -86,31 +112,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时29分 ~ 07时20分]"
-        },
-        {
-          "title": "特朗普威胁吞并格陵兰岛，六种棋局推演",
-          "url": "https://news.ifeng.com/c/8pk5HcG7PZo",
-          "source": "凤凰网",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时28分 ~ 15时24分]"
-        },
-        {
-          "title": "特朗普指示美国退出“不再符合美国利益”的66个国际组织",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32340360",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时28分 ~ 15时24分]"
         },
         {
           "title": "特朗普考虑动用美军等一系列选项得到格陵兰岛，欧洲多国发布联合声明，后续可能会如何发展？格陵兰岛危险吗？",
@@ -132,8 +133,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时38分 ~ 15时24分]"
+          "appearance_count": 7,
+          "time_info": "[12时38分 ~ 16时29分]"
         },
         {
           "title": "美国总统特朗普：Raytheon必须停止回购股票。",
@@ -169,6 +170,17 @@
           "time_info": "07时20分"
         },
         {
+          "title": "美媒：特朗普吹嘘委内瑞拉行动 回避后续规划问题",
+          "url": "https://flash.jin10.com/detail/20260108155641568800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
+        },
+        {
           "title": "美国副总统万斯：特朗普将对格陵兰岛做出最终决定。 格陵兰岛对美国国家安全至关重要。 丹麦人对安全领域投资不足。 特朗普愿意在格陵兰岛问题上尽其所能。",
           "url": "https://wallstreetcn.com/livenews/3032830",
           "source": "华尔街见闻-快讯",
@@ -178,6 +190,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时39分"
+        },
+        {
+          "title": "特朗普退出联合国机构一览表",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%80%E5%87%BA%E8%81%94%E5%90%88%E5%9B%BD%E6%9C%BA%E6%9E%84%E4%B8%80%E8%A7%88%E8%A1%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            12,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时24分 ~ 16时29分]"
         },
         {
           "title": "特朗普发表涉住房言论 住宅租赁股遭重创 地产股上涨",
@@ -216,19 +242,6 @@
           "time_info": "[04时24分 ~ 05时19分]"
         },
         {
-          "title": "特朗普退出联合国机构一览表",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%80%E5%87%BA%E8%81%94%E5%90%88%E5%9B%BD%E6%9C%BA%E6%9E%84%E4%B8%80%E8%A7%88%E8%A1%A8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时24分 ~ 15时24分]"
-        },
-        {
           "title": "美国总统特朗普将于2月24日发表国情咨文演讲。（PunchBowl）",
           "url": "https://wallstreetcn.com/livenews/3032693",
           "source": "华尔街见闻-快讯",
@@ -264,6 +277,29 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时31分 ~ 04时24分]"
+        },
+        {
+          "title": "美中期选举结果会如何影响特朗普",
+          "url": "https://www.toutiao.com/trending/7592759487010750506/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时23分 ~ 16时29分]"
+        },
+        {
+          "title": "哥伦比亚总统与特朗普通电话",
+          "url": "https://www.baidu.com/s?wd=%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A%E6%80%BB%E7%BB%9F%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E7%94%B5%E8%AF%9D",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时23分 ~ 16时29分]"
         },
         {
           "title": "特朗普向国防承包商回购股票的做法发出威胁",
@@ -481,17 +517,6 @@
           "time_info": "[02时31分 ~ 03时20分]"
         },
         {
-          "title": "美中期选举结果会如何影响特朗普",
-          "url": "https://www.toutiao.com/trending/7592759487010750506/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时23分 ~ 15时24分]"
-        },
-        {
           "title": "特朗普：我将立即采取措施，禁止大型机构投资者购买更多独栋住宅。",
           "url": "https://flash.jin10.com/detail/20260108014826315800",
           "source": "金十数据",
@@ -514,17 +539,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时24分 ~ 05时19分]"
-        },
-        {
-          "title": "哥伦比亚总统与特朗普通电话",
-          "url": "https://www.baidu.com/s?wd=%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A%E6%80%BB%E7%BB%9F%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E7%94%B5%E8%AF%9D",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时23分 ~ 15时24分]"
         },
         {
           "title": "外媒：特朗普正固化美国全球流氓形象",
@@ -737,6 +751,28 @@
           "time_info": "06时20分"
         },
         {
+          "title": "美媒：特朗普称美国对委内瑞拉的监管可能持续数年",
+          "url": "https://flash.jin10.com/detail/20260108154136347800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
+        },
+        {
+          "title": "特朗普急退66个国际组织为哪般",
+          "url": "https://www.toutiao.com/trending/7592878921817787954/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
+        },
+        {
           "title": "白宫新闻秘书莱维特：（谈格陵兰岛）特朗普和国家安全团队正在积极讨论。",
           "url": "https://flash.jin10.com/detail/20260108010947191800",
           "source": "金十数据",
@@ -814,6 +850,17 @@
           "time_info": "06时20分"
         },
         {
+          "title": "美国总统特朗普：我已经通过获取受制裁的石油为美国开始赚钱。",
+          "url": "https://flash.jin10.com/detail/20260108153300697800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
+        },
+        {
           "title": "特朗普希望将油价降至每桶50美元。 特朗普政府计划将对委内瑞拉国家石油公司施加一定控制。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3032854",
           "source": "华尔街见闻-快讯",
@@ -823,6 +870,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
+        },
+        {
+          "title": "美国总统特朗普：（谈委内瑞拉）我们将向委内瑞拉提供资金，而他们正极度需要这些资金。",
+          "url": "https://flash.jin10.com/detail/20260108153240698800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
         },
         {
           "title": "美国总统特朗普：Raytheon对“战争部”的回应最不负责任，该公司必须停止回购股票。 威胁要在投资问题上砍掉（政府/五角大楼）与该公司的联系。",
@@ -856,6 +914,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
+        },
+        {
+          "title": "特朗普表示，美国对委内瑞拉的监管可能会持续多年，美国将在未来数年内开采委内瑞拉石油。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3033071",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
         }
       ]
     },
@@ -874,8 +943,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时29分 ~ 15时24分]"
+          "appearance_count": 18,
+          "time_info": "[00时29分 ~ 16时29分]"
         },
         {
           "title": "美军在北大西洋扣押贝拉 1 号油轮，游轮当前悬挂俄罗斯国旗，此前曾有俄罗斯潜艇护航，如何看待此事？",
@@ -916,8 +985,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时24分 ~ 15时24分]"
+          "appearance_count": 5,
+          "time_info": "[13时24分 ~ 16时29分]"
         },
         {
           "title": "俄罗斯要求美方尊重“水手”号油轮上的俄公民权益",
@@ -1049,7 +1118,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
         },
@@ -1358,7 +1427,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "金十图示：2026年01月08日（周四）全球汽车制造商市值变化",
@@ -1419,6 +1488,17 @@
           "time_info": "05时19分"
         },
         {
+          "title": "崔东树：汽车行业内卷降价现象明显减弱，行业运行压力改善",
+          "url": "https://wallstreetcn.com/livenews/3033101",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
+        },
+        {
           "title": "据Globe报道：加拿大要求韩国与德国在汽车（投资）问题上作出承诺。",
           "url": "https://wallstreetcn.com/livenews/3032711",
           "source": "华尔街见闻-快讯",
@@ -1452,6 +1532,17 @@
           "time_info": "05时19分"
         },
         {
+          "title": "小鹏开年发布四款新车，今年将规模量产人形机器人和飞行汽车",
+          "url": "https://wallstreetcn.com/livenews/3033081",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
+        },
+        {
           "title": "中信证券：旅游、汽车、芯片等行业具有较好的配置价值",
           "url": "https://wallstreetcn.com/livenews/3032800",
           "source": "华尔街见闻-快讯",
@@ -1481,6 +1572,17 @@
           "time_info": "[06时20分 ~ 07时20分]"
         },
         {
+          "title": "比豆包手机还狠！Gemini电视登场CES，谷歌打响客厅革命第一枪",
+          "url": "https://wallstreetcn.com/articles/3762755",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时23分 ~ 16时29分]"
+        },
+        {
           "title": "谷歌 2019 年以来首次市值超苹果公司，反映出怎样的市场逻辑？",
           "url": "https://www.zhihu.com/question/1992511254795870608",
           "source": "知乎",
@@ -1503,17 +1605,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时24分 ~ 05时19分]"
-        },
-        {
-          "title": "比豆包手机还狠！Gemini电视登场CES，谷歌打响客厅革命第一枪",
-          "url": "https://wallstreetcn.com/articles/3762755",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时23分 ~ 15时24分]"
         },
         {
           "title": "美股七巨头收盘播报｜谷歌A收涨2.4%，Meta跌1.8%",
@@ -1552,8 +1643,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时39分 ~ 15时24分]"
+          "appearance_count": 10,
+          "time_info": "[09时39分 ~ 16时29分]"
         },
         {
           "title": "美经济数据喜忧参半，美股涨势暂歇，美债受捧，贵金属回落",
@@ -1615,7 +1706,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "金十图示：2026年01月08日（周四）上海金午盘价为995.88元/克，较国际金价(995.17元/克)，高0.71元/克",
@@ -1624,7 +1715,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
         },
@@ -1639,6 +1730,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时39分 ~ 11时29分]"
+        },
+        {
+          "title": "金价暴涨年轻人改买“道具黄金”",
+          "url": "https://www.toutiao.com/trending/7592498286850998299/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
         },
         {
           "title": "美元走强压制金价 投资者警惕市场波动与获利回吐",
@@ -1761,7 +1863,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
         }
@@ -1776,11 +1878,12 @@
           "url": "https://www.baidu.com/s?wd=%E7%81%B5%E9%B9%8A150%E6%97%A0%E4%BA%BA%E6%9C%BA%E6%88%90%E5%8A%9F%E9%A6%96%E9%A3%9E",
           "source": "百度热搜",
           "ranks": [
-            17
+            17,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时38分 ~ 15时24分]"
+          "appearance_count": 7,
+          "time_info": "[12时38分 ~ 16时29分]"
         },
         {
           "title": "如何看待俄乌无人机大战更加激烈",
@@ -1806,7 +1909,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
         }
@@ -1843,8 +1946,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时28分 ~ 15时24分]"
+          "appearance_count": 9,
+          "time_info": "[11时28分 ~ 16时29分]"
         }
       ]
     }
