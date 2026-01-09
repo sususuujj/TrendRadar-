@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-09T18:22:26.418348+08:00",
-  "total_titles_processed": 1713,
+  "generated_at": "2026-01-09T19:19:34.813394+08:00",
+  "total_titles_processed": 1814,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 140,
+      "match_count": 142,
       "titles": [
         {
           "title": "彻底不减支了？特朗普称2027年美军事预算应是1.5万亿美元，较今年暴增50%",
@@ -36,6 +36,23 @@
           "time_info": "[11时29分 ~ 18时22分]"
         },
         {
+          "title": "特朗普表示，美国必须「拥有」整个格陵兰，释放了什么信号？",
+          "url": "https://www.zhihu.com/question/1992865566088721749",
+          "source": "知乎",
+          "ranks": [
+            17,
+            15,
+            14,
+            11,
+            8,
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[12时39分 ~ 19时19分]"
+        },
+        {
           "title": "特朗普放话“我不需要国际法”",
           "url": "https://news.ifeng.com/c/8plmHsoaK5L",
           "source": "凤凰网",
@@ -44,8 +61,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时29分 ~ 18时22分]"
+          "appearance_count": 13,
+          "time_info": "[11时29分 ~ 19时19分]"
         },
         {
           "title": "特朗普：美联储主席人选已定，但我暂时不想说",
@@ -69,8 +86,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时39分 ~ 18时22分]"
+          "appearance_count": 14,
+          "time_info": "[09时39分 ~ 19时19分]"
         },
         {
           "title": "“特朗普版QE”？特朗普指示“两房”购买2000亿美元美国抵押贷款债券",
@@ -82,8 +99,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时29分 ~ 18时22分]"
+          "appearance_count": 13,
+          "time_info": "[11时29分 ~ 19时19分]"
         },
         {
           "title": "特朗普一口气退出了哪66个国际组织？",
@@ -120,22 +137,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时28分 ~ 12时40分]"
-        },
-        {
-          "title": "特朗普表示，美国必须「拥有」整个格陵兰，释放了什么信号？",
-          "url": "https://www.zhihu.com/question/1992865566088721749",
-          "source": "知乎",
-          "ranks": [
-            17,
-            15,
-            14,
-            11,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时39分 ~ 18时22分]"
         },
         {
           "title": "特朗普指示美国退出“不再符合美国利益”的66个国际组织",
@@ -254,6 +255,29 @@
           "time_info": "[09时39分 ~ 14时33分]"
         },
         {
+          "title": "特朗普：取消对委内瑞拉第二波打击",
+          "url": "https://news.ifeng.com/c/8pmFjAsY9wc",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时22分 ~ 19时19分]"
+        },
+        {
+          "title": "中方回应特朗普涉台言论：解决台湾问题是中国人自己的事",
+          "url": "https://www.cls.cn/detail/2252966",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时29分 ~ 19时19分]"
+        },
+        {
           "title": "这招儿恐被用在台海？特朗普听完，耸耸肩说…",
           "url": "https://news.ifeng.com/c/8pls4YBnj3I",
           "source": "凤凰网",
@@ -266,15 +290,15 @@
           "time_info": "[15时24分 ~ 17时27分]"
         },
         {
-          "title": "特朗普：取消对委内瑞拉第二波打击",
-          "url": "https://news.ifeng.com/c/8pmFjAsY9wc",
-          "source": "凤凰网",
+          "title": "据纽约时报：美国总统特朗普表示，他确实相信外交礼节。",
+          "url": "https://flash.jin10.com/detail/20260109190330044800",
+          "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时22分"
+          "time_info": "19时19分"
         },
         {
           "title": "美国联邦住房金融局（FHFA）局长Bill Pulte：房地美和房利美有工具来执行总统特朗普的住房命令。",
@@ -310,16 +334,15 @@
           "time_info": "07时18分"
         },
         {
-          "title": "中方回应特朗普涉台言论：解决台湾问题是中国人自己的事",
-          "url": "https://www.cls.cn/detail/2252966",
-          "source": "财联社热门",
+          "title": "特朗普称他认为自己始终会与欧洲相处融洽，拥有格陵兰具有心理层面的重要意义。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3034077",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            1
+            3
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时29分 ~ 18时22分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
         },
         {
           "title": "俄外交部：特朗普已下令释放被扣押油轮上的俄公民",
@@ -328,7 +351,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
@@ -366,6 +389,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[14时32分 ~ 16时29分]"
+        },
+        {
+          "title": "特朗普妄称中国若在其任内改变台湾现状，他将非常不悦，中方回应",
+          "url": "https://news.ifeng.com/c/8pm6HIDB94W",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时29分 ~ 19时19分]"
         },
         {
           "title": "美参院推进限制特朗普对委动武决议",
@@ -427,6 +461,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时25分 ~ 14时33分]"
+        },
+        {
+          "title": "外交部回应特朗普涉台言论",
+          "url": "https://www.douyin.com/hot/2362093",
+          "source": "抖音",
+          "ranks": [
+            9,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时22分 ~ 19时19分]"
         },
         {
           "title": "据美联社援引消息人士报道，美国总统特朗普的顾问在白宫会见了丹麦和格陵兰岛的特使。",
@@ -512,17 +558,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时26分 ~ 07时18分]"
-        },
-        {
-          "title": "特朗普妄称中国若在其任内改变台湾现状，他将非常不悦，中方回应",
-          "url": "https://news.ifeng.com/c/8pm6HIDB94W",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时29分 ~ 18时22分]"
         },
         {
           "title": "特朗普签署备忘录宣布美国退出 66 个国际组织，如何解读？特朗普为何近期大动作频频？",
@@ -745,7 +780,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
@@ -756,7 +791,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
@@ -767,7 +802,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
@@ -800,7 +835,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
@@ -869,17 +904,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
-        },
-        {
-          "title": "外交部回应特朗普涉台言论",
-          "url": "https://www.douyin.com/hot/2362093",
-          "source": "抖音",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时22分"
         },
         {
           "title": "特朗普将于美国东部时间周五下午2点30分（北京时间次日凌晨3点30分）与石油和天然气行业高管会面。",
@@ -1119,7 +1143,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
@@ -1141,7 +1165,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
@@ -1174,7 +1198,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
@@ -1240,7 +1264,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
@@ -1339,7 +1363,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
@@ -1405,7 +1429,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
@@ -1632,8 +1656,331 @@
       ]
     },
     {
+      "keyword_group": "俄罗斯",
+      "match_count": 27,
+      "titles": [
+        {
+          "title": "车企大批撤离俄罗斯，304 亿投资或「打水漂」，这笔损失意味着什么？",
+          "url": "https://www.zhihu.com/question/1992404414758162803",
+          "source": "知乎",
+          "ranks": [
+            8,
+            4,
+            3,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 09时39分]"
+        },
+        {
+          "title": "金正恩：愿与普京和俄罗斯始终站一起",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E6%AD%A3%E6%81%A9%EF%BC%9A%E6%84%BF%E4%B8%8E%E6%99%AE%E4%BA%AC%E5%92%8C%E4%BF%84%E7%BD%97%E6%96%AF%E5%A7%8B%E7%BB%88%E7%AB%99%E4%B8%80%E8%B5%B7",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时39分 ~ 16时29分]"
+        },
+        {
+          "title": "金正恩：愿与普京和俄罗斯始终站一起",
+          "url": "https://www.toutiao.com/trending/7593164407615602734/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            6,
+            9,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时29分 ~ 15时25分]"
+        },
+        {
+          "title": "换旗、追逐、武力登船，跨大西洋博弈下美军扣押俄罗斯油轮",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32341494",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时28分 ~ 13时25分]"
+        },
+        {
+          "title": "美国扣押俄罗斯油轮意欲何为",
+          "url": "https://www.toutiao.com/trending/7592517037668794418/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            17,
+            16,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 09时39分]"
+        },
+        {
+          "title": "美国扣押俄罗斯油轮意欲何为",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E6%89%A3%E6%8A%BC%E4%BF%84%E7%BD%97%E6%96%AF%E6%B2%B9%E8%BD%AE%E6%84%8F%E6%AC%B2%E4%BD%95%E4%B8%BA",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            24,
+            20,
+            15,
+            16,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时28分 ~ 07时18分]"
+        },
+        {
+          "title": "乌克兰外交部长：俄罗斯在靠近欧盟和北约边境发动榛树导弹袭击对欧洲安全构成“严重威胁”。",
+          "url": "https://flash.jin10.com/detail/20260109151140936800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
+          "title": "俄罗斯国防部：防空系统一周内击落1300多架乌克兰无人机。",
+          "url": "https://flash.jin10.com/detail/20260109181326552800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
+          "title": "乌克兰总理：俄罗斯用‘伊斯坎德尔’导弹袭击了克里沃罗格的多层建筑。据报道，至少有13人遇难。",
+          "url": "https://flash.jin10.com/detail/20260109015904507800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时27分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：卡塔尔驻乌克兰大使馆一栋建筑昨晚遭到俄罗斯无人机袭击而受损。",
+          "url": "https://flash.jin10.com/detail/20260109170834062800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时27分"
+        },
+        {
+          "title": "意大利总理梅洛尼：是时候让欧洲与俄罗斯对话了。",
+          "url": "https://flash.jin10.com/detail/20260109185834212800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
+        },
+        {
+          "title": "据塔斯社：俄罗斯称在乌克兰袭击中使用了榛树导弹。",
+          "url": "https://flash.jin10.com/detail/20260109135946567800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时33分"
+        },
+        {
+          "title": "英国政府发言人：英国首相斯塔默与北约秘书长吕特一致认为，有必要采取更多措施来威慑北极地区的俄罗斯势力。",
+          "url": "https://flash.jin10.com/detail/20260109015001219800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时27分"
+        },
+        {
+          "title": "英国首相斯塔默于今天下午与北约秘书长吕特通话，双方重申，为乌克兰提供至关重要的安全保证至关重要，以确保俄罗斯永远无法再次发动攻击。",
+          "url": "https://flash.jin10.com/detail/20260109014924500800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时27分"
+        },
+        {
+          "title": "俄罗斯外交部：“志愿联盟”和乌克兰为“战争轴心”",
+          "url": "https://wallstreetcn.com/livenews/3033440",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时29分"
+        },
+        {
+          "title": "基辅市长表示，基辅遭俄罗斯无人机袭击引发爆炸并引至火灾。",
+          "url": "https://flash.jin10.com/detail/20260109062853391800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时18分"
+        },
+        {
+          "title": "乌克兰西部利沃夫州州长表示，俄罗斯的袭击打击了该州的一处基础设施目标。",
+          "url": "https://flash.jin10.com/detail/20260109061718579800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时18分"
+        },
+        {
+          "title": "德国总理：欧洲“多国部队”若驻军乌克兰需俄罗斯同意",
+          "url": "https://flash.jin10.com/detail/20260109082057045800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时39分"
+        },
+        {
+          "title": "据塔斯社：俄罗斯军队控制了扎波罗热地区的Zelenyi地区。",
+          "url": "https://flash.jin10.com/detail/20260109175112430800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
+          "title": "基辅市长维塔利·克里琴科表示，在俄罗斯袭击后，该市有一半的公寓楼没有供暖。",
+          "url": "https://flash.jin10.com/detail/20260109175044925800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
+          "title": "俄罗斯12月平均原油产量为932.6万桶/日。",
+          "url": "https://flash.jin10.com/detail/20260109184029410800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
+        },
+        {
+          "title": "制裁与空袭双重“绞杀” 俄罗斯油气命脉遭遇18个月最大寒冬",
+          "url": "https://flash.jin10.com/detail/20260109183631741800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
+        },
+        {
+          "title": "据俄新社：俄罗斯国家杜马（议会下院）议员近期接到美国方面邀请，4人受邀前往华盛顿与美议员就乌克兰问题等举行会谈。",
+          "url": "https://flash.jin10.com/detail/20260109145355434800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
+          "title": "俄罗斯议员接到邀请赴美讨论乌克兰问题",
+          "url": "https://wallstreetcn.com/livenews/3033886",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时29分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基9日在社交媒体上称，卡塔尔驻乌克兰使馆的建筑在俄罗斯的袭击中受损。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3033932",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时27分"
+        },
+        {
+          "title": "乌克兰空军：俄罗斯从卡普斯京亚尔发射了一枚高超音速中程弹道导弹。",
+          "url": "https://flash.jin10.com/detail/20260109144658247800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
+          "title": "乌克兰空军：俄罗斯在周五的袭击中向乌克兰的关键基础设施发射了36枚导弹和242架无人机。",
+          "url": "https://flash.jin10.com/detail/20260109144421319800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        }
+      ]
+    },
+    {
       "keyword_group": "伊朗",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "一觉醒来，伊朗采取极端措施了",
@@ -1688,6 +2035,21 @@
           "time_info": "[14时32分 ~ 15时25分]"
         },
         {
+          "title": "伊朗大范围断网，澳大利亚曾发警告，要求其公民尽快离伊，大规模断网是什么原因？如何解读当前伊朗局势？",
+          "url": "https://www.zhihu.com/question/1992897642179552544",
+          "source": "知乎",
+          "ranks": [
+            17,
+            12,
+            10,
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时24分 ~ 19时19分]"
+        },
+        {
           "title": "伊朗最高领袖哈梅内伊：有一些暴乱分子希望通过破坏公共财产来取悦美国总统。",
           "url": "https://flash.jin10.com/detail/20260109171528958800",
           "source": "金十数据",
@@ -1719,20 +2081,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
-        },
-        {
-          "title": "伊朗大范围断网，澳大利亚曾发警告，要求其公民尽快离伊，大规模断网是什么原因？如何解读当前伊朗局势？",
-          "url": "https://www.zhihu.com/question/1992897642179552544",
-          "source": "知乎",
-          "ranks": [
-            17,
-            12,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时24分 ~ 18时22分]"
         },
         {
           "title": "伊朗外长：已为任何可能发生的情况做好战争准备",
@@ -1850,6 +2198,17 @@
           "time_info": "11时29分"
         },
         {
+          "title": "声明显示，迪拜航空将继续密切关注伊朗局势，并据此调整航班时刻表。",
+          "url": "https://flash.jin10.com/detail/20260109185108825800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
+        },
+        {
           "title": "伊朗大范围断网",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%A4%A7%E8%8C%83%E5%9B%B4%E6%96%AD%E7%BD%91",
           "source": "百度热搜",
@@ -1918,298 +2277,8 @@
       ]
     },
     {
-      "keyword_group": "俄罗斯",
-      "match_count": 24,
-      "titles": [
-        {
-          "title": "车企大批撤离俄罗斯，304 亿投资或「打水漂」，这笔损失意味着什么？",
-          "url": "https://www.zhihu.com/question/1992404414758162803",
-          "source": "知乎",
-          "ranks": [
-            8,
-            4,
-            3,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 09时39分]"
-        },
-        {
-          "title": "金正恩：愿与普京和俄罗斯始终站一起",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E6%AD%A3%E6%81%A9%EF%BC%9A%E6%84%BF%E4%B8%8E%E6%99%AE%E4%BA%AC%E5%92%8C%E4%BF%84%E7%BD%97%E6%96%AF%E5%A7%8B%E7%BB%88%E7%AB%99%E4%B8%80%E8%B5%B7",
-          "source": "百度热搜",
-          "ranks": [
-            4,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时39分 ~ 16时29分]"
-        },
-        {
-          "title": "金正恩：愿与普京和俄罗斯始终站一起",
-          "url": "https://www.toutiao.com/trending/7593164407615602734/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            6,
-            9,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时29分 ~ 15时25分]"
-        },
-        {
-          "title": "换旗、追逐、武力登船，跨大西洋博弈下美军扣押俄罗斯油轮",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32341494",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时28分 ~ 13时25分]"
-        },
-        {
-          "title": "美国扣押俄罗斯油轮意欲何为",
-          "url": "https://www.toutiao.com/trending/7592517037668794418/",
-          "source": "今日头条",
-          "ranks": [
-            15,
-            17,
-            16,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 09时39分]"
-        },
-        {
-          "title": "美国扣押俄罗斯油轮意欲何为",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E6%89%A3%E6%8A%BC%E4%BF%84%E7%BD%97%E6%96%AF%E6%B2%B9%E8%BD%AE%E6%84%8F%E6%AC%B2%E4%BD%95%E4%B8%BA",
-          "source": "百度热搜",
-          "ranks": [
-            23,
-            24,
-            20,
-            15,
-            16,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 07时18分]"
-        },
-        {
-          "title": "乌克兰外交部长：俄罗斯在靠近欧盟和北约边境发动榛树导弹袭击对欧洲安全构成“严重威胁”。",
-          "url": "https://flash.jin10.com/detail/20260109151140936800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时25分"
-        },
-        {
-          "title": "俄罗斯国防部：防空系统一周内击落1300多架乌克兰无人机。",
-          "url": "https://flash.jin10.com/detail/20260109181326552800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时22分"
-        },
-        {
-          "title": "乌克兰总理：俄罗斯用‘伊斯坎德尔’导弹袭击了克里沃罗格的多层建筑。据报道，至少有13人遇难。",
-          "url": "https://flash.jin10.com/detail/20260109015904507800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时27分"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：卡塔尔驻乌克兰大使馆一栋建筑昨晚遭到俄罗斯无人机袭击而受损。",
-          "url": "https://flash.jin10.com/detail/20260109170834062800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时27分"
-        },
-        {
-          "title": "据塔斯社：俄罗斯称在乌克兰袭击中使用了榛树导弹。",
-          "url": "https://flash.jin10.com/detail/20260109135946567800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时33分"
-        },
-        {
-          "title": "英国政府发言人：英国首相斯塔默与北约秘书长吕特一致认为，有必要采取更多措施来威慑北极地区的俄罗斯势力。",
-          "url": "https://flash.jin10.com/detail/20260109015001219800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时27分"
-        },
-        {
-          "title": "英国首相斯塔默于今天下午与北约秘书长吕特通话，双方重申，为乌克兰提供至关重要的安全保证至关重要，以确保俄罗斯永远无法再次发动攻击。",
-          "url": "https://flash.jin10.com/detail/20260109014924500800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时27分"
-        },
-        {
-          "title": "俄罗斯外交部：“志愿联盟”和乌克兰为“战争轴心”",
-          "url": "https://wallstreetcn.com/livenews/3033440",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
-        },
-        {
-          "title": "基辅市长表示，基辅遭俄罗斯无人机袭击引发爆炸并引至火灾。",
-          "url": "https://flash.jin10.com/detail/20260109062853391800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时18分"
-        },
-        {
-          "title": "乌克兰西部利沃夫州州长表示，俄罗斯的袭击打击了该州的一处基础设施目标。",
-          "url": "https://flash.jin10.com/detail/20260109061718579800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时18分"
-        },
-        {
-          "title": "德国总理：欧洲“多国部队”若驻军乌克兰需俄罗斯同意",
-          "url": "https://flash.jin10.com/detail/20260109082057045800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时39分"
-        },
-        {
-          "title": "据塔斯社：俄罗斯军队控制了扎波罗热地区的Zelenyi地区。",
-          "url": "https://flash.jin10.com/detail/20260109175112430800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时22分"
-        },
-        {
-          "title": "基辅市长维塔利·克里琴科表示，在俄罗斯袭击后，该市有一半的公寓楼没有供暖。",
-          "url": "https://flash.jin10.com/detail/20260109175044925800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时22分"
-        },
-        {
-          "title": "据俄新社：俄罗斯国家杜马（议会下院）议员近期接到美国方面邀请，4人受邀前往华盛顿与美议员就乌克兰问题等举行会谈。",
-          "url": "https://flash.jin10.com/detail/20260109145355434800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时25分"
-        },
-        {
-          "title": "俄罗斯议员接到邀请赴美讨论乌克兰问题",
-          "url": "https://wallstreetcn.com/livenews/3033886",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时29分"
-        },
-        {
-          "title": "乌克兰总统泽连斯基9日在社交媒体上称，卡塔尔驻乌克兰使馆的建筑在俄罗斯的袭击中受损。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3033932",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时27分"
-        },
-        {
-          "title": "乌克兰空军：俄罗斯从卡普斯京亚尔发射了一枚高超音速中程弹道导弹。",
-          "url": "https://flash.jin10.com/detail/20260109144658247800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时25分"
-        },
-        {
-          "title": "乌克兰空军：俄罗斯在周五的袭击中向乌克兰的关键基础设施发射了36枚导弹和242架无人机。",
-          "url": "https://flash.jin10.com/detail/20260109144421319800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时25分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "临近周五，美股轮动加剧，芯片股两连阴、小盘股指新高，地缘风险撑原油强劲反弹",
@@ -2219,8 +2288,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时39分 ~ 18时22分]"
+          "appearance_count": 14,
+          "time_info": "[09时39分 ~ 19时19分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 军工股全线走强 阿里巴巴涨超5%",
@@ -2318,6 +2387,17 @@
           "time_info": "11时29分"
         },
         {
+          "title": "Oklo美股盘前涨超20%，此前Oklo、Meta宣布达成协议，支持在俄亥俄州南部开发1.2吉瓦的核能项目。",
+          "url": "https://wallstreetcn.com/livenews/3034065",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
+        },
+        {
           "title": "金十图示：2026年01月08日（周四）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260109050534682800",
           "source": "金十数据",
@@ -2327,6 +2407,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
+        },
+        {
+          "title": "阿斯麦股价在阿姆斯特丹交易所上涨5%，创历史新高。该股美股盘前涨3.9%。",
+          "url": "https://flash.jin10.com/detail/20260109184602011800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
         },
         {
           "title": "英特尔美股盘后涨2%，美国总统特朗普声称会见了该公司CEO。",
@@ -2387,7 +2478,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "20 万的纯电汽车，电池就要 10 万块钱，是不是相当于买了辆 10 万的油车预存了 10 万油费？",
@@ -2397,11 +2488,12 @@
             11,
             14,
             12,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时24分 ~ 18时22分]"
+          "appearance_count": 6,
+          "time_info": "[15时24分 ~ 19时19分]"
         },
         {
           "title": "乘联分会：中国2025年新能源汽车零售销量同比增长17.6%",
@@ -2450,6 +2542,17 @@
           "time_info": "15时25分"
         },
         {
+          "title": "通富微电：拟定增募资不超过44亿元，用于存储芯片封测产能提升项目、汽车等新兴应用领域封测产能提升项目、晶圆级封测产能提升项目、高性能计算及通信领域封测产能提升项目、补充流动资金及偿还银行贷款。",
+          "url": "https://wallstreetcn.com/livenews/3034057",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
+        },
+        {
           "title": "小鹏汽车成功注册图灵AI座舱商标",
           "url": "https://wallstreetcn.com/livenews/3033648",
           "source": "华尔街见闻-快讯",
@@ -2481,6 +2584,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
+        },
+        {
+          "title": "交运股份：筹划将所持有的乘用车销售与汽车后服务板块、汽车零部件制造与销售服务板块相关资产与控股股东及其关联方持有的文体娱乐业、旅游业相关业务资产进行置换",
+          "url": "https://wallstreetcn.com/livenews/3034041",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
         },
         {
           "title": "高通将从2027年起为德国大众汽车提供车载娱乐芯片",
@@ -2764,8 +2878,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时39分 ~ 18时22分]"
+          "appearance_count": 14,
+          "time_info": "[09时39分 ~ 19时19分]"
         },
         {
           "title": "黄金成全球最大储备资产，30年来首次超越美债！",
@@ -3007,11 +3121,12 @@
             12,
             15,
             16,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时29分 ~ 18时22分]"
+          "appearance_count": 13,
+          "time_info": "[11时29分 ~ 19时19分]"
         }
       ]
     }
