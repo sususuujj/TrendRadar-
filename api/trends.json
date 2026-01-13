@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-13T20:44:22.191787+08:00",
-  "total_titles_processed": 1822,
+  "generated_at": "2026-01-13T21:41:18.106940+08:00",
+  "total_titles_processed": 1928,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 91,
+      "match_count": 93,
       "titles": [
         {
           "title": "特朗普威胁古巴，委内瑞拉发声",
@@ -90,8 +90,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时27分 ~ 20时44分]"
+          "appearance_count": 14,
+          "time_info": "[09时27分 ~ 21时41分]"
         },
         {
           "title": "特朗普：最高法若作出对美不利裁决，我们就完蛋了",
@@ -119,8 +119,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时27分 ~ 20时44分]"
+          "appearance_count": 14,
+          "time_info": "[09时27分 ~ 21时41分]"
+        },
+        {
+          "title": "美媒：特朗普政府对伊朗行动选项“远超传统空袭”",
+          "url": "https://news.ifeng.com/c/8pspQ2slRcl",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时27分 ~ 21时41分]"
         },
         {
           "title": "北约秘书长帮腔特朗普：中俄恐将越来越活跃",
@@ -132,8 +144,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时27分 ~ 20时44分]"
+          "appearance_count": 13,
+          "time_info": "[11时27分 ~ 21时41分]"
         },
         {
           "title": "调查鲍威尔引内讧？FHFA局长被指幕后推手，贝森特警告“制造混乱”，白宫称特朗普未指示行动",
@@ -146,8 +158,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时27分 ~ 20时44分]"
+          "appearance_count": 14,
+          "time_info": "[09时27分 ~ 21时41分]"
         },
         {
           "title": "从“架空美联储”到“起诉鲍威尔”--“输不起中选”的特朗普决定“接管美联储”",
@@ -202,16 +214,15 @@
           "time_info": "[12时39分 ~ 19时20分]"
         },
         {
-          "title": "美媒：特朗普政府对伊朗行动选项“远超传统空袭”",
-          "url": "https://news.ifeng.com/c/8pspQ2slRcl",
+          "title": "特朗普想对伊朗直接动手，万斯“踩刹车”？",
+          "url": "https://news.ifeng.com/c/8psqYtTK9Dp",
           "source": "凤凰网",
           "ranks": [
-            2,
-            4
+            2
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[17时27分 ~ 20时44分]"
+          "time_info": "[19时20分 ~ 21时41分]"
         },
         {
           "title": "特朗普称接管格陵兰岛是为防中俄觊觎，外交部：谋私利别拿他国当借口",
@@ -226,17 +237,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[09时27分 ~ 16时31分]"
-        },
-        {
-          "title": "特朗普想对伊朗直接动手，万斯“踩刹车”？",
-          "url": "https://news.ifeng.com/c/8psqYtTK9Dp",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时20分 ~ 20时44分]"
         },
         {
           "title": "暴力执法惹众怒，美国两州把特朗普政府告了",
@@ -281,6 +281,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
+        },
+        {
+          "title": "特朗普媒体科技集团(DJT.O)盘前股价上涨1.7%，此前该公司推出了四项“美国优先”主题投资策略。",
+          "url": "https://flash.jin10.com/detail/20260113213947724800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
         },
         {
           "title": "特朗普：对伊朗贸易伙伴征收25%关税",
@@ -668,7 +679,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时44分"
         },
@@ -748,6 +759,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
+        },
+        {
+          "title": "特朗普媒体科技集团推出“美国优先”主题投资工具。",
+          "url": "https://flash.jin10.com/detail/20260113213234623800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
         },
         {
           "title": "墨西哥总统辛鲍姆告诉美国总统特朗普：墨方反对军事干预。 墨西哥不需要美国的军事援助。",
@@ -1072,7 +1094,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 66,
+      "match_count": 68,
       "titles": [
         {
           "title": "伊朗发动支持政府集会，民众：我们绝不会抛弃哈梅内伊",
@@ -1121,8 +1143,24 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时27分 ~ 20时44分]"
+          "appearance_count": 13,
+          "time_info": "[11时27分 ~ 21时41分]"
+        },
+        {
+          "title": "美国国务院要求美国公民立即离开伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32373300",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            11,
+            10,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[11时27分 ~ 21时41分]"
         },
         {
           "title": "伊朗外长：伊朗安全部队已控制全国局势",
@@ -1137,21 +1175,6 @@
           "is_new": false,
           "appearance_count": 21,
           "time_info": "[00时26分 ~ 16时31分]"
-        },
-        {
-          "title": "美国国务院要求美国公民立即离开伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32373300",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            11,
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时27分 ~ 20时44分]"
         },
         {
           "title": "伊朗外长说已控制全国局势",
@@ -1169,6 +1192,21 @@
           "time_info": "[01时22分 ~ 07时16分]"
         },
         {
+          "title": "外交部回应伊朗局势",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            9,
+            10,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时29分 ~ 21时41分]"
+        },
+        {
           "title": "伊朗已有超百名安全人员在骚乱中丧生，美国将讨论干涉方案，骚乱的根本原因是何？美国或将从哪些方面干涉？",
           "url": "https://www.zhihu.com/question/1993995898699658333",
           "source": "知乎",
@@ -1178,6 +1216,19 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时26分 ~ 07时16分]"
+        },
+        {
+          "title": "外交部回应伊朗局势",
+          "url": "https://www.douyin.com/hot/2366507",
+          "source": "抖音",
+          "ranks": [
+            7,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时29分 ~ 21时41分]"
         },
         {
           "title": "美将对与伊朗开展商业往来的国家征收25%关税，外交部回应",
@@ -1194,44 +1245,18 @@
           "time_info": "[16时29分 ~ 20时44分]"
         },
         {
-          "title": "外交部回应伊朗局势",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            9,
-            10,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时29分 ~ 20时44分]"
-        },
-        {
           "title": "中方回应美对伊朗贸易伙伴加税25%",
           "url": "https://www.toutiao.com/trending/7594742775778643502/",
           "source": "今日头条",
           "ranks": [
             2,
             6,
-            20
+            20,
+            28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时29分 ~ 20时44分]"
-        },
-        {
-          "title": "外交部回应伊朗局势",
-          "url": "https://www.douyin.com/hot/2366507",
-          "source": "抖音",
-          "ranks": [
-            7,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时29分 ~ 20时44分]"
+          "appearance_count": 8,
+          "time_info": "[16时29分 ~ 21时41分]"
         },
         {
           "title": "伊朗议长：若美“误判”形势，美基地将遭打击",
@@ -1241,8 +1266,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时20分 ~ 20时44分]"
+          "appearance_count": 4,
+          "time_info": "[19时20分 ~ 21时41分]"
+        },
+        {
+          "title": "伊朗声称查获包括星链在内的“间谍”设备。",
+          "url": "https://flash.jin10.com/detail/20260113214039477800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
         },
         {
           "title": "白宫表示正考虑针对伊朗的军事选项，外交部回应：反对在国际关系中使用或威胁使用武力，希望各方多做有利于中东和平稳定的事。（央视新闻）",
@@ -1498,7 +1534,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时44分"
         },
@@ -1575,7 +1611,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时44分"
         },
@@ -1723,6 +1759,17 @@
           "time_info": "02时32分"
         },
         {
+          "title": "伊朗称抓捕多名“恐怖组织”成员 查获美制武器",
+          "url": "https://wallstreetcn.com/livenews/3036182",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
           "title": "伊朗官员：伊朗抗议活动中约有2000人丧生，其中包括安全人员，这些死亡是“恐怖分子”造成的。",
           "url": "https://flash.jin10.com/detail/20260113182619500800",
           "source": "金十数据",
@@ -1784,7 +1831,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时44分"
         },
@@ -1839,7 +1886,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时44分"
         }
@@ -1847,7 +1894,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "伊朗局势微妙、鲍威尔被诉，美股债汇三杀，黄金突破4620美元，现货白银涨超6%，铜逼近新高，油价回调",
@@ -1898,6 +1945,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[07时16分 ~ 14时32分]"
+        },
+        {
+          "title": "美国CPI数据公布后，美股股指期货短线拉升",
+          "url": "https://wallstreetcn.com/livenews/3036204",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
         },
         {
           "title": "美股收盘：金龙指数涨逾4% 阿里巴巴大涨10%",
@@ -2030,7 +2088,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时44分"
         },
@@ -2107,7 +2165,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时44分"
         }
@@ -2115,7 +2173,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "美股走V新高，谷歌破4万亿，阿里暴涨10%领衔中概大涨，金银大涨创新高",
@@ -2126,8 +2184,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时27分 ~ 20时44分]"
+          "appearance_count": 14,
+          "time_info": "[09时27分 ~ 21时41分]"
         },
         {
           "title": "苹果选中Gemini，谷歌登上“4万亿”",
@@ -2140,8 +2198,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时27分 ~ 20时44分]"
+          "appearance_count": 14,
+          "time_info": "[09时27分 ~ 21时41分]"
         },
         {
           "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
@@ -2237,6 +2295,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时26分 ~ 01时23分]"
+        },
+        {
+          "title": "UP主锐评苹果谷歌合作",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E9%94%90%E8%AF%84%E8%8B%B9%E6%9E%9C%E8%B0%B7%E6%AD%8C%E5%90%88%E4%BD%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时40分 ~ 21时41分]"
         },
         {
           "title": "美股七巨头收盘播报｜谷歌涨1%，收盘市值达到4万亿美元，Meta跌1.7%",
@@ -2343,8 +2412,24 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
+        {
+          "title": "理想汽车单季净亏 6.2 亿，交付仅目标 63%，李想急调管理模式，透露出哪些信息？",
+          "url": "https://www.zhihu.com/question/1993982530886590703",
+          "source": "知乎",
+          "ranks": [
+            18,
+            12,
+            5,
+            6,
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时24分 ~ 21时41分]"
+        },
         {
           "title": "中欧电动汽车案磋商进展",
           "url": "https://www.douyin.com/hot/2365467",
@@ -2359,22 +2444,6 @@
           "is_new": false,
           "appearance_count": 18,
           "time_info": "[00时26分 ~ 14时32分]"
-        },
-        {
-          "title": "理想汽车单季净亏 6.2 亿，交付仅目标 63%，李想急调管理模式，透露出哪些信息？",
-          "url": "https://www.zhihu.com/question/1993982530886590703",
-          "source": "知乎",
-          "ranks": [
-            18,
-            12,
-            5,
-            6,
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时24分 ~ 20时44分]"
         },
         {
           "title": "涉中国电动汽车关税，欧盟出台新方案",
@@ -2402,6 +2471,18 @@
           "time_info": "[12时39分 ~ 16时31分]"
         },
         {
+          "title": "小鹏汽车无明显短板，为何陷入销量困境？",
+          "url": "https://www.zhihu.com/question/667028399",
+          "source": "知乎",
+          "ranks": [
+            20,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时20分 ~ 21时41分]"
+        },
+        {
           "title": "中国汽车流通协会：2025年12月全国二手车市场交易量187.11万辆 环比增长7.15%",
           "url": "https://wallstreetcn.com/livenews/3035993",
           "source": "华尔街见闻-快讯",
@@ -2424,6 +2505,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时39分 ~ 13时25分]"
+        },
+        {
+          "title": "1条视频看懂2026汽车国补政策",
+          "url": "https://www.toutiao.com/trending/7594786097649946122/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时40分 ~ 21时41分]"
         },
         {
           "title": "韩国KOSPI指数连续第八个交易日上涨，汽车和电池板块领涨。",
@@ -2536,21 +2628,21 @@
           "time_info": "19时20分"
         },
         {
-          "title": "小鹏汽车无明显短板，为何陷入销量困境？",
-          "url": "https://www.zhihu.com/question/667028399",
-          "source": "知乎",
+          "title": "深圳首次实现新能源汽车向电网放电的电费结算",
+          "url": "https://wallstreetcn.com/livenews/3036166",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            30
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时20分"
+          "time_info": "21时41分"
         }
       ]
     },
     {
       "keyword_group": "俄罗斯",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "乌克兰电力公司UKRENERGO表示，俄罗斯昨夜发动袭击后，基辅已实施停电。",
@@ -2597,6 +2689,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
+        },
+        {
+          "title": "白俄罗斯边境出现军事集结",
+          "url": "https://www.douyin.com/hot/2366701",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时40分 ~ 21时41分]"
         },
         {
           "title": "俄罗斯塔甘罗格地区州长表示，俄罗斯防空部队正试图击退乌克兰对塔甘罗格的空袭。",
@@ -2697,6 +2800,18 @@
           "time_info": "[13时25分 ~ 18时23分]"
         },
         {
+          "title": "男子被无人机砸伤致眼球破裂，获赔18万",
+          "url": "https://news.ifeng.com/c/8pslfrcy8K1",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时29分 ~ 21时41分]"
+        },
+        {
           "title": "无人机新规后，飞无人机有哪些注意事项？哪些无人机又将退出历史？",
           "url": "https://www.zhihu.com/question/1991585029810299793",
           "source": "知乎",
@@ -2710,25 +2825,13 @@
           "time_info": "[03时20分 ~ 06时19分]"
         },
         {
-          "title": "男子被无人机砸伤致眼球破裂，获赔18万",
-          "url": "https://news.ifeng.com/c/8pslfrcy8K1",
-          "source": "凤凰网",
-          "ranks": [
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时29分 ~ 20时44分]"
-        },
-        {
           "title": "里海管道联盟（CPC）：油轮“马蒂尔达”号于1月13日遭到无人机袭击。",
           "url": "https://flash.jin10.com/detail/20260113202155870800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时44分"
         },
@@ -2774,7 +2877,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时44分"
         }
@@ -2862,8 +2965,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时27分 ~ 20时44分]"
+          "appearance_count": 13,
+          "time_info": "[11时27分 ~ 21时41分]"
         },
         {
           "title": "梁文锋署名新论文：给大模型配本“字典”，计算、记忆分家后智商爆表，剧透DeepSeek V4？",
@@ -2875,8 +2978,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时29分 ~ 20时44分]"
+          "appearance_count": 8,
+          "time_info": "[16时29分 ~ 21时41分]"
         },
         {
           "title": "DeepSeek开源大模型记忆模块！梁文锋署名新论文，下一代稀疏模型提前剧透",
@@ -2902,6 +3005,87 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时27分 ~ 15时24分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "中长期美债收益率涨超2个基点",
+          "url": "https://wallstreetcn.com/livenews/3035568",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时20分 ~ 06时19分]"
+        },
+        {
+          "title": "中金：如果美国通胀与流动性冲击导致中美股票、黄金、美债等资产回调，建议逢低增配",
+          "url": "https://wallstreetcn.com/livenews/3035668",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
+          "title": "摩根大通美债客户调查显示净多头比例降至2024年10月以来最低",
+          "url": "https://wallstreetcn.com/livenews/3036168",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美元指数12日下跌",
+          "url": "https://flash.jin10.com/detail/20260113045153898800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时20分 ~ 06时19分]"
+        },
+        {
+          "title": "美元指数跌约0.3%",
+          "url": "https://wallstreetcn.com/livenews/3035557",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时20分 ~ 06时19分]"
+        },
+        {
+          "title": "美元指数DXY短线下挫 非美货币集体走高",
+          "url": "https://flash.jin10.com/detail/20260113213309385800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
         }
       ]
     },
@@ -2941,65 +3125,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "中长期美债收益率涨超2个基点",
-          "url": "https://wallstreetcn.com/livenews/3035568",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时20分 ~ 06时19分]"
-        },
-        {
-          "title": "中金：如果美国通胀与流动性冲击导致中美股票、黄金、美债等资产回调，建议逢低增配",
-          "url": "https://wallstreetcn.com/livenews/3035668",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美元指数12日下跌",
-          "url": "https://flash.jin10.com/detail/20260113045153898800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时20分 ~ 06时19分]"
-        },
-        {
-          "title": "美元指数跌约0.3%",
-          "url": "https://wallstreetcn.com/livenews/3035557",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时20分 ~ 06时19分]"
         }
       ]
     },
