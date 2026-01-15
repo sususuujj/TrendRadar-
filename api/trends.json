@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-15T11:40:54.529003+08:00",
-  "total_titles_processed": 1076,
+  "generated_at": "2026-01-15T12:40:25.028826+08:00",
+  "total_titles_processed": 1161,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 81,
+      "match_count": 84,
       "titles": [
         {
           "title": "特朗普称国际法无关紧要，外交部：大国应带头尊重国际法权威",
@@ -43,15 +43,15 @@
           "time_info": "[05时21分 ~ 07时18分]"
         },
         {
-          "title": "特朗普被曝希望对伊朗的军事打击快速且具决定性",
-          "url": "https://wallstreetcn.com/livenews/3037513",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普被曝希望对伊朗的军事打击“快速且具决定性”",
+          "url": "https://news.ifeng.com/c/8pvmkwWCoVQ",
+          "source": "凤凰网",
           "ranks": [
-            1
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时40分"
+          "time_info": "12时40分"
         },
         {
           "title": "欧盟议会领导人“毫不含糊地”谴责美国总统特朗普政府关于格陵兰岛的言论。",
@@ -165,6 +165,18 @@
           "time_info": "[04时21分 ~ 05时21分]"
         },
         {
+          "title": "特朗普被曝希望对伊朗的军事打击快速且具决定性",
+          "url": "https://wallstreetcn.com/livenews/3037513",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时40分 ~ 12时40分]"
+        },
+        {
           "title": "白宫新闻秘书莱维特：特朗普将于美国东部时间下午2点签署法案，允许学校提供全脂牛奶和2%低脂牛奶。",
           "url": "https://flash.jin10.com/detail/20260115002530191800",
           "source": "金十数据",
@@ -206,11 +218,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时28分 ~ 11时40分]"
+          "appearance_count": 3,
+          "time_info": "[09时28分 ~ 12时40分]"
         },
         {
           "title": "美国最高法院再次没能就特朗普关税政策的官司做出裁决，纳指维持1%跌幅",
@@ -220,8 +233,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时28分 ~ 11时40分]"
+          "appearance_count": 3,
+          "time_info": "[09时28分 ~ 12时40分]"
         },
         {
           "title": "特朗普称与委内瑞拉代总统通话",
@@ -284,6 +297,18 @@
           "time_info": "[03时19分 ~ 04时21分]"
         },
         {
+          "title": "特朗普称取消与伊朗官员所有会面，美国到底会不会对伊朗发动军事行动？目前局势如何？美国为何「死盯」伊朗？",
+          "url": "https://www.zhihu.com/question/1994760082911675910",
+          "source": "知乎",
+          "ranks": [
+            11,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时40分 ~ 12时40分]"
+        },
+        {
           "title": "美国总统特朗普：与丹麦关系很好。",
           "url": "https://wallstreetcn.com/livenews/3037286",
           "source": "华尔街见闻-快讯",
@@ -294,6 +319,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时21分 ~ 06时21分]"
+        },
+        {
+          "title": "哥伦比亚总统称将于2月3日同特朗普会晤",
+          "url": "https://wallstreetcn.com/livenews/3037497",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时40分 ~ 12时40分]"
         },
         {
           "title": "特朗普再批鲍威尔",
@@ -338,6 +375,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
+        },
+        {
+          "title": "事关AI！特朗普政府官宣对“某些半导体”加征25%关税",
+          "url": "https://www.cls.cn/detail/2258223",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
         },
         {
           "title": "委内瑞拉代总统罗德里格斯：和特朗普讨论了有利于两国的双边合作议程。",
@@ -395,13 +443,24 @@
           "time_info": "09时28分"
         },
         {
+          "title": "委内瑞拉代总统和特朗普通话",
+          "url": "https://www.douyin.com/hot/2368035",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
           "title": "特朗普称泽连斯基阻碍乌和平协议达成",
           "url": "https://www.toutiao.com/trending/7595121166218641434/",
           "source": "今日头条",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时40分"
         },
@@ -461,17 +520,6 @@
           "time_info": "07时18分"
         },
         {
-          "title": "特朗普称取消与伊朗官员所有会面，美国到底会不会对伊朗发动军事行动？目前局势如何？美国为何「死盯」伊朗？",
-          "url": "https://www.zhihu.com/question/1994760082911675910",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时40分"
-        },
-        {
           "title": "市场消息：特朗普签署行政命令，设立第二个紧急委员会，调查长岛铁路公司与其部分员工（由特定劳工组织代表）之间的争议。",
           "url": "https://flash.jin10.com/detail/20260115053554998800",
           "source": "金十数据",
@@ -489,7 +537,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时40分"
         },
@@ -514,17 +562,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时21分"
-        },
-        {
-          "title": "哥伦比亚总统称将于2月3日同特朗普会晤",
-          "url": "https://wallstreetcn.com/livenews/3037497",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时40分"
         },
         {
           "title": "特朗普参观汽车工厂和民众对骂还竖中指，白宫：回应合适",
@@ -764,7 +801,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时40分"
         },
@@ -915,7 +952,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 54,
+      "match_count": 59,
       "titles": [
         {
           "title": "伊朗：骚乱事件主要幕后人员落网",
@@ -1054,6 +1091,17 @@
           "time_info": "04时21分"
         },
         {
+          "title": "美媒：美国已制定多套方案，或直接针对伊朗最高领导层",
+          "url": "https://news.ifeng.com/c/8pvokQP3xu7",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
           "title": "航班雷达网站称，伊朗上空的空域似乎正在迅速清空，目前没有航班获准进入伊朗领空。",
           "url": "https://flash.jin10.com/detail/20260115060040144800",
           "source": "金十数据",
@@ -1063,6 +1111,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
+        },
+        {
+          "title": "印度驻伊朗大使馆：建议目前身处伊朗的印度公民通过可行的交通方式离开伊朗",
+          "url": "https://flash.jin10.com/detail/20260115121028937800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
         },
         {
           "title": "英国驻伊朗大使馆暂时关闭",
@@ -1101,6 +1160,31 @@
           "time_info": "[04时21分 ~ 05时21分]"
         },
         {
+          "title": "聚焦中东局势：美军从乌代德空军基地撤人 伊朗警告若发动打击将实施报复",
+          "url": "https://www.cls.cn/detail/2258108",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时28分 ~ 12时40分]"
+        },
+        {
+          "title": "伊朗外长：政府已完全掌控局面",
+          "url": "https://www.toutiao.com/trending/7595402470608621094/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时40分 ~ 12时40分]"
+        },
+        {
           "title": "伊朗外交部：美国对伊朗经济制裁构成“反人类罪”",
           "url": "https://wallstreetcn.com/livenews/3037258",
           "source": "华尔街见闻-快讯",
@@ -1113,16 +1197,16 @@
           "time_info": "[03时19分 ~ 04时21分]"
         },
         {
-          "title": "聚焦中东局势：美军从乌代德空军基地撤人 伊朗警告若发动打击将实施报复",
-          "url": "https://www.cls.cn/detail/2258108",
-          "source": "财联社热门",
+          "title": "伊朗关闭领空",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E5%85%B3%E9%97%AD%E9%A2%86%E7%A9%BA",
+          "source": "bilibili 热搜",
           "ranks": [
-            12,
-            9
+            9,
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时28分 ~ 11时40分]"
+          "time_info": "[11时40分 ~ 12时40分]"
         },
         {
           "title": "美国国务院：确认对伊朗等国暂停签证受理。",
@@ -1173,6 +1257,29 @@
           "time_info": "[03时19分 ~ 04时21分]"
         },
         {
+          "title": "伊朗宣布暂时关闭领空",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%AE%A3%E5%B8%83%E6%9A%82%E6%97%B6%E5%85%B3%E9%97%AD%E9%A2%86%E7%A9%BA%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时28分 ~ 12时40分]"
+        },
+        {
+          "title": "伊朗对德黑兰飞行情报区空域管控",
+          "url": "https://www.douyin.com/hot/2368070",
+          "source": "抖音",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时40分 ~ 12时40分]"
+        },
+        {
           "title": "印度靛蓝航空：由于伊朗突然关闭空域，部分国际航班受到影响。",
           "url": "https://flash.jin10.com/detail/20260115070042240800",
           "source": "金十数据",
@@ -1193,17 +1300,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时29分"
-        },
-        {
-          "title": "伊朗关闭领空",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E5%85%B3%E9%97%AD%E9%A2%86%E7%A9%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时40分"
         },
         {
           "title": "伊朗外交部长：现在局势平静下来了。我们完全掌控了局面。",
@@ -1228,6 +1324,17 @@
           "time_info": "05时21分"
         },
         {
+          "title": "伊朗宣布暂时关闭领空，美国一航母打击群正被调往中东地区，意味着什么？目前伊朗局势如何？",
+          "url": "https://www.zhihu.com/question/1995060884632987422",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
           "title": "伊朗外长称该国局势已恢复平静",
           "url": "https://flash.jin10.com/detail/20260115054713694800",
           "source": "金十数据",
@@ -1237,6 +1344,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
+        },
+        {
+          "title": "印度驻伊朗大使馆14日晚在社交媒体发文说，建议目前身处伊朗的印度公民通过可行的交通方式离开伊朗。 (新华社)",
+          "url": "https://wallstreetcn.com/livenews/3037521",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
         },
         {
           "title": "市场消息：西班牙要求公民离开伊朗。",
@@ -1261,13 +1379,24 @@
           "time_info": "07时18分"
         },
         {
+          "title": "伊朗重新开放领空",
+          "url": "https://wallstreetcn.com/livenews/3037518",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
           "title": "FLIGHTRADAR24：随着关闭伊朗空域的航行通告到期，部分航班正前往德黑兰。",
           "url": "https://flash.jin10.com/detail/20260115110539754800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时40分"
         },
@@ -1292,28 +1421,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
-        },
-        {
-          "title": "伊朗宣布暂时关闭领空",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%AE%A3%E5%B8%83%E6%9A%82%E6%97%B6%E5%85%B3%E9%97%AD%E9%A2%86%E7%A9%BA%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时28分"
-        },
-        {
-          "title": "伊朗对德黑兰飞行情报区空域管控",
-          "url": "https://www.douyin.com/hot/2368070",
-          "source": "抖音",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时40分"
         },
         {
           "title": "伊朗：骚乱事件主要幕后人员落网",
@@ -1443,7 +1550,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时40分"
         },
@@ -1457,17 +1564,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
-        },
-        {
-          "title": "伊朗外长：政府已完全掌控局面",
-          "url": "https://www.toutiao.com/trending/7595402470608621094/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时40分"
         },
         {
           "title": "伊朗伊斯兰革命卫队：已做好充分准备 将回应敌人行动",
@@ -1587,8 +1683,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时17分 ~ 11时40分]"
+          "appearance_count": 5,
+          "time_info": "[07时17分 ~ 12时40分]"
+        },
+        {
+          "title": "科技股下挫拖累美股，金银铜锡盘中齐创新高，金银比跌破50，原油重挫",
+          "url": "https://wallstreetcn.com/articles/3763270",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时28分 ~ 12时40分]"
         },
         {
           "title": "科技股重挫拖累美股，美小盘股指跑赢大盘，白银突破93美元，金银比跌破50",
@@ -1600,17 +1707,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时17分 ~ 07时18分]"
-        },
-        {
-          "title": "科技股下挫拖累美股，金银铜锡盘中齐创新高，金银比跌破50，原油重挫",
-          "url": "https://wallstreetcn.com/articles/3763270",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时28分 ~ 11时40分]"
         },
         {
           "title": "伊朗局势担忧加剧，美股指集体下挫，纳指跌近0.8%，金属狂飙，现货白银站上92美元，锡铜新高",
@@ -1724,8 +1820,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时19分 ~ 11时40分]"
+          "appearance_count": 9,
+          "time_info": "[03时19分 ~ 12时40分]"
         },
         {
           "title": "美国将暂停对俄罗斯等75国签证",
@@ -1833,6 +1929,95 @@
       ]
     },
     {
+      "keyword_group": "汽车",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "新能源汽车产销量双超1600万辆",
+          "url": "https://www.douyin.com/hot/2367892",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 09时28分]"
+        },
+        {
+          "title": "德勤报告称超 6 成国人的下一辆车预算在 30 万以上，普通人应该怎样看待汽车消费？",
+          "url": "https://www.zhihu.com/question/1994712035158619020",
+          "source": "知乎",
+          "ranks": [
+            13,
+            15,
+            16,
+            17,
+            20,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 07时18分]"
+        },
+        {
+          "title": "周三（1月14日），彭博电动汽车价格回报指数跌0.37%，报3611.80点。 亚太早盘，指数微幅上涨，北京时间13:00出现一波显著的跳水转跌行情，14:07刷新日低至3597.59点刷新日低，随后持续低位震荡。 成分股Rivian跌7.7%，微宏控股跌4.1%，意法半导体跌2.4%，特斯拉跌2.2%，小马智行则涨1.9%，普拉格动力公司2.4%，宝马涨2.7%，Solid Power涨3.6%，EVGO涨5.9%，MP材料涨8.3%。",
+          "url": "https://wallstreetcn.com/livenews/3037297",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时21分 ~ 06时21分]"
+        },
+        {
+          "title": "宝能姚振华发实名举报视频，称观致汽车资产被低价拍卖，具体情况如何？",
+          "url": "https://www.zhihu.com/question/1994787682136642370",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
+          "title": "通用汽车(GM.N)：未来两年将在墨西哥的本地制造领域投资10亿美元。",
+          "url": "https://flash.jin10.com/detail/20260115065951454800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时18分"
+        },
+        {
+          "title": "金十图示：2026年01月15日（周四）全球汽车制造商市值变化",
+          "url": "https://flash.jin10.com/detail/20260115110527754800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时40分"
+        },
+        {
+          "title": "华为余承东带队到访东风汽车",
+          "url": "https://www.toutiao.com/trending/7594435607054647302/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 6,
       "titles": [
@@ -1907,87 +2092,20 @@
       ]
     },
     {
-      "keyword_group": "汽车",
-      "match_count": 6,
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 4,
       "titles": [
         {
-          "title": "新能源汽车产销量双超1600万辆",
-          "url": "https://www.douyin.com/hot/2367892",
-          "source": "抖音",
+          "title": "复盘苹果AI为何转投谷歌",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E7%9B%98%E8%8B%B9%E6%9E%9CAI%E4%B8%BA%E4%BD%95%E8%BD%AC%E6%8A%95%E8%B0%B7%E6%AD%8C",
+          "source": "bilibili 热搜",
           "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 09时28分]"
-        },
-        {
-          "title": "德勤报告称超 6 成国人的下一辆车预算在 30 万以上，普通人应该怎样看待汽车消费？",
-          "url": "https://www.zhihu.com/question/1994712035158619020",
-          "source": "知乎",
-          "ranks": [
-            13,
-            15,
-            16,
-            17,
-            20,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 07时18分]"
-        },
-        {
-          "title": "周三（1月14日），彭博电动汽车价格回报指数跌0.37%，报3611.80点。 亚太早盘，指数微幅上涨，北京时间13:00出现一波显著的跳水转跌行情，14:07刷新日低至3597.59点刷新日低，随后持续低位震荡。 成分股Rivian跌7.7%，微宏控股跌4.1%，意法半导体跌2.4%，特斯拉跌2.2%，小马智行则涨1.9%，普拉格动力公司2.4%，宝马涨2.7%，Solid Power涨3.6%，EVGO涨5.9%，MP材料涨8.3%。",
-          "url": "https://wallstreetcn.com/livenews/3037297",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时21分 ~ 06时21分]"
-        },
-        {
-          "title": "通用汽车(GM.N)：未来两年将在墨西哥的本地制造领域投资10亿美元。",
-          "url": "https://flash.jin10.com/detail/20260115065951454800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时18分"
-        },
-        {
-          "title": "金十图示：2026年01月15日（周四）全球汽车制造商市值变化",
-          "url": "https://flash.jin10.com/detail/20260115110527754800",
-          "source": "金十数据",
-          "ranks": [
-            16
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时40分"
+          "time_info": "12时40分"
         },
-        {
-          "title": "华为余承东带队到访东风汽车",
-          "url": "https://www.toutiao.com/trending/7594435607054647302/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
-      "titles": [
         {
           "title": "谷歌：即日起，符合条件的美国谷歌AI Pro和AI Ultra订阅用户将在未来一周内陆续获得访问权限。",
           "url": "https://flash.jin10.com/detail/20260115000815990800",
@@ -2035,8 +2153,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时28分 ~ 11时40分]"
+          "appearance_count": 3,
+          "time_info": "[09时28分 ~ 12时40分]"
         },
         {
           "title": "美国参议员蒂利斯：如果美军出现在格陵兰，将支持《战争权力法》（限制总统在未经国会授权的情况下动用武装力量）。",
@@ -2091,6 +2209,34 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时27分 ~ 09时28分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金十图示：2026年01月15日（周四）上海金早盘价为1033.61元/克，较国际金价（1031.08元/克）高2.53元/克",
+          "url": "https://flash.jin10.com/detail/20260115110344751800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时40分"
+        },
+        {
+          "title": "金价上涨 银行保管箱“一箱难求”",
+          "url": "https://www.toutiao.com/trending/7595232648327495722/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
         }
       ]
     },
@@ -2154,23 +2300,6 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金十图示：2026年01月15日（周四）上海金早盘价为1033.61元/克，较国际金价（1031.08元/克）高2.53元/克",
-          "url": "https://flash.jin10.com/detail/20260115110344751800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时40分"
-        }
-      ]
-    },
-    {
       "keyword_group": "武器",
       "match_count": 1,
       "titles": [
@@ -2186,8 +2315,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时32分 ~ 11时40分]"
+          "appearance_count": 10,
+          "time_info": "[02时32分 ~ 12时40分]"
         }
       ]
     }
