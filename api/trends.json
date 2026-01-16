@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T22:23:20.128210+08:00",
-  "total_titles_processed": 2061,
+  "generated_at": "2026-01-16T23:23:26.256770+08:00",
+  "total_titles_processed": 2147,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 107,
+      "match_count": 110,
       "titles": [
         {
           "title": "美军航母开往中东，特朗普要“速战速决”？",
@@ -42,8 +42,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[14时33分 ~ 22时23分]"
+          "appearance_count": 14,
+          "time_info": "[14时33分 ~ 23时23分]"
         },
         {
           "title": "欧洲多国向格陵兰岛派遣军事人员，白宫：影响不了特朗普",
@@ -91,8 +91,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时29分 ~ 22时23分]"
+          "appearance_count": 15,
+          "time_info": "[11时29分 ~ 23时23分]"
         },
         {
           "title": "航母打击群开往中东，特朗普：希望“速战速决”！伊朗进入最高战备状态，约2000枚导弹可覆盖美以基地！多国航班绕飞伊领空",
@@ -115,11 +115,12 @@
             18,
             17,
             15,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[17时26分 ~ 22时23分]"
+          "appearance_count": 11,
+          "time_info": "[17时26分 ~ 23时23分]"
         },
         {
           "title": "特朗普暂缓对伊朗发动军事打击，此举出于什么考虑？其后续可能有什么新动作？",
@@ -130,8 +131,20 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[16时29分 ~ 22时23分]"
+          "appearance_count": 12,
+          "time_info": "[16时29分 ~ 23时23分]"
+        },
+        {
+          "title": "特朗普拟紧急干预电力市场：强压AI巨头签15年长约，为150亿美元新电厂买单",
+          "url": "https://wallstreetcn.com/articles/3763449",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时19分 ~ 23时23分]"
         },
         {
           "title": "特朗普称将“观望”伊朗局势发展，美油盘中跌3%",
@@ -145,16 +158,18 @@
           "time_info": "[00时34分 ~ 05时21分]"
         },
         {
-          "title": "特朗普拟紧急干预电力市场：强压AI巨头签15年长约，为150亿美元新电厂买单",
-          "url": "https://wallstreetcn.com/articles/3763449",
-          "source": "华尔街见闻",
+          "title": "释新闻｜特朗普为何暂缓对伊朗动武？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32397863",
+          "source": "澎湃新闻",
           "ranks": [
-            9,
-            8
+            19,
+            17,
+            15,
+            13
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[19时19分 ~ 22时23分]"
+          "time_info": "[20时41分 ~ 23时23分]"
         },
         {
           "title": "美国白宫：特朗普的医保计划将要求保险公司公布费率和承保范围的对比信息。",
@@ -185,9 +200,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时23分"
+        },
+        {
+          "title": "马查多“献诺奖”，特朗普“笑纳”，颁奖方尴尬",
+          "url": "https://wallstreetcn.com/livenews/3038897",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
         },
         {
           "title": "美国白宫：特朗普提议的成本分摊计划可能使最常见的奥巴马医改计划保费降低逾10%。",
@@ -218,7 +244,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时23分"
         },
@@ -232,19 +258,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
-        },
-        {
-          "title": "释新闻｜特朗普为何暂缓对伊朗动武？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32397863",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时41分 ~ 22时23分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普希望，有朝一日能看到委内瑞拉举行选举。",
@@ -555,7 +568,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时23分"
         },
@@ -577,7 +590,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时23分"
         },
@@ -632,7 +645,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时23分"
         },
@@ -698,7 +711,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时23分"
         },
@@ -808,7 +821,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时23分"
         },
@@ -918,7 +931,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时23分"
         },
@@ -965,6 +978,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        },
+        {
+          "title": "Vistra（VST）跌7.3%，星牌能源（CEG）跌6.9%。 美国总统特朗普推动通过电力拍卖，让数据中心承担飙涨的电力成本。",
+          "url": "https://wallstreetcn.com/livenews/3038883",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
         },
         {
           "title": "美国总统特朗普：希望降低保险费，并要求保险公司对成本负责。",
@@ -1154,6 +1178,17 @@
           "time_info": "21时37分"
         },
         {
+          "title": "特朗普政府或将签署一项遏制电价的协议，美国电力公司股价下跌，Talen能源(TLN.O)下跌8%，Vistra能源(VST.N)下跌6.9%，星座能源(CEG.O)下跌6.3%。",
+          "url": "https://flash.jin10.com/detail/20260116223126356800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
+        },
+        {
           "title": "白宫新闻秘书莱维特：特朗普已经与以色列总理内塔尼亚胡通话。",
           "url": "https://flash.jin10.com/detail/20260116022949055800",
           "source": "金十数据",
@@ -1234,7 +1269,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 55,
+      "match_count": 56,
       "titles": [
         {
           "title": "王毅同伊朗外长通话，连说3个“反对”",
@@ -1291,8 +1326,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[01时31分 ~ 22时23分]"
+          "appearance_count": 27,
+          "time_info": "[01时31分 ~ 23时23分]"
         },
         {
           "title": "美国宣布对伊朗实施新制裁",
@@ -1371,11 +1406,12 @@
           "source": "百度热搜",
           "ranks": [
             14,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时22分 ~ 22时23分]"
+          "appearance_count": 9,
+          "time_info": "[18时22分 ~ 23时23分]"
         },
         {
           "title": "王毅同伊朗外长阿拉格齐通电话",
@@ -1397,11 +1433,12 @@
           "url": "https://news.ifeng.com/c/8py8L49uSQu",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时22分 ~ 22时23分]"
+          "appearance_count": 3,
+          "time_info": "[22时22分 ~ 23时23分]"
         },
         {
           "title": "美国财政部对伊朗实施新制裁",
@@ -1426,6 +1463,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时40分 ~ 15时24分]"
+        },
+        {
+          "title": "伊朗媒体：约3000人因骚乱被捕",
+          "url": "https://wallstreetcn.com/livenews/3038899",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
         },
         {
           "title": "美航母打击群调往中东 伊朗最高战备",
@@ -1748,7 +1796,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时23分"
         },
@@ -1936,11 +1984,12 @@
             12,
             9,
             8,
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[15时24分 ~ 22时23分]"
+          "appearance_count": 13,
+          "time_info": "[15时24分 ~ 23时23分]"
         },
         {
           "title": "常熟观致汽车工厂二次拍卖流拍：无人出价，姚振华此前曾公开举报",
@@ -1949,11 +1998,12 @@
           "ranks": [
             16,
             13,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时22分 ~ 22时23分]"
+          "appearance_count": 9,
+          "time_info": "[18时22分 ~ 23时23分]"
         },
         {
           "title": "飞行汽车真的来了吗",
@@ -1969,6 +2019,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[04时24分 ~ 14时33分]"
+        },
+        {
+          "title": "怎么看待「万能的大熊」、「汽车之家」等汽车自媒体被处置？",
+          "url": "https://www.zhihu.com/question/1995479907795501970",
+          "source": "知乎",
+          "ranks": [
+            15,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时41分 ~ 23时23分]"
         },
         {
           "title": "卡尼：加拿大将以优惠关税税率进口4.9万辆中国电动汽车",
@@ -1991,18 +2053,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
-        },
-        {
-          "title": "怎么看待「万能的大熊」、「汽车之家」等汽车自媒体被处置？",
-          "url": "https://www.zhihu.com/question/1995479907795501970",
-          "source": "知乎",
-          "ranks": [
-            15,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时41分 ~ 22时23分]"
         },
         {
           "title": "重夺汽车第一城 西部大佬杀回来了",
@@ -2078,6 +2128,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时35分 ~ 03时24分]"
+        },
+        {
+          "title": "涉及中国电动汽车 卡尼宣布大消息",
+          "url": "https://www.baidu.com/s?wd=%E6%B6%89%E5%8F%8A%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6+%E5%8D%A1%E5%B0%BC%E5%AE%A3%E5%B8%83%E5%A4%A7%E6%B6%88%E6%81%AF",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时19分 ~ 23时23分]"
         },
         {
           "title": "金十图示：2026年01月16日（周五）全球汽车制造商市值变化",
@@ -2221,23 +2283,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
-        },
-        {
-          "title": "涉及中国电动汽车 卡尼宣布大消息",
-          "url": "https://www.baidu.com/s?wd=%E6%B6%89%E5%8F%8A%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6+%E5%8D%A1%E5%B0%BC%E5%AE%A3%E5%B8%83%E5%A4%A7%E6%B6%88%E6%81%AF",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时19分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
         {
           "title": "台积电带飞芯片股，力撑美股指反弹，白银一度跌逾7%后走V，原油大跌",
@@ -2248,8 +2299,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时40分 ~ 22时23分]"
+          "appearance_count": 18,
+          "time_info": "[09时40分 ~ 23时23分]"
         },
         {
           "title": "科技股下挫拖累美股，金银铜锡盘中齐创新高，金银比跌破50，原油重挫",
@@ -2403,7 +2454,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时23分"
         },
@@ -2425,7 +2476,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时23分"
         },
@@ -2441,13 +2492,24 @@
           "time_info": "06时21分"
         },
         {
+          "title": "金十图示：2026年01月16日（周五）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260116225402994800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
+        },
+        {
           "title": "周五美股盘前你需要了解的全球要闻",
           "url": "https://wallstreetcn.com/livenews/3038861",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时23分"
         },
@@ -2485,6 +2547,17 @@
           "time_info": "02时35分"
         },
         {
+          "title": "行业ETF美股盘初多数走高，半导体ETF涨1.97%，科技行业ETF涨0.89%，全球科技股指数ETF涨0.63%，能源业ETF、银行业ETF、网络股指数ETF等至多涨0.13%，医疗ETF跌0.27%，公用事业ETF跌0.96%。",
+          "url": "https://wallstreetcn.com/livenews/3038880",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
+        },
+        {
           "title": "台积电涨超6%，美股盘中总市值突破1.8万亿美元",
           "url": "https://wallstreetcn.com/livenews/3038101",
           "source": "华尔街见闻-快讯",
@@ -2494,12 +2567,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时34分"
+        },
+        {
+          "title": "美股开盘，道指涨54点、标普500指数涨0.18%、纳指涨0.4%。美光科技(MU.O)涨4.8%，其董事会成员Teyin Liu斥资约780万美元增持公司股份。诺和诺德(NVO.N)涨4.6%，英国监管机构批准以更高剂量的Wegovy治疗肥胖。纳斯达克中国金龙指数跌0.1%。",
+          "url": "https://flash.jin10.com/detail/20260116223032607800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
         }
       ]
     },
     {
       "keyword_group": "俄罗斯",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "德总理：俄罗斯是一个欧洲国家，要实现关系平衡",
@@ -2510,8 +2594,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[17时26分 ~ 22时23分]"
+          "appearance_count": 11,
+          "time_info": "[17时26分 ~ 23时23分]"
         },
         {
           "title": "数据显示，俄罗斯12月份海运石油产品出口额较11月份增长17%。",
@@ -2558,6 +2642,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时34分 ~ 01时31分]"
+        },
+        {
+          "title": "俄罗斯农业部预计，2026年粮食作物产量将高于2025年。",
+          "url": "https://flash.jin10.com/detail/20260116230225767800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
+        },
+        {
+          "title": "俄罗斯官员：俄罗斯南部的降雪并未影响越冬作物，所有作物状况良好。",
+          "url": "https://flash.jin10.com/detail/20260116230206809800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
         },
         {
           "title": "默茨：俄罗斯是一个欧洲国家，要实现关系平衡",
@@ -2680,8 +2786,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时39分 ~ 22时23分]"
+          "appearance_count": 16,
+          "time_info": "[12时39分 ~ 23时23分]"
         },
         {
           "title": "OpenAI寻求美国供应商，推动机器人与AI设备计划",
@@ -2818,6 +2924,58 @@
       ]
     },
     {
+      "keyword_group": "美元",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌5.91%，暂报4113.13点，期内震荡走低，北京时间23:52刷新低点至4055.52点。 MarketVectorTM数字资产100中盘指数跌4.10%，报3810.61点。 MarketVector数字资产100指数跌1.26%，报19912.96点。 目前，Solana跌2.53%，狗狗币跌3.97%，XRP跌2.64%。 此外，比特币跌0.99%，暂报96602美元；以太坊跌1.5%，暂报3325.96美元。",
+          "url": "https://wallstreetcn.com/livenews/3038139",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时31分 ~ 02时35分]"
+        },
+        {
+          "title": "周四（1月15日）纽约尾盘，ICE美元指数涨0.28%，报9.337点，日内交投区间为99.086-99.492点，全天处于上涨状态，北京时间20:30过后出现一波上涨行情，22:43刷新日高。 彭博美元指数涨0.07%，报1211.49点，日内交投区间为1210.07-1213.79点。",
+          "url": "https://wallstreetcn.com/livenews/3038199",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时21分 ~ 06时21分]"
+        },
+        {
+          "title": "标普500指数转跌，道指下跌逾百点、跌幅超0.2%，纳指大致持平。 美元/日元日内跌幅达0.5%，报157.84。",
+          "url": "https://wallstreetcn.com/livenews/3038894",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
+        },
+        {
+          "title": "美元指数15日上涨",
+          "url": "https://flash.jin10.com/detail/20260116044459205800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        }
+      ]
+    },
+    {
       "keyword_group": "新能源",
       "match_count": 4,
       "titles": [
@@ -2833,11 +2991,12 @@
             9,
             5,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时29分 ~ 22时23分]"
+          "appearance_count": 17,
+          "time_info": "[11时29分 ~ 23时23分]"
         },
         {
           "title": "为何新能源车满6年就能享受换新优惠",
@@ -2962,47 +3121,6 @@
       ]
     },
     {
-      "keyword_group": "美元",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌5.91%，暂报4113.13点，期内震荡走低，北京时间23:52刷新低点至4055.52点。 MarketVectorTM数字资产100中盘指数跌4.10%，报3810.61点。 MarketVector数字资产100指数跌1.26%，报19912.96点。 目前，Solana跌2.53%，狗狗币跌3.97%，XRP跌2.64%。 此外，比特币跌0.99%，暂报96602美元；以太坊跌1.5%，暂报3325.96美元。",
-          "url": "https://wallstreetcn.com/livenews/3038139",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时31分 ~ 02时35分]"
-        },
-        {
-          "title": "周四（1月15日）纽约尾盘，ICE美元指数涨0.28%，报9.337点，日内交投区间为99.086-99.492点，全天处于上涨状态，北京时间20:30过后出现一波上涨行情，22:43刷新日高。 彭博美元指数涨0.07%，报1211.49点，日内交投区间为1210.07-1213.79点。",
-          "url": "https://wallstreetcn.com/livenews/3038199",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时21分 ~ 06时21分]"
-        },
-        {
-          "title": "美元指数15日上涨",
-          "url": "https://flash.jin10.com/detail/20260116044459205800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        }
-      ]
-    },
-    {
       "keyword_group": "战争",
       "match_count": 2,
       "titles": [
@@ -3014,8 +3132,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[16时29分 ~ 22时23分]"
+          "appearance_count": 12,
+          "time_info": "[16时29分 ~ 23时23分]"
         },
         {
           "title": "与美国战争部长练体能，日本防卫大臣出现脱水症状",
@@ -3025,8 +3143,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时41分 ~ 22时23分]"
+          "appearance_count": 6,
+          "time_info": "[20时41分 ~ 23时23分]"
         }
       ]
     },
@@ -3082,7 +3200,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时23分"
         }
