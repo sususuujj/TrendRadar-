@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T07:21:10.057707+08:00",
-  "total_titles_processed": 696,
+  "generated_at": "2026-01-16T09:40:48.335535+08:00",
+  "total_titles_processed": 860,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 61,
+      "match_count": 70,
       "titles": [
         {
           "title": "美军航母开往中东，特朗普要“速战速决”？",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时34分 ~ 07时21分]"
+          "appearance_count": 11,
+          "time_info": "[00时34分 ~ 09时40分]"
         },
         {
           "title": "特朗普：我会去委内瑞拉，委代总统将访美",
@@ -41,6 +41,17 @@
           "time_info": "[00时34分 ~ 05时21分]"
         },
         {
+          "title": "欧洲多国向格陵兰岛派遣军事人员，白宫：影响不了特朗普",
+          "url": "https://news.ifeng.com/c/8pwzGme7VVB",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        },
+        {
           "title": "美国白宫：特朗普的医保计划将要求保险公司公布费率和承保范围的对比信息。",
           "url": "https://flash.jin10.com/detail/20260116002651995800",
           "source": "金十数据",
@@ -58,9 +69,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        },
+        {
+          "title": "她给特朗普献了份大礼，诺奖气坏了",
+          "url": "https://news.ifeng.com/c/8pxCIgAkMR2",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
         },
         {
           "title": "美国白宫：特朗普提议的成本分摊计划可能使最常见的奥巴马医改计划保费降低逾10%。",
@@ -80,7 +102,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         },
@@ -226,11 +248,12 @@
           "source": "澎湃新闻",
           "ranks": [
             19,
-            18
+            18,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时21分 ~ 07时21分]"
+          "appearance_count": 4,
+          "time_info": "[06时21分 ~ 09时40分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普愿意与任何人共同解决信用卡利率上限问题。",
@@ -372,6 +395,17 @@
           "time_info": "03时24分"
         },
         {
+          "title": "航母打击群开往中东，特朗普：希望“速战速决”！伊朗进入最高战备状态，约2000枚导弹可覆盖美以基地！多国航班绕飞伊领空",
+          "url": "https://wallstreetcn.com/articles/3763392",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        },
+        {
           "title": "白宫新闻秘书莱维特：特朗普在伊朗问题上保留所有选项。",
           "url": "https://flash.jin10.com/detail/20260116024403158800",
           "source": "金十数据",
@@ -389,7 +423,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         },
@@ -425,6 +459,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
+        },
+        {
+          "title": "特朗普：作为“和平委员会”主席 支持巴勒斯坦技术官僚委员会",
+          "url": "https://wallstreetcn.com/livenews/3038330",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
         },
         {
           "title": "美国白宫国家经济委员会主任哈塞特：特朗普希望美联储独立运作。",
@@ -471,6 +516,17 @@
           "time_info": "06时21分"
         },
         {
+          "title": "美国总统特朗普：我们已经正式进入加沙“20点和平计划”的下一阶段。",
+          "url": "https://flash.jin10.com/detail/20260116085218464800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        },
+        {
           "title": "白宫新闻秘书莱维特：特朗普正处于对美联储人事任命的决策阶段，他目前有几位心仪的人选来出任这一职位。特朗普将在未来几周内就美联储主席人选作出决定。",
           "url": "https://flash.jin10.com/detail/20260116023610911800",
           "source": "金十数据",
@@ -499,9 +555,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        },
+        {
+          "title": "美国总统特朗普：在埃及、土耳其和卡塔尔的支持下，我们将与哈马斯达成一项全面的非军事化协议，包括交出所有武器并拆除每一条地道。哈马斯必须立即履行其承诺，包括向以色列归还最后一具遗体，并毫不拖延地推进全面非军事化。",
+          "url": "https://flash.jin10.com/detail/20260116085158730800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
         },
         {
           "title": "委内瑞拉反对派领袖马查多拒绝透露她是否已将诺贝尔和平奖献给特朗普。",
@@ -532,9 +599,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        },
+        {
+          "title": "美国总统特朗普：今天与来自委内瑞拉的马查多会面，我深感荣幸。马查多向我赠送了她的诺贝尔和平奖，以表彰我所做的工作。",
+          "url": "https://flash.jin10.com/detail/20260116085137263800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
         },
         {
           "title": "“先别打伊朗”，以总理劝告特朗普避免隔靴搔痒式进攻",
@@ -576,7 +654,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         },
@@ -620,9 +698,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        },
+        {
+          "title": "特朗普称加沙和平委员会成立",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%8A%A0%E6%B2%99%E5%92%8C%E5%B9%B3%E5%A7%94%E5%91%98%E4%BC%9A%E6%88%90%E7%AB%8B%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
         },
         {
           "title": "市场消息：美国参议院批准了一项小型支出法案，为商务部、司法部、内政部和能源部提供资金。该法案现已提交特朗普签署。投票结果为82票赞成，15票反对。",
@@ -680,6 +769,17 @@
           "time_info": "03时24分"
         },
         {
+          "title": "特朗普：正与哈马斯商讨全面非军事化协议。哈马斯必须立即履行承诺。",
+          "url": "https://wallstreetcn.com/livenews/3038305",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        },
+        {
           "title": "美国白宫：美国总统特朗普的医疗计划旨在针对药房福利管理机构的支付。",
           "url": "https://flash.jin10.com/detail/20260116002858964800",
           "source": "金十数据",
@@ -705,7 +805,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "王毅同伊朗外长通话，连说3个“反对”",
@@ -726,19 +826,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时31分 ~ 07时21分]"
+          "appearance_count": 10,
+          "time_info": "[01时31分 ~ 09时40分]"
         },
         {
           "title": "王毅同伊朗外长通电话",
           "url": "https://www.douyin.com/hot/2368882",
           "source": "抖音",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时34分 ~ 07时21分]"
+          "appearance_count": 11,
+          "time_info": "[00时34分 ~ 09时40分]"
         },
         {
           "title": "美国宣布对伊朗实施新制裁",
@@ -761,11 +862,25 @@
           "ranks": [
             9,
             11,
-            12
+            12,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时34分 ~ 07时21分]"
+          "appearance_count": 11,
+          "time_info": "[00时34分 ~ 09时40分]"
+        },
+        {
+          "title": "王毅同伊朗外长阿拉格齐通电话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32392740",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时34分 ~ 09时40分]"
         },
         {
           "title": "伊朗宣布暂时关闭领空，美国一航母打击群正被调往中东地区，意味着什么？目前伊朗局势如何？",
@@ -775,18 +890,6 @@
             9,
             14,
             19
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时34分 ~ 07时21分]"
-        },
-        {
-          "title": "王毅同伊朗外长阿拉格齐通电话",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32392740",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            13
           ],
           "is_new": false,
           "appearance_count": 10,
@@ -898,13 +1001,35 @@
           "time_info": "[00时34分 ~ 01时31分]"
         },
         {
+          "title": "伊朗民众据报抢购物资，卫星天线疑被拆走",
+          "url": "https://news.ifeng.com/c/8pxCx8d6NyK",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        },
+        {
+          "title": "葡萄牙暂时关闭驻伊朗大使馆",
+          "url": "https://wallstreetcn.com/livenews/3038332",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        },
+        {
           "title": "伊朗常驻联合国副代表：任何直接或间接的侵略行为都将遭到果断、相称、合法的回应。",
           "url": "https://flash.jin10.com/detail/20260116063554457800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         },
@@ -1000,7 +1125,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "科技股下挫拖累美股，金银铜锡盘中齐创新高，金银比跌破50，原油重挫",
@@ -1043,11 +1168,35 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时23分 ~ 06时21分]"
+          "appearance_count": 6,
+          "time_info": "[03时23分 ~ 09时40分]"
+        },
+        {
+          "title": "台积电带飞芯片股，力撑美股指反弹，白银一度跌逾7%后走V，原油大跌",
+          "url": "https://wallstreetcn.com/articles/3763348",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        },
+        {
+          "title": "美股收盘：台积电财报点燃AI行情 银行股强势回暖 三大指数集体收涨",
+          "url": "https://www.cls.cn/detail/2259656",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时20分 ~ 09时40分]"
         },
         {
           "title": "金十图示：2026年01月15日（周四）美股热门股票行情一览（美股收盘）",
@@ -1072,17 +1221,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时21分 ~ 06时21分]"
-        },
-        {
-          "title": "美股收盘：台积电财报点燃AI行情 银行股强势回暖 三大指数集体收涨",
-          "url": "https://www.cls.cn/detail/2259656",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时20分 ~ 07时21分]"
         },
         {
           "title": "周四（1月15日），降息赢家指数涨1.36%，报107.94点，美股早盘高开高走，北京时间23:20以来高位窄幅震荡——持稳于107.80点附近。 “特朗普关税输家”指数涨1.12%，报119.50点。 “特朗普金融指数”涨1.92%，报175.91点。 散户抱团概念股指数/迷因股（meme stock）指数跌0.92%，报16.10点。",
@@ -1148,7 +1286,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         },
@@ -1178,7 +1316,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "周四（1月15日），彭博电动汽车价格回报指数涨0.17%，报3620.86点。 北京时间09:30微幅转跌，刷新日低至3614.20点，随后拉升至3656.05点刷新日高，日内大部分时间持稳于3635点附近。",
@@ -1217,6 +1355,18 @@
           "time_info": "[02时35分 ~ 03时24分]"
         },
         {
+          "title": "飞行汽车真的来了吗",
+          "url": "https://www.toutiao.com/trending/7595469872146992650/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时24分 ~ 09时40分]"
+        },
+        {
           "title": "花旗：将理想汽车(LI.O)目标价从20.2美元下调至18.5美元，维持中性评级。",
           "url": "https://flash.jin10.com/detail/20260116040036498800",
           "source": "金十数据",
@@ -1228,6 +1378,17 @@
           "time_info": "04时24分"
         },
         {
+          "title": "美团切入汽车销售领域",
+          "url": "https://wallstreetcn.com/livenews/3038329",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        },
+        {
           "title": "芯片荒叠加贸易战 加拿大汽车业领跌",
           "url": "https://flash.jin10.com/detail/20260116005114759800",
           "source": "金十数据",
@@ -1237,23 +1398,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时31分"
-        },
-        {
-          "title": "飞行汽车真的来了吗",
-          "url": "https://www.toutiao.com/trending/7595469872146992650/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时24分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "如何看待姚班大神陈立杰官宣入职 OpenAI？",
@@ -1262,11 +1412,12 @@
           "ranks": [
             5,
             3,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时34分 ~ 07时21分]"
+          "appearance_count": 11,
+          "time_info": "[00时34分 ~ 09时40分]"
         },
         {
           "title": "OpenAI寻求美国供应商，推动机器人与AI设备计划",
@@ -1312,6 +1463,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时34分"
+        },
+        {
+          "title": "美国联邦法官在OpenAI与马斯克的诉讼斗争中下令，该案将于4月开庭审理。OpenAI与微软失去避战马斯克的最后机会。",
+          "url": "https://wallstreetcn.com/livenews/3038310",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
         }
       ]
     },
@@ -1362,6 +1524,46 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "金价彻底杀疯了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%BD%BB%E5%BA%95%E6%9D%80%E7%96%AF%E4%BA%86%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时34分 ~ 09时40分]"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时35分 ~ 06时21分]"
+        },
+        {
+          "title": "金价上涨银行保管箱一箱难求",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E4%B8%8A%E6%B6%A8%E9%93%B6%E8%A1%8C%E4%BF%9D%E7%AE%A1%E7%AE%B1%E4%B8%80%E7%AE%B1%E9%9A%BE%E6%B1%82%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 3,
       "titles": [
@@ -1399,35 +1601,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "金价彻底杀疯了",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%BD%BB%E5%BA%95%E6%9D%80%E7%96%AF%E4%BA%86%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时34分 ~ 07时21分]"
-        },
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时35分 ~ 06时21分]"
         }
       ]
     },
@@ -1500,11 +1673,12 @@
           "ranks": [
             3,
             4,
-            2
+            2,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时34分 ~ 07时21分]"
+          "appearance_count": 11,
+          "time_info": "[00时34分 ~ 09时40分]"
         }
       ]
     },
@@ -1535,11 +1709,12 @@
           "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%8D%97%E5%A4%A9%E9%97%A8%E8%AE%A1%E5%88%92%E2%80%9D%E9%83%A8%E5%88%86%E6%AD%A6%E5%99%A8%E5%B7%B2%E9%97%AE%E4%B8%96",
           "source": "百度热搜",
           "ranks": [
-            2
+            2,
+            18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时34分 ~ 07时21分]"
+          "appearance_count": 11,
+          "time_info": "[00时34分 ~ 09时40分]"
         }
       ]
     }
