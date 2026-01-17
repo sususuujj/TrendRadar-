@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-01-17T07:20:29.697009+08:00",
-  "total_titles_processed": 614,
+  "generated_at": "2026-01-17T09:27:20.195208+08:00",
+  "total_titles_processed": 743,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 53,
+      "match_count": 59,
       "titles": [
+        {
+          "title": "特朗普拟紧急干预电力市场：强压AI巨头签15年长约，为150亿美元新电厂买单",
+          "url": "https://wallstreetcn.com/articles/3763449",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 09时27分]"
+        },
         {
           "title": "白银狂欢暂歇，特朗普暂未对关键矿产征关税，现货银价一度跌超7%后V字反弹",
           "url": "https://wallstreetcn.com/articles/3763411",
@@ -31,18 +44,6 @@
           "time_info": "[01时24分 ~ 06时20分]"
         },
         {
-          "title": "特朗普拟紧急干预电力市场：强压AI巨头签15年长约，为150亿美元新电厂买单",
-          "url": "https://wallstreetcn.com/articles/3763449",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时27分 ~ 07时20分]"
-        },
-        {
           "title": "梦想成真!特朗普喜提二手诺奖",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349232&amp;topic_name=%E6%A2%A6%E6%83%B3%E6%88%90%E7%9C%9F%21%E7%89%B9%E6%9C%97%E6%99%AE%E5%96%9C%E6%8F%90%E4%BA%8C%E6%89%8B%E8%AF%BA%E5%A5%96",
           "source": "贴吧",
@@ -51,8 +52,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时27分 ~ 07时20分]"
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 09时27分]"
         },
         {
           "title": "特朗普笑纳“二手”诺贝尔和平奖奖章，诺奖委员会发声明",
@@ -60,11 +61,12 @@
           "source": "澎湃新闻",
           "ranks": [
             11,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时27分 ~ 07时20分]"
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 09时27分]"
         },
         {
           "title": "释新闻｜特朗普为何暂缓对伊朗动武？",
@@ -72,11 +74,12 @@
           "source": "澎湃新闻",
           "ranks": [
             13,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时27分 ~ 07时20分]"
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 09时27分]"
         },
         {
           "title": "特朗普暂缓对伊朗发动军事打击，此举出于什么考虑？其后续可能有什么新动作？",
@@ -94,11 +97,12 @@
           "url": "https://news.ifeng.com/c/8pyaPdxiAtr",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时20分 ~ 09时27分]"
         },
         {
           "title": "挪威诺贝尔研究所：诺贝尔和平奖始终与挪威诺贝尔委员会指定的获奖者或组织密不可分。（此前委内瑞拉反对派领导人马查多向特朗普递交了诺贝尔和平奖奖章）",
@@ -123,6 +127,17 @@
           "time_info": "04时21分"
         },
         {
+          "title": "特朗普：这是卡尼该做的事，签协议是好事",
+          "url": "https://news.ifeng.com/c/8pyqg7dqBOh",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
           "title": "美国财长贝森特：美联储主席候选人减少一位，至四人。 贝莱德分析师Rick Rieder昨天会见总统特朗普。 对于美联储理事鲍曼，最合适的安排就是继续担任现在的职务。",
           "url": "https://wallstreetcn.com/livenews/3039015",
           "source": "华尔街见闻-快讯",
@@ -132,6 +147,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
+        },
+        {
+          "title": "特朗普威胁：若他国不支持美国控制格陵兰岛，可能对其加征关税",
+          "url": "https://www.cls.cn/detail/2260948",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
         },
         {
           "title": "据美国哥伦比亚广播公司（CBS）：消息人士表示，前波多黎各总督Wanda Vazquez Garced正获得特朗普的赦免。",
@@ -217,6 +243,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时31分 ~ 04时21分]"
+        },
+        {
+          "title": "特朗普扬言接管格陵兰 俄罗斯回应：从国际法看非同寻常 将持续关注局势",
+          "url": "https://www.cls.cn/detail/2260775",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时20分 ~ 09时27分]"
         },
         {
           "title": "周五（1月16日），韩元兑美元最终跌0.34%，报1473.61韩元。 本周，韩元累计下跌0.99%，整体低位震荡，特朗普的美国财长贝森特的谈话曾在1月14日带来一波短线反弹行情。",
@@ -339,17 +377,6 @@
           "time_info": "[00时28分 ~ 01时24分]"
         },
         {
-          "title": "特朗普扬言接管格陵兰 俄罗斯回应：从国际法看非同寻常 将持续关注局势",
-          "url": "https://www.cls.cn/detail/2260775",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时20分 ~ 07时20分]"
-        },
-        {
           "title": "美国总统特朗普：现在没有理由在明尼苏达州使用叛乱法。",
           "url": "https://flash.jin10.com/detail/20260117014827166800",
           "source": "金十数据",
@@ -444,6 +471,17 @@
           "time_info": "04时21分"
         },
         {
+          "title": "特朗普称可能对不支持美获得格陵兰岛计划的国家加征关税",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32403340",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
           "title": "特朗普急推“白宫版”医疗方案 力挽家庭开支信任危机",
           "url": "https://flash.jin10.com/detail/20260117003803396800",
           "source": "金十数据",
@@ -499,6 +537,28 @@
           "time_info": "01时24分"
         },
         {
+          "title": "媒体调查：民众对美国总统特朗普的经济管理不满",
+          "url": "https://flash.jin10.com/detail/20260117080445022800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
+          "title": "美国总统特朗普购买100万美元奈飞和华纳兄弟探索公司的债券。 此举是在宣布两家公司有望合并的消息之后。（华盛顿邮报）",
+          "url": "https://wallstreetcn.com/livenews/3039055",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
           "title": "美国总统特朗普赞赏礼来制药。",
           "url": "https://wallstreetcn.com/livenews/3038915",
           "source": "华尔街见闻-快讯",
@@ -530,6 +590,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
+        },
+        {
+          "title": "特朗普称或对反格陵兰岛计划国加关税",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%88%96%E5%AF%B9%E5%8F%8D%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E8%AE%A1%E5%88%92%E5%9B%BD%E5%8A%A0%E5%85%B3%E7%A8%8E%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
         },
         {
           "title": "美国总统特朗普：资金直接转入健康储蓄账户。",
@@ -623,7 +694,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "上合组织就伊朗局势发布声明",
@@ -647,11 +718,12 @@
             8,
             17,
             15,
-            16
+            16,
+            30
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时27分 ~ 07时20分]"
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 09时27分]"
         },
         {
           "title": "火药味拉满,美国酝酿搞伊朗",
@@ -662,8 +734,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时27分 ~ 07时20分]"
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 09时27分]"
         },
         {
           "title": "美以领导人被曝再次通话，讨论伊朗局势",
@@ -674,19 +746,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时19分 ~ 07时20分]"
-        },
-        {
-          "title": "伊朗谴责七国集团发表干涉伊朗内政言论",
-          "url": "https://wallstreetcn.com/livenews/3039047",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时20分"
+          "appearance_count": 6,
+          "time_info": "[03时19分 ~ 09时27分]"
         },
         {
           "title": "欧洲航空安全局：伊朗存在以及可能使用多种武器和防空系统，对在各高度运行的民用航班构成高风险。",
@@ -723,6 +784,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时19分 ~ 04时21分]"
+        },
+        {
+          "title": "伊朗谴责七国集团发表干涉伊朗内政言论",
+          "url": "https://wallstreetcn.com/livenews/3039047",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时20分 ~ 09时27分]"
         },
         {
           "title": "惠誉：全球石油供应过剩可抵消伊朗和委内瑞拉的产量不确定性。",
@@ -810,6 +883,28 @@
           "time_info": "04时21分"
         },
         {
+          "title": "伊朗手机用户发送短信功能恢复",
+          "url": "https://wallstreetcn.com/livenews/3039060",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
+          "title": "伊朗手机用户发送短信功能恢复",
+          "url": "https://flash.jin10.com/detail/20260117080650894800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
           "title": "伊朗媒体：约3000人因骚乱被捕",
           "url": "https://wallstreetcn.com/livenews/3038899",
           "source": "华尔街见闻-快讯",
@@ -848,19 +943,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时27分 ~ 07时20分]"
-        },
-        {
-          "title": "金十图示：2026年01月16日（周五）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260117050528991800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时20分 ~ 07时20分]"
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 09时27分]"
         },
         {
           "title": "科技股助推美股指全线上涨，纳指涨0.5%，白银价格逆势重挫5%",
@@ -874,6 +958,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时31分 ~ 07时20分]"
+        },
+        {
+          "title": "金十图示：2026年01月16日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260117050528991800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时20分 ~ 09时27分]"
         },
         {
           "title": "网络股ETF收跌将近0.9%，领跌美股行业ETF，半导体ETF涨1%",
@@ -893,33 +989,48 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            13
+            13,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时20分 ~ 07时20分]"
+          "appearance_count": 3,
+          "time_info": "[06时20分 ~ 09时27分]"
         },
         {
           "title": "金十图示：2026年01月16日（周五）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260117050524828800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时20分 ~ 07时20分]"
+          "appearance_count": 4,
+          "time_info": "[05时20分 ~ 09时27分]"
+        },
+        {
+          "title": "美股收盘：三大指数微幅下跌 财报季开局谨慎 美光科技涨超7%市值破4000亿",
+          "url": "https://www.cls.cn/detail/2260993",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时20分 ~ 09时27分]"
         },
         {
           "title": "美股三大指数小幅收跌 美光收涨近8%",
           "url": "https://flash.jin10.com/detail/20260117050027802800",
           "source": "金十数据",
           "ranks": [
-            11
+            11,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时20分 ~ 07时20分]"
+          "appearance_count": 4,
+          "time_info": "[05时20分 ~ 09时27分]"
         },
         {
           "title": "美股七巨头收盘播报｜周五（1月16日），美国科技股七巨头（Magnificent 7）指数跌0.30%，报204.59点，本周累计下跌1.58%。 “超大”市值科技股指数涨0.12%，报392.82点，本周累跌0.54%。",
@@ -932,17 +1043,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时20分 ~ 07时20分]"
-        },
-        {
-          "title": "美股收盘：三大指数微幅下跌 财报季开局谨慎 美光科技涨超7%市值破4000亿",
-          "url": "https://www.cls.cn/detail/2260993",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时20分"
         },
         {
           "title": "金十图示：2026年01月16日（周五）美股热门股票行情一览（美股盘中）",
@@ -969,8 +1069,110 @@
       ]
     },
     {
+      "keyword_group": "汽车",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "常熟观致汽车工厂二次拍卖流拍：无人出价，姚振华此前曾公开举报",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32397982",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 09时27分]"
+        },
+        {
+          "title": "涉中国电动汽车，卡尼宣布大消息",
+          "url": "https://www.cls.cn/detail/2260606",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 09时27分]"
+        },
+        {
+          "title": "怎么看待「万能的大熊」、「汽车之家」等汽车自媒体被处置？",
+          "url": "https://www.zhihu.com/question/1995479907795501970",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 09时27分]"
+        },
+        {
+          "title": "长城汽车总裁称“打死不做增程”",
+          "url": "https://www.toutiao.com/trending/7595123094018392105/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            26,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时31分 ~ 07时20分]"
+        },
+        {
+          "title": "涉及中国电动汽车 卡尼宣布大消息",
+          "url": "https://www.baidu.com/s?wd=%E6%B6%89%E5%8F%8A%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6+%E5%8D%A1%E5%B0%BC%E5%AE%A3%E5%B8%83%E5%A4%A7%E6%B6%88%E6%81%AF",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 01时24分]"
+        },
+        {
+          "title": "中欧电动汽车案“软着陆”有积极意义",
+          "url": "https://www.toutiao.com/trending/7595946374470848036/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
+          "title": "周五（1月16日），彭博电动汽车价格回报指数跌0.72%，报3595.34点，本周累计上涨0.43%。",
+          "url": "https://wallstreetcn.com/livenews/3039006",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时20分"
+        },
+        {
+          "title": "20位汽车央企负责人2024年度薪酬披露，中国一汽董事长邱现东以107万元居首",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32391517",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "清华姚班陈立杰加入OpenAI",
@@ -983,6 +1185,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时27分 ~ 07时20分]"
+        },
+        {
+          "title": "OpenAI联合创始人兼总裁Greg Brockman：马斯克曾表示他需要持有OpenAI的多数股权。",
+          "url": "https://wallstreetcn.com/livenews/3039069",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
         },
         {
           "title": "OpenAI：目前尚未推出广告，但我们计划在未来几周内开始在美国针对ChatGPT免费版和Go层级的已登录成年人进行测试。",
@@ -1126,84 +1339,6 @@
       ]
     },
     {
-      "keyword_group": "汽车",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "常熟观致汽车工厂二次拍卖流拍：无人出价，姚振华此前曾公开举报",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32397982",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时27分 ~ 07时20分]"
-        },
-        {
-          "title": "涉中国电动汽车，卡尼宣布大消息",
-          "url": "https://www.cls.cn/detail/2260606",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时27分 ~ 07时20分]"
-        },
-        {
-          "title": "怎么看待「万能的大熊」、「汽车之家」等汽车自媒体被处置？",
-          "url": "https://www.zhihu.com/question/1995479907795501970",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时27分 ~ 07时20分]"
-        },
-        {
-          "title": "长城汽车总裁称“打死不做增程”",
-          "url": "https://www.toutiao.com/trending/7595123094018392105/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            26,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时31分 ~ 07时20分]"
-        },
-        {
-          "title": "涉及中国电动汽车 卡尼宣布大消息",
-          "url": "https://www.baidu.com/s?wd=%E6%B6%89%E5%8F%8A%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6+%E5%8D%A1%E5%B0%BC%E5%AE%A3%E5%B8%83%E5%A4%A7%E6%B6%88%E6%81%AF",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 01时24分]"
-        },
-        {
-          "title": "周五（1月16日），彭博电动汽车价格回报指数跌0.72%，报3595.34点，本周累计上涨0.43%。",
-          "url": "https://wallstreetcn.com/livenews/3039006",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时20分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元",
       "match_count": 4,
       "titles": [
@@ -1257,18 +1392,19 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "谷歌提交通知，就司法部搜索裁决提起上诉。",
           "url": "https://flash.jin10.com/detail/20260117050916317800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时20分 ~ 07时20分]"
+          "appearance_count": 4,
+          "time_info": "[05时20分 ~ 09时27分]"
         },
         {
           "title": "谷歌公司将针对美国法院判决“搜索中出现的非法操纵”提出上诉。",
@@ -1276,11 +1412,23 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            11
+            11,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时20分 ~ 07时20分]"
+          "appearance_count": 3,
+          "time_info": "[06时20分 ~ 09时27分]"
+        },
+        {
+          "title": "字节跳动发布SeedFold，蛋白质结构预测相关多任务超越谷歌AlphaFold 3，揭示大模型缩放新秘诀",
+          "url": "https://wallstreetcn.com/livenews/3039053",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
         }
       ]
     },
@@ -1325,8 +1473,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时27分 ~ 07时20分]"
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 09时27分]"
         },
         {
           "title": "与美国战争部长练体能，日本防卫大臣出现脱水症状",
@@ -1336,8 +1484,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时27分 ~ 07时20分]"
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 09时27分]"
         }
       ]
     },
@@ -1351,11 +1499,12 @@
           "source": "澎湃新闻",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时27分 ~ 07时20分]"
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 09时27分]"
         }
       ]
     },
