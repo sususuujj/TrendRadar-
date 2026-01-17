@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-17T09:27:20.195208+08:00",
-  "total_titles_processed": 743,
+  "generated_at": "2026-01-17T11:22:46.266181+08:00",
+  "total_titles_processed": 855,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 59,
+      "match_count": 60,
       "titles": [
         {
           "title": "特朗普拟紧急干预电力市场：强压AI巨头签15年长约，为150亿美元新电厂买单",
@@ -14,11 +14,12 @@
           "ranks": [
             7,
             6,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 09时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时27分 ~ 11时22分]"
         },
         {
           "title": "白银狂欢暂歇，特朗普暂未对关键矿产征关税，现货银价一度跌超7%后V字反弹",
@@ -62,11 +63,12 @@
           "ranks": [
             11,
             12,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 09时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时27分 ~ 11时22分]"
         },
         {
           "title": "释新闻｜特朗普为何暂缓对伊朗动武？",
@@ -75,11 +77,12 @@
           "ranks": [
             13,
             14,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 09时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时27分 ~ 11时22分]"
         },
         {
           "title": "特朗普暂缓对伊朗发动军事打击，此举出于什么考虑？其后续可能有什么新动作？",
@@ -101,8 +104,19 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时20分 ~ 11时22分]"
+        },
+        {
+          "title": "特朗普：这是卡尼该做的事，签协议是好事",
+          "url": "https://news.ifeng.com/c/8pyqg7dqBOh",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时20分 ~ 09时27分]"
+          "time_info": "[09时27分 ~ 11时22分]"
         },
         {
           "title": "挪威诺贝尔研究所：诺贝尔和平奖始终与挪威诺贝尔委员会指定的获奖者或组织密不可分。（此前委内瑞拉反对派领导人马查多向特朗普递交了诺贝尔和平奖奖章）",
@@ -127,17 +141,6 @@
           "time_info": "04时21分"
         },
         {
-          "title": "特朗普：这是卡尼该做的事，签协议是好事",
-          "url": "https://news.ifeng.com/c/8pyqg7dqBOh",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时27分"
-        },
-        {
           "title": "美国财长贝森特：美联储主席候选人减少一位，至四人。 贝莱德分析师Rick Rieder昨天会见总统特朗普。 对于美联储理事鲍曼，最合适的安排就是继续担任现在的职务。",
           "url": "https://wallstreetcn.com/livenews/3039015",
           "source": "华尔街见闻-快讯",
@@ -147,17 +150,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
-        },
-        {
-          "title": "特朗普威胁：若他国不支持美国控制格陵兰岛，可能对其加征关税",
-          "url": "https://www.cls.cn/detail/2260948",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时27分"
         },
         {
           "title": "据美国哥伦比亚广播公司（CBS）：消息人士表示，前波多黎各总督Wanda Vazquez Garced正获得特朗普的赦免。",
@@ -181,6 +173,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时28分 ~ 01时24分]"
+        },
+        {
+          "title": "特朗普威胁：若他国不支持美国控制格陵兰岛，可能对其加征关税",
+          "url": "https://www.cls.cn/detail/2260948",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时27分 ~ 11时22分]"
+        },
+        {
+          "title": "特朗普称可能对不支持美获得格陵兰岛计划的国家加征关税",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32403340",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时27分 ~ 11时22分]"
         },
         {
           "title": "【特朗普称他“说服了自己”暂缓对伊朗采取军事行动】1月16日，美国总统唐纳德·特朗普在白宫表示，他“说服了自己”暂缓对伊朗采取军事行动。 当天在特朗普启程前往佛罗里达州之前，有记者在白宫向特朗普提问，是否是沙特、卡塔尔和阿曼领导人的劝说致使其放弃打击伊朗。特朗普随后回答道：“没有人说服我，是我自己说服了我自己。” 有消息人士15日透露，美国总统特朗普暂缓就军事打击伊朗作出决定。特朗普的顾问们告诉他，大规模军事打击不大可能在伊朗实现政权更迭，反而可能引发更大规模冲突，应观察伊朗国内局势再做决定。有美国和以色列消息人士称，以总理内塔尼亚胡14日同特朗普通电话，希望美推迟决定对伊朗采取行动，从而给以方更多时间准备应对伊朗可能的报复。（央视）",
@@ -389,6 +405,18 @@
           "time_info": "[02时31分 ~ 03时19分]"
         },
         {
+          "title": "媒体调查：民众对美国总统特朗普的经济管理不满",
+          "url": "https://flash.jin10.com/detail/20260117080445022800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时27分 ~ 11时22分]"
+        },
+        {
           "title": "本周，降息赢家指数累计上涨0.22%，周五（1月16日）报107.51点。 “特朗普关税输家”指数累跌0.75%，报118.52点。 “特朗普金融指数”累跌1.78%，报176.06点。 散户抱团概念股指数/迷因股（meme stock）指数累跌3.15%，报16.14点。",
           "url": "https://wallstreetcn.com/livenews/3039029",
           "source": "华尔街见闻-快讯",
@@ -399,6 +427,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时20分 ~ 07时20分]"
+        },
+        {
+          "title": "美国总统特朗普购买100万美元奈飞和华纳兄弟探索公司的债券。 此举是在宣布两家公司有望合并的消息之后。（华盛顿邮报）",
+          "url": "https://wallstreetcn.com/livenews/3039055",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时27分 ~ 11时22分]"
         },
         {
           "title": "美国财长贝森特：预计将对美国工薪阶层返还1000亿-1500亿美元。 关税通胀是没曾叫唤的狗。 相信最高法院将支持总统特朗普的标志性（关税）政策。",
@@ -449,6 +489,17 @@
           "time_info": "[06时20分 ~ 07时20分]"
         },
         {
+          "title": "哈塞特“出局”？沃什呼声大增！特朗普称希望哈塞特继续担任白宫顾问",
+          "url": "https://wallstreetcn.com/articles/3763493",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时22分"
+        },
+        {
           "title": "美国总统特朗普：明尼苏达州问题很快就会得到解决。",
           "url": "https://flash.jin10.com/detail/20260117004054081800",
           "source": "金十数据",
@@ -469,17 +520,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时21分"
-        },
-        {
-          "title": "特朗普称可能对不支持美获得格陵兰岛计划的国家加征关税",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32403340",
-          "source": "澎湃新闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时27分"
         },
         {
           "title": "特朗普急推“白宫版”医疗方案 力挽家庭开支信任危机",
@@ -537,28 +577,6 @@
           "time_info": "01时24分"
         },
         {
-          "title": "媒体调查：民众对美国总统特朗普的经济管理不满",
-          "url": "https://flash.jin10.com/detail/20260117080445022800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时27分"
-        },
-        {
-          "title": "美国总统特朗普购买100万美元奈飞和华纳兄弟探索公司的债券。 此举是在宣布两家公司有望合并的消息之后。（华盛顿邮报）",
-          "url": "https://wallstreetcn.com/livenews/3039055",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时27分"
-        },
-        {
           "title": "美国总统特朗普赞赏礼来制药。",
           "url": "https://wallstreetcn.com/livenews/3038915",
           "source": "华尔街见闻-快讯",
@@ -598,7 +616,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
         },
@@ -694,7 +712,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "上合组织就伊朗局势发布声明",
@@ -731,11 +749,12 @@
           "source": "贴吧",
           "ranks": [
             13,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 09时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时27分 ~ 11时22分]"
         },
         {
           "title": "美以领导人被曝再次通话，讨论伊朗局势",
@@ -746,8 +765,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时19分 ~ 09时27分]"
+          "appearance_count": 7,
+          "time_info": "[03时19分 ~ 11时22分]"
+        },
+        {
+          "title": "伊朗政府向市民发放“电子补贴券”，凤凰记者走访德黑兰连锁超市",
+          "url": "https://news.ifeng.com/c/8pz2QNtwV6g",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时22分"
         },
         {
           "title": "欧洲航空安全局：伊朗存在以及可能使用多种武器和防空系统，对在各高度运行的民用航班构成高风险。",
@@ -774,6 +804,19 @@
           "time_info": "[03时19分 ~ 04时21分]"
         },
         {
+          "title": "伊朗谴责七国集团发表干涉伊朗内政言论",
+          "url": "https://wallstreetcn.com/livenews/3039047",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            21,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时20分 ~ 11时22分]"
+        },
+        {
           "title": "欧洲航空安全局：由于伊朗地区存在并可能使用种类繁多的武器及防空系统，这给在所有高度运行的民用航班带来了极高风险。",
           "url": "https://flash.jin10.com/detail/20260117024228000800",
           "source": "金十数据",
@@ -784,18 +827,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时19分 ~ 04时21分]"
-        },
-        {
-          "title": "伊朗谴责七国集团发表干涉伊朗内政言论",
-          "url": "https://wallstreetcn.com/livenews/3039047",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时20分 ~ 09时27分]"
         },
         {
           "title": "惠誉：全球石油供应过剩可抵消伊朗和委内瑞拉的产量不确定性。",
@@ -848,6 +879,30 @@
           "time_info": "[01时24分 ~ 02时31分]"
         },
         {
+          "title": "伊朗手机用户发送短信功能恢复",
+          "url": "https://wallstreetcn.com/livenews/3039060",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时27分 ~ 11时22分]"
+        },
+        {
+          "title": "伊朗手机用户发送短信功能恢复",
+          "url": "https://flash.jin10.com/detail/20260117080650894800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时27分 ~ 11时22分]"
+        },
+        {
           "title": "伊朗警方破获一起重大武器走私案",
           "url": "https://wallstreetcn.com/livenews/3039032",
           "source": "华尔街见闻-快讯",
@@ -881,28 +936,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时21分"
-        },
-        {
-          "title": "伊朗手机用户发送短信功能恢复",
-          "url": "https://wallstreetcn.com/livenews/3039060",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时27分"
-        },
-        {
-          "title": "伊朗手机用户发送短信功能恢复",
-          "url": "https://flash.jin10.com/detail/20260117080650894800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时27分"
         },
         {
           "title": "伊朗媒体：约3000人因骚乱被捕",
@@ -940,11 +973,12 @@
           "ranks": [
             12,
             11,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 09时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时27分 ~ 11时22分]"
         },
         {
           "title": "科技股助推美股指全线上涨，纳指涨0.5%，白银价格逆势重挫5%",
@@ -970,6 +1004,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时20分 ~ 09时27分]"
+        },
+        {
+          "title": "美股收盘：三大指数微幅下跌 财报季开局谨慎 美光科技涨超7%市值破4000亿",
+          "url": "https://www.cls.cn/detail/2260993",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时20分 ~ 11时22分]"
         },
         {
           "title": "网络股ETF收跌将近0.9%，领跌美股行业ETF，半导体ETF涨1%",
@@ -1007,18 +1053,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时20分 ~ 09时27分]"
-        },
-        {
-          "title": "美股收盘：三大指数微幅下跌 财报季开局谨慎 美光科技涨超7%市值破4000亿",
-          "url": "https://www.cls.cn/detail/2260993",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时20分 ~ 09时27分]"
         },
         {
           "title": "美股三大指数小幅收跌 美光收涨近8%",
@@ -1070,7 +1104,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "常熟观致汽车工厂二次拍卖流拍：无人出价，姚振华此前曾公开举报",
@@ -1079,11 +1113,12 @@
           "ranks": [
             9,
             8,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 09时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时27分 ~ 11时22分]"
         },
         {
           "title": "涉中国电动汽车，卡尼宣布大消息",
@@ -1096,8 +1131,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 09时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时27分 ~ 11时22分]"
         },
         {
           "title": "怎么看待「万能的大熊」、「汽车之家」等汽车自媒体被处置？",
@@ -1109,6 +1144,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时27分 ~ 09时27分]"
+        },
+        {
+          "title": "小鹏汽车：小鹏充电2026年第1和2周新增超充站53座，其中S5超快充站5座，S4超快充站37座，超快充站10座，超充站1座。",
+          "url": "https://flash.jin10.com/detail/20260117110319196800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时22分"
         },
         {
           "title": "长城汽车总裁称“打死不做增程”",
@@ -1142,7 +1188,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
         },
@@ -1164,7 +1210,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
         }
@@ -1191,11 +1237,12 @@
           "url": "https://wallstreetcn.com/livenews/3039069",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时27分 ~ 11时22分]"
         },
         {
           "title": "OpenAI：目前尚未推出广告，但我们计划在未来几周内开始在美国针对ChatGPT免费版和Go层级的已登录成年人进行测试。",
@@ -1400,11 +1447,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            17
+            17,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时20分 ~ 09时27分]"
+          "appearance_count": 5,
+          "time_info": "[05时20分 ~ 11时22分]"
         },
         {
           "title": "谷歌公司将针对美国法院判决“搜索中出现的非法操纵”提出上诉。",
@@ -1424,11 +1472,12 @@
           "url": "https://wallstreetcn.com/livenews/3039053",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            15,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时27分 ~ 11时22分]"
         }
       ]
     },
@@ -1457,6 +1506,36 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "通过数字身份证溯源，新能源车废旧动力电池回收利用新规发布",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32398029",
+          "source": "澎湃新闻",
+          "ranks": [
+            1,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 09时27分]"
+        },
+        {
+          "title": "山西2025年新能源发电量首次突破1000亿度",
+          "url": "https://wallstreetcn.com/livenews/3039077",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时22分"
         }
       ]
     },
@@ -1490,21 +1569,19 @@
       ]
     },
     {
-      "keyword_group": "新能源",
+      "keyword_group": "金价",
       "match_count": 1,
       "titles": [
         {
-          "title": "通过数字身份证溯源，新能源车废旧动力电池回收利用新规发布",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32398029",
-          "source": "澎湃新闻",
+          "title": "金价波动",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=18&Refer=top",
+          "source": "微博",
           "ranks": [
-            1,
-            2,
-            3
+            18
           ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 09时27分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时22分"
         }
       ]
     },
