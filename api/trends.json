@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-01-17T16:25:41.376106+08:00",
-  "total_titles_processed": 1135,
+  "generated_at": "2026-01-17T17:20:02.493558+08:00",
+  "total_titles_processed": 1188,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 65,
+      "match_count": 67,
       "titles": [
+        {
+          "title": "特朗普：这是卡尼该做的事，签协议是好事",
+          "url": "https://news.ifeng.com/c/8pyqg7dqBOh",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时27分 ~ 17时20分]"
+        },
         {
           "title": "特朗普为夺岛发出关税威胁，美议员组队唱反调",
           "url": "https://news.ifeng.com/c/8pyaPdxiAtr",
@@ -17,20 +29,35 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时20分 ~ 16时25分]"
+          "appearance_count": 12,
+          "time_info": "[07时20分 ~ 17时20分]"
         },
         {
-          "title": "特朗普：这是卡尼该做的事，签协议是好事",
-          "url": "https://news.ifeng.com/c/8pyqg7dqBOh",
-          "source": "凤凰网",
+          "title": "哈塞特“出局”？沃什呼声大增！特朗普称希望哈塞特继续担任白宫顾问",
+          "url": "https://wallstreetcn.com/articles/3763493",
+          "source": "华尔街见闻",
           "ranks": [
-            2,
-            4
+            6,
+            5,
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时27分 ~ 16时25分]"
+          "appearance_count": 10,
+          "time_info": "[11时22分 ~ 17时20分]"
+        },
+        {
+          "title": "特朗普称可能对不支持美获得格陵兰岛计划的国家加征关税",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32403340",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时27分 ~ 17时20分]"
         },
         {
           "title": "特朗普拟紧急干预电力市场：强压AI巨头签15年长约，为150亿美元新电厂买单",
@@ -47,19 +74,6 @@
           "time_info": "[00时27分 ~ 13时20分]"
         },
         {
-          "title": "特朗普称可能对不支持美获得格陵兰岛计划的国家加征关税",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32403340",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时27分 ~ 16时25分]"
-        },
-        {
           "title": "白银狂欢暂歇，特朗普暂未对关键矿产征关税，现货银价一度跌超7%后V字反弹",
           "url": "https://wallstreetcn.com/articles/3763411",
           "source": "华尔街见闻",
@@ -72,17 +86,19 @@
           "time_info": "[00时27分 ~ 07时20分]"
         },
         {
-          "title": "哈塞特“出局”？沃什呼声大增！特朗普称希望哈塞特继续担任白宫顾问",
-          "url": "https://wallstreetcn.com/articles/3763493",
-          "source": "华尔街见闻",
+          "title": "特朗普威胁：若他国不支持美国控制格陵兰岛，可能对其加征关税",
+          "url": "https://www.cls.cn/detail/2260948",
+          "source": "财联社热门",
           "ranks": [
-            6,
             5,
-            4
+            6,
+            7,
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时22分 ~ 16时25分]"
+          "appearance_count": 11,
+          "time_info": "[09时27分 ~ 17时20分]"
         },
         {
           "title": "特朗普威胁：对不支持的国家加征关税",
@@ -106,20 +122,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时27分 ~ 09时27分]"
-        },
-        {
-          "title": "特朗普威胁：若他国不支持美国控制格陵兰岛，可能对其加征关税",
-          "url": "https://www.cls.cn/detail/2260948",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时27分 ~ 16时25分]"
         },
         {
           "title": "特朗普笑纳“二手”诺贝尔和平奖奖章，诺奖委员会发声明",
@@ -306,6 +308,17 @@
           "time_info": "[02时31分 ~ 04时21分]"
         },
         {
+          "title": "特朗普自曝：我说服了自己，暂缓打击伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32406442",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时25分 ~ 17时20分]"
+        },
+        {
           "title": "媒体调查：民众对美国总统特朗普的经济管理不满",
           "url": "https://flash.jin10.com/detail/20260117080445022800",
           "source": "金十数据",
@@ -377,6 +390,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时28分 ~ 01时24分]"
+        },
+        {
+          "title": "特朗普首次提及：可能对不支持美获得格陵兰岛计划的国家加征关税",
+          "url": "https://wallstreetcn.com/articles/3763499",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时19分 ~ 17时20分]"
         },
         {
           "title": "美国总统特朗普：如果无法在最高法院赢得关税官司，将是“国家的”耻辱。",
@@ -499,6 +523,17 @@
           "time_info": "[06时20分 ~ 07时20分]"
         },
         {
+          "title": "特朗普被曝2017年就想入侵委内瑞拉",
+          "url": "https://www.toutiao.com/trending/7595827633294147635/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时19分 ~ 17时20分]"
+        },
+        {
           "title": "美国财长贝森特谈及白宫顾问哈塞特不会去美联储，声称：这是总统特朗普的特权。 特朗普并没有告诉我“他自己对美联储主席人选的想法”。",
           "url": "https://wallstreetcn.com/livenews/3039021",
           "source": "华尔街见闻-快讯",
@@ -610,17 +645,6 @@
           "time_info": "01时24分"
         },
         {
-          "title": "特朗普自曝：我说服了自己，暂缓打击伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32406442",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时25分"
-        },
-        {
           "title": "美国总统特朗普赞赏礼来制药。",
           "url": "https://wallstreetcn.com/livenews/3038915",
           "source": "华尔街见闻-快讯",
@@ -660,7 +684,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时25分"
         },
@@ -778,7 +802,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "上合组织就伊朗局势发布声明",
@@ -792,18 +816,6 @@
           "time_info": "[00时27分 ~ 07时20分]"
         },
         {
-          "title": "美以领导人被曝再次通话，讨论伊朗局势",
-          "url": "https://news.ifeng.com/c/8pyPkswTcS4",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[03时19分 ~ 16时25分]"
-        },
-        {
           "title": "伊朗政府向市民发放“电子补贴券”，凤凰记者走访德黑兰连锁超市",
           "url": "https://news.ifeng.com/c/8pz2QNtwV6g",
           "source": "凤凰网",
@@ -812,8 +824,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时22分 ~ 16时25分]"
+          "appearance_count": 10,
+          "time_info": "[11时22分 ~ 17时20分]"
+        },
+        {
+          "title": "美以领导人被曝再次通话，讨论伊朗局势",
+          "url": "https://news.ifeng.com/c/8pyPkswTcS4",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[03时19分 ~ 17时20分]"
         },
         {
           "title": "上海合作组织发表关于伊朗局势的声明",
@@ -847,15 +871,15 @@
           "time_info": "[00时27分 ~ 11时22分]"
         },
         {
-          "title": "伊朗武装部队总参谋长：敌对势力利用媒体歪曲事实",
-          "url": "https://flash.jin10.com/detail/20260117160638101800",
+          "title": "巴基斯坦外长和伊朗外长通电话 呼吁保持地区和平稳定",
+          "url": "https://flash.jin10.com/detail/20260117164104796800",
           "source": "金十数据",
           "ranks": [
-            1
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时25分"
+          "time_info": "17时20分"
         },
         {
           "title": "伊朗全境已恢复互联网服务。（央视新闻）",
@@ -864,11 +888,37 @@
           "ranks": [
             2,
             6,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时29分 ~ 16时25分]"
+          "appearance_count": 4,
+          "time_info": "[14时29分 ~ 17时20分]"
+        },
+        {
+          "title": "伊朗全境已恢复互联网服务",
+          "url": "https://www.douyin.com/hot/2370647",
+          "source": "抖音",
+          "ranks": [
+            9,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时29分 ~ 17时20分]"
+        },
+        {
+          "title": "伊朗武装部队总参谋长：敌对势力利用媒体歪曲事实",
+          "url": "https://flash.jin10.com/detail/20260117160638101800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时25分 ~ 17时20分]"
         },
         {
           "title": "欧洲航空安全局：伊朗存在以及可能使用多种武器和防空系统，对在各高度运行的民用航班构成高风险。",
@@ -961,18 +1011,6 @@
           "time_info": "[02时31分 ~ 04时21分]"
         },
         {
-          "title": "伊朗全境已恢复互联网服务",
-          "url": "https://www.douyin.com/hot/2370647",
-          "source": "抖音",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时29分 ~ 16时25分]"
-        },
-        {
           "title": "美总统与以总理被曝再次通话讨论伊朗局势",
           "url": "https://wallstreetcn.com/livenews/3038960",
           "source": "华尔街见闻-快讯",
@@ -984,6 +1022,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时31分 ~ 04时21分]"
+        },
+        {
+          "title": "伊朗全境已恢复互联网服务。",
+          "url": "https://flash.jin10.com/detail/20260117135223968800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            20,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时19分 ~ 17时20分]"
         },
         {
           "title": "以官员透露摩萨德局长已抵美，将与美方讨论伊朗局势",
@@ -1020,18 +1071,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时20分 ~ 07时20分]"
-        },
-        {
-          "title": "伊朗全境已恢复互联网服务。",
-          "url": "https://flash.jin10.com/detail/20260117135223968800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时19分 ~ 16时25分]"
         },
         {
           "title": "欧盟航空安全局建议航空运营商避开伊朗空域",
@@ -1118,8 +1157,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时20分 ~ 16时25分]"
+          "appearance_count": 12,
+          "time_info": "[07时20分 ~ 17时20分]"
         },
         {
           "title": "美股期指走高 美联储静默期前市场谨慎乐观 | 今夜看点",
@@ -1132,8 +1171,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时27分 ~ 14时29分]"
+          "appearance_count": 16,
+          "time_info": "[00时27分 ~ 17时20分]"
         },
         {
           "title": "科技股助推美股指全线上涨，纳指涨0.5%，白银价格逆势重挫5%",
@@ -1312,11 +1351,12 @@
           "ranks": [
             1,
             5,
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时29分 ~ 16时25分]"
+          "appearance_count": 4,
+          "time_info": "[14时29分 ~ 17时20分]"
         },
         {
           "title": "长城汽车总裁称“打死不做增程”",
@@ -1332,6 +1372,19 @@
           "time_info": "[02时31分 ~ 07时20分]"
         },
         {
+          "title": "乘联分会崔东树：2025年汽车企业整车出口超强",
+          "url": "https://flash.jin10.com/detail/20260117142340959800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            16,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时19分 ~ 17时20分]"
+        },
+        {
           "title": "涉及中国电动汽车 卡尼宣布大消息",
           "url": "https://www.baidu.com/s?wd=%E6%B6%89%E5%8F%8A%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6+%E5%8D%A1%E5%B0%BC%E5%AE%A3%E5%B8%83%E5%A4%A7%E6%B6%88%E6%81%AF",
           "source": "百度热搜",
@@ -1342,18 +1395,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时27分 ~ 01时24分]"
-        },
-        {
-          "title": "乘联分会崔东树：2025年汽车企业整车出口超强",
-          "url": "https://flash.jin10.com/detail/20260117142340959800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时19分 ~ 16时25分]"
         },
         {
           "title": "中欧电动汽车案“软着陆”有积极意义",
@@ -1423,6 +1464,18 @@
           "time_info": "[09时27分 ~ 15时19分]"
         },
         {
+          "title": "解读ChatGPT加入广告背后",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBChatGPT%E5%8A%A0%E5%85%A5%E5%B9%BF%E5%91%8A%E8%83%8C%E5%90%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时19分 ~ 17时20分]"
+        },
+        {
           "title": "ChatGPT将加入广告",
           "url": "https://search.bilibili.com/all?keyword=ChatGPT%E5%B0%86%E5%8A%A0%E5%85%A5%E5%B9%BF%E5%91%8A",
           "source": "bilibili 热搜",
@@ -1473,18 +1526,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时31分 ~ 04时21分]"
-        },
-        {
-          "title": "解读ChatGPT加入广告背后",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBChatGPT%E5%8A%A0%E5%85%A5%E5%B9%BF%E5%91%8A%E8%83%8C%E5%90%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时19分 ~ 16时25分]"
         },
         {
           "title": "OpenAI推出ChatGPT Go，美国订阅费用为每个月8美元。 在全球范围内对ChatGPT提供三层订阅方案。 ChatGPT Plus月租20美元，ChatGPT Pro月租200美元。 Plus、Pro、Bussiness、Enterprise都不包含广告。 还没有在ChatGPT推出广告。 将免费测试广告功能，将在成年人群体实施分层订阅方案。 未来数周将开始测试第一批广告格式。 将在ChatGPT答案的底部测试广告。 广告将有清晰的标签，与答案有分隔。",
@@ -1752,11 +1793,12 @@
             12,
             16,
             20,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时22分 ~ 16时25分]"
+          "appearance_count": 7,
+          "time_info": "[11时22分 ~ 17时20分]"
         },
         {
           "title": "山西2025年新能源发电量首次突破1000亿度",
@@ -1780,6 +1822,19 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "分析师：贵金属失去部分地缘政治溢价，仍认为金价有机会触及5000美元",
+          "url": "https://flash.jin10.com/detail/20260117140618013800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时19分 ~ 17时20分]"
+        },
+        {
           "title": "金价波动",
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -1790,18 +1845,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时22分 ~ 12时32分]"
-        },
-        {
-          "title": "分析师：贵金属失去部分地缘政治溢价，仍认为金价有机会触及5000美元",
-          "url": "https://flash.jin10.com/detail/20260117140618013800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时19分 ~ 16时25分]"
         }
       ]
     },
