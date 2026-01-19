@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-19T22:27:08.830222+08:00",
-  "total_titles_processed": 1764,
+  "generated_at": "2026-01-19T23:25:51.382293+08:00",
+  "total_titles_processed": 1858,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 88,
+      "match_count": 93,
       "titles": [
         {
           "title": "欧洲8国集体回应特朗普关税威胁",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[09时44分 ~ 22时27分]"
+          "appearance_count": 20,
+          "time_info": "[09时44分 ~ 23时25分]"
         },
         {
           "title": "特朗普挥关税大棒强索格陵兰岛，意大利总理：这是个“错误”",
@@ -90,8 +90,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[12时51分 ~ 22时27分]"
+          "appearance_count": 17,
+          "time_info": "[12时51分 ~ 23时25分]"
         },
         {
           "title": "伊朗总统警告特朗普：攻击哈梅内伊将引发全面战争",
@@ -131,8 +131,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时34分 ~ 22时27分]"
+          "appearance_count": 9,
+          "time_info": "[17时34分 ~ 23时25分]"
         },
         {
           "title": "联合国秘书长古特雷斯：（当被问及特朗普提出的和平委员会倡议时）会员国可以自由组成不同的团体。",
@@ -339,6 +339,17 @@
           "time_info": "[00时23分 ~ 05时18分]"
         },
         {
+          "title": "特朗普致信挪威首相：我不再有义务只考虑和平",
+          "url": "https://news.ifeng.com/c/8q2mrUjZSWs",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
           "title": "杰富瑞：随着欧美展开谈判 特朗普或将推迟关税征收时间",
           "url": "https://flash.jin10.com/detail/20260119161106127800",
           "source": "金十数据",
@@ -350,15 +361,37 @@
           "time_info": "16时32分"
         },
         {
+          "title": "克罗地亚总统乱抖包袱：特朗普还不如占领斯瓦尔巴群岛",
+          "url": "https://news.ifeng.com/c/8q2uSgRf3ld",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
           "title": "欧洲官员：特朗普希望在周四签署加沙协议。",
           "url": "https://wallstreetcn.com/livenews/3039809",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时27分"
+        },
+        {
+          "title": "美媒爆料：特朗普私下“密集谈论”加拿大",
+          "url": "https://wallstreetcn.com/livenews/3039838",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
         },
         {
           "title": "布莱尔与特朗普“和平委员会”10亿美元成员费划清界限",
@@ -797,6 +830,17 @@
           "time_info": "[15时28分 ~ 15时29分]"
         },
         {
+          "title": "普京被邀请加入特朗普“和平委员会”",
+          "url": "https://news.ifeng.com/c/8q2yFHRzsKV",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
           "title": "特朗普致信挪威首相 称须完全控制格陵兰岛",
           "url": "https://flash.jin10.com/detail/20260119142307602800",
           "source": "金十数据",
@@ -847,7 +891,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时27分"
         },
@@ -874,13 +918,24 @@
           "time_info": "14时37分"
         },
         {
+          "title": "分析师：若特朗普任命过于听话的美联储主席，债市将迅速惩罚美国",
+          "url": "https://wallstreetcn.com/livenews/3039827",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
           "title": "荷兰经济大臣：特朗普在格陵兰岛问题上的表现不负责任。",
           "url": "https://flash.jin10.com/detail/20260119215216307800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时27分"
         },
@@ -924,7 +979,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时27分"
         },
@@ -1052,8 +1107,201 @@
       ]
     },
     {
+      "keyword_group": "俄罗斯",
+      "match_count": 16,
+      "titles": [
+        {
+          "title": "俄罗斯一地暴雪堆出公寓楼高雪坡",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E4%B8%80%E5%9C%B0%E6%9A%B4%E9%9B%AA%E5%A0%86%E5%87%BA%E5%85%AC%E5%AF%93%E6%A5%BC%E9%AB%98%E9%9B%AA%E5%9D%A1%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18,
+            16,
+            17,
+            15,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 07时19分]"
+        },
+        {
+          "title": "俄罗斯一地暴雪堆出公寓楼高雪坡",
+          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E4%B8%80%E5%9C%B0%E6%9A%B4%E9%9B%AA%E5%A0%86%E5%87%BA%E5%85%AC%E5%AF%93%E6%A5%BC%E9%AB%98%E9%9B%AA%E5%9D%A1",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时27分 ~ 07时19分]"
+        },
+        {
+          "title": "俄罗斯遭暴雪侵袭 有人“跳楼”出门",
+          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E9%81%AD%E6%9A%B4%E9%9B%AA%E4%BE%B5%E8%A2%AD+%E6%9C%89%E4%BA%BA%E2%80%9C%E8%B7%B3%E6%A5%BC%E2%80%9D%E5%87%BA%E9%97%A8",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            12,
+            9,
+            22,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时44分 ~ 14时37分]"
+        },
+        {
+          "title": "据路透计算：俄罗斯石油和天然气收入由于油价疲软及卢比走强，1月预计将降至4200亿卢布。",
+          "url": "https://flash.jin10.com/detail/20260119220137240800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时27分 ~ 23时25分]"
+        },
+        {
+          "title": "俄罗斯总统普京的特使Dmitriev本周将前往达沃斯，Dmitriev将在达沃斯与美国代表团会晤。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3039696",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时28分 ~ 19时21分]"
+        },
+        {
+          "title": "匈牙利总理：西欧正准备与俄罗斯开战",
+          "url": "https://www.baidu.com/s?wd=%E5%8C%88%E7%89%99%E5%88%A9%E6%80%BB%E7%90%86%EF%BC%9A%E8%A5%BF%E6%AC%A7%E6%AD%A3%E5%87%86%E5%A4%87%E4%B8%8E%E4%BF%84%E7%BD%97%E6%96%AF%E5%BC%80%E6%88%98",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时44分 ~ 09时45分]"
+        },
+        {
+          "title": "俄新社：俄罗斯国防部称，其部队已夺取乌克兰东部的新巴甫利夫卡地区。",
+          "url": "https://flash.jin10.com/detail/20260119170426325800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时34分"
+        },
+        {
+          "title": "调查显示：俄罗斯石油和天然气预算收入在1月预计将下降46%",
+          "url": "https://flash.jin10.com/detail/20260119224421038800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
+          "title": "俄罗斯财政部：截至1月1日，俄罗斯国家福利基金规模为13.415万亿卢布。",
+          "url": "https://flash.jin10.com/detail/20260119222620675800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
+          "title": "乌克兰哈尔科夫市市长表示，当地一个关键基础设施在遭到俄罗斯导弹袭击后“损毁严重”。",
+          "url": "https://flash.jin10.com/detail/20260119164907305800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时34分"
+        },
+        {
+          "title": "据国际文传电讯社：塞尔维亚表示，俄罗斯天然气工业股份公司与匈牙利的MOL已就塞尔维亚石油公司（NIS）交易的条款达成一致，塞尔维亚将把其在塞尔维亚石油公司（NIS）的股份增加5%。",
+          "url": "https://flash.jin10.com/detail/20260119215448066800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时27分"
+        },
+        {
+          "title": "根据俄罗斯财政部数据测算得出，俄12月预算开支同比锐减19%，全年增长7%——之前一年增长24%。 2025年预算赤字5.6万亿卢布。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3039821",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
+          "title": "俄罗斯总统普京召开安全委员会会议。",
+          "url": "https://flash.jin10.com/detail/20260119185122561800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时21分"
+        },
+        {
+          "title": "俄罗斯可能从2月起解除对生产商的汽油出口禁令。（IFX）",
+          "url": "https://wallstreetcn.com/livenews/3039736",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "俄罗斯财政部：2025年预算赤字为5.65万亿卢布 。",
+          "url": "https://flash.jin10.com/detail/20260119210724810800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时44分"
+        },
+        {
+          "title": "当地州长：俄罗斯无人机袭击乌克兰敖德萨地区，损毁能源和天然气基础设施，一人受伤。",
+          "url": "https://flash.jin10.com/detail/20260119135220260800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时37分"
+        }
+      ]
+    },
+    {
       "keyword_group": "汽车",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "中国汽车业拿下两个连续全球第一",
@@ -1224,12 +1472,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时46分"
+        },
+        {
+          "title": "德国重启电动汽车购车补贴",
+          "url": "https://wallstreetcn.com/livenews/3039820",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "世界周刊之伊朗危机",
@@ -1382,6 +1641,17 @@
           "time_info": "19时21分"
         },
         {
+          "title": "伊朗媒体说骚乱已致3700余人受伤",
+          "url": "https://wallstreetcn.com/livenews/3039822",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
           "title": "伊朗议会议长：我们挫败了破坏我国稳定的阴谋。",
           "url": "https://flash.jin10.com/detail/20260119154724623800",
           "source": "金十数据",
@@ -1391,165 +1661,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "俄罗斯",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "俄罗斯一地暴雪堆出公寓楼高雪坡",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E4%B8%80%E5%9C%B0%E6%9A%B4%E9%9B%AA%E5%A0%86%E5%87%BA%E5%85%AC%E5%AF%93%E6%A5%BC%E9%AB%98%E9%9B%AA%E5%9D%A1%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18,
-            16,
-            17,
-            15,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 07时19分]"
-        },
-        {
-          "title": "俄罗斯一地暴雪堆出公寓楼高雪坡",
-          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E4%B8%80%E5%9C%B0%E6%9A%B4%E9%9B%AA%E5%A0%86%E5%87%BA%E5%85%AC%E5%AF%93%E6%A5%BC%E9%AB%98%E9%9B%AA%E5%9D%A1",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时27分 ~ 07时19分]"
-        },
-        {
-          "title": "俄罗斯遭暴雪侵袭 有人“跳楼”出门",
-          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E9%81%AD%E6%9A%B4%E9%9B%AA%E4%BE%B5%E8%A2%AD+%E6%9C%89%E4%BA%BA%E2%80%9C%E8%B7%B3%E6%A5%BC%E2%80%9D%E5%87%BA%E9%97%A8",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            12,
-            9,
-            22,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时44分 ~ 14时37分]"
-        },
-        {
-          "title": "据路透计算：俄罗斯石油和天然气收入由于油价疲软及卢比走强，1月预计将降至4200亿卢布。",
-          "url": "https://flash.jin10.com/detail/20260119220137240800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时27分"
-        },
-        {
-          "title": "俄罗斯总统普京的特使Dmitriev本周将前往达沃斯，Dmitriev将在达沃斯与美国代表团会晤。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3039696",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时28分 ~ 19时21分]"
-        },
-        {
-          "title": "匈牙利总理：西欧正准备与俄罗斯开战",
-          "url": "https://www.baidu.com/s?wd=%E5%8C%88%E7%89%99%E5%88%A9%E6%80%BB%E7%90%86%EF%BC%9A%E8%A5%BF%E6%AC%A7%E6%AD%A3%E5%87%86%E5%A4%87%E4%B8%8E%E4%BF%84%E7%BD%97%E6%96%AF%E5%BC%80%E6%88%98",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时44分 ~ 09时45分]"
-        },
-        {
-          "title": "俄新社：俄罗斯国防部称，其部队已夺取乌克兰东部的新巴甫利夫卡地区。",
-          "url": "https://flash.jin10.com/detail/20260119170426325800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时34分"
-        },
-        {
-          "title": "乌克兰哈尔科夫市市长表示，当地一个关键基础设施在遭到俄罗斯导弹袭击后“损毁严重”。",
-          "url": "https://flash.jin10.com/detail/20260119164907305800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时34分"
-        },
-        {
-          "title": "据国际文传电讯社：塞尔维亚表示，俄罗斯天然气工业股份公司与匈牙利的MOL已就塞尔维亚石油公司（NIS）交易的条款达成一致，塞尔维亚将把其在塞尔维亚石油公司（NIS）的股份增加5%。",
-          "url": "https://flash.jin10.com/detail/20260119215448066800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时27分"
-        },
-        {
-          "title": "俄罗斯总统普京召开安全委员会会议。",
-          "url": "https://flash.jin10.com/detail/20260119185122561800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时21分"
-        },
-        {
-          "title": "俄罗斯可能从2月起解除对生产商的汽油出口禁令。（IFX）",
-          "url": "https://wallstreetcn.com/livenews/3039736",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时46分"
-        },
-        {
-          "title": "俄罗斯财政部：2025年预算赤字为5.65万亿卢布 。",
-          "url": "https://flash.jin10.com/detail/20260119210724810800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时44分"
-        },
-        {
-          "title": "当地州长：俄罗斯无人机袭击乌克兰敖德萨地区，损毁能源和天然气基础设施，一人受伤。",
-          "url": "https://flash.jin10.com/detail/20260119135220260800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时37分"
         }
       ]
     },
@@ -1569,6 +1680,18 @@
           "time_info": "[17时34分 ~ 20时46分]"
         },
         {
+          "title": "格陵兰引发关税战风险，美股指期货走低，“马丁·路德·金纪念日”美股债休市，金银再创新高，铜价逼近13000",
+          "url": "https://wallstreetcn.com/articles/3763546",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时44分 ~ 23时25分]"
+        },
+        {
           "title": "美股明日休市 金银油交易提前结束",
           "url": "https://flash.jin10.com/detail/20260118225633271800",
           "source": "金十数据",
@@ -1579,17 +1702,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时23分 ~ 05时18分]"
-        },
-        {
-          "title": "格陵兰引发关税战风险，美股指期货走低，“马丁·路德·金纪念日”美股债休市，金银再创新高，铜价逼近13000",
-          "url": "https://wallstreetcn.com/articles/3763546",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时44分 ~ 22时27分]"
         },
         {
           "title": "格陵兰引发美欧关税战风险，欧美股指期货齐跌，金银再创新高，铜价逼近13000",
@@ -1628,7 +1740,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "编程从此不再有门槛！Claude Code火爆出圈，接近“ChatGPT的横空出世”",
@@ -1641,6 +1753,17 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时23分 ~ 11时49分]"
+        },
+        {
+          "title": "OpenAI计划2026年发布第一款设备。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3039842",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
         },
         {
           "title": "OpenAI终向广告“妥协”，GEO逻辑被验证无误了吗？",
@@ -1710,6 +1833,64 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "报道：过去一年谷歌Gemini模型授权业务规模实现爆发式增长",
+          "url": "https://wallstreetcn.com/livenews/3039830",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
+          "title": "谷歌的Gemini业务销售额预计将飙升",
+          "url": "https://flash.jin10.com/detail/20260119221021907800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "战争",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "古巴启动“战争状态”",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%A4%E5%B7%B4%E5%90%AF%E5%8A%A8%E2%80%9C%E6%88%98%E4%BA%89%E7%8A%B6%E6%80%81%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            26,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时46分 ~ 23时25分]"
+        },
+        {
+          "title": "古巴启动“战争状态”",
+          "url": "https://www.douyin.com/hot/2373251",
+          "source": "抖音",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        }
+      ]
+    },
+    {
       "keyword_group": "武器",
       "match_count": 2,
       "titles": [
@@ -1730,11 +1911,12 @@
           "url": "https://flash.jin10.com/detail/20260119215511035800",
           "source": "金十数据",
           "ranks": [
-            11
+            11,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时27分 ~ 23时25分]"
         }
       ]
     },
@@ -1771,25 +1953,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "战争",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "古巴启动“战争状态”",
-          "url": "https://www.baidu.com/s?wd=%E5%8F%A4%E5%B7%B4%E5%90%AF%E5%8A%A8%E2%80%9C%E6%88%98%E4%BA%89%E7%8A%B6%E6%80%81%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            26,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时46分 ~ 22时27分]"
         }
       ]
     },
