@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-19T19:21:23.964292+08:00",
-  "total_titles_processed": 1483,
+  "generated_at": "2026-01-19T20:46:54.212189+08:00",
+  "total_titles_processed": 1601,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 75,
+      "match_count": 79,
       "titles": [
         {
           "title": "欧洲8国集体回应特朗普关税威胁",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时44分 ~ 19时21分]"
+          "appearance_count": 16,
+          "time_info": "[09时44分 ~ 20时46分]"
         },
         {
           "title": "特朗普挥关税大棒强索格陵兰岛，意大利总理：这是个“错误”",
@@ -90,8 +90,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时51分 ~ 19时21分]"
+          "appearance_count": 13,
+          "time_info": "[12时51分 ~ 20时46分]"
         },
         {
           "title": "伊朗总统警告特朗普：攻击哈梅内伊将引发全面战争",
@@ -325,6 +325,20 @@
           "time_info": "16时32分"
         },
         {
+          "title": "反击特朗普“关税战”！欧洲酝酿“资本战”，德银：八万亿美国资产或成“杀手锏”",
+          "url": "https://wallstreetcn.com/articles/3763556",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时34分 ~ 20时46分]"
+        },
+        {
           "title": "布莱尔与特朗普“和平委员会”10亿美元成员费划清界限",
           "url": "https://wallstreetcn.com/livenews/3039290",
           "source": "华尔街见闻-快讯",
@@ -498,19 +512,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时34分 ~ 18时28分]"
-        },
-        {
-          "title": "反击特朗普“关税战”！欧洲酝酿“资本战”，德银：八万亿美国资产或成“杀手锏”",
-          "url": "https://wallstreetcn.com/articles/3763556",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时34分 ~ 19时21分]"
         },
         {
           "title": "高盛：特朗普破坏性政策频发 料引发新一轮资金逃离美国资产",
@@ -744,9 +745,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
+        },
+        {
+          "title": "据报道，挪威首相获邀加入特朗普的加沙“和平委员会”。",
+          "url": "https://wallstreetcn.com/livenews/3039760",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
         },
         {
           "title": "消息人士：格陵兰岛只是开胃菜，特朗普的下一个目标是加拿大",
@@ -758,6 +770,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
+        },
+        {
+          "title": "欧盟委员会发言人：欧盟委员会主席冯德莱恩受邀加入美国总统特朗普的加沙“和平委员会”。",
+          "url": "https://wallstreetcn.com/livenews/3039755",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
         },
         {
           "title": "美国邀约60国加入特朗普版联合国",
@@ -788,7 +811,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
         },
@@ -810,7 +833,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
         },
@@ -865,7 +888,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
         },
@@ -887,9 +910,31 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
+        },
+        {
+          "title": "市场消息：挪威首相商店受邀加入美国总统特朗普的加沙“和平委员会”。",
+          "url": "https://flash.jin10.com/detail/20260119195627269800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "欧盟委员会发言人：欧盟委员会主席冯德莱恩受邀加入美国总统特朗普的加沙“和平委员会”。",
+          "url": "https://flash.jin10.com/detail/20260119195033650800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
         },
         {
           "title": "法国财长Lescure：朋友之间勒索不可接受。 将在未来几天召集七国集团会议。 特朗普的言论代表着维度的转变。",
@@ -906,7 +951,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "中国汽车业拿下两个连续全球第一",
@@ -929,17 +974,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时45分"
-        },
-        {
-          "title": "小鹏汽车董事长何小鹏发文称，今天，用汽车标准研发的ET1版本第一台机器人顺利落地。",
-          "url": "https://wallstreetcn.com/livenews/3039725",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时21分"
         },
         {
           "title": "电动汽车电池寿命可达13年",
@@ -968,6 +1002,18 @@
           "time_info": "[15时29分 ~ 16时32分]"
         },
         {
+          "title": "小鹏汽车董事长何小鹏发文称，今天，用汽车标准研发的ET1版本第一台机器人顺利落地。",
+          "url": "https://wallstreetcn.com/livenews/3039725",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时21分 ~ 20时46分]"
+        },
+        {
           "title": "大众汽车、宝马和梅赛德斯-奔驰集团欧股下跌3%至6%。",
           "url": "https://flash.jin10.com/detail/20260119160509651800",
           "source": "金十数据",
@@ -985,7 +1031,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
         },
@@ -1065,12 +1111,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
+        },
+        {
+          "title": "斯柯达汽车：2025年向客户交付1,043,900辆汽车，同比增长12.7%。",
+          "url": "https://flash.jin10.com/detail/20260119200617979800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "世界周刊之伊朗危机",
@@ -1189,13 +1246,24 @@
           "time_info": "[05时18分 ~ 06时19分]"
         },
         {
+          "title": "伊朗官员：网络服务将于本周末恢复正常",
+          "url": "https://wallstreetcn.com/livenews/3039748",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
           "title": "据伊朗塔斯尼姆通讯社：伊朗官员呼吁对受“误导”的示威者予以宽大处理。",
           "url": "https://flash.jin10.com/detail/20260119190212302800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
         },
@@ -1214,7 +1282,7 @@
     },
     {
       "keyword_group": "俄罗斯",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "俄罗斯一地暴雪堆出公寓楼高雪坡",
@@ -1310,9 +1378,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
+        },
+        {
+          "title": "俄罗斯可能从2月起解除对生产商的汽油出口禁令。（IFX）",
+          "url": "https://wallstreetcn.com/livenews/3039736",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
         },
         {
           "title": "当地州长：俄罗斯无人机袭击乌克兰敖德萨地区，损毁能源和天然气基础设施，一人受伤。",
@@ -1339,8 +1418,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时34分 ~ 19时21分]"
+          "appearance_count": 5,
+          "time_info": "[17时34分 ~ 20时46分]"
         },
         {
           "title": "美股明日休市 金银油交易提前结束",
@@ -1505,6 +1584,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "战争",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "古巴启动“战争状态”",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%A4%E5%B7%B4%E5%90%AF%E5%8A%A8%E2%80%9C%E6%88%98%E4%BA%89%E7%8A%B6%E6%80%81%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
         }
       ]
     },
