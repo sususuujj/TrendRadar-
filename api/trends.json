@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-01-19T07:19:25.483100+08:00",
-  "total_titles_processed": 476,
+  "generated_at": "2026-01-19T09:45:04.825354+08:00",
+  "total_titles_processed": 639,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 34,
+      "match_count": 38,
       "titles": [
-        {
-          "title": "周末要闻汇总：证监会立案调查容百科技重大合同公告涉嫌误导性陈述；特朗普因格陵兰岛向欧洲8国加税",
-          "url": "https://www.cls.cn/detail/2261399",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 07时19分]"
-        },
         {
           "title": "特朗普挥关税大棒强索格陵兰岛，意大利总理：这是个“错误”",
           "url": "https://news.ifeng.com/c/8q1PDnUocDO",
@@ -29,6 +18,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时23分 ~ 07时19分]"
+        },
+        {
+          "title": "周末要闻汇总：证监会立案调查容百科技重大合同公告涉嫌误导性陈述；特朗普因格陵兰岛向欧洲8国加税",
+          "url": "https://www.cls.cn/detail/2261399",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 09时45分]"
         },
         {
           "title": "欧洲指责特朗普引发“危险恶性循环”，将面临哪些艰难抉择？",
@@ -50,19 +51,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 07时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 09时45分]"
         },
         {
           "title": "伊朗总统警告特朗普：攻击哈梅内伊将引发全面战争",
           "url": "https://news.ifeng.com/c/8q1bdYC7EP7",
           "source": "凤凰网",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 07时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 09时45分]"
         },
         {
           "title": "欧洲指责特朗普引发“危险恶性循环”，将面临哪些艰难抉择？",
@@ -75,8 +77,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 07时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 09时45分]"
         },
         {
           "title": "联合国秘书长古特雷斯：（当被问及特朗普提出的和平委员会倡议时）会员国可以自由组成不同的团体。",
@@ -119,6 +121,17 @@
           "time_info": "[01时17分 ~ 06时19分]"
         },
         {
+          "title": "欧洲8国集体回应特朗普关税威胁",
+          "url": "https://news.ifeng.com/c/8q27ChONuGJ",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时44分 ~ 09时45分]"
+        },
+        {
           "title": "白宫经济顾问哈塞特：相信美国总统特朗普最终将谈妥一份关于格陵兰岛的协议。",
           "url": "https://wallstreetcn.com/livenews/3039284",
           "source": "华尔街见闻-快讯",
@@ -145,6 +158,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时23分 ~ 05时18分]"
+        },
+        {
+          "title": "【早报】中国商业航天首次！载人飞船着陆缓冲技术获成功验证；特朗普再打“关税牌”，欧盟多国：正考虑反制",
+          "url": "https://www.cls.cn/detail/2261562",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时44分 ~ 09时45分]"
         },
         {
           "title": "唐宁街：英国首相斯塔默与丹麦首相、欧盟委员会主席冯德莱恩、美国总统特朗普等国际领导人对话。 斯塔姆重申自己在格陵兰问题上的立场。 特朗普对北约盟友们发出关税威胁的做法是错误的。",
@@ -211,6 +235,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时23分 ~ 05时18分]"
+        },
+        {
+          "title": "特朗普欲将加沙“和平委员会”模式全球复制，视为“联合国的可能替代机构”",
+          "url": "https://wallstreetcn.com/articles/3763529",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[05时17分 ~ 09时45分]"
         },
         {
           "title": "美国财长贝森特：特朗普致力于保障美联储的独立性。我们有四位出色的美联储主席候选人。认为参议院会对这四位候选人的任何一位当选感到满意。",
@@ -353,18 +389,6 @@
           "time_info": "[06时19分 ~ 07时19分]"
         },
         {
-          "title": "特朗普欲将加沙“和平委员会”模式全球复制，视为“联合国的可能替代机构”",
-          "url": "https://wallstreetcn.com/articles/3763529",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时17分 ~ 07时19分]"
-        },
-        {
           "title": "特朗普称加拿大需要增加国防开支。（NBC）",
           "url": "https://wallstreetcn.com/livenews/3039264",
           "source": "华尔街见闻-快讯",
@@ -402,6 +426,17 @@
           "time_info": "[00时23分 ~ 01时17分]"
         },
         {
+          "title": "伊朗：将追究特朗普等人责任",
+          "url": "https://news.ifeng.com/c/8q2B9XoMclS",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时44分 ~ 09时45分]"
+        },
+        {
           "title": "英国首相斯塔默与欧洲领导人及特朗普通话 重申反对美国关税政策",
           "url": "https://flash.jin10.com/detail/20260119040945227800",
           "source": "金十数据",
@@ -424,13 +459,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时23分 ~ 01时17分]"
+        },
+        {
+          "title": "欧洲被特朗普打脸了",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%AC%A7%E6%B4%B2%E8%A2%AB%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%93%E8%84%B8%E4%BA%86%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时44分 ~ 09时45分]"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "世界周刊之伊朗危机",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E5%91%A8%E5%88%8A%E4%B9%8B%E4%BC%8A%E6%9C%97%E5%8D%B1%E6%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            26,
+            30,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时17分 ~ 09时45分]"
+        },
         {
           "title": "伊朗外交部：美国干涉应为美伊关系紧张负责",
           "url": "https://wallstreetcn.com/livenews/3039297",
@@ -458,20 +519,6 @@
           "time_info": "[03时15分 ~ 07时19分]"
         },
         {
-          "title": "世界周刊之伊朗危机",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E5%91%A8%E5%88%8A%E4%B9%8B%E4%BC%8A%E6%9C%97%E5%8D%B1%E6%9C%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11,
-            26,
-            30,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时17分 ~ 07时19分]"
-        },
-        {
           "title": "土耳其外长称以色列摩萨德正在介入伊朗局势",
           "url": "https://wallstreetcn.com/livenews/3039262",
           "source": "华尔街见闻-快讯",
@@ -495,41 +542,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时18分 ~ 06时19分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "编程从此不再有门槛！Claude Code火爆出圈，接近“ChatGPT的横空出世”",
-          "url": "https://wallstreetcn.com/articles/3763533",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 07时19分]"
         },
         {
-          "title": "翁家翌谈OpenAI模型跃迁",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BF%81%E5%AE%B6%E7%BF%8C%E8%B0%88OpenAI%E6%A8%A1%E5%9E%8B%E8%B7%83%E8%BF%81",
-          "source": "bilibili 热搜",
+          "title": "伊朗总统：袭击最高领袖等同全面战争",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%EF%BC%9A%E8%A2%AD%E5%87%BB%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E7%AD%89%E5%90%8C%E5%85%A8%E9%9D%A2%E6%88%98%E4%BA%89",
+          "source": "百度热搜",
           "ranks": [
-            28,
-            27
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时27分 ~ 03时15分]"
+          "time_info": "[09时44分 ~ 09时45分]"
         }
       ]
     },
     {
       "keyword_group": "俄罗斯",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "俄罗斯一地暴雪堆出公寓楼高雪坡",
@@ -557,12 +586,75 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[02时27分 ~ 07时19分]"
+        },
+        {
+          "title": "俄罗斯遭暴雪侵袭 有人“跳楼”出门",
+          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E9%81%AD%E6%9A%B4%E9%9B%AA%E4%BE%B5%E8%A2%AD+%E6%9C%89%E4%BA%BA%E2%80%9C%E8%B7%B3%E6%A5%BC%E2%80%9D%E5%87%BA%E9%97%A8",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时44分 ~ 09时45分]"
+        },
+        {
+          "title": "匈牙利总理：西欧正准备与俄罗斯开战",
+          "url": "https://www.baidu.com/s?wd=%E5%8C%88%E7%89%99%E5%88%A9%E6%80%BB%E7%90%86%EF%BC%9A%E8%A5%BF%E6%AC%A7%E6%AD%A3%E5%87%86%E5%A4%87%E4%B8%8E%E4%BF%84%E7%BD%97%E6%96%AF%E5%BC%80%E6%88%98",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时44分 ~ 09时45分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "编程从此不再有门槛！Claude Code火爆出圈，接近“ChatGPT的横空出世”",
+          "url": "https://wallstreetcn.com/articles/3763533",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 09时45分]"
+        },
+        {
+          "title": "OpenAI终向广告“妥协”，GEO逻辑被验证无误了吗？",
+          "url": "https://www.cls.cn/detail/2261328",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时44分 ~ 09时45分]"
+        },
+        {
+          "title": "翁家翌谈OpenAI模型跃迁",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BF%81%E5%AE%B6%E7%BF%8C%E8%B0%88OpenAI%E6%A8%A1%E5%9E%8B%E8%B7%83%E8%BF%81",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时27分 ~ 03时15分]"
         }
       ]
     },
     {
       "keyword_group": "汽车",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "中国汽车业拿下两个连续全球第一",
@@ -572,8 +664,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 07时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 09时45分]"
+        },
+        {
+          "title": "三大指数集体翻红，电网设备、贵金属、汽车整车、美容护理等方向领涨，沪深京三市上涨个股近2700只。",
+          "url": "https://wallstreetcn.com/livenews/3039409",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
         },
         {
           "title": "电动汽车电池寿命可达13年",
@@ -592,6 +695,34 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金价波动",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时44分 ~ 09时45分]"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时44分 ~ 09时45分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -604,8 +735,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 07时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 09时45分]"
         }
       ]
     },
