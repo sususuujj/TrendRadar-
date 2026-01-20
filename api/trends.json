@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-20T14:34:59.446805+08:00",
-  "total_titles_processed": 1162,
+  "generated_at": "2026-01-20T15:27:35.747261+08:00",
+  "total_titles_processed": 1272,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 63,
+      "match_count": 65,
       "titles": [
         {
           "title": "会武力夺岛？特朗普：无可奉告",
@@ -42,8 +42,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时28分 ~ 14时34分]"
+          "appearance_count": 16,
+          "time_info": "[00时28分 ~ 15时27分]"
         },
         {
           "title": "反制特朗普，马克龙冲最猛，默茨想拉住他",
@@ -67,8 +67,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时20分 ~ 14时34分]"
+          "appearance_count": 9,
+          "time_info": "[07时20分 ~ 15时27分]"
+        },
+        {
+          "title": "特朗普写了一封信，杀气腾腾，槽点满满",
+          "url": "https://news.ifeng.com/c/8q3qn0KjEks",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时30分 ~ 15时27分]"
         },
         {
           "title": "特朗普为何强夺格陵兰岛？贝森特：因为欧洲“软弱”",
@@ -95,18 +107,6 @@
           "time_info": "[00时28分 ~ 09时31分]"
         },
         {
-          "title": "特朗普写了一封信，杀气腾腾，槽点满满",
-          "url": "https://news.ifeng.com/c/8q3qn0KjEks",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时30分 ~ 14时34分]"
-        },
-        {
           "title": "反击特朗普“关税战”！欧洲酝酿“资本战”，德银：八万亿美国资产或成“杀手锏”",
           "url": "https://wallstreetcn.com/articles/3763556",
           "source": "华尔街见闻",
@@ -120,6 +120,56 @@
           "time_info": "[00时28分 ~ 09时31分]"
         },
         {
+          "title": "特朗普重返白宫一周年，怎样评价他这一年的执政成绩？给美国带来了什么？",
+          "url": "https://www.zhihu.com/question/1995879633401374340",
+          "source": "知乎",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时30分 ~ 15时27分]"
+        },
+        {
+          "title": "美联储独立性的分水岭！明天，美国最高法院审“特朗普诉库克案”",
+          "url": "https://wallstreetcn.com/articles/3763591",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时30分 ~ 15时27分]"
+        },
+        {
+          "title": "特朗普继续威胁，“100%加税，欧洲等着吧”",
+          "url": "https://news.ifeng.com/c/8q4ARvfivFN",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时34分 ~ 15时27分]"
+        },
+        {
+          "title": "又会是“极限施压、最后时刻妥协”剧本？市场“很懂”特朗普",
+          "url": "https://wallstreetcn.com/articles/3763642",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时43分 ~ 15时27分]"
+        },
+        {
           "title": "欧洲8国集体回应特朗普关税威胁",
           "url": "https://news.ifeng.com/c/8q27ChONuGJ",
           "source": "凤凰网",
@@ -129,18 +179,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时28分 ~ 01时23分]"
-        },
-        {
-          "title": "特朗普重返白宫一周年，怎样评价他这一年的执政成绩？给美国带来了什么？",
-          "url": "https://www.zhihu.com/question/1995879633401374340",
-          "source": "知乎",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时30分 ~ 14时34分]"
         },
         {
           "title": "克罗地亚总统乱抖包袱：特朗普还不如占领斯瓦尔巴群岛",
@@ -154,44 +192,6 @@
           "time_info": "[00时28分 ~ 01时23分]"
         },
         {
-          "title": "美联储独立性的分水岭！明天，美国最高法院审“特朗普诉库克案”",
-          "url": "https://wallstreetcn.com/articles/3763591",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时30分 ~ 14时34分]"
-        },
-        {
-          "title": "特朗普继续威胁，“100%加税，欧洲等着吧”",
-          "url": "https://news.ifeng.com/c/8q4ARvfivFN",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时34分"
-        },
-        {
-          "title": "又会是“极限施压、最后时刻妥协”剧本？市场“很懂”特朗普",
-          "url": "https://wallstreetcn.com/articles/3763642",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时43分 ~ 14时34分]"
-        },
-        {
           "title": "丹麦外交部长：相信英国首相斯塔默已与美国总统特朗普直接通话。",
           "url": "https://flash.jin10.com/detail/20260120000400334800",
           "source": "金十数据",
@@ -201,6 +201,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
+        },
+        {
+          "title": "金十整理：不入局就加征200%关税？特朗普的“加沙和平委员会”为何难获响应？",
+          "url": "https://flash.jin10.com/detail/20260120151936040800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
         },
         {
           "title": "美国总统特朗普：我将对法国葡萄酒和香槟征收200%的关税，法国总统马克龙将加入和平委员会。",
@@ -227,6 +238,18 @@
           "time_info": "[04时23分 ~ 06时21分]"
         },
         {
+          "title": "手握“10万亿美元武器”！分析师热议：欧洲是否会祭出“资本战”反击特朗普？",
+          "url": "https://www.cls.cn/detail/2263060",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时44分 ~ 15时27分]"
+        },
+        {
           "title": "特朗普拒绝说明是否会以武力夺取格陵兰",
           "url": "https://wallstreetcn.com/livenews/3039855",
           "source": "华尔街见闻-快讯",
@@ -249,18 +272,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时28分 ~ 01时23分]"
-        },
-        {
-          "title": "手握“10万亿美元武器”！分析师热议：欧洲是否会祭出“资本战”反击特朗普？",
-          "url": "https://www.cls.cn/detail/2263060",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时44分 ~ 14时34分]"
         },
         {
           "title": "欧盟将召开特别峰会应对特朗普“夺岛”关税",
@@ -447,7 +458,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
         },
@@ -502,7 +513,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
         },
@@ -546,9 +557,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
+        },
+        {
+          "title": "是否会武力夺取格陵兰岛？特朗普回应：无可奉告！",
+          "url": "https://www.cls.cn/detail/2262925",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
         },
         {
           "title": "美国总统特朗普：（当被问及在未能达成格陵兰岛协议的情况下，是否会落实对欧洲国家加征关税的计划时）我会的，百分之百！",
@@ -568,7 +590,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
         },
@@ -623,7 +645,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
         },
@@ -645,7 +667,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
         },
@@ -678,7 +700,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
         },
@@ -722,7 +744,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
         },
@@ -888,7 +910,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
         },
@@ -961,7 +983,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
         },
@@ -975,6 +997,73 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "无人机",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "李在明：向朝鲜飞无人机等同直接开枪",
+          "url": "https://www.toutiao.com/trending/7597263446861827610/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时44分 ~ 15时27分]"
+        },
+        {
+          "title": "李在明称无人机入朝属严重违法",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%9C%A8%E6%98%8E%E7%A7%B0%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%85%A5%E6%9C%9D%E5%B1%9E%E4%B8%A5%E9%87%8D%E8%BF%9D%E6%B3%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
+        },
+        {
+          "title": "土耳其安全消息人士：库尔德武装声称土耳其无人机袭击了哈塞克市的说法不属实。",
+          "url": "https://flash.jin10.com/detail/20260120023924284800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            21,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时19分 ~ 05时19分]"
+        },
+        {
+          "title": "库尔德部队：土耳其无人机袭击了叙利亚哈塞克市。",
+          "url": "https://flash.jin10.com/detail/20260120022512043800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时19分 ~ 04时23分]"
+        },
+        {
+          "title": "李在明：向朝鲜飞无人机等同直接开枪",
+          "url": "https://www.baidu.com/s?wd=%E6%9D%8E%E5%9C%A8%E6%98%8E%EF%BC%9A%E5%90%91%E6%9C%9D%E9%B2%9C%E9%A3%9E%E6%97%A0%E4%BA%BA%E6%9C%BA%E7%AD%89%E5%90%8C%E7%9B%B4%E6%8E%A5%E5%BC%80%E6%9E%AA",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时34分 ~ 15时27分]"
         }
       ]
     },
@@ -993,8 +1082,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时30分 ~ 14时34分]"
+          "appearance_count": 7,
+          "time_info": "[09时30分 ~ 15时27分]"
         },
         {
           "title": "三年10倍！OpenAI年化营收突破200亿美元 今年重点推实际应用",
@@ -1006,8 +1095,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时43分 ~ 14时34分]"
+          "appearance_count": 5,
+          "time_info": "[11时43分 ~ 15时27分]"
         },
         {
           "title": "在 DeepMind 或 OpenAI 工作是什么体验？",
@@ -1030,6 +1119,66 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "财晓得丨金价涨成这样，到什么位置了？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32367730",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            7,
+            5,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[01时23分 ~ 15时27分]"
+        },
+        {
+          "title": "决定黄金价格的三大属性",
+          "url": "https://www.toutiao.com/trending/7597064696004349450/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            9,
+            4,
+            19,
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时28分 ~ 07时21分]"
+        },
+        {
+          "title": "金十图示：2026年01月20日（周二）上海金早盘价为1045.19元/克，较国际金价(1043.73元/克)，高1.46元/克",
+          "url": "https://flash.jin10.com/detail/20260120110210284800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时43分"
+        },
+        {
+          "title": "金十图示：2026年01月20日（周二）上海金午盘价为1055元/克，较国际金价(1054.32元/克)，高0.68元/克",
+          "url": "https://flash.jin10.com/detail/20260120150210258800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
         }
       ]
     },
@@ -1089,108 +1238,6 @@
       ]
     },
     {
-      "keyword_group": "无人机",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "李在明：向朝鲜飞无人机等同直接开枪",
-          "url": "https://www.toutiao.com/trending/7597263446861827610/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时44分 ~ 14时34分]"
-        },
-        {
-          "title": "土耳其安全消息人士：库尔德武装声称土耳其无人机袭击了哈塞克市的说法不属实。",
-          "url": "https://flash.jin10.com/detail/20260120023924284800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            21,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时19分 ~ 05时19分]"
-        },
-        {
-          "title": "库尔德部队：土耳其无人机袭击了叙利亚哈塞克市。",
-          "url": "https://flash.jin10.com/detail/20260120022512043800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时19分 ~ 04时23分]"
-        },
-        {
-          "title": "李在明：向朝鲜飞无人机等同直接开枪",
-          "url": "https://www.baidu.com/s?wd=%E6%9D%8E%E5%9C%A8%E6%98%8E%EF%BC%9A%E5%90%91%E6%9C%9D%E9%B2%9C%E9%A3%9E%E6%97%A0%E4%BA%BA%E6%9C%BA%E7%AD%89%E5%90%8C%E7%9B%B4%E6%8E%A5%E5%BC%80%E6%9E%AA",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时34分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "财晓得丨金价涨成这样，到什么位置了？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32367730",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            7,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时23分 ~ 14时34分]"
-        },
-        {
-          "title": "决定黄金价格的三大属性",
-          "url": "https://www.toutiao.com/trending/7597064696004349450/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            9,
-            4,
-            19,
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 07时21分]"
-        },
-        {
-          "title": "金十图示：2026年01月20日（周二）上海金早盘价为1045.19元/克，较国际金价(1043.73元/克)，高1.46元/克",
-          "url": "https://flash.jin10.com/detail/20260120110210284800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时43分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
       "match_count": 3,
       "titles": [
@@ -1202,8 +1249,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时20分 ~ 14时34分]"
+          "appearance_count": 9,
+          "time_info": "[07时20分 ~ 15时27分]"
         },
         {
           "title": "格陵兰引发关税战风险，欧美股齐跌，“马丁·路德·金纪念日”美股债休市，金银再创新高，铜价逼近13000",
