@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-20T11:43:37.402583+08:00",
-  "total_titles_processed": 909,
+  "generated_at": "2026-01-20T12:44:38.874401+08:00",
+  "total_titles_processed": 1003,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 41,
+      "match_count": 44,
       "titles": [
         {
           "title": "会武力夺岛？特朗普：无可奉告",
@@ -42,8 +42,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时28分 ~ 11时43分]"
+          "appearance_count": 13,
+          "time_info": "[00时28分 ~ 12时44分]"
         },
         {
           "title": "反制特朗普，马克龙冲最猛，默茨想拉住他",
@@ -100,11 +100,12 @@
           "ranks": [
             11,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时20分 ~ 11时43分]"
+          "appearance_count": 6,
+          "time_info": "[07时20分 ~ 12时44分]"
         },
         {
           "title": "特朗普写了一封信，杀气腾腾，槽点满满",
@@ -114,8 +115,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时30分 ~ 11时43分]"
+          "appearance_count": 4,
+          "time_info": "[09时30分 ~ 12时44分]"
         },
         {
           "title": "欧洲8国集体回应特朗普关税威胁",
@@ -164,6 +165,31 @@
           "time_info": "[04时23分 ~ 06时21分]"
         },
         {
+          "title": "美联储独立性的分水岭！明天，美国最高法院审“特朗普诉库克案”",
+          "url": "https://wallstreetcn.com/articles/3763591",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时30分 ~ 12时44分]"
+        },
+        {
+          "title": "特朗普重返白宫一周年，怎样评价他这一年的执政成绩？给美国带来了什么？",
+          "url": "https://www.zhihu.com/question/1995879633401374340",
+          "source": "知乎",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时30分 ~ 12时44分]"
+        },
+        {
           "title": "特朗普拒绝说明是否会以武力夺取格陵兰",
           "url": "https://wallstreetcn.com/livenews/3039855",
           "source": "华尔街见闻-快讯",
@@ -186,30 +212,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时28分 ~ 01时23分]"
-        },
-        {
-          "title": "美联储独立性的分水岭！明天，美国最高法院审“特朗普诉库克案”",
-          "url": "https://wallstreetcn.com/articles/3763591",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时30分 ~ 11时43分]"
-        },
-        {
-          "title": "特朗普重返白宫一周年，怎样评价他这一年的执政成绩？给美国带来了什么？",
-          "url": "https://www.zhihu.com/question/1995879633401374340",
-          "source": "知乎",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时30分 ~ 11时43分]"
         },
         {
           "title": "欧盟将召开特别峰会应对特朗普“夺岛”关税",
@@ -236,6 +238,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时31分 ~ 04时23分]"
+        },
+        {
+          "title": "又会是“极限施压、最后时刻妥协”剧本？市场“很懂”特朗普",
+          "url": "https://wallstreetcn.com/articles/3763642",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时43分 ~ 12时44分]"
         },
         {
           "title": "叙利亚总统府：叙利亚总统沙拉与美国总统特朗普在电话中讨论了叙利亚局势的最新发展，沙拉和特朗普同意继续合作打击“伊斯兰国”。沙拉和特朗普强调，有必要在叙利亚国家框架内维护库尔德人民的权利。",
@@ -272,6 +286,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时31分 ~ 03时19分]"
+        },
+        {
+          "title": "特朗普将于周三欧洲中部时间下午2:30在达沃斯论坛发表特别讲话。",
+          "url": "https://wallstreetcn.com/livenews/3040101",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时43分 ~ 12时44分]"
         },
         {
           "title": "报道：法国总统将拒绝特朗普“和平委员会”的加入邀请",
@@ -343,26 +369,26 @@
           "time_info": "[02时31分 ~ 03时19分]"
         },
         {
-          "title": "又会是“极限施压、最后时刻妥协”剧本？市场“很懂”特朗普",
-          "url": "https://wallstreetcn.com/articles/3763642",
-          "source": "华尔街见闻",
+          "title": "手握“10万亿美元武器”！分析师热议：欧洲是否会祭出“资本战”反击特朗普？",
+          "url": "https://www.cls.cn/detail/2263060",
+          "source": "财联社热门",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时43分"
+          "time_info": "12时44分"
         },
         {
-          "title": "特朗普将于周三欧洲中部时间下午2:30在达沃斯论坛发表特别讲话。",
-          "url": "https://wallstreetcn.com/livenews/3040101",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普关税威胁引发欧股抛售 奢侈品股全线大跌",
+          "url": "https://www.cls.cn/detail/2262836",
+          "source": "财联社热门",
           "ranks": [
-            11
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时43分"
+          "time_info": "12时44分"
         },
         {
           "title": "美国总统特朗普：（当被问及在未能达成格陵兰岛协议的情况下，是否会落实对欧洲国家加征关税的计划时）我会的，百分之百！",
@@ -453,6 +479,17 @@
           "time_info": "06时21分"
         },
         {
+          "title": "特朗普重返白宫1周年",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E9%87%8D%E8%BF%94%E7%99%BD%E5%AE%AB1%E5%91%A8%E5%B9%B4%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        },
+        {
           "title": "分析师：若特朗普任命过于听话的美联储主席，债市将迅速惩罚美国",
           "url": "https://wallstreetcn.com/livenews/3039827",
           "source": "华尔街见闻-快讯",
@@ -481,7 +518,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时43分"
         }
@@ -584,11 +621,12 @@
           "source": "今日头条",
           "ranks": [
             4,
-            5
+            5,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时30分 ~ 11时43分]"
+          "appearance_count": 4,
+          "time_info": "[09时30分 ~ 12时44分]"
         },
         {
           "title": "俄罗斯一地居民挖通积雪才能回家",
@@ -604,6 +642,19 @@
           "time_info": "[04时23分 ~ 07时21分]"
         },
         {
+          "title": "俄罗斯一地居民挖通积雪才能回家",
+          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E4%B8%80%E5%9C%B0%E5%B1%85%E6%B0%91%E6%8C%96%E9%80%9A%E7%A7%AF%E9%9B%AA%E6%89%8D%E8%83%BD%E5%9B%9E%E5%AE%B6",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            14,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时30分 ~ 12时44分]"
+        },
+        {
           "title": "匈牙利石油和天然气有限公司：已与俄罗斯天然气工业石油公司签署具有约束力的协议，收购其在塞尔维亚石油公司（NIS）中持有的56.15%股权。",
           "url": "https://flash.jin10.com/detail/20260120010417665800",
           "source": "金十数据",
@@ -614,18 +665,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时23分 ~ 02时31分]"
-        },
-        {
-          "title": "俄罗斯一地居民挖通积雪才能回家",
-          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E4%B8%80%E5%9C%B0%E5%B1%85%E6%B0%91%E6%8C%96%E9%80%9A%E7%A7%AF%E9%9B%AA%E6%89%8D%E8%83%BD%E5%9B%9E%E5%AE%B6",
-          "source": "百度热搜",
-          "ranks": [
-            6,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时30分 ~ 11时43分]"
         },
         {
           "title": "俄新社：俄罗斯方面表示，扎波罗热核电站已通过一条线路恢复供电。",
@@ -661,11 +700,24 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时30分 ~ 11时43分]"
+          "appearance_count": 4,
+          "time_info": "[09时30分 ~ 12时44分]"
+        },
+        {
+          "title": "三年10倍！OpenAI年化营收突破200亿美元 今年重点推实际应用",
+          "url": "https://www.cls.cn/detail/2262946",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时43分 ~ 12时44分]"
         },
         {
           "title": "在 DeepMind 或 OpenAI 工作是什么体验？",
@@ -677,17 +729,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时20分 ~ 07时21分]"
-        },
-        {
-          "title": "三年10倍！OpenAI年化营收突破200亿美元 今年重点推实际应用",
-          "url": "https://www.cls.cn/detail/2262946",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时43分"
         },
         {
           "title": "OpenAI政策主管Lehane在达沃斯接受采访时说，该公司计划2026年发布第一款设备。（Axios）",
@@ -751,7 +792,57 @@
           "ranks": [
             8
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "汽车",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "雷诺汽车将助力法国发展无人机产业",
+          "url": "https://flash.jin10.com/detail/20260120063627017800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "货车碰撞多辆汽车 中山警方通报",
+          "url": "https://www.douyin.com/hot/2373531",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时23分]"
+        },
+        {
+          "title": "野村证券：将韩国现代汽车目标价从37万韩元上调至57万韩元。",
+          "url": "https://flash.jin10.com/detail/20260120120506884800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        },
+        {
+          "title": "金十图示：2026年01月20日（周二）全球汽车制造商市值变化",
+          "url": "https://flash.jin10.com/detail/20260120110922604800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时43分"
         }
@@ -773,8 +864,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时23分 ~ 11时43分]"
+          "appearance_count": 12,
+          "time_info": "[01时23分 ~ 12时44分]"
         },
         {
           "title": "决定黄金价格的三大属性",
@@ -799,7 +890,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时43分"
         }
@@ -828,8 +919,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时20分 ~ 11时43分]"
+          "appearance_count": 6,
+          "time_info": "[07时20分 ~ 12时44分]"
         },
         {
           "title": "格陵兰引发关税战风险，美股债休市，欧股重创，美元走低，避险情绪推金银新高",
@@ -845,82 +936,20 @@
       ]
     },
     {
-      "keyword_group": "汽车",
+      "keyword_group": "无人机",
       "match_count": 3,
       "titles": [
         {
-          "title": "雷诺汽车将助力法国发展无人机产业",
-          "url": "https://flash.jin10.com/detail/20260120063627017800",
-          "source": "金十数据",
+          "title": "李在明：向朝鲜飞无人机等同直接开枪",
+          "url": "https://www.toutiao.com/trending/7597263446861827610/",
+          "source": "今日头条",
           "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
-          "title": "货车碰撞多辆汽车 中山警方通报",
-          "url": "https://www.douyin.com/hot/2373531",
-          "source": "抖音",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 01时23分]"
-        },
-        {
-          "title": "金十图示：2026年01月20日（周二）全球汽车制造商市值变化",
-          "url": "https://flash.jin10.com/detail/20260120110922604800",
-          "source": "金十数据",
-          "ranks": [
-            12
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "战争",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "古巴启动“战争状态”",
-          "url": "https://www.douyin.com/hot/2373251",
-          "source": "抖音",
-          "ranks": [
-            12,
-            11,
-            9,
-            10,
-            21,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时28分 ~ 11时43分]"
+          "time_info": "12时44分"
         },
-        {
-          "title": "高市被批将日本带向战争边缘",
-          "url": "https://www.toutiao.com/trending/7596631238899843126/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时30分 ~ 11时43分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "无人机",
-      "match_count": 2,
-      "titles": [
         {
           "title": "土耳其安全消息人士：库尔德武装声称土耳其无人机袭击了哈塞克市的说法不属实。",
           "url": "https://flash.jin10.com/detail/20260120023924284800",
@@ -945,6 +974,41 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时19分 ~ 04时23分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "战争",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "古巴启动“战争状态”",
+          "url": "https://www.douyin.com/hot/2373251",
+          "source": "抖音",
+          "ranks": [
+            12,
+            11,
+            9,
+            10,
+            21,
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时28分 ~ 12时44分]"
+        },
+        {
+          "title": "高市被批将日本带向战争边缘",
+          "url": "https://www.toutiao.com/trending/7596631238899843126/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时30分 ~ 11时43分]"
         }
       ]
     },
