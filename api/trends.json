@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-22T19:23:28.246560+08:00",
-  "total_titles_processed": 1770,
+  "generated_at": "2026-01-22T20:46:24.796097+08:00",
+  "total_titles_processed": 1889,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 191,
+      "match_count": 201,
       "titles": [
         {
           "title": "泽连斯基将出席达沃斯论坛并与特朗普会面",
@@ -111,8 +111,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时42分 ~ 19时23分]"
+          "appearance_count": 15,
+          "time_info": "[09时42分 ~ 20时46分]"
         },
         {
           "title": "特朗普取消对欧洲8国加征关税：已与北约就格陵兰达成“框架性协议”",
@@ -152,6 +152,17 @@
           "time_info": "[07时24分 ~ 15时27分]"
         },
         {
+          "title": "在中国大量采购之下，拉美多国挺过特朗普关税冲击",
+          "url": "https://news.ifeng.com/c/8q7kEg1He8Y",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时31分 ~ 20时46分]"
+        },
+        {
           "title": "特朗普刚喊完中俄威胁，转头就否了",
           "url": "https://news.ifeng.com/c/8q61Pub3oAS",
           "source": "凤凰网",
@@ -172,8 +183,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时27分 ~ 19时23分]"
+          "appearance_count": 12,
+          "time_info": "[13时27分 ~ 20时46分]"
         },
         {
           "title": "特朗普要败诉？美最高法对罢免美联储理事库克态度谨慎，大法官警告“粉碎”央行独立性",
@@ -186,8 +197,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时24分 ~ 19时23分]"
+          "appearance_count": 16,
+          "time_info": "[07时24分 ~ 20时46分]"
         },
         {
           "title": "特朗普达沃斯演讲再提“收购格陵兰岛” 否认会动武强夺 现货黄金短线震荡",
@@ -214,8 +225,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时42分 ~ 19时23分]"
+          "appearance_count": 15,
+          "time_info": "[09时42分 ~ 20时46分]"
         },
         {
           "title": "伊朗警告特朗普",
@@ -287,17 +298,6 @@
           "time_info": "[00时46分 ~ 09时42分]"
         },
         {
-          "title": "在中国大量采购之下，拉美多国挺过特朗普关税冲击",
-          "url": "https://news.ifeng.com/c/8q7kEg1He8Y",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时31分 ~ 19时23分]"
-        },
-        {
           "title": "“阻击”特朗普，国会横插一脚：中国用三流芯片都能击败我们",
           "url": "https://news.ifeng.com/c/8q7ObeyfwPG",
           "source": "凤凰网",
@@ -335,6 +335,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[03时26分 ~ 07时24分]"
+        },
+        {
+          "title": "美国底层活不起，特朗普却在达沃斯炫耀“让富人更富”",
+          "url": "https://news.ifeng.com/c/8q7huMODUfi",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时31分 ~ 20时46分]"
         },
         {
           "title": "乌克兰总统泽连斯基即将于达沃斯会晤美国总统特朗普，乌克兰国际债券最高上涨2.5美分。",
@@ -442,21 +455,33 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         },
         {
-          "title": "美国底层活不起，特朗普却在达沃斯炫耀“让富人更富”",
-          "url": "https://news.ifeng.com/c/8q7huMODUfi",
-          "source": "凤凰网",
+          "title": "特朗普谈格陵兰：美国将有充分的准入权。",
+          "url": "https://wallstreetcn.com/livenews/3042074",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            7
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "解读特朗普和平委员会宪章",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E7%89%B9%E6%9C%97%E6%99%AE%E5%92%8C%E5%B9%B3%E5%A7%94%E5%91%98%E4%BC%9A%E5%AE%AA%E7%AB%A0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            28,
+            24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时31分 ~ 19时23分]"
+          "appearance_count": 4,
+          "time_info": "[18时26分 ~ 20时46分]"
         },
         {
           "title": "格陵兰岛协定泄露，特朗普获得了什么？丨Hi，今天怎么看？",
@@ -492,18 +517,6 @@
           "time_info": "04时30分"
         },
         {
-          "title": "解读特朗普和平委员会宪章",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E7%89%B9%E6%9C%97%E6%99%AE%E5%92%8C%E5%B9%B3%E5%A7%94%E5%91%98%E4%BC%9A%E5%AE%AA%E7%AB%A0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时26分 ~ 19时23分]"
-        },
-        {
           "title": "美国总统特朗普：相信俄乌和平即将到来。",
           "url": "https://flash.jin10.com/detail/20260122181418264800",
           "source": "金十数据",
@@ -513,6 +526,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
+        },
+        {
+          "title": "特朗普与乌克兰总统泽连斯基的会晤开始。 泽连斯基办公室证实了双边会晤的消息。",
+          "url": "https://wallstreetcn.com/livenews/3042072",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "特朗普达沃斯演讲，被群嘲了",
+          "url": "https://news.ifeng.com/c/8q7oOaAst69",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时26分 ~ 20时46分]"
         },
         {
           "title": "美国总统特朗普：人们在信用卡利息上支付了太多费用。 信用卡公司应该给人们一些喘息的机会。",
@@ -720,6 +755,19 @@
           "time_info": "[00时46分 ~ 01时55分]"
         },
         {
+          "title": "中方回应特朗普达沃斯涉华言论",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%BE%BE%E6%B2%83%E6%96%AF%E6%B6%89%E5%8D%8E%E8%A8%80%E8%AE%BA",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            24,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时26分 ~ 20时46分]"
+        },
+        {
           "title": "特朗普就格陵兰问题表态“软化”",
           "url": "https://www.toutiao.com/trending/7597760219610877482/",
           "source": "今日头条",
@@ -729,29 +777,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时54分 ~ 04时30分]"
-        },
-        {
-          "title": "特朗普达沃斯演讲，被群嘲了",
-          "url": "https://news.ifeng.com/c/8q7oOaAst69",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时26分 ~ 19时23分]"
-        },
-        {
-          "title": "中方回应特朗普达沃斯涉华言论",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%BE%BE%E6%B2%83%E6%96%AF%E6%B6%89%E5%8D%8E%E8%A8%80%E8%AE%BA",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时26分 ~ 19时23分]"
         },
         {
           "title": "特朗普称不武夺格陵兰岛",
@@ -1141,6 +1166,17 @@
           "time_info": "04时30分"
         },
         {
+          "title": "“我们已没有足够能力”，“特朗普”级战列舰遭唱衰",
+          "url": "https://news.ifeng.com/c/8q7nDFVG9w6",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
           "title": "欧洲军工股普遍收跌，美国总统特朗普在达沃斯改口称“不会武力夺取格陵兰”。 德国上市的WisdomTree Europe Defence UCITS ETF（EUDF.GY）收跌1.08%，报34.84欧元，北京时间22:36刷新日低至34.549999欧元。 英国伦敦上市、对军工股“照收不误”的Future of Defence UCITS ETF（NATO.LN）收跌0.91%。",
           "url": "https://wallstreetcn.com/livenews/3041472",
           "source": "华尔街见闻-快讯",
@@ -1169,7 +1205,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         },
@@ -1194,6 +1230,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时42分"
+        },
+        {
+          "title": "美国总统特朗普与乌克兰总统泽连斯基的会晤开始。",
+          "url": "https://flash.jin10.com/detail/20260122201853458800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
         },
         {
           "title": "丹麦：美国总统特朗普不会对格陵兰动武的论调“是正面的”。",
@@ -1273,6 +1320,17 @@
           "time_info": "17时32分"
         },
         {
+          "title": "专家痛批特朗普达沃斯演讲",
+          "url": "https://www.douyin.com/hot/2376328",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
           "title": "特朗普再施压鲍威尔离任，重申美联储新主席人选已接近确定",
           "url": "https://flash.jin10.com/detail/20260122063506778800",
           "source": "金十数据",
@@ -1334,7 +1392,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         },
@@ -1499,7 +1557,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         },
@@ -1658,6 +1716,17 @@
           "time_info": "11时47分"
         },
         {
+          "title": "美国总统特朗普：金色穹顶的一部分将落在格陵兰岛。",
+          "url": "https://flash.jin10.com/detail/20260122200849196800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
           "title": "美国总统特朗普对瑞士和瑞士手表行业赞不绝口。",
           "url": "https://wallstreetcn.com/livenews/3041394",
           "source": "华尔街见闻-快讯",
@@ -1711,6 +1780,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
+        },
+        {
+          "title": "美国总统特朗普：（谈及格陵兰岛）将实行全面准入，不设时间限制，细节正在谈判中。",
+          "url": "https://flash.jin10.com/detail/20260122200834531800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
         },
         {
           "title": "美国总统特朗普：将观察能否让埃及与埃塞俄比亚达成尼罗河大坝协议。",
@@ -1821,6 +1901,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时55分"
+        },
+        {
+          "title": "特朗普在达沃斯启动所谓“和平委员会”",
+          "url": "https://wallstreetcn.com/livenews/3042042",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
         },
         {
           "title": "特朗普调侃马克龙戴墨镜",
@@ -2027,7 +2118,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         },
@@ -2120,6 +2211,17 @@
           "time_info": "01时55分"
         },
         {
+          "title": "特朗普在达沃斯启动“和平委员会”",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E8%BE%BE%E6%B2%83%E6%96%AF%E5%90%AF%E5%8A%A8%E2%80%9C%E5%92%8C%E5%B9%B3%E5%A7%94%E5%91%98%E4%BC%9A%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
           "title": "美国总统特朗普：我们正接近解决乌克兰战争。",
           "url": "https://flash.jin10.com/detail/20260122014604447800",
           "source": "金十数据",
@@ -2195,6 +2297,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时48分"
+        },
+        {
+          "title": "特朗普重申：我认为乌克兰和俄罗斯的关系正在逐渐拉近。",
+          "url": "https://wallstreetcn.com/livenews/3042032",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
         }
       ]
     },
@@ -2247,8 +2360,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时42分 ~ 19时23分]"
+          "appearance_count": 15,
+          "time_info": "[09时42分 ~ 20时46分]"
         },
         {
           "title": "美股集体高开 百度涨5%",
@@ -2508,7 +2621,7 @@
     },
     {
       "keyword_group": "俄罗斯",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
         {
           "title": "俄罗斯总统普京表示，在俄乌达成和平协议后，可利用在美被冻结的俄罗斯资产重建受影响的区域。",
@@ -2558,6 +2671,18 @@
           "time_info": "14时33分"
         },
         {
+          "title": "俄罗斯遭大规模袭击",
+          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E9%81%AD%E5%A4%A7%E8%A7%84%E6%A8%A1%E8%A2%AD%E5%87%BB",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时26分 ~ 20时46分]"
+        },
+        {
           "title": "俄罗斯愿拨10亿美元给和平委员会",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E6%84%BF%E6%8B%A810%E4%BA%BF%E7%BE%8E%E5%85%83%E7%BB%99%E5%92%8C%E5%B9%B3%E5%A7%94%E5%91%98%E4%BC%9A%23&t=31&band_rank=14&Refer=top",
           "source": "微博",
@@ -2569,18 +2694,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时47分 ~ 13时28分]"
-        },
-        {
-          "title": "俄罗斯遭大规模袭击",
-          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E9%81%AD%E5%A4%A7%E8%A7%84%E6%A8%A1%E8%A2%AD%E5%87%BB",
-          "source": "百度热搜",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时26分 ~ 19时23分]"
         },
         {
           "title": "随着运费飙升，新油轮加入俄罗斯石油贸易",
@@ -2624,7 +2737,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         },
@@ -2693,6 +2806,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
+        },
+        {
+          "title": "俄罗斯副总理诺瓦克：美国对俄罗斯石油公司的制裁破坏了全球能源资源的可持续性，加剧了全球石油市场的波动。",
+          "url": "https://flash.jin10.com/detail/20260122200051918800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "俄罗斯副总理诺瓦克：俄罗斯的液化天然气产量将在2025年达到约3200万吨。",
+          "url": "https://flash.jin10.com/detail/20260122200047265800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "俄罗斯副总理诺瓦克：俄罗斯煤炭产量将在2025年达到4.4亿吨。",
+          "url": "https://flash.jin10.com/detail/20260122200029807800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
         }
       ]
     },
@@ -2744,7 +2890,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         },
@@ -2833,7 +2979,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         }
@@ -2999,6 +3145,18 @@
           "time_info": "[00时46分 ~ 07时24分]"
         },
         {
+          "title": "男子趁金价高涨出手500克金条",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%B6%81%E9%87%91%E4%BB%B7%E9%AB%98%E6%B6%A8%E5%87%BA%E6%89%8B500%E5%85%8B%E9%87%91%E6%9D%A1",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时31分 ~ 20时46分]"
+        },
+        {
           "title": "黄金价格会崩吗",
           "url": "https://www.toutiao.com/trending/7597976651418308122/",
           "source": "今日头条",
@@ -3011,18 +3169,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[11时47分 ~ 15时27分]"
-        },
-        {
-          "title": "男子趁金价高涨出手500克金条",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%B6%81%E9%87%91%E4%BB%B7%E9%AB%98%E6%B6%A8%E5%87%BA%E6%89%8B500%E5%85%8B%E9%87%91%E6%9D%A1",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时31分 ~ 19时23分]"
         },
         {
           "title": "男子趁金价高涨出手500克金条",
@@ -3118,7 +3264,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "特朗普“TACO”，美股收复昨日失地，美元美债反弹，黄金冲高回落仍收涨",
@@ -3128,8 +3274,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时42分 ~ 19时23分]"
+          "appearance_count": 15,
+          "time_info": "[09时42分 ~ 20时46分]"
         },
         {
           "title": "特朗普上演“TACO”式反转，美股收复昨日失地，美元美债反弹，黄金冲高回落仍收涨",
@@ -3141,6 +3287,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
+        },
+        {
+          "title": "加拿大安大略省教师养老基金减少美元、美债的敞口",
+          "url": "https://wallstreetcn.com/livenews/3042077",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
         },
         {
           "title": "美欧格陵兰争端升级，德商行预警美债持有者面临制裁风险",
