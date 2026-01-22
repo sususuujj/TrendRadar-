@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-22T18:27:17.517864+08:00",
-  "total_titles_processed": 1682,
+  "generated_at": "2026-01-22T19:23:28.246560+08:00",
+  "total_titles_processed": 1770,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 186,
+      "match_count": 191,
       "titles": [
         {
           "title": "泽连斯基将出席达沃斯论坛并与特朗普会面",
@@ -51,6 +51,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[09时42分 ~ 16时31分]"
+        },
+        {
+          "title": "特朗普讽刺欧洲，瑞典首相站出来了",
+          "url": "https://news.ifeng.com/c/8q7HRYEmKHC",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时33分 ~ 19时23分]"
         },
         {
           "title": "特朗普演绎“TACO星期三”！美国市场“雷阵雨转晴” 华尔街如何看？",
@@ -100,19 +111,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时42分 ~ 18时27分]"
-        },
-        {
-          "title": "特朗普讽刺欧洲，瑞典首相站出来了",
-          "url": "https://news.ifeng.com/c/8q7HRYEmKHC",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时33分 ~ 18时27分]"
+          "appearance_count": 14,
+          "time_info": "[09时42分 ~ 19时23分]"
         },
         {
           "title": "特朗普取消对欧洲8国加征关税：已与北约就格陵兰达成“框架性协议”",
@@ -163,6 +163,19 @@
           "time_info": "[00时46分 ~ 09时42分]"
         },
         {
+          "title": "不动武了、也不加税了！特朗普达沃斯上演“格陵兰TACO”",
+          "url": "https://wallstreetcn.com/articles/3763883",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[13时27分 ~ 19时23分]"
+        },
+        {
           "title": "特朗普要败诉？美最高法对罢免美联储理事库克态度谨慎，大法官警告“粉碎”央行独立性",
           "url": "https://wallstreetcn.com/articles/3763857",
           "source": "华尔街见闻",
@@ -173,20 +186,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时24分 ~ 18时27分]"
-        },
-        {
-          "title": "不动武了、也不加税了！特朗普达沃斯上演“格陵兰TACO”",
-          "url": "https://wallstreetcn.com/articles/3763883",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时27分 ~ 18时27分]"
+          "appearance_count": 15,
+          "time_info": "[07时24分 ~ 19时23分]"
         },
         {
           "title": "特朗普达沃斯演讲再提“收购格陵兰岛” 否认会动武强夺 现货黄金短线震荡",
@@ -213,8 +214,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时42分 ~ 18时27分]"
+          "appearance_count": 14,
+          "time_info": "[09时42分 ~ 19时23分]"
         },
         {
           "title": "伊朗警告特朗普",
@@ -259,6 +260,19 @@
           "time_info": "[00时46分 ~ 07时24分]"
         },
         {
+          "title": "观察｜夺岛风波中集体炮轰特朗普，欧洲这次真要硬刚美国？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32434094",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[11时47分 ~ 19时23分]"
+        },
+        {
           "title": "特朗普回归后签署「大而美」法案、开启全球贸易战，真的让制造业回归了吗？重塑了美国国内的经济结构吗？",
           "url": "https://www.zhihu.com/question/1996540321803301777",
           "source": "知乎",
@@ -273,19 +287,6 @@
           "time_info": "[00时46分 ~ 09时42分]"
         },
         {
-          "title": "观察｜夺岛风波中集体炮轰特朗普，欧洲这次真要硬刚美国？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32434094",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            13,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时47分 ~ 18时27分]"
-        },
-        {
           "title": "在中国大量采购之下，拉美多国挺过特朗普关税冲击",
           "url": "https://news.ifeng.com/c/8q7kEg1He8Y",
           "source": "凤凰网",
@@ -293,8 +294,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时31分 ~ 18时27分]"
+          "appearance_count": 5,
+          "time_info": "[17时31分 ~ 19时23分]"
         },
         {
           "title": "“阻击”特朗普，国会横插一脚：中国用三流芯片都能击败我们",
@@ -305,8 +306,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时33分 ~ 18时27分]"
+          "appearance_count": 9,
+          "time_info": "[14时33分 ~ 19时23分]"
         },
         {
           "title": "特朗普对贸易战“踩刹车” 马斯克据悉希望在7月前让SpaceX上市 | 环球市场",
@@ -336,17 +337,6 @@
           "time_info": "[03时26分 ~ 07时24分]"
         },
         {
-          "title": "解读特朗普和平委员会宪章",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E7%89%B9%E6%9C%97%E6%99%AE%E5%92%8C%E5%B9%B3%E5%A7%94%E5%91%98%E4%BC%9A%E5%AE%AA%E7%AB%A0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时26分 ~ 18时27分]"
-        },
-        {
           "title": "乌克兰总统泽连斯基即将于达沃斯会晤美国总统特朗普，乌克兰国际债券最高上涨2.5美分。",
           "url": "https://flash.jin10.com/detail/20260122162215338800",
           "source": "金十数据",
@@ -364,7 +354,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         },
@@ -378,17 +368,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时48分"
-        },
-        {
-          "title": "特朗普指出西班牙并未承诺达到北约5%的军费开支目标。",
-          "url": "https://wallstreetcn.com/livenews/3041992",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时27分"
         },
         {
           "title": "北约发言人：北约秘书长吕特在达沃斯与美国总统特朗普就格陵兰岛问题会晤时“并未提出任何有损主权的妥协方案”。",
@@ -408,7 +387,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         },
@@ -452,20 +431,32 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         },
         {
-          "title": "特朗普重申美国每年1.5万亿美元国防开支的愿望。",
-          "url": "https://wallstreetcn.com/livenews/3041990",
-          "source": "华尔街见闻-快讯",
+          "title": "美国总统特朗普在和平委员会活动上结束讲话。",
+          "url": "https://flash.jin10.com/detail/20260122191056521800",
+          "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时27分"
+          "time_info": "19时23分"
+        },
+        {
+          "title": "美国底层活不起，特朗普却在达沃斯炫耀“让富人更富”",
+          "url": "https://news.ifeng.com/c/8q7huMODUfi",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时31分 ~ 19时23分]"
         },
         {
           "title": "格陵兰岛协定泄露，特朗普获得了什么？丨Hi，今天怎么看？",
@@ -485,7 +476,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         },
@@ -501,15 +492,16 @@
           "time_info": "04时30分"
         },
         {
-          "title": "特朗普：结束加沙战争只剩下一些零星的火苗。 必须对真主党和黎巴嫩采取行动。 与委内瑞拉领导人关系良好。",
-          "url": "https://wallstreetcn.com/livenews/3041989",
-          "source": "华尔街见闻-快讯",
+          "title": "解读特朗普和平委员会宪章",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E7%89%B9%E6%9C%97%E6%99%AE%E5%92%8C%E5%B9%B3%E5%A7%94%E5%91%98%E4%BC%9A%E5%AE%AA%E7%AB%A0",
+          "source": "bilibili 热搜",
           "ranks": [
-            4
+            3,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时27分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时26分 ~ 19时23分]"
         },
         {
           "title": "美国总统特朗普：相信俄乌和平即将到来。",
@@ -518,7 +510,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         },
@@ -534,18 +526,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时30分 ~ 06时24分]"
-        },
-        {
-          "title": "美国底层活不起，特朗普却在达沃斯炫耀“让富人更富”",
-          "url": "https://news.ifeng.com/c/8q7huMODUfi",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时31分 ~ 18时27分]"
         },
         {
           "title": "总理梅洛尼：意大利不会立即加入特朗普提出的和平委员会",
@@ -583,6 +563,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时32分 ~ 18时27分]"
+        },
+        {
+          "title": "特朗普指出西班牙并未承诺达到北约5%的军费开支目标。",
+          "url": "https://wallstreetcn.com/livenews/3041992",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时27分 ~ 19时23分]"
         },
         {
           "title": "美国总统特朗普：我们与埃及有着极好的关系。",
@@ -633,6 +625,18 @@
           "time_info": "[04时30分 ~ 05时28分]"
         },
         {
+          "title": "特朗普重申美国每年1.5万亿美元国防开支的愿望。",
+          "url": "https://wallstreetcn.com/livenews/3041990",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时27分 ~ 19时23分]"
+        },
+        {
           "title": "白宫顾问Leavitt：美国总统特朗普将会见北约秘书长吕特。 双方将讨论格陵兰问题。 特朗普在（吞并且）拥有格陵兰方面是顽固的。",
           "url": "https://wallstreetcn.com/livenews/3041467",
           "source": "华尔街见闻-快讯",
@@ -643,6 +647,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时41分 ~ 03时26分]"
+        },
+        {
+          "title": "特朗普：结束加沙战争只剩下一些零星的火苗。 必须对真主党和黎巴嫩采取行动。 与委内瑞拉领导人关系良好。",
+          "url": "https://wallstreetcn.com/livenews/3041989",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时27分 ~ 19时23分]"
         },
         {
           "title": "特朗普达沃斯发言闹乌龙：格陵兰多次被称为冰岛",
@@ -722,8 +738,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时26分 ~ 18时27分]"
+          "appearance_count": 3,
+          "time_info": "[18时26分 ~ 19时23分]"
+        },
+        {
+          "title": "中方回应特朗普达沃斯涉华言论",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%BE%BE%E6%B2%83%E6%96%AF%E6%B6%89%E5%8D%8E%E8%A8%80%E8%AE%BA",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时26分 ~ 19时23分]"
         },
         {
           "title": "特朗普称不武夺格陵兰岛",
@@ -759,6 +787,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时24分 ~ 07时24分]"
+        },
+        {
+          "title": "特朗普：和平委员会将与联合国合作。 感谢白宫官员在达沃斯所做的工作。",
+          "url": "https://wallstreetcn.com/livenews/3041983",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时27分 ~ 19时23分]"
         },
         {
           "title": "美国总统特朗普：（谈格陵兰岛）可能会看到一个合理的价格。",
@@ -807,6 +847,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时24分 ~ 07时24分]"
+        },
+        {
+          "title": "瑞士媒体：面对欧洲，特朗普只有敷衍的疲态笑容",
+          "url": "https://wallstreetcn.com/livenews/3041980",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时27分 ~ 19时23分]"
         },
         {
           "title": "北约秘书长吕特对美国总统特朗普说：“你的盟友将与你同在。”",
@@ -1001,17 +1053,6 @@
           "time_info": "[11时47分 ~ 12时47分]"
         },
         {
-          "title": "中方回应特朗普达沃斯涉华言论",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%BE%BE%E6%B2%83%E6%96%AF%E6%B6%89%E5%8D%8E%E8%A8%80%E8%AE%BA",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时26分 ~ 18时27分]"
-        },
-        {
           "title": "中方回应特朗普达沃斯言论",
           "url": "https://www.toutiao.com/trending/7598085406047453226/",
           "source": "今日头条",
@@ -1062,7 +1103,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         },
@@ -1100,17 +1141,6 @@
           "time_info": "04时30分"
         },
         {
-          "title": "特朗普：和平委员会将与联合国合作。 感谢白宫官员在达沃斯所做的工作。",
-          "url": "https://wallstreetcn.com/livenews/3041983",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时27分"
-        },
-        {
           "title": "欧洲军工股普遍收跌，美国总统特朗普在达沃斯改口称“不会武力夺取格陵兰”。 德国上市的WisdomTree Europe Defence UCITS ETF（EUDF.GY）收跌1.08%，报34.84欧元，北京时间22:36刷新日低至34.549999欧元。 英国伦敦上市、对军工股“照收不误”的Future of Defence UCITS ETF（NATO.LN）收跌0.91%。",
           "url": "https://wallstreetcn.com/livenews/3041472",
           "source": "华尔街见闻-快讯",
@@ -1133,15 +1163,15 @@
           "time_info": "04时30分"
         },
         {
-          "title": "瑞士媒体：面对欧洲，特朗普只有敷衍的疲态笑容",
-          "url": "https://wallstreetcn.com/livenews/3041980",
+          "title": "特朗普签署和平委员会章程。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3042001",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时27分"
+          "time_info": "19时23分"
         },
         {
           "title": "美国总统特朗普在达沃斯会见了波兰总统纳夫罗基。",
@@ -1227,7 +1257,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         },
@@ -1296,6 +1326,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时30分"
+        },
+        {
+          "title": "特朗普：联合国拥有巨大的潜力。",
+          "url": "https://wallstreetcn.com/livenews/3041996",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时23分"
         },
         {
           "title": "摩根士丹利警告：特朗普政府政策可能加速全球去美元化进程",
@@ -1450,6 +1491,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时55分"
+        },
+        {
+          "title": "特朗普说普京同意了普京说还没",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E6%99%AE%E4%BA%AC%E5%90%8C%E6%84%8F%E4%BA%86%E6%99%AE%E4%BA%AC%E8%AF%B4%E8%BF%98%E6%B2%A1%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时23分"
         },
         {
           "title": "市场消息：特朗普将在达沃斯向商界领袖发表讲话，随后将与北约秘书长吕特举行会晤。",
@@ -1755,7 +1807,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         },
@@ -1964,9 +2016,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
+        },
+        {
+          "title": "法国用特朗普表情包回怼特朗普",
+          "url": "https://www.toutiao.com/trending/7597353774646624262/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时23分"
         },
         {
           "title": "美国总统特朗普：我们有很多优秀的人想加入和平委员会。",
@@ -2184,8 +2247,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时42分 ~ 18时27分]"
+          "appearance_count": 14,
+          "time_info": "[09时42分 ~ 19时23分]"
         },
         {
           "title": "美股集体高开 百度涨5%",
@@ -2393,7 +2456,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         },
@@ -2445,7 +2508,7 @@
     },
     {
       "keyword_group": "俄罗斯",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "俄罗斯总统普京表示，在俄乌达成和平协议后，可利用在美被冻结的俄罗斯资产重建受影响的区域。",
@@ -2470,6 +2533,20 @@
           "time_info": "14时33分"
         },
         {
+          "title": "俄罗斯超级暴雪是怎么形成的",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BF%84%E7%BD%97%E6%96%AF%E8%B6%85%E7%BA%A7%E6%9A%B4%E9%9B%AA%E6%98%AF%E6%80%8E%E4%B9%88%E5%BD%A2%E6%88%90%E7%9A%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27,
+            17,
+            12,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时46分 ~ 19时23分]"
+        },
+        {
           "title": "基辅市长：在最近的俄罗斯袭击之后，仍有约3000栋公寓楼没有供暖。",
           "url": "https://flash.jin10.com/detail/20260122141844087800",
           "source": "金十数据",
@@ -2479,19 +2556,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
-        },
-        {
-          "title": "俄罗斯超级暴雪是怎么形成的",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BF%84%E7%BD%97%E6%96%AF%E8%B6%85%E7%BA%A7%E6%9A%B4%E9%9B%AA%E6%98%AF%E6%80%8E%E4%B9%88%E5%BD%A2%E6%88%90%E7%9A%84",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27,
-            17,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时46分 ~ 13时28分]"
         },
         {
           "title": "俄罗斯愿拨10亿美元给和平委员会",
@@ -2511,11 +2575,12 @@
           "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E9%81%AD%E5%A4%A7%E8%A7%84%E6%A8%A1%E8%A2%AD%E5%87%BB",
           "source": "百度热搜",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时26分 ~ 18时27分]"
+          "appearance_count": 3,
+          "time_info": "[18时26分 ~ 19时23分]"
         },
         {
           "title": "随着运费飙升，新油轮加入俄罗斯石油贸易",
@@ -2553,13 +2618,24 @@
           "time_info": "16时31分"
         },
         {
+          "title": "乌克兰军方：已袭击了俄罗斯的塔曼涅夫特加斯石油终端。",
+          "url": "https://flash.jin10.com/detail/20260122190627674800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时23分"
+        },
+        {
           "title": "俄罗斯国防部：过去24小时内，俄罗斯防空部队击落了9枚制导炸弹和224架乌克兰无人机。",
           "url": "https://flash.jin10.com/detail/20260122180337794800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         },
@@ -2617,6 +2693,149 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "美总统威胁将伊朗从地球上抹去",
+          "url": "https://www.toutiao.com/trending/7597183641940820018/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            6,
+            10,
+            15,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时54分 ~ 07时24分]"
+        },
+        {
+          "title": "凤凰直击丨伊朗骚乱后，数十辆被焚公交车只剩骨架",
+          "url": "https://news.ifeng.com/c/8q7RRrMZXA9",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时33分 ~ 17时32分]"
+        },
+        {
+          "title": "据耶路撒冷邮报：以色列国防部长卡茨今天将与以色列国防军高级官员举行形势评估，以应对与伊朗日益紧张的局势。会议将评估以色列在多种情境下的战备状态，包括伊朗可能对美国军事打击进行报复，进而将以色列本土作为攻击目标的可能性。",
+          "url": "https://flash.jin10.com/detail/20260122142255904800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时33分"
+        },
+        {
+          "title": "伊朗军官：伊朗领土遭袭将令所有美军基地成合法攻击目标",
+          "url": "https://wallstreetcn.com/livenews/3042014",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时23分"
+        },
+        {
+          "title": "伊朗霍尔木兹甘省安全部门抓获15名骚乱参与者",
+          "url": "https://flash.jin10.com/detail/20260122150321055800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时27分"
+        },
+        {
+          "title": "据官方媒体：与伊朗内政部有关联的高级安全机构将与动乱相关的死亡人数定为3117人。",
+          "url": "https://flash.jin10.com/detail/20260122022052391800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时41分 ~ 03时26分]"
+        },
+        {
+          "title": "伊朗官方：3117人在近期骚乱事件中死亡",
+          "url": "https://flash.jin10.com/detail/20260122035911473800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时30分"
+        },
+        {
+          "title": "伊朗克尔曼省发生4.4级地震",
+          "url": "https://wallstreetcn.com/livenews/3041799",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时33分"
+        },
+        {
+          "title": "以色列总统赫尔佐格：我希望伊朗会有所改变。",
+          "url": "https://flash.jin10.com/detail/20260122161545075800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
+          "title": "伊朗国家安全委员会：3117人在近期骚乱事件中死亡",
+          "url": "https://wallstreetcn.com/livenews/3041548",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时24分"
+        },
+        {
+          "title": "以色列总统赫尔佐格：经过多条战线的战斗，我们的处境有所好转，但阴云依然笼罩着我们。很明显，伊朗正在重整旗鼓。",
+          "url": "https://flash.jin10.com/detail/20260122161324810800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
+          "title": "伊朗近期骚乱超3000人死亡",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E8%BF%91%E6%9C%9F%E9%AA%9A%E4%B9%B1%E8%B6%853000%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时23分"
         }
       ]
     },
@@ -2802,8 +3021,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时31分 ~ 18时27分]"
+          "appearance_count": 6,
+          "time_info": "[16时31分 ~ 19时23分]"
         },
         {
           "title": "男子趁金价高涨出手500克金条",
@@ -2898,127 +3117,6 @@
       ]
     },
     {
-      "keyword_group": "伊朗",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "美总统威胁将伊朗从地球上抹去",
-          "url": "https://www.toutiao.com/trending/7597183641940820018/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            6,
-            10,
-            15,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时54分 ~ 07时24分]"
-        },
-        {
-          "title": "凤凰直击丨伊朗骚乱后，数十辆被焚公交车只剩骨架",
-          "url": "https://news.ifeng.com/c/8q7RRrMZXA9",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时33分 ~ 17时32分]"
-        },
-        {
-          "title": "据耶路撒冷邮报：以色列国防部长卡茨今天将与以色列国防军高级官员举行形势评估，以应对与伊朗日益紧张的局势。会议将评估以色列在多种情境下的战备状态，包括伊朗可能对美国军事打击进行报复，进而将以色列本土作为攻击目标的可能性。",
-          "url": "https://flash.jin10.com/detail/20260122142255904800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时33分"
-        },
-        {
-          "title": "伊朗霍尔木兹甘省安全部门抓获15名骚乱参与者",
-          "url": "https://flash.jin10.com/detail/20260122150321055800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时27分"
-        },
-        {
-          "title": "据官方媒体：与伊朗内政部有关联的高级安全机构将与动乱相关的死亡人数定为3117人。",
-          "url": "https://flash.jin10.com/detail/20260122022052391800",
-          "source": "金十数据",
-          "ranks": [
-            16,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时41分 ~ 03时26分]"
-        },
-        {
-          "title": "伊朗官方：3117人在近期骚乱事件中死亡",
-          "url": "https://flash.jin10.com/detail/20260122035911473800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时30分"
-        },
-        {
-          "title": "伊朗克尔曼省发生4.4级地震",
-          "url": "https://wallstreetcn.com/livenews/3041799",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时33分"
-        },
-        {
-          "title": "以色列总统赫尔佐格：我希望伊朗会有所改变。",
-          "url": "https://flash.jin10.com/detail/20260122161545075800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时31分"
-        },
-        {
-          "title": "伊朗国家安全委员会：3117人在近期骚乱事件中死亡",
-          "url": "https://wallstreetcn.com/livenews/3041548",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时24分"
-        },
-        {
-          "title": "以色列总统赫尔佐格：经过多条战线的战斗，我们的处境有所好转，但阴云依然笼罩着我们。很明显，伊朗正在重整旗鼓。",
-          "url": "https://flash.jin10.com/detail/20260122161324810800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时31分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
       "match_count": 7,
       "titles": [
@@ -3030,8 +3128,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时42分 ~ 18时27分]"
+          "appearance_count": 14,
+          "time_info": "[09时42分 ~ 19时23分]"
         },
         {
           "title": "特朗普上演“TACO”式反转，美股收复昨日失地，美元美债反弹，黄金冲高回落仍收涨",
@@ -3233,6 +3331,17 @@
           "time_info": "[12时47分 ~ 15时27分]"
         },
         {
+          "title": "我军无人机蜂群作战罕见曝光",
+          "url": "https://www.toutiao.com/trending/7597338056668086314/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时31分 ~ 19时23分]"
+        },
+        {
           "title": "解放军无人机蜂群作战罕见曝光",
           "url": "https://www.baidu.com/s?wd=%E8%A7%A3%E6%94%BE%E5%86%9B%E6%97%A0%E4%BA%BA%E6%9C%BA%E8%9C%82%E7%BE%A4%E4%BD%9C%E6%88%98%E7%BD%95%E8%A7%81%E6%9B%9D%E5%85%89",
           "source": "百度热搜",
@@ -3241,22 +3350,12 @@
             16,
             4,
             7,
-            9
+            9,
+            14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时33分 ~ 18时27分]"
-        },
-        {
-          "title": "我军无人机蜂群作战罕见曝光",
-          "url": "https://www.toutiao.com/trending/7597338056668086314/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时31分 ~ 18时27分]"
+          "appearance_count": 9,
+          "time_info": "[14时33分 ~ 19时23分]"
         },
         {
           "title": "天蓬元帅？180斤活猪用无人机吊运",
