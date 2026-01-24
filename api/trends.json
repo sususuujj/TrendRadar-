@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-24T19:17:55.960668+08:00",
-  "total_titles_processed": 1334,
+  "generated_at": "2026-01-24T20:38:41.127818+08:00",
+  "total_titles_processed": 1414,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 53,
+      "match_count": 54,
       "titles": [
         {
           "title": "特朗普称将于4月访问中国，外交部回应",
@@ -52,6 +52,19 @@
           "time_info": "[00时29分 ~ 09时28分]"
         },
         {
+          "title": "格陵兰岛开启，随后是日债崩盘、特朗普TACO，日元干预收尾--“头条主宰市场”的一周结束了",
+          "url": "https://wallstreetcn.com/articles/3764066",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时35分 ~ 20时38分]"
+        },
+        {
           "title": "斯塔默要求特朗普道歉，白宫回应",
           "url": "https://news.ifeng.com/c/8qAZ4sSmnvP",
           "source": "凤凰网",
@@ -74,19 +87,6 @@
           "time_info": "[11时26分 ~ 17时20分]"
         },
         {
-          "title": "格陵兰岛开启，随后是日债崩盘、特朗普TACO，日元干预收尾--“头条主宰市场”的一周结束了",
-          "url": "https://wallstreetcn.com/articles/3764066",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时35分 ~ 19时17分]"
-        },
-        {
           "title": "中方回应特朗普称将于4月访华",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E4%BA%8E4%E6%9C%88%E8%AE%BF%E5%8D%8E",
           "source": "bilibili 热搜",
@@ -104,6 +104,18 @@
           "time_info": "[00时29分 ~ 09时28分]"
         },
         {
+          "title": "加拿大卡尼“反霸凌”演讲“捅了马蜂窝”，特朗普团队“勃然大怒”",
+          "url": "https://wallstreetcn.com/articles/3764068",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时31分 ~ 20时38分]"
+        },
+        {
           "title": "达沃斯论坛受挫后，特朗普狂发80条帖子，一度每4分钟发一条",
           "url": "https://v.ifeng.com/c/8q9T6e8iY2X",
           "source": "凤凰网",
@@ -111,8 +123,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时26分 ~ 19时17分]"
+          "appearance_count": 11,
+          "time_info": "[11时26分 ~ 20时38分]"
         },
         {
           "title": "4人争夺美联储主席，谁能讨好特朗普又不毁美元信用？专家解读",
@@ -164,18 +176,6 @@
           "time_info": "[00时29分 ~ 07时20分]"
         },
         {
-          "title": "加拿大卡尼“反霸凌”演讲“捅了马蜂窝”，特朗普团队“勃然大怒”",
-          "url": "https://wallstreetcn.com/articles/3764068",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时31分 ~ 19时17分]"
-        },
-        {
           "title": "报道：特朗普要求格陵兰全面放开军事限制",
           "url": "https://wallstreetcn.com/articles/3764043",
           "source": "华尔街见闻",
@@ -186,6 +186,21 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[09时28分 ~ 19时17分]"
+        },
+        {
+          "title": "白宫发特朗普在格陵兰岛牵企鹅AI图，网友：格陵兰岛没企鹅",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32456544",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            14,
+            13,
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时31分 ~ 20时38分]"
         },
         {
           "title": "白宫晒特朗普格陵兰牵企鹅照翻车",
@@ -199,31 +214,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时35分 ~ 15时19分]"
-        },
-        {
-          "title": "白宫发特朗普在格陵兰岛牵企鹅AI图，网友：格陵兰岛没企鹅",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32456544",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            14,
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时31分 ~ 19时17分]"
-        },
-        {
-          "title": "深度解析特朗普365天赢学",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90%E7%89%B9%E6%9C%97%E6%99%AE365%E5%A4%A9%E8%B5%A2%E5%AD%A6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时25分 ~ 16时26分]"
         },
         {
           "title": "白宫发布特朗普与企鹅走向格陵兰岛AI图片",
@@ -268,6 +258,18 @@
           "time_info": "[09时28分 ~ 15时19分]"
         },
         {
+          "title": "深度解析特朗普365天赢学",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90%E7%89%B9%E6%9C%97%E6%99%AE365%E5%A4%A9%E8%B5%A2%E5%AD%A6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时25分 ~ 20时38分]"
+        },
+        {
           "title": "加州司法部长将就Sable Offshore输油管道重启一事起诉特朗普政府。",
           "url": "https://flash.jin10.com/detail/20260124023137303800",
           "source": "金十数据",
@@ -278,6 +280,20 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时24分 ~ 07时20分]"
+        },
+        {
+          "title": "欧洲央行管委兼德国央行行长Nagel：不应无故贬低德国经济。 特朗普关税最大的输家是美国消费者。",
+          "url": "https://wallstreetcn.com/livenews/3043257",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            13,
+            17,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时20分 ~ 20时38分]"
         },
         {
           "title": "为何特朗普想要格陵兰岛",
@@ -292,6 +308,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时19分 ~ 19时17分]"
+        },
+        {
+          "title": "白宫发布特朗普与企鹅走向格陵兰岛AI图片",
+          "url": "https://www.cls.cn/detail/2268566",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时25分 ~ 20时38分]"
         },
         {
           "title": "美媒：特朗普政府考虑对古巴石油进口实施海上封锁",
@@ -368,17 +396,17 @@
           "time_info": "[07时20分 ~ 09时28分]"
         },
         {
-          "title": "欧洲央行管委兼德国央行行长Nagel：不应无故贬低德国经济。 特朗普关税最大的输家是美国消费者。",
-          "url": "https://wallstreetcn.com/livenews/3043257",
-          "source": "华尔街见闻-快讯",
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-24）",
+          "url": "https://flash.jin10.com/detail/20260124175804687800",
+          "source": "金十数据",
           "ranks": [
             4,
-            13,
-            17
+            12,
+            19
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[17时20分 ~ 19时17分]"
+          "time_info": "[18时21分 ~ 20时38分]"
         },
         {
           "title": "白宫：美国总统特朗普签署部分拨款法案，使其生效。",
@@ -407,18 +435,6 @@
           "time_info": "[11时26分 ~ 14时31分]"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-24）",
-          "url": "https://flash.jin10.com/detail/20260124175804687800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时21分 ~ 19时17分]"
-        },
-        {
           "title": "特朗普政府正在考虑全面封锁古巴石油进口",
           "url": "https://wallstreetcn.com/livenews/3043145",
           "source": "华尔街见闻-快讯",
@@ -429,18 +445,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时18分 ~ 07时20分]"
-        },
-        {
-          "title": "白宫发布特朗普与企鹅走向格陵兰岛AI图片",
-          "url": "https://www.cls.cn/detail/2268566",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时25分 ~ 19时17分]"
         },
         {
           "title": "特朗普称联邦紧急事务管理局已做好充分准备应对冬季风暴",
@@ -592,6 +596,17 @@
           "time_info": "[02时31分 ~ 03时24分]"
         },
         {
+          "title": "特朗普炫耀美军“秘密声波武器”俄方要求美方做出澄清",
+          "url": "https://flash.jin10.com/detail/20260124191803265800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
+        },
+        {
           "title": "英首相说特朗普言论极具侮辱性",
           "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B1%E9%A6%96%E7%9B%B8%E8%AF%B4%E7%89%B9%E6%9C%97%E6%99%AE%E8%A8%80%E8%AE%BA%E6%9E%81%E5%85%B7%E4%BE%AE%E8%BE%B1%E6%80%A7%23&t=31&band_rank=8&Refer=top",
           "source": "微博",
@@ -661,7 +676,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "外交部回应美调重兵前往伊朗",
@@ -853,6 +868,20 @@
           "time_info": "[11时26分 ~ 14时31分]"
         },
         {
+          "title": "土耳其外长说以色列正伺机攻击伊朗",
+          "url": "https://wallstreetcn.com/livenews/3043253",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            18,
+            22,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时20分 ~ 20时38分]"
+        },
+        {
           "title": "伊朗：任何形式的攻击都将被视作对伊“全面战争”",
           "url": "https://wallstreetcn.com/livenews/3043214",
           "source": "华尔街见闻-快讯",
@@ -878,19 +907,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时26分 ~ 18时21分]"
-        },
-        {
-          "title": "土耳其外长说以色列正伺机攻击伊朗",
-          "url": "https://wallstreetcn.com/livenews/3043253",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            18,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时20分 ~ 19时17分]"
         },
         {
           "title": "伊朗电视台现场展示自产无人机 曾在以伊冲突中投入使用",
@@ -940,6 +956,17 @@
           "time_info": "[16时25分 ~ 16时26分]"
         },
         {
+          "title": "消息人士：美国正在向玻利维亚施压，要求其驱逐疑似伊朗间谍，并将伊朗伊斯兰革命卫队（IRGC）列为恐怖组织。美国官员也在讨论在智利、秘鲁、巴拿马采取类似举措。",
+          "url": "https://flash.jin10.com/detail/20260124190033665800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
+        },
+        {
           "title": "美国对伊朗又一轮新制裁",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8F%88%E4%B8%80%E8%BD%AE%E6%96%B0%E5%88%B6%E8%A3%81%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -965,7 +992,7 @@
     },
     {
       "keyword_group": "俄罗斯",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "俄罗斯一航班在我上空遇紧急状态降落兰州，原因公布",
@@ -1009,6 +1036,42 @@
           "time_info": "[13时21分 ~ 17时20分]"
         },
         {
+          "title": "俄罗斯气工同意出售NIS股份 Mol力争三月底签约",
+          "url": "https://flash.jin10.com/detail/20260124193748173800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
+        },
+        {
+          "title": "俄罗斯最新涉华表态",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E6%9C%80%E6%96%B0%E6%B6%89%E5%8D%8E%E8%A1%A8%E6%80%81%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
+        },
+        {
+          "title": "据俄新社：俄罗斯军队控制了乌克兰哈尔科夫地区的斯塔里察。",
+          "url": "https://flash.jin10.com/detail/20260124170757444800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            15,
+            23,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时20分 ~ 20时38分]"
+        },
+        {
           "title": "普京：俄罗斯正加强核动力破冰船的建设工作",
           "url": "https://flash.jin10.com/detail/20260124022512842800",
           "source": "金十数据",
@@ -1044,19 +1107,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时19分 ~ 17时20分]"
-        },
-        {
-          "title": "据俄新社：俄罗斯军队控制了乌克兰哈尔科夫地区的斯塔里察。",
-          "url": "https://flash.jin10.com/detail/20260124170757444800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            15,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时20分 ~ 19时17分]"
         },
         {
           "title": "乌克兰副总理：俄罗斯袭击导致乌克兰至少120万用户断电，其中基辅就有80多万用户。",
@@ -1097,6 +1147,32 @@
           "time_info": "[02时31分 ~ 03时24分]"
         },
         {
+          "title": "消息人士：乌克兰与俄罗斯之间的谈判周六在阿布扎比恢复。",
+          "url": "https://flash.jin10.com/detail/20260124172216125800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            17,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时21分 ~ 20时38分]"
+        },
+        {
+          "title": "据国际文传电讯社：俄罗斯昨夜对乌克兰远程无人机基地和能源设施发动大规模袭击。",
+          "url": "https://flash.jin10.com/detail/20260124170852220800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            22,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时21分 ~ 20时38分]"
+        },
+        {
           "title": "乌克兰总统泽连斯基：俄罗斯当天凌晨对乌克兰多个地区发动大规模袭击，发射了370多架无人机和21枚不同类型的导弹，已造成一人死亡、数十人受伤。",
           "url": "https://flash.jin10.com/detail/20260124154853626800",
           "source": "金十数据",
@@ -1107,18 +1183,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时26分 ~ 17时20分]"
-        },
-        {
-          "title": "消息人士：乌克兰与俄罗斯之间的谈判周六在阿布扎比恢复。",
-          "url": "https://flash.jin10.com/detail/20260124172216125800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时21分 ~ 19时17分]"
         },
         {
           "title": "据法国媒体：法国海军已将涉嫌属于俄罗斯影子船队的被扣押油轮“格林奇”号改道驶往马赛-福斯港。",
@@ -1143,18 +1207,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时26分 ~ 17时20分]"
-        },
-        {
-          "title": "据国际文传电讯社：俄罗斯昨夜对乌克兰远程无人机基地和能源设施发动大规模袭击。",
-          "url": "https://flash.jin10.com/detail/20260124170852220800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时21分 ~ 19时17分]"
         },
         {
           "title": "乌克兰外交部长表示，俄罗斯总统普京在阿布扎比代表团会晤期间，冷酷地下令对乌克兰发动大规模导弹袭击。",
@@ -1205,8 +1257,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时20分 ~ 19时17分]"
+          "appearance_count": 13,
+          "time_info": "[07时20分 ~ 20时38分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 纳指小幅上涨 英特尔暴跌17%",
@@ -1216,11 +1268,12 @@
             11,
             3,
             4,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时20分 ~ 19时17分]"
+          "appearance_count": 13,
+          "time_info": "[07时20分 ~ 20时38分]"
         },
         {
           "title": "地缘风险仍未消散，美股周线承压，英特尔跌14%，美元遭遇半年来最差一周，纽约期银突破100美元，创历史新高",
@@ -1576,6 +1629,19 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "胖东来金饰每克便宜 200 元，其质量如何？为什么胖东来的金价如此有竞争力？",
+          "url": "https://www.zhihu.com/question/1997605038588129408",
+          "source": "知乎",
+          "ranks": [
+            15,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时21分 ~ 20时38分]"
+        },
+        {
           "title": "金价暴涨胖东来金店挤爆了",
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E8%83%96%E4%B8%9C%E6%9D%A5%E9%87%91%E5%BA%97%E6%8C%A4%E7%88%86%E4%BA%86%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
@@ -1585,18 +1651,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时29分 ~ 06时18分]"
-        },
-        {
-          "title": "胖东来金饰每克便宜 200 元，其质量如何？为什么胖东来的金价如此有竞争力？",
-          "url": "https://www.zhihu.com/question/1997605038588129408",
-          "source": "知乎",
-          "ranks": [
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时21分 ~ 19时17分]"
         },
         {
           "title": "金价一度涨穿4990美元创历史新高，本周涨超8%",
@@ -1650,7 +1704,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时17分"
         }
@@ -1715,6 +1769,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "战争",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "英格兰长弓在百年战争之后为什么鲜有记载呢？",
+          "url": "https://www.zhihu.com/question/506286336",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
         }
       ]
     },
