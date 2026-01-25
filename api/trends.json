@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T21:32:30.336675+08:00",
-  "total_titles_processed": 1274,
+  "generated_at": "2026-01-25T22:19:10.831140+08:00",
+  "total_titles_processed": 1302,
   "failed_sources": [],
   "trends": [
     {
@@ -57,8 +57,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时52分 ~ 21时32分]"
+          "appearance_count": 13,
+          "time_info": "[12时52分 ~ 22时19分]"
         },
         {
           "title": "特朗普施压后，英国突然叫停",
@@ -72,8 +72,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时49分 ~ 21时32分]"
+          "appearance_count": 15,
+          "time_info": "[09时49分 ~ 22时19分]"
+        },
+        {
+          "title": "特朗普嫌盟友在阿富汗没出力，英、澳等国“接受不了”",
+          "url": "https://news.ifeng.com/c/8qCeJxu5emm",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时21分 ~ 22时19分]"
         },
         {
           "title": "美国州检察官起诉特朗普政府，指控其阻碍枪击案调查",
@@ -88,11 +101,12 @@
             13,
             19,
             25,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时52分 ~ 21时32分]"
+          "appearance_count": 11,
+          "time_info": "[12时52分 ~ 22时19分]"
         },
         {
           "title": "相关谈判“进展顺利”，特朗普称美国将取得格陵兰岛美军基地所在区域“主权”",
@@ -105,8 +119,21 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时53分 ~ 21时32分]"
+          "appearance_count": 14,
+          "time_info": "[11时53分 ~ 22时19分]"
+        },
+        {
+          "title": "特朗普威胁“100%关税”，加拿大总理卡尼号召民众“购买国货”",
+          "url": "https://wallstreetcn.com/articles/3764088",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时21分 ~ 22时19分]"
         },
         {
           "title": "美国财政部：特朗普将出席特朗普账户峰会",
@@ -143,21 +170,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时23分 ~ 21时32分]"
-        },
-        {
-          "title": "特朗普嫌盟友在阿富汗没出力，英、澳等国“接受不了”",
-          "url": "https://news.ifeng.com/c/8qCeJxu5emm",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时21分 ~ 21时32分]"
+          "appearance_count": 26,
+          "time_info": "[00时23分 ~ 22时19分]"
         },
         {
           "title": "特朗普政府计划向美国稀土公司（USA Rare Earth）注资16亿美元，以加强关键矿产资源的供应保障。美国政府将获得美国稀土公司10%的股份。（英国金融时报）",
@@ -218,19 +232,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时23分 ~ 09时49分]"
-        },
-        {
-          "title": "特朗普威胁“100%关税”，加拿大总理卡尼号召民众“购买国货”",
-          "url": "https://wallstreetcn.com/articles/3764088",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时21分 ~ 21时32分]"
         },
         {
           "title": "特朗普告诉《纽约邮报》，委内瑞拉石油将运往休斯敦炼油厂。",
@@ -298,6 +299,28 @@
           "time_info": "[12时52分 ~ 17时21分]"
         },
         {
+          "title": "白宫发布特朗普和企鹅漫步格陵兰岛图，遭群嘲",
+          "url": "https://news.ifeng.com/c/8qClugB0Wf0",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时21分 ~ 22时19分]"
+        },
+        {
+          "title": "10亿美元一席！特朗普任“主席”",
+          "url": "https://news.ifeng.com/c/8qCp5coUR2t",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时21分 ~ 22时19分]"
+        },
+        {
           "title": "特朗普承认美军在委使用秘密武器，目击者：被袭者头痛吐血",
           "url": "https://news.ifeng.com/c/8qCTUGtfKG0",
           "source": "凤凰网",
@@ -349,15 +372,17 @@
           "time_info": "[18时21分 ~ 20时40分]"
         },
         {
-          "title": "白宫发布特朗普和企鹅漫步格陵兰岛图，遭群嘲",
-          "url": "https://news.ifeng.com/c/8qClugB0Wf0",
-          "source": "凤凰网",
+          "title": "意总理：特朗普有关北约盟友“脱离前线”言论“不可接受”",
+          "url": "https://wallstreetcn.com/livenews/3043386",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            4,
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时21分 ~ 21时32分]"
+          "appearance_count": 3,
+          "time_info": "[20时40分 ~ 22时19分]"
         },
         {
           "title": "特朗普起诉美国最大银行摩根大通，索赔至少 50 亿美元，具体是怎么回事？他能胜诉吗？",
@@ -373,27 +398,17 @@
           "time_info": "[06时19分 ~ 09时49分]"
         },
         {
-          "title": "10亿美元一席！特朗普任“主席”",
-          "url": "https://news.ifeng.com/c/8qCp5coUR2t",
-          "source": "凤凰网",
+          "title": "俄总统新闻秘书：欧洲政坛“弱势一代”无法抵挡特朗普的强势",
+          "url": "https://flash.jin10.com/detail/20260125194457069800",
+          "source": "金十数据",
           "ranks": [
-            7
+            5,
+            12,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时21分 ~ 21时32分]"
-        },
-        {
-          "title": "意总理：特朗普有关北约盟友“脱离前线”言论“不可接受”",
-          "url": "https://wallstreetcn.com/livenews/3043386",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时40分 ~ 21时32分]"
+          "appearance_count": 3,
+          "time_info": "[20时40分 ~ 22时19分]"
         },
         {
           "title": "挪威首相批评特朗普北约言论“有失尊重”",
@@ -407,18 +422,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时49分 ~ 13时28分]"
-        },
-        {
-          "title": "俄总统新闻秘书：欧洲政坛“弱势一代”无法抵挡特朗普的强势",
-          "url": "https://flash.jin10.com/detail/20260125194457069800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时40分 ~ 21时32分]"
         },
         {
           "title": "克里姆林宫：特朗普的做法与俄罗斯构建多极世界的方针不符。",
@@ -605,6 +608,180 @@
       ]
     },
     {
+      "keyword_group": "伊朗",
+      "match_count": 14,
+      "titles": [
+        {
+          "title": "波斯湾的“极限施压”：美国为何总对伊朗“开剧场”？",
+          "url": "https://news.ifeng.com/c/8qCssmxgCNY",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时17分 ~ 22时19分]"
+        },
+        {
+          "title": "伊朗首都德黑兰现况",
+          "url": "https://www.toutiao.com/trending/7598005552178855977/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            10,
+            16,
+            25,
+            7,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[02时28分 ~ 07时19分]"
+        },
+        {
+          "title": "伊朗国防部：伊朗的导弹防御能力得到加强",
+          "url": "https://flash.jin10.com/detail/20260124213101931800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 09时49分]"
+        },
+        {
+          "title": "伊朗国防部：伊朗的导弹防御能力得到加强",
+          "url": "https://wallstreetcn.com/livenews/3043294",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 07时19分]"
+        },
+        {
+          "title": "美国特使赴以会晤内塔尼亚胡 聚焦加沙重建与伊朗局势",
+          "url": "https://flash.jin10.com/detail/20260124203410675800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 07时19分]"
+        },
+        {
+          "title": "伊朗军方说已做好迎战敌人准备",
+          "url": "https://flash.jin10.com/detail/20260125105022586800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            6,
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时53分 ~ 16时26分]"
+        },
+        {
+          "title": "伊朗称在多地抓获数百名与近期骚乱有关人员",
+          "url": "https://wallstreetcn.com/livenews/3043392",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时32分 ~ 22时19分]"
+        },
+        {
+          "title": "伊朗官员称伊武装力量已进入全面戒备状态",
+          "url": "https://wallstreetcn.com/livenews/3043393",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        },
+        {
+          "title": "伊朗官员称伊武装力量已进入全面戒备状态",
+          "url": "https://flash.jin10.com/detail/20260125213838908800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        },
+        {
+          "title": "伊朗通信部门：尚未接到恢复国际互联网连接的指令",
+          "url": "https://flash.jin10.com/detail/20260125212511165800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        },
+        {
+          "title": "伊朗军方称已做好迎战准备",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E5%86%9B%E6%96%B9%E7%A7%B0%E5%B7%B2%E5%81%9A%E5%A5%BD%E8%BF%8E%E6%88%98%E5%87%86%E5%A4%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时31分 ~ 15时22分]"
+        },
+        {
+          "title": "靛蓝航空：鉴于伊朗近期局势发展，原定于1月25日从德里飞往第比利斯以及从孟买飞往阿拉木图并返程的航班已取消。",
+          "url": "https://flash.jin10.com/detail/20260125185722956800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            22,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时40分 ~ 22时19分]"
+        },
+        {
+          "title": "伊朗官员：已为最坏情况做好准备",
+          "url": "https://www.toutiao.com/trending/7598489537325023268/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
+          "title": "专家：美对伊朗极限施压增加地区风险",
+          "url": "https://www.toutiao.com/trending/7598905967417232939/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时17分"
+        }
+      ]
+    },
+    {
       "keyword_group": "俄罗斯",
       "match_count": 13,
       "titles": [
@@ -729,11 +906,12 @@
           "source": "金十数据",
           "ranks": [
             11,
-            18
+            18,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时40分 ~ 21时32分]"
+          "appearance_count": 3,
+          "time_info": "[20时40分 ~ 22时19分]"
         },
         {
           "title": "克里姆林宫：俄罗斯永远不会与欧盟外交与安全政策高级代表卡拉斯讨论任何问题，只会等待她离职。",
@@ -741,11 +919,12 @@
           "source": "金十数据",
           "ranks": [
             13,
-            20
+            20,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时40分 ~ 21时32分]"
+          "appearance_count": 3,
+          "time_info": "[20时40分 ~ 22时19分]"
         },
         {
           "title": "俄罗斯最新涉华表态",
@@ -769,145 +948,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "伊朗首都德黑兰现况",
-          "url": "https://www.toutiao.com/trending/7598005552178855977/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            10,
-            16,
-            25,
-            7,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时28分 ~ 07时19分]"
-        },
-        {
-          "title": "伊朗国防部：伊朗的导弹防御能力得到加强",
-          "url": "https://flash.jin10.com/detail/20260124213101931800",
-          "source": "金十数据",
-          "ranks": [
-            15,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 09时49分]"
-        },
-        {
-          "title": "伊朗国防部：伊朗的导弹防御能力得到加强",
-          "url": "https://wallstreetcn.com/livenews/3043294",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 07时19分]"
-        },
-        {
-          "title": "美国特使赴以会晤内塔尼亚胡 聚焦加沙重建与伊朗局势",
-          "url": "https://flash.jin10.com/detail/20260124203410675800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 07时19分]"
-        },
-        {
-          "title": "波斯湾的“极限施压”：美国为何总对伊朗“开剧场”？",
-          "url": "https://news.ifeng.com/c/8qCssmxgCNY",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时17分 ~ 21时32分]"
-        },
-        {
-          "title": "伊朗军方说已做好迎战敌人准备",
-          "url": "https://flash.jin10.com/detail/20260125105022586800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            6,
-            14,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时53分 ~ 16时26分]"
-        },
-        {
-          "title": "伊朗称在多地抓获数百名与近期骚乱有关人员",
-          "url": "https://wallstreetcn.com/livenews/3043392",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时32分"
-        },
-        {
-          "title": "伊朗军方称已做好迎战准备",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E5%86%9B%E6%96%B9%E7%A7%B0%E5%B7%B2%E5%81%9A%E5%A5%BD%E8%BF%8E%E6%88%98%E5%87%86%E5%A4%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时31分 ~ 15时22分]"
-        },
-        {
-          "title": "靛蓝航空：鉴于伊朗近期局势发展，原定于1月25日从德里飞往第比利斯以及从孟买飞往阿拉木图并返程的航班已取消。",
-          "url": "https://flash.jin10.com/detail/20260125185722956800",
-          "source": "金十数据",
-          "ranks": [
-            15,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时40分 ~ 21时32分]"
-        },
-        {
-          "title": "伊朗官员：已为最坏情况做好准备",
-          "url": "https://www.toutiao.com/trending/7598489537325023268/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时21分"
-        },
-        {
-          "title": "专家：美对伊朗极限施压增加地区风险",
-          "url": "https://www.toutiao.com/trending/7598905967417232939/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时17分"
         }
       ]
     },
@@ -958,11 +998,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时40分 ~ 21时32分]"
+          "appearance_count": 3,
+          "time_info": "[20时40分 ~ 22时19分]"
         },
         {
           "title": "雷军称小米汽车熔岩橙配色敢买的人太少",
@@ -983,11 +1024,12 @@
           "url": "https://flash.jin10.com/detail/20260125203014022800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时32分 ~ 22时19分]"
         }
       ]
     },
@@ -1021,8 +1063,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时31分 ~ 21时32分]"
+          "appearance_count": 11,
+          "time_info": "[14时31分 ~ 22时19分]"
         },
         {
           "title": "金价波动",
@@ -1196,11 +1238,12 @@
             6,
             12,
             18,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时26分 ~ 21时32分]"
+          "appearance_count": 7,
+          "time_info": "[16时26分 ~ 22时19分]"
         },
         {
           "title": "白银价格跟随黄金狂飙",
@@ -1226,11 +1269,12 @@
           "ranks": [
             18,
             6,
-            19
+            19,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时17分 ~ 21时32分]"
+          "appearance_count": 5,
+          "time_info": "[19时17分 ~ 22时19分]"
         }
       ]
     },
@@ -1243,11 +1287,12 @@
           "url": "https://flash.jin10.com/detail/20260125204305443800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时32分 ~ 22时19分]"
         }
       ]
     }
