@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T22:48:50.968329+08:00",
-  "total_titles_processed": 2122,
+  "generated_at": "2026-01-29T23:35:21.482476+08:00",
+  "total_titles_processed": 2207,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 56,
+      "match_count": 57,
       "titles": [
         {
           "title": "特朗普：一支庞大的舰队正前往伊朗",
@@ -127,6 +127,33 @@
           "time_info": "[09时54分 ~ 15时39分]"
         },
         {
+          "title": "释新闻｜特朗普连续第三天施压伊朗再提核计划，美国要开打了吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32488307",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14,
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时41分 ~ 23时35分]"
+        },
+        {
+          "title": "特朗普升级对伊施压，布油重回70美元，白银冲上120后回落，黄金突破5500，伦铜涨幅扩大至10%创新高",
+          "url": "https://wallstreetcn.com/articles/3764423",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时01分 ~ 23时35分]"
+        },
+        {
           "title": "特朗普被曝“正考虑对伊朗发动新的重大打击”",
           "url": "https://www.cls.cn/detail/2273523",
           "source": "财联社热门",
@@ -140,33 +167,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[12时07分 ~ 16时38分]"
-        },
-        {
-          "title": "释新闻｜特朗普连续第三天施压伊朗再提核计划，美国要开打了吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32488307",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            14,
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时41分 ~ 22时48分]"
-        },
-        {
-          "title": "特朗普升级对伊施压，布油重回70美元，白银冲上120后回落，黄金突破5500，伦铜涨幅扩大至10%创新高",
-          "url": "https://wallstreetcn.com/articles/3764423",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时01分 ~ 22时48分]"
         },
         {
           "title": "美国总统特朗普结束在“特朗普账号”活动上的发言。",
@@ -189,17 +189,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时32分"
-        },
-        {
-          "title": "伊朗议会议长：难以信任特朗普",
-          "url": "https://wallstreetcn.com/livenews/3046543",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时48分"
         },
         {
           "title": "美国总统特朗普称赞英伟达为“特朗普账户”捐款。",
@@ -274,6 +263,18 @@
           "time_info": "[01时32分 ~ 02时36分]"
         },
         {
+          "title": "伊朗议会议长：难以信任特朗普",
+          "url": "https://wallstreetcn.com/livenews/3046543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时48分 ~ 23时35分]"
+        },
+        {
           "title": "美国总统特朗普在“特朗普账户”活动上赞赏英伟达的捐款。",
           "url": "https://wallstreetcn.com/livenews/3045719",
           "source": "华尔街见闻-快讯",
@@ -307,6 +308,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时54分 ~ 12时07分]"
+        },
+        {
+          "title": "打击伊朗的机会窗口未到，特朗普在等什么？",
+          "url": "https://v.ifeng.com/c/8qJY5CqQQ7n",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时48分 ~ 23时35分]"
         },
         {
           "title": "美国总统特朗普在特朗普账户活动上发表讲话时称赞戴尔电脑，此前戴尔夫妇为“特朗普账户”豪捐62.5亿美元 。",
@@ -451,17 +463,6 @@
           "time_info": "[17时41分 ~ 17时42分]"
         },
         {
-          "title": "打击伊朗的机会窗口未到，特朗普在等什么？",
-          "url": "https://v.ifeng.com/c/8qJY5CqQQ7n",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时48分"
-        },
-        {
           "title": "美国总统特朗普称赞优步和英特尔为“特朗普账户”捐款。",
           "url": "https://flash.jin10.com/detail/20260129004214872800",
           "source": "金十数据",
@@ -545,9 +546,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时48分"
+        },
+        {
+          "title": "美国边境事务主管：特朗普承认移民执法行动需要改进",
+          "url": "https://wallstreetcn.com/livenews/3046552",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
         },
         {
           "title": "特朗普再派舰队施压伊朗",
@@ -633,7 +645,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时48分"
         },
@@ -674,7 +686,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 38,
+      "match_count": 45,
       "titles": [
         {
           "title": "伊朗启动紧急措施“备战”",
@@ -750,13 +762,24 @@
           "time_info": "18时36分"
         },
         {
+          "title": "伊朗：不会主动挑起战争 若遭到侵略将坚决反击",
+          "url": "https://wallstreetcn.com/livenews/3046565",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
+        },
+        {
           "title": "据报道，伊朗发出警告，宣布计划于周日和周一在霍尔木兹海峡举行实弹海军演习。",
           "url": "https://flash.jin10.com/detail/20260129222954175800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时48分"
         },
@@ -781,6 +804,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时36分"
+        },
+        {
+          "title": "伊朗就德国总理默茨抨击伊朗革命卫队的言论召见德国大使。",
+          "url": "https://flash.jin10.com/detail/20260129231540183800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
         },
         {
           "title": "美媒：伊朗拒绝就民用铀浓缩和导弹项目妥协",
@@ -854,6 +888,19 @@
           "time_info": "[13时42分 ~ 14时45分]"
         },
         {
+          "title": "伊朗：美若动武 伊将打击以色列",
+          "url": "https://www.douyin.com/hot/2382618",
+          "source": "抖音",
+          "ranks": [
+            18,
+            17,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时01分 ~ 23时35分]"
+        },
+        {
           "title": "关键时刻 伊朗接收俄制武装直升机",
           "url": "https://www.baidu.com/s?wd=%E5%85%B3%E9%94%AE%E6%97%B6%E5%88%BB+%E4%BC%8A%E6%9C%97%E6%8E%A5%E6%94%B6%E4%BF%84%E5%88%B6%E6%AD%A6%E8%A3%85%E7%9B%B4%E5%8D%87%E6%9C%BA",
           "source": "百度热搜",
@@ -879,18 +926,6 @@
           "time_info": "[07时26分 ~ 12时07分]"
         },
         {
-          "title": "伊朗：美若动武 伊将打击以色列",
-          "url": "https://www.douyin.com/hot/2382618",
-          "source": "抖音",
-          "ranks": [
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时01分 ~ 22时48分]"
-        },
-        {
           "title": "以色列总理称若遭伊朗袭击必将回击",
           "url": "https://www.toutiao.com/trending/7600028353815674922/",
           "source": "今日头条",
@@ -901,6 +936,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时44分 ~ 15时39分]"
+        },
+        {
+          "title": "欧盟对伊朗相关个人和实体实施新一轮制裁",
+          "url": "https://wallstreetcn.com/livenews/3046538",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时48分 ~ 23时35分]"
         },
         {
           "title": "伊朗副外长：做好200%的自卫准备",
@@ -962,15 +1009,26 @@
           "time_info": "18时36分"
         },
         {
-          "title": "欧盟对伊朗相关个人和实体实施新一轮制裁",
-          "url": "https://wallstreetcn.com/livenews/3046538",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗革命卫队副司令：敌人试图暗示我们软弱，但事实恰恰相反。我们的敌人正处于混乱之中。",
+          "url": "https://flash.jin10.com/detail/20260129230547316800",
+          "source": "金十数据",
           "ranks": [
-            8
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时48分"
+          "time_info": "23时35分"
+        },
+        {
+          "title": "伊朗：不会主动挑起战争 若遭到侵略将坚决反击",
+          "url": "https://flash.jin10.com/detail/20260129230435807800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
         },
         {
           "title": "伊朗外长回应美方威胁：伊朗武装力量高度戒备",
@@ -990,9 +1048,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时48分"
+        },
+        {
+          "title": "伊朗革命卫队副司令：我们不惧任何威胁，凭借我们的威慑力量以及人民的意志，已成功阻止敌人进行任何冒险行动。",
+          "url": "https://flash.jin10.com/detail/20260129230156871800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
         },
         {
           "title": "中国代表：支持伊朗国家稳定，武力解决不了问题",
@@ -1023,7 +1092,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时48分"
         },
@@ -1105,6 +1174,17 @@
           "time_info": "02时36分"
         },
         {
+          "title": "对美国可能对伊朗发动军事袭击的担忧加剧，原油期货价格延续涨势，布伦特原油期货价格一度涨5%，创下2024年8月以来的最高水平。",
+          "url": "https://flash.jin10.com/detail/20260129225811577800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
+        },
+        {
           "title": "欧盟拟将伊朗革命卫队列为恐怖组织",
           "url": "https://flash.jin10.com/detail/20260129160346406800",
           "source": "金十数据",
@@ -1114,12 +1194,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
+        },
+        {
+          "title": "两名外交官：欧盟部长就将伊朗伊斯兰革命卫队（IRGC）列入恐怖组织名单达成政治协议。",
+          "url": "https://flash.jin10.com/detail/20260129225308357800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 34,
+      "match_count": 35,
       "titles": [
         {
           "title": "美股“七巨头”财报即将亮相：投资者该关注哪些要点？",
@@ -1177,7 +1268,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时48分"
         },
@@ -1259,17 +1350,6 @@
           "time_info": "19时31分"
         },
         {
-          "title": "能源业ETF涨超2.4%，领跑美股行业ETF，半导体ETF涨0.75%，网络股指数ETF跌0.2%，科技行业ETF跌超1.1%，全球科技股指数ETF跌超1.3%。",
-          "url": "https://wallstreetcn.com/livenews/3046542",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时48分"
-        },
-        {
           "title": "金十数据整理：每日美股市场要闻速递（2026-01-29）",
           "url": "https://flash.jin10.com/detail/20260129214609846800",
           "source": "金十数据",
@@ -1294,16 +1374,29 @@
           "time_info": "[05时29分 ~ 06时26分]"
         },
         {
+          "title": "能源业ETF涨超2.4%，领跑美股行业ETF，半导体ETF涨0.75%，网络股指数ETF跌0.2%，科技行业ETF跌超1.1%，全球科技股指数ETF跌超1.3%。",
+          "url": "https://wallstreetcn.com/livenews/3046542",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时48分 ~ 23时35分]"
+        },
+        {
           "title": "美股期指小幅走高 金银铜等集体大涨 | 今夜看点",
           "url": "https://www.cls.cn/detail/2274635",
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时01分 ~ 22时48分]"
+          "appearance_count": 4,
+          "time_info": "[22时01分 ~ 23时35分]"
         },
         {
           "title": "周三（1月28日）美股尾盘，彭博电动汽车价格回报指数涨0.63%，报3711.30点，亚太时段出现V形反转行情，日内大部分时候高位震荡。 成分股Olectra Greentech涨超10%，EVgo涨8.7%，港股理想汽车收涨4.9%、蔚来集团收涨3.98%表现第四，美国雅宝目前跌5.1%表现倒数第二，Solid Power跌7.6%。",
@@ -1412,7 +1505,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时48分"
         },
@@ -1423,7 +1516,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时48分"
         },
@@ -1459,6 +1552,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时36分"
+        },
+        {
+          "title": "美股稀土矿商和关键矿物公司下跌，美国稀土(USAR.O)下跌14.5%，Mp Materials(MP.N)下跌9%，Critical Metals(CRML.O)下跌13%。有报道称美国总统特朗普政府放弃关键矿物价格下限后。",
+          "url": "https://flash.jin10.com/detail/20260129225856450800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
         },
         {
           "title": "美股盘前：Meta涨约7%，微软跌约6%，特斯拉涨约2%",
@@ -1520,11 +1624,12 @@
             9,
             6,
             19,
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[13时42分 ~ 22时48分]"
+          "appearance_count": 15,
+          "time_info": "[13时42分 ~ 23时35分]"
         },
         {
           "title": "中国新能源汽车持续领跑全球",
@@ -1534,8 +1639,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时01分 ~ 22时48分]"
+          "appearance_count": 4,
+          "time_info": "[22时01分 ~ 23时35分]"
         },
         {
           "title": "意法半导体Q4销售回升 汽车芯片需求仍疲弱",
@@ -1795,8 +1900,292 @@
       ]
     },
     {
+      "keyword_group": "俄罗斯",
+      "match_count": 23,
+      "titles": [
+        {
+          "title": "东北人发现飞俄罗斯坐船回家更便宜",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E4%BA%BA%E5%8F%91%E7%8E%B0%E9%A3%9E%E4%BF%84%E7%BD%97%E6%96%AF%E5%9D%90%E8%88%B9%E5%9B%9E%E5%AE%B6%E6%9B%B4%E4%BE%BF%E5%AE%9C%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            7,
+            5,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时35分 ~ 09时54分]"
+        },
+        {
+          "title": "三亚的俄罗斯人快比东北人还多了",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%89%E4%BA%9A%E7%9A%84%E4%BF%84%E7%BD%97%E6%96%AF%E4%BA%BA%E5%BF%AB%E6%AF%94%E4%B8%9C%E5%8C%97%E4%BA%BA%E8%BF%98%E5%A4%9A%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            14,
+            21,
+            25,
+            28,
+            30,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 07时26分]"
+        },
+        {
+          "title": "东北人发现从俄罗斯坐船回家更便宜",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%9C%E5%8C%97%E4%BA%BA%E5%8F%91%E7%8E%B0%E4%BB%8E%E4%BF%84%E7%BD%97%E6%96%AF%E5%9D%90%E8%88%B9%E5%9B%9E%E5%AE%B6%E6%9B%B4%E4%BE%BF%E5%AE%9C",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            23,
+            29,
+            15,
+            19,
+            21,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时35分 ~ 12时07分]"
+        },
+        {
+          "title": "俄罗斯贝加尔湖冰面翻车致中国游客 1 死 4 伤，目前情况如何？为什么会这么严重？",
+          "url": "https://www.zhihu.com/question/1999919764089303301",
+          "source": "知乎",
+          "ranks": [
+            13,
+            11,
+            14,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时41分 ~ 23时35分]"
+        },
+        {
+          "title": "女生杭州回东北途经俄罗斯省数百元",
+          "url": "https://www.toutiao.com/trending/7600317292882673705/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            9,
+            20,
+            22,
+            14,
+            10,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时35分 ~ 06时26分]"
+        },
+        {
+          "title": "克里姆林宫：普京与叙利亚总统阿萨德的会谈中讨论了俄罗斯军事基地问题。",
+          "url": "https://flash.jin10.com/detail/20260129180953340800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时36分"
+        },
+        {
+          "title": "克里姆林宫：泽连斯基没有回应俄罗斯多次提出的谈判邀请。",
+          "url": "https://flash.jin10.com/detail/20260129203808463800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时55分"
+        },
+        {
+          "title": "东北人飞俄罗斯两地再坐船回家更便宜",
+          "url": "https://www.toutiao.com/trending/7600317292882673705/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时26分"
+        },
+        {
+          "title": "克里姆林宫：俄罗斯目前正在莫斯科与泽连斯基商讨谈判事宜，有关在其他地点举行会谈的猜测是不恰当的。",
+          "url": "https://flash.jin10.com/detail/20260129203741364800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时55分"
+        },
+        {
+          "title": "据国际文传电讯社：俄罗斯国家原子能公司（Rosatom）负责人称，禁止向欧盟进口核燃料的决定将危及核安全。",
+          "url": "https://flash.jin10.com/detail/20260129190908712800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时31分"
+        },
+        {
+          "title": "据国际文传电讯社：克里姆林宫表示，俄罗斯再次邀请乌克兰总统泽连斯基前往莫斯科进行谈判。",
+          "url": "https://flash.jin10.com/detail/20260129203433372800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时55分"
+        },
+        {
+          "title": "俄罗斯外长拉夫罗夫：泽连斯基寻求的停火对俄罗斯来说是不可接受的。",
+          "url": "https://flash.jin10.com/detail/20260129231451371800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
+        },
+        {
+          "title": "据国际文传电讯社：俄罗斯财政部提议对钻石出口征收出口税。",
+          "url": "https://flash.jin10.com/detail/20260129202659212800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时55分"
+        },
+        {
+          "title": "世界黄金协会：与购金相比，2025年的全球央行售金规模要小得多：新加坡金融管理局（15吨）、俄罗斯中央银行（6吨）、德意志联邦银行（1吨，用于铸币计划）以及约旦中央银行（1吨）是少数几家净售金的官方机构。",
+          "url": "https://flash.jin10.com/detail/20260129150925847800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时39分"
+        },
+        {
+          "title": "据国际文传电讯社：俄罗斯已提议阿联酋建设一座大型核电站和一座小型核电站。",
+          "url": "https://flash.jin10.com/detail/20260129190624144800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时31分"
+        },
+        {
+          "title": "俄罗斯外长拉夫罗夫：俄罗斯不知道美国和乌克兰之间具体达成了哪些安全保障协议。",
+          "url": "https://flash.jin10.com/detail/20260129190434896800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时31分"
+        },
+        {
+          "title": "克里姆林宫：仍在等待美国就俄罗斯总统普京延长到期核条约限制的提议作出回应。",
+          "url": "https://flash.jin10.com/detail/20260129180604979800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时36分"
+        },
+        {
+          "title": "克里姆林宫：对俄罗斯和乌克兰就能源基础设施达成停火协议的报道不予置评。",
+          "url": "https://flash.jin10.com/detail/20260129180536923800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时36分"
+        },
+        {
+          "title": "匈牙利外交部长Szijjarto：欧盟逐步淘汰俄罗斯能源供应的做法（对欧盟自身来说）“是有害的”。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3046551",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
+        },
+        {
+          "title": "俄罗斯统计局：俄罗斯2025年12月PPI同比下降3.3%，环比下降1.6%。",
+          "url": "https://flash.jin10.com/detail/20260129000201485800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时36分"
+        },
+        {
+          "title": "消息人士：今日俄罗斯向乌克兰移交1000具阵亡士兵遗体，并接收了38具遗体。",
+          "url": "https://flash.jin10.com/detail/20260129175745848800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时36分"
+        },
+        {
+          "title": "俄外交部官员：俄罗斯与北约仅剩一条紧急沟通渠道",
+          "url": "https://wallstreetcn.com/livenews/3046152",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时45分"
+        },
+        {
+          "title": "让中国施压俄罗斯？英首相拒绝回应",
+          "url": "https://www.toutiao.com/trending/7600609169458233382/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时31分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "渣打：金价出现任何回调都是买入机会",
@@ -1876,8 +2265,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时35分 ~ 22时48分]"
+          "appearance_count": 28,
+          "time_info": "[00时35分 ~ 23时35分]"
         },
         {
           "title": "金价暴涨女子卖300克黄金变现30万",
@@ -1891,6 +2280,20 @@
           "time_info": "[00时35分 ~ 07时26分]"
         },
         {
+          "title": "金价上涨的第一批受害者出现了",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E4%B8%8A%E6%B6%A8%E7%9A%84%E7%AC%AC%E4%B8%80%E6%89%B9%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            13,
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时31分 ~ 23时35分]"
+        },
+        {
           "title": "金价波动",
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=25&Refer=top",
           "source": "微博",
@@ -1902,19 +2305,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时36分 ~ 07时26分]"
-        },
-        {
-          "title": "金价上涨的第一批受害者出现了",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E4%B8%8A%E6%B6%A8%E7%9A%84%E7%AC%AC%E4%B8%80%E6%89%B9%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            13,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时31分 ~ 22时48分]"
         },
         {
           "title": "挪威石油基金：2025年基金价值增加1.526万亿挪威克朗。",
@@ -1956,11 +2346,12 @@
           "source": "微博",
           "ranks": [
             6,
-            7
+            7,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时01分 ~ 22时48分]"
+          "appearance_count": 4,
+          "time_info": "[22时01分 ~ 23时35分]"
         },
         {
           "title": "高盛：上调今明两年金价预测",
@@ -1998,6 +2389,17 @@
           "time_info": "[07时26分 ~ 09时54分]"
         },
         {
+          "title": "金价暴涨对普通人的影响",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E5%AF%B9%E6%99%AE%E9%80%9A%E4%BA%BA%E7%9A%84%E5%BD%B1%E5%93%8D%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时48分 ~ 23时35分]"
+        },
+        {
           "title": "美联储主席鲍威尔：未从金价上涨中解读出太多宏观信息。",
           "url": "https://flash.jin10.com/detail/20260129041316561800",
           "source": "金十数据",
@@ -2031,6 +2433,17 @@
           "time_info": "05时29分"
         },
         {
+          "title": "一口气看懂金价涨跌的底层逻辑",
+          "url": "https://www.douyin.com/hot/2383551",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
+        },
+        {
           "title": "金价银价暴涨原因",
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E6%9A%B4%E6%B6%A8%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=26&Refer=top",
           "source": "微博",
@@ -2040,279 +2453,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
-        },
-        {
-          "title": "金价暴涨对普通人的影响",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E5%AF%B9%E6%99%AE%E9%80%9A%E4%BA%BA%E7%9A%84%E5%BD%B1%E5%93%8D%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时48分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "俄罗斯",
-      "match_count": 21,
-      "titles": [
-        {
-          "title": "东北人发现飞俄罗斯坐船回家更便宜",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E4%BA%BA%E5%8F%91%E7%8E%B0%E9%A3%9E%E4%BF%84%E7%BD%97%E6%96%AF%E5%9D%90%E8%88%B9%E5%9B%9E%E5%AE%B6%E6%9B%B4%E4%BE%BF%E5%AE%9C%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20,
-            7,
-            5,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时35分 ~ 09时54分]"
-        },
-        {
-          "title": "三亚的俄罗斯人快比东北人还多了",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%89%E4%BA%9A%E7%9A%84%E4%BF%84%E7%BD%97%E6%96%AF%E4%BA%BA%E5%BF%AB%E6%AF%94%E4%B8%9C%E5%8C%97%E4%BA%BA%E8%BF%98%E5%A4%9A%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            13,
-            14,
-            21,
-            25,
-            28,
-            30,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时35分 ~ 07时26分]"
-        },
-        {
-          "title": "东北人发现从俄罗斯坐船回家更便宜",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%9C%E5%8C%97%E4%BA%BA%E5%8F%91%E7%8E%B0%E4%BB%8E%E4%BF%84%E7%BD%97%E6%96%AF%E5%9D%90%E8%88%B9%E5%9B%9E%E5%AE%B6%E6%9B%B4%E4%BE%BF%E5%AE%9C",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            23,
-            29,
-            15,
-            19,
-            21,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时35分 ~ 12时07分]"
-        },
-        {
-          "title": "女生杭州回东北途经俄罗斯省数百元",
-          "url": "https://www.toutiao.com/trending/7600317292882673705/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            9,
-            20,
-            22,
-            14,
-            10,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时35分 ~ 06时26分]"
-        },
-        {
-          "title": "俄罗斯贝加尔湖冰面翻车致中国游客 1 死 4 伤，目前情况如何？为什么会这么严重？",
-          "url": "https://www.zhihu.com/question/1999919764089303301",
-          "source": "知乎",
-          "ranks": [
-            13,
-            11,
-            14,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时41分 ~ 22时48分]"
-        },
-        {
-          "title": "克里姆林宫：普京与叙利亚总统阿萨德的会谈中讨论了俄罗斯军事基地问题。",
-          "url": "https://flash.jin10.com/detail/20260129180953340800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时36分"
-        },
-        {
-          "title": "克里姆林宫：泽连斯基没有回应俄罗斯多次提出的谈判邀请。",
-          "url": "https://flash.jin10.com/detail/20260129203808463800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时55分"
-        },
-        {
-          "title": "东北人飞俄罗斯两地再坐船回家更便宜",
-          "url": "https://www.toutiao.com/trending/7600317292882673705/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
-        },
-        {
-          "title": "克里姆林宫：俄罗斯目前正在莫斯科与泽连斯基商讨谈判事宜，有关在其他地点举行会谈的猜测是不恰当的。",
-          "url": "https://flash.jin10.com/detail/20260129203741364800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时55分"
-        },
-        {
-          "title": "据国际文传电讯社：俄罗斯国家原子能公司（Rosatom）负责人称，禁止向欧盟进口核燃料的决定将危及核安全。",
-          "url": "https://flash.jin10.com/detail/20260129190908712800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时31分"
-        },
-        {
-          "title": "据国际文传电讯社：克里姆林宫表示，俄罗斯再次邀请乌克兰总统泽连斯基前往莫斯科进行谈判。",
-          "url": "https://flash.jin10.com/detail/20260129203433372800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时55分"
-        },
-        {
-          "title": "据国际文传电讯社：俄罗斯财政部提议对钻石出口征收出口税。",
-          "url": "https://flash.jin10.com/detail/20260129202659212800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时55分"
-        },
-        {
-          "title": "世界黄金协会：与购金相比，2025年的全球央行售金规模要小得多：新加坡金融管理局（15吨）、俄罗斯中央银行（6吨）、德意志联邦银行（1吨，用于铸币计划）以及约旦中央银行（1吨）是少数几家净售金的官方机构。",
-          "url": "https://flash.jin10.com/detail/20260129150925847800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时39分"
-        },
-        {
-          "title": "据国际文传电讯社：俄罗斯已提议阿联酋建设一座大型核电站和一座小型核电站。",
-          "url": "https://flash.jin10.com/detail/20260129190624144800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时31分"
-        },
-        {
-          "title": "俄罗斯外长拉夫罗夫：俄罗斯不知道美国和乌克兰之间具体达成了哪些安全保障协议。",
-          "url": "https://flash.jin10.com/detail/20260129190434896800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时31分"
-        },
-        {
-          "title": "克里姆林宫：仍在等待美国就俄罗斯总统普京延长到期核条约限制的提议作出回应。",
-          "url": "https://flash.jin10.com/detail/20260129180604979800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时36分"
-        },
-        {
-          "title": "克里姆林宫：对俄罗斯和乌克兰就能源基础设施达成停火协议的报道不予置评。",
-          "url": "https://flash.jin10.com/detail/20260129180536923800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时36分"
-        },
-        {
-          "title": "俄罗斯统计局：俄罗斯2025年12月PPI同比下降3.3%，环比下降1.6%。",
-          "url": "https://flash.jin10.com/detail/20260129000201485800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
-        },
-        {
-          "title": "消息人士：今日俄罗斯向乌克兰移交1000具阵亡士兵遗体，并接收了38具遗体。",
-          "url": "https://flash.jin10.com/detail/20260129175745848800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时36分"
-        },
-        {
-          "title": "俄外交部官员：俄罗斯与北约仅剩一条紧急沟通渠道",
-          "url": "https://wallstreetcn.com/livenews/3046152",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时45分"
-        },
-        {
-          "title": "让中国施压俄罗斯？英首相拒绝回应",
-          "url": "https://www.toutiao.com/trending/7600609169458233382/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时31分"
         }
       ]
     },
@@ -2326,22 +2466,24 @@
           "source": "知乎",
           "ranks": [
             17,
-            14
+            14,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时31分 ~ 22时48分]"
+          "appearance_count": 6,
+          "time_info": "[19时31分 ~ 23时35分]"
         },
         {
           "title": "OpenAI 发布基于 GPT-5.2 的 Prism，专注科研领域的 AI 协作。科研人能用它来做些什么？",
           "url": "https://www.zhihu.com/question/1999888901490304692",
           "source": "知乎",
           "ranks": [
-            20
+            20,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时01分 ~ 22时48分]"
+          "appearance_count": 4,
+          "time_info": "[22时01分 ~ 23时35分]"
         },
         {
           "title": "金十整理：云增速放缓、被指患上“OpenAI依赖症”， 微软遭投行集体“砍价”",
@@ -2433,7 +2575,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时48分"
         }
@@ -2468,8 +2610,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时41分 ~ 22时48分]"
+          "appearance_count": 9,
+          "time_info": "[17时41分 ~ 23时35分]"
         },
         {
           "title": "谷歌同意就与蜂窝数据处理相关的集体诉讼达成和解协议，谷歌将支付1.35亿美元作为集体诉讼和解的一部分。",
