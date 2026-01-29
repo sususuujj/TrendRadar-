@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T15:39:57.420461+08:00",
-  "total_titles_processed": 1421,
+  "generated_at": "2026-01-29T16:38:03.926778+08:00",
+  "total_titles_processed": 1527,
   "failed_sources": [],
   "trends": [
     {
@@ -29,6 +29,19 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时35分 ~ 09时54分]"
+        },
+        {
+          "title": "特朗普被曝“正考虑对伊朗发动新的重大打击”",
+          "url": "https://news.ifeng.com/c/8qIp4NFuO3j",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时54分 ~ 16时38分]"
         },
         {
           "title": "特朗普再施压伊朗：庞大舰队已部署在途 谈判时间所剩无几",
@@ -74,18 +87,6 @@
           "time_info": "[00时35分 ~ 05时29分]"
         },
         {
-          "title": "特朗普被曝“正考虑对伊朗发动新的重大打击”",
-          "url": "https://news.ifeng.com/c/8qIp4NFuO3j",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时54分 ~ 15时39分]"
-        },
-        {
           "title": "美元跌至四年低谷，特朗普“火上浇油”：不担心，美元表现出色，能找到合理水平",
           "url": "https://wallstreetcn.com/articles/3764299",
           "source": "华尔街见闻",
@@ -120,11 +121,24 @@
             11,
             10,
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时07分 ~ 15时39分]"
+          "appearance_count": 8,
+          "time_info": "[12时07分 ~ 16时38分]"
+        },
+        {
+          "title": "特朗普被曝「正考虑对伊朗发动新的重大打击」，美伊局势会再度升级吗？伊朗会做出哪些反应？",
+          "url": "https://www.zhihu.com/question/2000136531822794040",
+          "source": "知乎",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时42分 ~ 16时38分]"
         },
         {
           "title": "美国总统特朗普结束在“特朗普账号”活动上的发言。",
@@ -158,18 +172,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时32分"
-        },
-        {
-          "title": "特朗普被曝「正考虑对伊朗发动新的重大打击」，美伊局势会再度升级吗？伊朗会做出哪些反应？",
-          "url": "https://www.zhihu.com/question/2000136531822794040",
-          "source": "知乎",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时42分 ~ 15时39分]"
         },
         {
           "title": "美国参议院多数党领袖约翰·图恩（John Thune）：民主党必须与总统特朗普的白宫处理（与国土安全部/DHS相关的）预算问题。",
@@ -500,7 +502,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "伊朗启动紧急措施“备战”",
@@ -784,6 +786,257 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时36分"
+        },
+        {
+          "title": "欧盟拟将伊朗革命卫队列为恐怖组织",
+          "url": "https://flash.jin10.com/detail/20260129160346406800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "汽车",
+      "match_count": 21,
+      "titles": [
+        {
+          "title": "汽车节目主持人哈蒙德入驻B站",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B1%BD%E8%BD%A6%E8%8A%82%E7%9B%AE%E4%B8%BB%E6%8C%81%E4%BA%BA%E5%93%88%E8%92%99%E5%BE%B7%E5%85%A5%E9%A9%BBB%E7%AB%99",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时42分 ~ 16时38分]"
+        },
+        {
+          "title": "意法半导体Q4销售回升 汽车芯片需求仍疲弱",
+          "url": "https://flash.jin10.com/detail/20260129162442665800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
+        },
+        {
+          "title": "据报道，阿里巴巴争取到小鹏汽车为其新AI芯片的客户。",
+          "url": "https://wallstreetcn.com/livenews/3046293",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
+        },
+        {
+          "title": "LG能源与印尼新公司签署谅解备忘录以实现供应多元化。预计美国电动汽车需求下半年将温和复苏。",
+          "url": "https://wallstreetcn.com/livenews/3045988",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时54分"
+        },
+        {
+          "title": "印度将立即削减大幅欧洲汽车关税至30%至35%",
+          "url": "https://flash.jin10.com/detail/20260129000602442800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 01时32分]"
+        },
+        {
+          "title": "LG：北美电动汽车需求短期内不太可能复苏。",
+          "url": "https://wallstreetcn.com/livenews/3045979",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时54分"
+        },
+        {
+          "title": "据加拿大《环球邮报》援引文件报道，加拿大与韩国签署谅解备忘录，旨在将韩国汽车制造业和投资引入加拿大。",
+          "url": "https://flash.jin10.com/detail/20260129020850193800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时36分"
+        },
+        {
+          "title": "特斯拉CEO埃隆·马斯克：预计到今年年底，美国将有四分之一到一半的地区拥有完全自动驾驶汽车。",
+          "url": "https://flash.jin10.com/detail/20260129064128500800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时26分"
+        },
+        {
+          "title": "现代汽车：美国关税削减在第四季度的影响有限。",
+          "url": "https://flash.jin10.com/detail/20260129132139586800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时43分"
+        },
+        {
+          "title": "现代汽车股价回吐涨幅，因盈利不及预期。",
+          "url": "https://wallstreetcn.com/livenews/3046112",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时43分"
+        },
+        {
+          "title": "福田汽车：预计2025年净利润约为13.3亿元，同比增加1,551%左右",
+          "url": "https://wallstreetcn.com/livenews/3046247",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
+        },
+        {
+          "title": "现代汽车股价上涨1.9%。",
+          "url": "https://flash.jin10.com/detail/20260129131233414800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时43分"
+        },
+        {
+          "title": "现代汽车：2026年美国关税的影响将与2025年类似。",
+          "url": "https://flash.jin10.com/detail/20260129135158577800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时45分"
+        },
+        {
+          "title": "现代汽车：将回购价值3670亿韩元的库存股。",
+          "url": "https://flash.jin10.com/detail/20260129130900221800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时43分"
+        },
+        {
+          "title": "美国国家公路交通安全管理局：现代汽车美国公司召回568,576辆美国车辆，因为仪表盘显示屏无法显示速度表或警示灯等关键安全信息，从而增加了发生车祸的风险。",
+          "url": "https://flash.jin10.com/detail/20260129160556849800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
+        },
+        {
+          "title": "现代汽车第四季度营业利润1.70万亿韩元，预估2.7万亿韩元。 净利润1.03万亿韩元，预估2.49万亿韩元。 销售额46.84万亿韩元，预估48.5万亿韩元。",
+          "url": "https://wallstreetcn.com/livenews/3046108",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时43分"
+        },
+        {
+          "title": "现代汽车：将支付每股普通股2500韩元的季度股息。",
+          "url": "https://flash.jin10.com/detail/20260129130810361800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时43分"
+        },
+        {
+          "title": "美国国家公路交通安全管理局：现代汽车美国公司召回41,651辆美国车辆，因为在碰撞中侧帘式气囊部署不当会增加受伤风险。",
+          "url": "https://flash.jin10.com/detail/20260129160539922800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
+        },
+        {
+          "title": "现代汽车股价继续上涨，现涨3.6%。",
+          "url": "https://flash.jin10.com/detail/20260129134340595800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时45分"
+        },
+        {
+          "title": "曝奇瑞将用捷豹路虎英国工厂生产汽车",
+          "url": "https://www.toutiao.com/trending/7599537063838957622/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        },
+        {
+          "title": "现代汽车：韩元走软在第四季度对营业利润产生了7100亿韩元的正面影响。",
+          "url": "https://flash.jin10.com/detail/20260129130002032800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时43分"
         }
       ]
     },
@@ -988,191 +1241,6 @@
       ]
     },
     {
-      "keyword_group": "汽车",
-      "match_count": 16,
-      "titles": [
-        {
-          "title": "LG能源与印尼新公司签署谅解备忘录以实现供应多元化。预计美国电动汽车需求下半年将温和复苏。",
-          "url": "https://wallstreetcn.com/livenews/3045988",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
-          "title": "汽车节目主持人哈蒙德入驻B站",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B1%BD%E8%BD%A6%E8%8A%82%E7%9B%AE%E4%B8%BB%E6%8C%81%E4%BA%BA%E5%93%88%E8%92%99%E5%BE%B7%E5%85%A5%E9%A9%BBB%E7%AB%99",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时42分 ~ 15时39分]"
-        },
-        {
-          "title": "印度将立即削减大幅欧洲汽车关税至30%至35%",
-          "url": "https://flash.jin10.com/detail/20260129000602442800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 01时32分]"
-        },
-        {
-          "title": "LG：北美电动汽车需求短期内不太可能复苏。",
-          "url": "https://wallstreetcn.com/livenews/3045979",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
-          "title": "据加拿大《环球邮报》援引文件报道，加拿大与韩国签署谅解备忘录，旨在将韩国汽车制造业和投资引入加拿大。",
-          "url": "https://flash.jin10.com/detail/20260129020850193800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时36分"
-        },
-        {
-          "title": "特斯拉CEO埃隆·马斯克：预计到今年年底，美国将有四分之一到一半的地区拥有完全自动驾驶汽车。",
-          "url": "https://flash.jin10.com/detail/20260129064128500800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
-        },
-        {
-          "title": "现代汽车：美国关税削减在第四季度的影响有限。",
-          "url": "https://flash.jin10.com/detail/20260129132139586800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时43分"
-        },
-        {
-          "title": "现代汽车股价回吐涨幅，因盈利不及预期。",
-          "url": "https://wallstreetcn.com/livenews/3046112",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时43分"
-        },
-        {
-          "title": "现代汽车股价上涨1.9%。",
-          "url": "https://flash.jin10.com/detail/20260129131233414800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时43分"
-        },
-        {
-          "title": "现代汽车：2026年美国关税的影响将与2025年类似。",
-          "url": "https://flash.jin10.com/detail/20260129135158577800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时45分"
-        },
-        {
-          "title": "现代汽车：将回购价值3670亿韩元的库存股。",
-          "url": "https://flash.jin10.com/detail/20260129130900221800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时43分"
-        },
-        {
-          "title": "现代汽车第四季度营业利润1.70万亿韩元，预估2.7万亿韩元。 净利润1.03万亿韩元，预估2.49万亿韩元。 销售额46.84万亿韩元，预估48.5万亿韩元。",
-          "url": "https://wallstreetcn.com/livenews/3046108",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时43分"
-        },
-        {
-          "title": "现代汽车：将支付每股普通股2500韩元的季度股息。",
-          "url": "https://flash.jin10.com/detail/20260129130810361800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时43分"
-        },
-        {
-          "title": "现代汽车股价继续上涨，现涨3.6%。",
-          "url": "https://flash.jin10.com/detail/20260129134340595800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时45分"
-        },
-        {
-          "title": "曝奇瑞将用捷豹路虎英国工厂生产汽车",
-          "url": "https://www.toutiao.com/trending/7599537063838957622/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时07分"
-        },
-        {
-          "title": "现代汽车：韩元走软在第四季度对营业利润产生了7100亿韩元的正面影响。",
-          "url": "https://flash.jin10.com/detail/20260129130002032800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时43分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
       "match_count": 15,
       "titles": [
@@ -1234,11 +1302,12 @@
           "ranks": [
             21,
             22,
-            24
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时35分 ~ 15时39分]"
+          "appearance_count": 19,
+          "time_info": "[00时35分 ~ 16时38分]"
         },
         {
           "title": "金价暴涨女子卖300克黄金变现30万",
@@ -1250,6 +1319,20 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时35分 ~ 07时26分]"
+        },
+        {
+          "title": "金价涨不停！史上首次突破5500美元大关 因特朗普威胁打击伊朗",
+          "url": "https://www.cls.cn/detail/2273531",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时07分 ~ 16时38分]"
         },
         {
           "title": "金价波动",
@@ -1265,26 +1348,13 @@
           "time_info": "[02时36分 ~ 07时26分]"
         },
         {
-          "title": "金价涨不停！史上首次突破5500美元大关 因特朗普威胁打击伊朗",
-          "url": "https://www.cls.cn/detail/2273531",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时07分 ~ 15时39分]"
-        },
-        {
           "title": "挪威石油基金：2025年基金价值增加1.526万亿挪威克朗。",
           "url": "https://flash.jin10.com/detail/20260129151543362800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时39分"
         },
@@ -1446,7 +1516,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时39分"
         },
@@ -1485,11 +1555,12 @@
           "ranks": [
             5,
             7,
-            15
+            15,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时07分 ~ 15时39分]"
+          "appearance_count": 8,
+          "time_info": "[12时07分 ~ 16时38分]"
         },
         {
           "title": "谷歌同意就与蜂窝数据处理相关的集体诉讼达成和解协议，谷歌将支付1.35亿美元作为集体诉讼和解的一部分。",
@@ -1600,6 +1671,35 @@
       ]
     },
     {
+      "keyword_group": "武器",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "终末地武器详解",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BB%88%E6%9C%AB%E5%9C%B0%E6%AD%A6%E5%99%A8%E8%AF%A6%E8%A7%A3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时35分 ~ 09时54分]"
+        },
+        {
+          "title": "中方通过提供设备支持俄生产武器？外交部：中方从不拱火浇油",
+          "url": "https://wallstreetcn.com/livenews/3046243",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
+        }
+      ]
+    },
+    {
       "keyword_group": "新能源",
       "match_count": 1,
       "titles": [
@@ -1610,7 +1710,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时39分"
         }
@@ -1630,24 +1730,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "武器",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "终末地武器详解",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BB%88%E6%9C%AB%E5%9C%B0%E6%AD%A6%E5%99%A8%E8%AF%A6%E8%A7%A3",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 09时54分]"
         }
       ]
     },
