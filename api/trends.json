@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-02T18:43:46.134570+08:00",
-  "total_titles_processed": 1346,
+  "generated_at": "2026-02-02T19:35:31.171164+08:00",
+  "total_titles_processed": 1416,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 32,
+      "match_count": 49,
       "titles": [
         {
           "title": "伊朗多地爆炸消息引发焦虑，美伊均释放和谈信号，哈梅内伊现身",
@@ -76,8 +76,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时46分 ~ 18时43分]"
+          "appearance_count": 3,
+          "time_info": "[17时46分 ~ 19时35分]"
+        },
+        {
+          "title": "伊朗为何突然在核问题上松口",
+          "url": "https://www.toutiao.com/trending/7602184928612077092/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
         },
         {
           "title": "据路透社：伊朗官员表示，有关伊朗革命卫队计划在霍尔木兹海峡举行军事演习的媒体报道是错误的。革命卫队尚未就霍尔木兹海峡军演事宜发布官方声明。",
@@ -117,6 +128,17 @@
           "time_info": "16时41分"
         },
         {
+          "title": "伊朗总统已下令开启核谈判",
+          "url": "https://wallstreetcn.com/livenews/3048321",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
+        },
+        {
           "title": "伊朗最高领袖：近期抗议示威形同政变，已被平定",
           "url": "https://news.ifeng.com/c/8qOoftoUdPj",
           "source": "凤凰网",
@@ -126,6 +148,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
+        },
+        {
+          "title": "伊朗外长：敌方重型武器可以通过抵抗来击败。",
+          "url": "https://flash.jin10.com/detail/20260202191135715800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
+        },
+        {
+          "title": "伊朗军方将在边境地区举行军事演习",
+          "url": "https://wallstreetcn.com/livenews/3048318",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
         },
         {
           "title": "伊朗最高领袖顾问：正形成对美“谈判架构”",
@@ -138,6 +182,31 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时28分 ~ 03时23分]"
+        },
+        {
+          "title": "伊朗总统已下令启动核谈判",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E5%B7%B2%E4%B8%8B%E4%BB%A4%E5%90%AF%E5%8A%A8%E6%A0%B8%E8%B0%88%E5%88%A4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
+        },
+        {
+          "title": "懂了｜美国亲手埋下“核种子”：6分钟看伊朗核问题的前世今生",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32498721",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时49分 ~ 19时35分]"
         },
         {
           "title": "伊朗革命卫队海军司令：伊朗人民将继续坚定不移地抵御敌人的阴谋。",
@@ -202,20 +271,6 @@
           "time_info": "[17时46分 ~ 18时43分]"
         },
         {
-          "title": "懂了｜美国亲手埋下“核种子”：6分钟看伊朗核问题的前世今生",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32498721",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时49分 ~ 18时43分]"
-        },
-        {
           "title": "武契奇预计伊朗将在48小时内遭袭",
           "url": "https://www.toutiao.com/trending/7602178880666157119/",
           "source": "今日头条",
@@ -239,6 +294,29 @@
           "time_info": "[07时23分 ~ 07时24分]"
         },
         {
+          "title": "伊朗外长分别与埃及沙特土耳其外长通电话",
+          "url": "https://wallstreetcn.com/livenews/3048288",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时43分 ~ 19时35分]"
+        },
+        {
+          "title": "伊朗总统已下令启动核谈判",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E5%B7%B2%E4%B8%8B%E4%BB%A4%E5%90%AF%E5%8A%A8%E6%A0%B8%E8%B0%88%E5%88%A4",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
+        },
+        {
           "title": "美官员称美政府已通过多渠道向伊朗传达谈判意向",
           "url": "https://wallstreetcn.com/livenews/3047840",
           "source": "华尔街见闻-快讯",
@@ -250,15 +328,48 @@
           "time_info": "07时24分"
         },
         {
+          "title": "伊朗总统已下令开启核谈判",
+          "url": "https://flash.jin10.com/detail/20260202190502611800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
+        },
+        {
           "title": "克里姆林宫：仍在努力缓和伊朗周边的紧张局势。",
           "url": "https://flash.jin10.com/detail/20260202175252542800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时43分"
+        },
+        {
+          "title": "据伊朗法尔斯通讯社2日报道，伊朗总统已下令启动核谈判。 ​​​",
+          "url": "https://flash.jin10.com/detail/20260202190341422800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
+        },
+        {
+          "title": "伊朗媒体称伊美未来几天可能举行高规格谈判",
+          "url": "https://wallstreetcn.com/livenews/3048310",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
         },
         {
           "title": "UP主记录动荡中的伊朗",
@@ -294,13 +405,46 @@
           "time_info": "16时41分"
         },
         {
+          "title": "伊朗军方将在边境地区举行军事演习",
+          "url": "https://flash.jin10.com/detail/20260202185452907800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
+        },
+        {
+          "title": "伊朗总统已下令启动核谈判",
+          "url": "https://www.douyin.com/hot/2387489",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
+        },
+        {
+          "title": "伊朗总统已下令启动核谈判",
+          "url": "https://www.toutiao.com/trending/7602220975286914602/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
+        },
+        {
           "title": "克里姆林宫：（在伊朗局势和铀问题上）早在很久以前俄方就曾提供过相关服务，以消除“干扰因素”。",
           "url": "https://flash.jin10.com/detail/20260202175216042800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时43分"
         },
@@ -349,17 +493,6 @@
           "time_info": "17时46分"
         },
         {
-          "title": "伊朗外长分别与埃及沙特土耳其外长通电话",
-          "url": "https://wallstreetcn.com/livenews/3048288",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时43分"
-        },
-        {
           "title": "伊朗",
           "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97&t=31&band_rank=17&Refer=top",
           "source": "微博",
@@ -380,12 +513,67 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时03分"
+        },
+        {
+          "title": "伊朗召见欧洲国家所有驻伊大使抗议",
+          "url": "https://www.toutiao.com/trending/7601995362588459050/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗与美国会谈或将伊朗外长有阿拉格奇和美国特使威特科夫参与。",
+          "url": "https://flash.jin10.com/detail/20260202182302489800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
+        },
+        {
+          "title": "伊朗有能力在无核武情况下自卫吗",
+          "url": "https://www.toutiao.com/trending/7601102138882506815/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗与美国会谈的时间和地点尚未最终确定。",
+          "url": "https://flash.jin10.com/detail/20260202182232113800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗与美国可能在未来几天举行会谈。",
+          "url": "https://flash.jin10.com/detail/20260202182205225800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "爱泼斯坦案多名受害者指控特朗普",
@@ -462,6 +650,18 @@
           "time_info": "[00时28分 ~ 07时24分]"
         },
         {
+          "title": "伊朗外长：正在谈判，特朗普足够明智，会做正确决定",
+          "url": "https://news.ifeng.com/c/8qPq0eP3mpg",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时49分 ~ 19时35分]"
+        },
+        {
           "title": "特朗普给自己提名的美联储主席下马威：小心被起诉",
           "url": "https://news.ifeng.com/c/8qOLT943YcA",
           "source": "凤凰网",
@@ -483,18 +683,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时56分 ~ 16时41分]"
-        },
-        {
-          "title": "伊朗外长：正在谈判，特朗普足够明智，会做正确决定",
-          "url": "https://news.ifeng.com/c/8qPq0eP3mpg",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时49分 ~ 18时43分]"
         },
         {
           "title": "如果特朗普下令美军入侵加拿大，会怎样？",
@@ -672,7 +860,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时43分"
         },
@@ -730,6 +918,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时03分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-02）",
+          "url": "https://flash.jin10.com/detail/20260202181717877800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
         }
       ]
     },
@@ -764,17 +963,6 @@
           "time_info": "[01时23分 ~ 07时24分]"
         },
         {
-          "title": "【早报】金价巨震，银行密集提示风险；两只大牛股今日复牌",
-          "url": "https://www.cls.cn/detail/2276967",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时02分 ~ 14时03分]"
-        },
-        {
           "title": "男子卖 400 克金得 14 万借朋友，金价大涨后要求按现值还款，这合理吗？法院会如何判决？",
           "url": "https://www.zhihu.com/question/1999853811821463456",
           "source": "知乎",
@@ -785,8 +973,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时56分 ~ 18时43分]"
+          "appearance_count": 7,
+          "time_info": "[12时56分 ~ 19时35分]"
+        },
+        {
+          "title": "【早报】金价巨震，银行密集提示风险；两只大牛股今日复牌",
+          "url": "https://www.cls.cn/detail/2276967",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时02分 ~ 14时03分]"
         },
         {
           "title": "金价“大跳水”？两大投资大佬：黄金才是泡沫而非AI，美元一涨就会破！",
@@ -951,7 +1150,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时43分"
         },
@@ -981,7 +1180,7 @@
     },
     {
       "keyword_group": "俄罗斯",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "王毅同俄罗斯联邦安全会议秘书绍伊古进行战略沟通",
@@ -994,8 +1193,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时28分 ~ 18时43分]"
+          "appearance_count": 19,
+          "time_info": "[00时28分 ~ 19时35分]"
         },
         {
           "title": "王毅同俄罗斯联邦安全会议秘书绍伊古进行战略沟通",
@@ -1011,6 +1210,18 @@
           "time_info": "[00时28分 ~ 07时24分]"
         },
         {
+          "title": "俄罗斯天空现 4 个月亮，这种现象是如何形成的？",
+          "url": "https://www.zhihu.com/question/2001594640005034732",
+          "source": "知乎",
+          "ranks": [
+            11,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时49分 ~ 19时35分]"
+        },
+        {
           "title": "俄罗斯联邦安全会议秘书绍伊古抵达中国",
           "url": "https://wallstreetcn.com/livenews/3047811",
           "source": "华尔街见闻-快讯",
@@ -1021,18 +1232,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时28分 ~ 06时23分]"
-        },
-        {
-          "title": "俄罗斯天空现 4 个月亮，这种现象是如何形成的？",
-          "url": "https://www.zhihu.com/question/2001594640005034732",
-          "source": "知乎",
-          "ranks": [
-            11,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时49分 ~ 18时43分]"
         },
         {
           "title": "俄罗斯联邦安全委员会副主席梅德韦杰夫：欧洲未能在乌克兰击败俄罗斯。",
@@ -1101,7 +1300,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时43分"
         },
@@ -1139,15 +1338,37 @@
           "time_info": "17时46分"
         },
         {
+          "title": "乌克兰总统泽连斯基：与此前一样，俄罗斯军队仍专注于对乌克兰后勤的“恐怖”行动。",
+          "url": "https://flash.jin10.com/detail/20260202184913149800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
+        },
+        {
           "title": "克里姆林宫：俄罗斯和乌克兰在一些问题上缩小了分歧，但在其他更复杂的问题上仍未达成共识。",
           "url": "https://flash.jin10.com/detail/20260202175127834800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时43分"
+        },
+        {
+          "title": "乌克兰能源公司DTEK表示，俄罗斯在24小时内第二次袭击了其位于第聂伯罗彼得罗夫斯克州的一家煤炭企业。",
+          "url": "https://flash.jin10.com/detail/20260202184033993800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
         },
         {
           "title": "据俄新社：俄罗斯国防部称其部队已占领乌克兰扎波罗热地区内的“希普罗多尔尼”据点。",
@@ -1186,7 +1407,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "比亚迪 1 月新能源汽车销量 21 万辆，同比下降 30.11%，原因可能是什么？未来发展趋势如何？",
@@ -1300,6 +1521,17 @@
           "time_info": "10时02分"
         },
         {
+          "title": "现代汽车印度高管：将评估向欧盟出口汽车的可行性。",
+          "url": "https://flash.jin10.com/detail/20260202183744440800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
+        },
+        {
           "title": "三星SDI：预计2026年美国电动汽车需求将下降9%，2026年欧洲电动汽车需求将增长9%。",
           "url": "https://wallstreetcn.com/livenews/3048076",
           "source": "华尔街见闻-快讯",
@@ -1309,6 +1541,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时03分"
+        },
+        {
+          "title": "现代汽车印度高管：预计贵金属、铜、铝等大宗商品价格将飙升。",
+          "url": "https://flash.jin10.com/detail/20260202181943887800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
         },
         {
           "title": "比亚迪电动汽车已获准在加拿大销售",
@@ -1357,7 +1600,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时43分"
         },
@@ -1550,11 +1793,12 @@
           "url": "https://wallstreetcn.com/livenews/3048303",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时43分 ~ 19时35分]"
         },
         {
           "title": "以色列财政部长斯莫特里奇：未来几天，我们将给哈马斯两个月的期限来全面解除武装，如果哈马斯不放下武器，我们将采取我们自己的行动。",
@@ -1584,8 +1828,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时28分 ~ 18时43分]"
+          "appearance_count": 19,
+          "time_info": "[00时28分 ~ 19时35分]"
         }
       ]
     },
