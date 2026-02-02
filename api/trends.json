@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-02T15:49:48.823697+08:00",
-  "total_titles_processed": 1037,
+  "generated_at": "2026-02-02T16:41:50.268197+08:00",
+  "total_titles_processed": 1127,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "爱泼斯坦案多名受害者指控特朗普",
@@ -101,8 +101,55 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时56分 ~ 15时49分]"
+          "appearance_count": 4,
+          "time_info": "[12时56分 ~ 16时41分]"
+        },
+        {
+          "title": "如果特朗普下令美军入侵加拿大，会怎样？",
+          "url": "https://news.ifeng.com/c/8qPcsjs62Jx",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时56分 ~ 16时41分]"
+        },
+        {
+          "title": "伊朗外长：正在谈判，特朗普足够明智，会做正确决定",
+          "url": "https://news.ifeng.com/c/8qPq0eP3mpg",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时49分 ~ 16时41分]"
+        },
+        {
+          "title": "特朗普口风转软缓解供需忧虑 欧能股随国际油价重挫全线走低",
+          "url": "https://flash.jin10.com/detail/20260202161737942800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时41分"
+        },
+        {
+          "title": "特朗普称希望与伊朗“达成协议” 同时警告若谈不拢将动武",
+          "url": "https://www.cls.cn/detail/2277005",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时56分 ~ 16时41分]"
         },
         {
           "title": "特朗普再次表态：将与古巴达成协议",
@@ -143,29 +190,6 @@
           "time_info": "[04时26分 ~ 07时24分]"
         },
         {
-          "title": "如果特朗普下令美军入侵加拿大，会怎样？",
-          "url": "https://news.ifeng.com/c/8qPcsjs62Jx",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时56分 ~ 15时49分]"
-        },
-        {
-          "title": "伊朗外长：正在谈判，特朗普足够明智，会做正确决定",
-          "url": "https://news.ifeng.com/c/8qPq0eP3mpg",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时49分"
-        },
-        {
           "title": "俄罗斯联邦安全委员会副主席梅德韦杰夫：我们始终未发现特朗普提及派往俄近海的两艘核潜艇。",
           "url": "https://flash.jin10.com/detail/20260201190247560800",
           "source": "金十数据",
@@ -176,19 +200,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时28分 ~ 04时26分]"
-        },
-        {
-          "title": "特朗普称希望与伊朗“达成协议” 同时警告若谈不拢将动武",
-          "url": "https://www.cls.cn/detail/2277005",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时56分 ~ 15时49分]"
         },
         {
           "title": "据华盛顿邮报：一位伊朗外交官表示，在目前情况下，任何谈判都不可能。特朗普提出的谈判条件既不切实际，也毫无谈判的余地。",
@@ -332,7 +343,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
         {
           "title": "伊朗多地爆炸消息引发焦虑，美伊均释放和谈信号，哈梅内伊现身",
@@ -392,8 +403,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时03分 ~ 15时49分]"
+          "appearance_count": 3,
+          "time_info": "[14时03分 ~ 16时41分]"
         },
         {
           "title": "据路透社：伊朗官员表示，有关伊朗革命卫队计划在霍尔木兹海峡举行军事演习的媒体报道是错误的。革命卫队尚未就霍尔木兹海峡军演事宜发布官方声明。",
@@ -420,6 +431,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时28分 ~ 05时23分]"
+        },
+        {
+          "title": "伊朗外交部发言人：伊朗已召见欧洲国家所有驻伊大使发出书面抗议",
+          "url": "https://wallstreetcn.com/livenews/3048210",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时41分"
         },
         {
           "title": "伊朗最高领袖：近期抗议示威形同政变，已被平定",
@@ -506,6 +528,18 @@
           "time_info": "[07时23分 ~ 07时24分]"
         },
         {
+          "title": "懂了｜美国亲手埋下“核种子”：6分钟看伊朗核问题的前世今生",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32498721",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时49分 ~ 16时41分]"
+        },
+        {
           "title": "美官员称美政府已通过多渠道向伊朗传达谈判意向",
           "url": "https://wallstreetcn.com/livenews/3047840",
           "source": "华尔街见闻-快讯",
@@ -534,20 +568,31 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时49分"
         },
         {
-          "title": "懂了｜美国亲手埋下“核种子”：6分钟看伊朗核问题的前世今生",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32498721",
-          "source": "澎湃新闻",
+          "title": "伊朗方面表示，与美国谈判的框架将在未来几天内敲定。",
+          "url": "https://flash.jin10.com/detail/20260202160404546800",
+          "source": "金十数据",
           "ranks": [
-            12
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时49分"
+          "time_info": "16时41分"
+        },
+        {
+          "title": "伊朗武装部队总参谋长：地区战火将波及美国及其盟友",
+          "url": "https://wallstreetcn.com/livenews/3048192",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时41分"
         },
         {
           "title": "塞尔维亚总统武契奇预测伊朗48小时内将遭袭",
@@ -556,7 +601,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时49分"
         },
@@ -597,7 +642,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "金价暴跌，深圳水贝挤满了人，扎堆买金；演员自曝4元/克买的白银，13年前存在银行保险箱忘了，逾期需补交7000多元",
@@ -608,8 +653,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时28分 ~ 15时49分]"
+          "appearance_count": 16,
+          "time_info": "[00时28分 ~ 16时41分]"
         },
         {
           "title": "男子看金价下跌花20多万买200克",
@@ -637,6 +682,18 @@
           "time_info": "[10时02分 ~ 14时03分]"
         },
         {
+          "title": "金价“大跳水”？两大投资大佬：黄金才是泡沫而非AI，美元一涨就会破！",
+          "url": "https://www.cls.cn/detail/2277020",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时56分 ~ 16时41分]"
+        },
+        {
           "title": "金价暴跌后回收变现火爆",
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E5%90%8E%E5%9B%9E%E6%94%B6%E5%8F%98%E7%8E%B0%E7%81%AB%E7%88%86%23&t=31&band_rank=4&Refer=top",
           "source": "微博",
@@ -648,38 +705,55 @@
           "time_info": "[07时23分 ~ 07时24分]"
         },
         {
+          "title": "金价暴跌后黄金市场挤满顾客",
+          "url": "https://www.douyin.com/hot/2386891",
+          "source": "抖音",
+          "ranks": [
+            8,
+            9,
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时56分 ~ 16时41分]"
+        },
+        {
+          "title": "男子卖 400 克金得 14 万借朋友，金价大涨后要求按现值还款，这合理吗？法院会如何判决？",
+          "url": "https://www.zhihu.com/question/1999853811821463456",
+          "source": "知乎",
+          "ranks": [
+            20,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时56分 ~ 16时41分]"
+        },
+        {
           "title": "德意志银行在金价暴跌后仍然看涨 维持6000美元目标价",
           "url": "https://wallstreetcn.com/livenews/3048186",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时49分"
-        },
-        {
-          "title": "金价“大跳水”？两大投资大佬：黄金才是泡沫而非AI，美元一涨就会破！",
-          "url": "https://www.cls.cn/detail/2277020",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            4
+            3,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时56分 ~ 15时49分]"
+          "appearance_count": 2,
+          "time_info": "[15时49分 ~ 16时41分]"
         },
         {
           "title": "这次金价暴跌真的只是因为沃什吗",
           "url": "https://www.toutiao.com/trending/7602102244296625670/",
           "source": "今日头条",
           "ranks": [
-            4
+            4,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时49分 ~ 16时41分]"
         },
         {
           "title": "金价",
@@ -696,41 +770,15 @@
           "time_info": "[10时02分 ~ 15时49分]"
         },
         {
-          "title": "男子卖 400 克金得 14 万借朋友，金价大涨后要求按现值还款，这合理吗？法院会如何判决？",
-          "url": "https://www.zhihu.com/question/1999853811821463456",
-          "source": "知乎",
-          "ranks": [
-            20,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时56分 ~ 15时49分]"
-        },
-        {
-          "title": "金价暴跌后黄金市场挤满顾客",
-          "url": "https://www.douyin.com/hot/2386891",
-          "source": "抖音",
-          "ranks": [
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时56分 ~ 15时49分]"
-        },
-        {
           "title": "金价暴跌，刚买的金饰能退吗？",
           "url": "https://news.ifeng.com/c/8qPhA47Tw2J",
           "source": "凤凰网",
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时49分 ~ 16时41分]"
         },
         {
           "title": "黄金暴跌为何瑞银却上调金价目标",
@@ -739,9 +787,20 @@
           "ranks": [
             15
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时49分 ~ 16时41分]"
+        },
+        {
+          "title": "李大霄直播解读金价震荡",
+          "url": "https://www.toutiao.com/trending/7601506327084600886/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时49分"
+          "time_info": "16时41分"
         },
         {
           "title": "金价下跌30克金镯2天降价6000元",
@@ -769,7 +828,7 @@
     },
     {
       "keyword_group": "俄罗斯",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "王毅同俄罗斯联邦安全会议秘书绍伊古进行战略沟通",
@@ -778,11 +837,12 @@
           "ranks": [
             17,
             13,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时28分 ~ 15时49分]"
+          "appearance_count": 16,
+          "time_info": "[00时28分 ~ 16时41分]"
         },
         {
           "title": "王毅同俄罗斯联邦安全会议秘书绍伊古进行战略沟通",
@@ -859,13 +919,24 @@
           "time_info": "[10时02分 ~ 14时03分]"
         },
         {
+          "title": "俄罗斯天空现 4 个月亮，这种现象是如何形成的？",
+          "url": "https://www.zhihu.com/question/2001594640005034732",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时49分 ~ 16时41分]"
+        },
+        {
           "title": "中方今年希望与俄罗斯在哪些领域取得新突破？外交部回应",
           "url": "https://wallstreetcn.com/livenews/3048181",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时49分"
         },
@@ -881,15 +952,15 @@
           "time_info": "14时03分"
         },
         {
-          "title": "俄罗斯天空现 4 个月亮，这种现象是如何形成的？",
-          "url": "https://www.zhihu.com/question/2001594640005034732",
-          "source": "知乎",
+          "title": "市场消息：俄罗斯联邦情报局称，法国总统马克龙授权其特别部门制定一项计划，以清除非洲地区的“不受欢迎的领导人”。",
+          "url": "https://flash.jin10.com/detail/20260202155557013800",
+          "source": "金十数据",
           "ranks": [
-            11
+            21
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时49分"
+          "time_info": "16时41分"
         },
         {
           "title": "俄罗斯夜空同时出现4个月亮",
@@ -1044,6 +1115,57 @@
       ]
     },
     {
+      "keyword_group": "新能源",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "我国新能源新增发电量占全社会新增用电量97.1%",
+          "url": "https://wallstreetcn.com/livenews/3048211",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时41分"
+        },
+        {
+          "title": "港股收盘：恒生指数收跌2.23%，恒生科技指数收跌3.36%；黄金股领跌，芯片、新能源车等板块跌幅居前，比亚迪股份跌超6%，华虹半导体跌超11%。",
+          "url": "https://wallstreetcn.com/livenews/3048205",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时41分"
+        },
+        {
+          "title": "多家新能源车企1月销量公布",
+          "url": "https://www.toutiao.com/trending/7601058700245663794/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 01时24分]"
+        },
+        {
+          "title": "新能源重卡月度渗透率突破50%创下行业新纪录",
+          "url": "https://wallstreetcn.com/livenews/3047915",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 3,
       "titles": [
@@ -1097,8 +1219,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时28分 ~ 15时49分]"
+          "appearance_count": 15,
+          "time_info": "[00时28分 ~ 16时41分]"
         },
         {
           "title": "黄仁勋：OpenAI邀请英伟达进行高达1000亿美元投资，但千亿美元投资“绝非承诺”。我们将逐步投资OpenAI。",
@@ -1111,35 +1233,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时28分 ~ 06时23分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新能源",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "多家新能源车企1月销量公布",
-          "url": "https://www.toutiao.com/trending/7601058700245663794/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 01时24分]"
-        },
-        {
-          "title": "新能源重卡月度渗透率突破50%创下行业新纪录",
-          "url": "https://wallstreetcn.com/livenews/3047915",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时02分"
         }
       ]
     },
@@ -1157,11 +1250,12 @@
             15,
             11,
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时28分 ~ 15时49分]"
+          "appearance_count": 16,
+          "time_info": "[00时28分 ~ 16时41分]"
         },
         {
           "title": "哈梅内伊：如果美国挑起战争 这次冲突将不再局限于一地",
@@ -1191,8 +1285,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时28分 ~ 15时49分]"
+          "appearance_count": 16,
+          "time_info": "[00时28分 ~ 16时41分]"
         }
       ]
     },
@@ -1207,7 +1301,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时49分"
         }
@@ -1244,6 +1338,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "武器",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "以色列财政部长斯莫特里奇：未来几天，我们将给哈马斯两个月的期限来全面解除武装，如果哈马斯不放下武器，我们将采取我们自己的行动。",
+          "url": "https://flash.jin10.com/detail/20260202155847140800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时41分"
         }
       ]
     },
