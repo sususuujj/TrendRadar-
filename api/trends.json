@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-02T17:46:37.358783+08:00",
-  "total_titles_processed": 1244,
+  "generated_at": "2026-02-02T18:43:46.134570+08:00",
+  "total_titles_processed": 1346,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 29,
+      "match_count": 32,
       "titles": [
         {
           "title": "伊朗多地爆炸消息引发焦虑，美伊均释放和谈信号，哈梅内伊现身",
@@ -69,6 +69,17 @@
           "time_info": "[00时28分 ~ 07时24分]"
         },
         {
+          "title": "已紧扣扳机！美军打击伊朗所需装备已部署齐全",
+          "url": "https://news.ifeng.com/c/8qQ4FwgNOwT",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时46分 ~ 18时43分]"
+        },
+        {
           "title": "据路透社：伊朗官员表示，有关伊朗革命卫队计划在霍尔木兹海峡举行军事演习的媒体报道是错误的。革命卫队尚未就霍尔木兹海峡军演事宜发布官方声明。",
           "url": "https://flash.jin10.com/detail/20260201210033131800",
           "source": "金十数据",
@@ -106,17 +117,6 @@
           "time_info": "16时41分"
         },
         {
-          "title": "伊朗否认收到美国“最后通牒” 称希望未来几天确定谈判细节",
-          "url": "https://wallstreetcn.com/livenews/3048278",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时46分"
-        },
-        {
           "title": "伊朗最高领袖：近期抗议示威形同政变，已被平定",
           "url": "https://news.ifeng.com/c/8qOoftoUdPj",
           "source": "凤凰网",
@@ -138,17 +138,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时28分 ~ 03时23分]"
-        },
-        {
-          "title": "已紧扣扳机！美军打击伊朗所需装备已部署齐全",
-          "url": "https://news.ifeng.com/c/8qQ4FwgNOwT",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时46分"
         },
         {
           "title": "伊朗革命卫队海军司令：伊朗人民将继续坚定不移地抵御敌人的阴谋。",
@@ -201,17 +190,42 @@
           "time_info": "[06时23分 ~ 07时24分]"
         },
         {
+          "title": "伊朗否认收到美国“最后通牒” 称希望未来几天确定谈判细节",
+          "url": "https://wallstreetcn.com/livenews/3048278",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时46分 ~ 18时43分]"
+        },
+        {
           "title": "懂了｜美国亲手埋下“核种子”：6分钟看伊朗核问题的前世今生",
           "url": "https://m.thepaper.cn/newsDetail_forward_32498721",
           "source": "澎湃新闻",
           "ranks": [
             12,
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时49分 ~ 17时46分]"
+          "appearance_count": 4,
+          "time_info": "[15时49分 ~ 18时43分]"
+        },
+        {
+          "title": "武契奇预计伊朗将在48小时内遭袭",
+          "url": "https://www.toutiao.com/trending/7602178880666157119/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时46分 ~ 18时43分]"
         },
         {
           "title": "伊朗政府公布近期骚乱事件遇难者名单",
@@ -236,15 +250,15 @@
           "time_info": "07时24分"
         },
         {
-          "title": "武契奇预计伊朗将在48小时内遭袭",
-          "url": "https://www.toutiao.com/trending/7602178880666157119/",
-          "source": "今日头条",
+          "title": "克里姆林宫：仍在努力缓和伊朗周边的紧张局势。",
+          "url": "https://flash.jin10.com/detail/20260202175252542800",
+          "source": "金十数据",
           "ranks": [
-            9
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时46分"
+          "time_info": "18时43分"
         },
         {
           "title": "UP主记录动荡中的伊朗",
@@ -278,6 +292,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时41分"
+        },
+        {
+          "title": "克里姆林宫：（在伊朗局势和铀问题上）早在很久以前俄方就曾提供过相关服务，以消除“干扰因素”。",
+          "url": "https://flash.jin10.com/detail/20260202175216042800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
         },
         {
           "title": "伊朗武装部队总参谋长：地区战火将波及美国及其盟友",
@@ -319,9 +344,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时46分"
+        },
+        {
+          "title": "伊朗外长分别与埃及沙特土耳其外长通电话",
+          "url": "https://wallstreetcn.com/livenews/3048288",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
         },
         {
           "title": "伊朗",
@@ -349,7 +385,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "爱泼斯坦案多名受害者指控特朗普",
@@ -457,8 +493,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时49分 ~ 17时46分]"
+          "appearance_count": 4,
+          "time_info": "[15时49分 ~ 18时43分]"
         },
         {
           "title": "如果特朗普下令美军入侵加拿大，会怎样？",
@@ -630,6 +666,17 @@
           "time_info": "[07时23分 ~ 07时24分]"
         },
         {
+          "title": "克里姆林宫：对于此前就俄罗斯应特朗普请求短暂暂停打击乌克兰能源基础设施一事所作表态，已无更多补充。",
+          "url": "https://flash.jin10.com/detail/20260202175246532800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
+        },
+        {
           "title": "特朗普再次表态：将与古巴达成协议",
           "url": "https://wallstreetcn.com/livenews/3047836",
           "source": "华尔街见闻-快讯",
@@ -688,7 +735,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "金价暴跌，深圳水贝挤满了人，扎堆买金；演员自曝4元/克买的白银，13年前存在银行保险箱忘了，逾期需补交7000多元",
@@ -726,6 +773,20 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时02分 ~ 14时03分]"
+        },
+        {
+          "title": "男子卖 400 克金得 14 万借朋友，金价大涨后要求按现值还款，这合理吗？法院会如何判决？",
+          "url": "https://www.zhihu.com/question/1999853811821463456",
+          "source": "知乎",
+          "ranks": [
+            20,
+            6,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时56分 ~ 18时43分]"
         },
         {
           "title": "金价“大跳水”？两大投资大佬：黄金才是泡沫而非AI，美元一涨就会破！",
@@ -766,30 +827,6 @@
           "time_info": "[12时56分 ~ 17时46分]"
         },
         {
-          "title": "金价继续跳水：部分银行实物金条库存悄然松动，投资情绪降温",
-          "url": "https://wallstreetcn.com/livenews/3048273",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时46分"
-        },
-        {
-          "title": "男子卖 400 克金得 14 万借朋友，金价大涨后要求按现值还款，这合理吗？法院会如何判决？",
-          "url": "https://www.zhihu.com/question/1999853811821463456",
-          "source": "知乎",
-          "ranks": [
-            20,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时56分 ~ 17时46分]"
-        },
-        {
           "title": "德意志银行在金价暴跌后仍然看涨 维持6000美元目标价",
           "url": "https://wallstreetcn.com/livenews/3048186",
           "source": "华尔街见闻-快讯",
@@ -814,6 +851,18 @@
           "time_info": "[15时49分 ~ 16时41分]"
         },
         {
+          "title": "金价继续跳水：部分银行实物金条库存悄然松动，投资情绪降温",
+          "url": "https://wallstreetcn.com/livenews/3048273",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时46分 ~ 18时43分]"
+        },
+        {
           "title": "金价",
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=12&Refer=top",
           "source": "微博",
@@ -832,11 +881,12 @@
           "url": "https://www.toutiao.com/trending/7602143255571992083/",
           "source": "今日头条",
           "ranks": [
-            15
+            15,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时49分 ~ 17时46分]"
+          "appearance_count": 4,
+          "time_info": "[15时49分 ~ 18时43分]"
         },
         {
           "title": "金价暴跌，刚买的金饰能退吗？",
@@ -850,13 +900,25 @@
           "time_info": "[15时49分 ~ 16时41分]"
         },
         {
+          "title": "金价史诗级暴跌是机会还是陷阱",
+          "url": "https://www.toutiao.com/trending/7602177874514988598/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时46分 ~ 18时43分]"
+        },
+        {
           "title": "金价下跌逾4%，美股黄金矿业公司股价盘前下跌，哈莫尼黄金下跌5.3%，SPDR黄金ETF下跌4.1%，巴里克矿业下跌4.8%。金罗斯黄金下跌5.9%。",
           "url": "https://flash.jin10.com/detail/20260202171934204800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时46分"
         },
@@ -878,9 +940,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时46分"
+        },
+        {
+          "title": "金价闪崩可以抄底了吗",
+          "url": "https://www.toutiao.com/trending/7602181563039632905/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
         },
         {
           "title": "金价下跌30克金镯2天降价6000元",
@@ -903,23 +976,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
-        },
-        {
-          "title": "金价史诗级暴跌是机会还是陷阱",
-          "url": "https://www.toutiao.com/trending/7602177874514988598/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时46分"
         }
       ]
     },
     {
       "keyword_group": "俄罗斯",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "王毅同俄罗斯联邦安全会议秘书绍伊古进行战略沟通",
@@ -932,8 +994,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时28分 ~ 17时46分]"
+          "appearance_count": 18,
+          "time_info": "[00时28分 ~ 18时43分]"
         },
         {
           "title": "王毅同俄罗斯联邦安全会议秘书绍伊古进行战略沟通",
@@ -961,6 +1023,18 @@
           "time_info": "[00时28分 ~ 06时23分]"
         },
         {
+          "title": "俄罗斯天空现 4 个月亮，这种现象是如何形成的？",
+          "url": "https://www.zhihu.com/question/2001594640005034732",
+          "source": "知乎",
+          "ranks": [
+            11,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时49分 ~ 18时43分]"
+        },
+        {
           "title": "俄罗斯联邦安全委员会副主席梅德韦杰夫：欧洲未能在乌克兰击败俄罗斯。",
           "url": "https://flash.jin10.com/detail/20260201200014432800",
           "source": "金十数据",
@@ -983,18 +1057,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
-        },
-        {
-          "title": "俄罗斯天空现 4 个月亮，这种现象是如何形成的？",
-          "url": "https://www.zhihu.com/question/2001594640005034732",
-          "source": "知乎",
-          "ranks": [
-            11,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时49分 ~ 17时46分]"
         },
         {
           "title": "俄罗斯联邦安全委员会副主席梅德韦杰夫：胜利“很快”就会在乌克兰到来，但同样重要的是思考如何预防新的冲突。",
@@ -1033,6 +1095,17 @@
           "time_info": "15时49分"
         },
         {
+          "title": "克里姆林宫：不会透露俄罗斯特别代表德米特里耶夫与美国官员上一轮会谈的细节。",
+          "url": "https://flash.jin10.com/detail/20260202175259828800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
+        },
+        {
           "title": "梅德韦杰夫称俄罗斯将很快获胜",
           "url": "https://www.toutiao.com/trending/7601884881393385523/",
           "source": "今日头条",
@@ -1050,7 +1123,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时46分"
         },
@@ -1061,9 +1134,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时46分"
+        },
+        {
+          "title": "克里姆林宫：俄罗斯和乌克兰在一些问题上缩小了分歧，但在其他更复杂的问题上仍未达成共识。",
+          "url": "https://flash.jin10.com/detail/20260202175127834800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
         },
         {
           "title": "据俄新社：俄罗斯国防部称其部队已占领乌克兰扎波罗热地区内的“希普罗多尔尼”据点。",
@@ -1072,7 +1156,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时46分"
         },
@@ -1241,7 +1325,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美股期货亚市盘初走低，纳斯达克100指数期货跌0.8%，标普500指数期货跌0.6%。 现货黄金盘初大幅波动，最低报4783.98美元/盎司，目前反弹至4840美元一线附近，日内跌0.5%。 现货白银亦大幅波动，最低报80.53美元/盎司，目前反弹至82.15美元，日内跌2.7%。 布伦特原油期货亚市开盘下跌2.4%，至每桶67.78美元。",
@@ -1267,6 +1351,17 @@
           "time_info": "[10时02分 ~ 12时56分]"
         },
         {
+          "title": "贵金属普遍遭抛售，美股锂矿商盘前下跌。",
+          "url": "https://flash.jin10.com/detail/20260202180049726800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
+        },
+        {
           "title": "美股股指期货周一低开，其中纳指期货跌0.8%。",
           "url": "https://flash.jin10.com/detail/20260202070305178800",
           "source": "金十数据",
@@ -1284,7 +1379,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时46分"
         },
@@ -1295,7 +1390,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时46分"
         }
@@ -1405,7 +1500,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时46分"
         }
@@ -1447,6 +1542,34 @@
       ]
     },
     {
+      "keyword_group": "武器",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "俄安全会议副主席：《新削减战略武器条约》是建立信任的基础",
+          "url": "https://wallstreetcn.com/livenews/3048303",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
+        },
+        {
+          "title": "以色列财政部长斯莫特里奇：未来几天，我们将给哈马斯两个月的期限来全面解除武装，如果哈马斯不放下武器，我们将采取我们自己的行动。",
+          "url": "https://flash.jin10.com/detail/20260202155847140800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时41分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
@@ -1461,8 +1584,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时28分 ~ 17时46分]"
+          "appearance_count": 18,
+          "time_info": "[00时28分 ~ 18时43分]"
         }
       ]
     },
@@ -1497,23 +1620,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "武器",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "以色列财政部长斯莫特里奇：未来几天，我们将给哈马斯两个月的期限来全面解除武装，如果哈马斯不放下武器，我们将采取我们自己的行动。",
-          "url": "https://flash.jin10.com/detail/20260202155847140800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时41分"
         }
       ]
     },
