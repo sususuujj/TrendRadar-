@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-03T20:57:24.481062+08:00",
-  "total_titles_processed": 1743,
+  "generated_at": "2026-02-03T22:06:21.262105+08:00",
+  "total_titles_processed": 1851,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时39分 ~ 20时57分]"
+          "appearance_count": 7,
+          "time_info": "[17时39分 ~ 22时06分]"
         },
         {
           "title": "特朗普：莫迪同意停购俄油，美印达成贸易协议，将降低印度关税",
@@ -42,8 +42,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时50分 ~ 20时57分]"
+          "appearance_count": 10,
+          "time_info": "[14时50分 ~ 22时06分]"
         },
         {
           "title": "中方回应特朗普让中国参与军控谈判",
@@ -69,8 +69,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时34分 ~ 20时57分]"
+          "appearance_count": 3,
+          "time_info": "[19时34分 ~ 22时06分]"
         },
         {
           "title": "特朗普称美印达成贸易协议 Waymo估值超千亿美元 | 环球市场",
@@ -203,6 +203,17 @@
           "time_info": "[00时39分 ~ 01时37分]"
         },
         {
+          "title": "特朗普称莫迪同意停止购买俄石油，克宫发声",
+          "url": "https://news.ifeng.com/c/8qRsRpYySJZ",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时57分 ~ 22时06分]"
+        },
+        {
           "title": "市场消息：美国法官恢复了被特朗普叫停的沃旭能源纽约海上风电项目。",
           "url": "https://flash.jin10.com/detail/20260203021528114800",
           "source": "金十数据",
@@ -223,17 +234,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时44分"
-        },
-        {
-          "title": "特朗普称莫迪同意停止购买俄石油，克宫发声",
-          "url": "https://news.ifeng.com/c/8qRsRpYySJZ",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时57分"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-03）",
@@ -275,7 +275,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时57分"
         },
@@ -550,16 +550,460 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时57分"
         }
       ]
     },
     {
-      "keyword_group": "伊朗",
-      "match_count": 35,
+      "keyword_group": "俄罗斯",
+      "match_count": 38,
       "titles": [
+        {
+          "title": "全球变暖是否会使得加拿大和俄罗斯的大片土地变成良田？",
+          "url": "https://www.zhihu.com/question/297934208",
+          "source": "知乎",
+          "ranks": [
+            14,
+            6,
+            5,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时35分 ~ 22时06分]"
+        },
+        {
+          "title": "俄罗斯副外长里亚布科夫：新削减战略武器条约到期后，俄罗斯已准备好迎接新现实。",
+          "url": "https://flash.jin10.com/detail/20260203133313557800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时50分"
+        },
+        {
+          "title": "基辅官方称，俄罗斯正在用弹道导弹袭击首都。",
+          "url": "https://flash.jin10.com/detail/20260203071237355800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        },
+        {
+          "title": "俄罗斯外交部：俄罗斯呼吁美国领导人释放马杜罗及其妻子。",
+          "url": "https://flash.jin10.com/detail/20260203011927663800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时37分"
+        },
+        {
+          "title": "英国皇家海军第一海务大臣：俄罗斯对北方舰队的投资，尤其是对水下作战能力的投资，丝毫未减。",
+          "url": "https://flash.jin10.com/detail/20260203181717688800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时39分"
+        },
+        {
+          "title": "俄罗斯副总理诺瓦克：预计2026年GDP将增长1%-1.3%。",
+          "url": "https://flash.jin10.com/detail/20260203161015602800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
+          "title": "俄罗斯天空现 4 个月亮，这种现象是如何形成的？",
+          "url": "https://www.zhihu.com/question/2001594640005034732",
+          "source": "知乎",
+          "ranks": [
+            4,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时39分 ~ 01时37分]"
+        },
+        {
+          "title": "俄罗斯副总理诺瓦克：预计2025年俄罗斯失业率降至2.2%。",
+          "url": "https://flash.jin10.com/detail/20260203160923473800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
+          "title": "据俄新社：俄罗斯副外长里亚布科夫表示，新削减战略武器条约到期后，俄罗斯不会屈服于挑衅，也不会陷入军备竞赛。",
+          "url": "https://flash.jin10.com/detail/20260203171654749800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时40分"
+        },
+        {
+          "title": "紧张局势升级之际，美媒：一架俄罗斯重型运输机降落在古巴一空军基地",
+          "url": "https://wallstreetcn.com/livenews/3049087",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时34分"
+        },
+        {
+          "title": "据俄新社：俄罗斯副外长里亚布科夫表示，俄罗斯核三位一体的现代化已处于非常先进的阶段。",
+          "url": "https://flash.jin10.com/detail/20260203171548178800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时40分"
+        },
+        {
+          "title": "俄罗斯外长：俄罗斯将把外国军事力量和军事基础设施在乌克兰的部署视为外国的干涉。",
+          "url": "https://flash.jin10.com/detail/20260203010439303800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时37分"
+        },
+        {
+          "title": "据华尔街日报：马斯克旗下的SpaceX限制俄罗斯无人机使用星链服务。",
+          "url": "https://flash.jin10.com/detail/20260203020849427800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时44分"
+        },
+        {
+          "title": "俄罗斯副总理诺瓦克：预计俄罗斯2025年GDP增长1%。",
+          "url": "https://flash.jin10.com/detail/20260203160455636800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
+          "title": "乌克兰电力公司DTEK表示，昨夜的俄罗斯空袭是自2026年初以来对能源系统发动的最大规模袭击。",
+          "url": "https://flash.jin10.com/detail/20260203183644726800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时34分"
+        },
+        {
+          "title": "穆迪：印度全面转向非俄罗斯石油也可能导致其他地区供应紧张，推高油价，并最终导致更高的通货膨胀。",
+          "url": "https://flash.jin10.com/detail/20260203132429037800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时50分"
+        },
+        {
+          "title": "俄罗斯副总理诺瓦克：欧佩克+预计春夏季石油需求将上升。",
+          "url": "https://flash.jin10.com/detail/20260203183331813800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时34分"
+        },
+        {
+          "title": "据国际文传电讯社：俄罗斯总统普京与沙特王储穆罕默德同意深化合作。",
+          "url": "https://flash.jin10.com/detail/20260203211438528800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
+        },
+        {
+          "title": "据波兰媒体Onet报道称。，消息人士透露，波兰军事情报反间谍局逮捕了一名涉嫌与俄罗斯情报机构勾结的国防部雇员。",
+          "url": "https://flash.jin10.com/detail/20260203171256848800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时40分"
+        },
+        {
+          "title": "俄罗斯副总理诺瓦克：（谈4月份欧佩克+行动预期）这将是确保石油市场平衡的另一个因素。",
+          "url": "https://flash.jin10.com/detail/20260203183324735800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时34分"
+        },
+        {
+          "title": "据国际文传电讯社：俄罗斯国防部表示，俄军对乌克兰的军工和能源设施发动了大规模打击。",
+          "url": "https://flash.jin10.com/detail/20260203171206665800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时40分"
+        },
+        {
+          "title": "俄罗斯副总理诺瓦克：（就印度可能削减俄罗斯石油进口）我们目前只看到了公开声明。",
+          "url": "https://flash.jin10.com/detail/20260203183226098800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时34分"
+        },
+        {
+          "title": "据国际文传电讯社：俄罗斯总统普京与沙特王储穆罕默德讨论欧佩克+事宜。",
+          "url": "https://flash.jin10.com/detail/20260203211323907800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
+        },
+        {
+          "title": "俄罗斯副总理诺瓦克：（谈4月份欧佩克+行动预期）我们看到石油供需平衡。",
+          "url": "https://flash.jin10.com/detail/20260203183155595800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时34分"
+        },
+        {
+          "title": "据报道，俄罗斯总统普京与沙特王储穆罕默德·本·萨勒曼通了电话。",
+          "url": "https://flash.jin10.com/detail/20260203211244017800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
+        },
+        {
+          "title": "俄罗斯副总理诺瓦克：我们的商品资源需求旺盛。",
+          "url": "https://flash.jin10.com/detail/20260203183128841800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时34分"
+        },
+        {
+          "title": "印度官员宣称，美国将针对购买俄罗斯石油撤销25%的惩罚性关税。 印度同意，未来五年购买5000亿美元（美国产品）。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3048487",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时44分"
+        },
+        {
+          "title": "俄罗斯北方钢铁利润率降至16年低点",
+          "url": "https://flash.jin10.com/detail/20260203182950895800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时34分"
+        },
+        {
+          "title": "俄罗斯重申不接受西方在乌军事部署",
+          "url": "https://wallstreetcn.com/livenews/3048572",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        },
+        {
+          "title": "俄罗斯副总理诺瓦克：俄罗斯有足够的柴油和汽油满足国内消费需求。 由于库存过剩风险，汽油出口禁令已被解除。",
+          "url": "https://wallstreetcn.com/livenews/3048983",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时40分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：俄罗斯无视我们的努力，连夜袭击乌克兰能源设施。",
+          "url": "https://flash.jin10.com/detail/20260203210736688800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
+        },
+        {
+          "title": "俄罗斯央行：俄罗斯银行2025年净利润预计为3.5万亿卢布，低于2024年的3.8万亿卢布。2025年12月净利润环比下降55%，至1760亿卢布。",
+          "url": "https://flash.jin10.com/detail/20260203170102089800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时40分"
+        },
+        {
+          "title": "乌克兰哈尔科夫州长表示，俄罗斯空袭后，哈尔科夫地区近60%的消费者断电。",
+          "url": "https://flash.jin10.com/detail/20260203202701148800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
+          "title": "美欧乌秘密商定多级反应机制 武力遏制俄罗斯再次毁约",
+          "url": "https://flash.jin10.com/detail/20260203130558485800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时50分"
+        },
+        {
+          "title": "乌克兰能源部长：俄罗斯的袭击导致数十万家庭断暖。",
+          "url": "https://flash.jin10.com/detail/20260203150614893800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时42分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：阿联酋会谈旨在评估俄罗斯达成妥协的意愿。",
+          "url": "https://flash.jin10.com/detail/20260203210534378800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
+        },
+        {
+          "title": "乌克兰同意采取多层级计划来执行与俄罗斯的潜在停火协议。",
+          "url": "https://flash.jin10.com/detail/20260203130244481800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时50分"
+        },
+        {
+          "title": "克里姆林宫：我们尚未听到印度就其暂停从俄罗斯购买石油发表任何声明。",
+          "url": "https://flash.jin10.com/detail/20260203174016247800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 36,
+      "titles": [
+        {
+          "title": "以色列对美国与伊朗谈判提“三不”强硬要求",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32520089",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16,
+            14,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时50分 ~ 22时06分]"
+        },
         {
           "title": "懂了｜美国亲手埋下“核种子”：6分钟看伊朗核问题的前世今生",
           "url": "https://m.thepaper.cn/newsDetail_forward_32498721",
@@ -584,21 +1028,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时01分 ~ 16时35分]"
-        },
-        {
-          "title": "以色列对美国与伊朗谈判提“三不”强硬要求",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32520089",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            16,
-            14,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时50分 ~ 20时57分]"
         },
         {
           "title": "伊朗总统已下令启动核谈判",
@@ -790,6 +1219,17 @@
           "time_info": "[16时35分 ~ 17时40分]"
         },
         {
+          "title": "卡塔尔外交部：与伊朗保持最高级别沟通",
+          "url": "https://wallstreetcn.com/livenews/3049158",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
+        },
+        {
           "title": "以色列：对美国与伊朗谈判提“三不”强硬要求",
           "url": "https://www.cls.cn/detail/2278436",
           "source": "财联社热门",
@@ -895,7 +1335,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时57分"
         },
@@ -917,7 +1357,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时57分"
         },
@@ -961,389 +1401,15 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "俄罗斯",
-      "match_count": 33,
-      "titles": [
-        {
-          "title": "全球变暖是否会使得加拿大和俄罗斯的大片土地变成良田？",
-          "url": "https://www.zhihu.com/question/297934208",
-          "source": "知乎",
-          "ranks": [
-            14,
-            6,
-            5,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时35分 ~ 20时57分]"
-        },
-        {
-          "title": "俄罗斯副外长里亚布科夫：新削减战略武器条约到期后，俄罗斯已准备好迎接新现实。",
-          "url": "https://flash.jin10.com/detail/20260203133313557800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时50分"
-        },
-        {
-          "title": "基辅官方称，俄罗斯正在用弹道导弹袭击首都。",
-          "url": "https://flash.jin10.com/detail/20260203071237355800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时28分"
-        },
-        {
-          "title": "俄罗斯外交部：俄罗斯呼吁美国领导人释放马杜罗及其妻子。",
-          "url": "https://flash.jin10.com/detail/20260203011927663800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时37分"
-        },
-        {
-          "title": "英国皇家海军第一海务大臣：俄罗斯对北方舰队的投资，尤其是对水下作战能力的投资，丝毫未减。",
-          "url": "https://flash.jin10.com/detail/20260203181717688800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时39分"
-        },
-        {
-          "title": "俄罗斯副总理诺瓦克：预计2026年GDP将增长1%-1.3%。",
-          "url": "https://flash.jin10.com/detail/20260203161015602800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时35分"
-        },
-        {
-          "title": "俄罗斯天空现 4 个月亮，这种现象是如何形成的？",
-          "url": "https://www.zhihu.com/question/2001594640005034732",
-          "source": "知乎",
-          "ranks": [
-            4,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时39分 ~ 01时37分]"
-        },
-        {
-          "title": "俄罗斯副总理诺瓦克：预计2025年俄罗斯失业率降至2.2%。",
-          "url": "https://flash.jin10.com/detail/20260203160923473800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时35分"
-        },
-        {
-          "title": "据俄新社：俄罗斯副外长里亚布科夫表示，新削减战略武器条约到期后，俄罗斯不会屈服于挑衅，也不会陷入军备竞赛。",
-          "url": "https://flash.jin10.com/detail/20260203171654749800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时40分"
-        },
-        {
-          "title": "紧张局势升级之际，美媒：一架俄罗斯重型运输机降落在古巴一空军基地",
-          "url": "https://wallstreetcn.com/livenews/3049087",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时34分"
-        },
-        {
-          "title": "据俄新社：俄罗斯副外长里亚布科夫表示，俄罗斯核三位一体的现代化已处于非常先进的阶段。",
-          "url": "https://flash.jin10.com/detail/20260203171548178800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时40分"
-        },
-        {
-          "title": "俄罗斯外长：俄罗斯将把外国军事力量和军事基础设施在乌克兰的部署视为外国的干涉。",
-          "url": "https://flash.jin10.com/detail/20260203010439303800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时37分"
-        },
-        {
-          "title": "据华尔街日报：马斯克旗下的SpaceX限制俄罗斯无人机使用星链服务。",
-          "url": "https://flash.jin10.com/detail/20260203020849427800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时44分"
-        },
-        {
-          "title": "俄罗斯副总理诺瓦克：预计俄罗斯2025年GDP增长1%。",
-          "url": "https://flash.jin10.com/detail/20260203160455636800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时35分"
-        },
-        {
-          "title": "乌克兰电力公司DTEK表示，昨夜的俄罗斯空袭是自2026年初以来对能源系统发动的最大规模袭击。",
-          "url": "https://flash.jin10.com/detail/20260203183644726800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时34分"
-        },
-        {
-          "title": "穆迪：印度全面转向非俄罗斯石油也可能导致其他地区供应紧张，推高油价，并最终导致更高的通货膨胀。",
-          "url": "https://flash.jin10.com/detail/20260203132429037800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时50分"
-        },
-        {
-          "title": "俄罗斯副总理诺瓦克：欧佩克+预计春夏季石油需求将上升。",
-          "url": "https://flash.jin10.com/detail/20260203183331813800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时34分"
-        },
-        {
-          "title": "据波兰媒体Onet报道称。，消息人士透露，波兰军事情报反间谍局逮捕了一名涉嫌与俄罗斯情报机构勾结的国防部雇员。",
-          "url": "https://flash.jin10.com/detail/20260203171256848800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时40分"
-        },
-        {
-          "title": "俄罗斯副总理诺瓦克：（谈4月份欧佩克+行动预期）这将是确保石油市场平衡的另一个因素。",
-          "url": "https://flash.jin10.com/detail/20260203183324735800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时34分"
-        },
-        {
-          "title": "据国际文传电讯社：俄罗斯国防部表示，俄军对乌克兰的军工和能源设施发动了大规模打击。",
-          "url": "https://flash.jin10.com/detail/20260203171206665800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时40分"
-        },
-        {
-          "title": "俄罗斯副总理诺瓦克：（就印度可能削减俄罗斯石油进口）我们目前只看到了公开声明。",
-          "url": "https://flash.jin10.com/detail/20260203183226098800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时34分"
-        },
-        {
-          "title": "俄罗斯副总理诺瓦克：（谈4月份欧佩克+行动预期）我们看到石油供需平衡。",
-          "url": "https://flash.jin10.com/detail/20260203183155595800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时34分"
-        },
-        {
-          "title": "俄罗斯副总理诺瓦克：我们的商品资源需求旺盛。",
-          "url": "https://flash.jin10.com/detail/20260203183128841800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时34分"
-        },
-        {
-          "title": "印度官员宣称，美国将针对购买俄罗斯石油撤销25%的惩罚性关税。 印度同意，未来五年购买5000亿美元（美国产品）。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3048487",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时44分"
-        },
-        {
-          "title": "俄罗斯北方钢铁利润率降至16年低点",
-          "url": "https://flash.jin10.com/detail/20260203182950895800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时34分"
-        },
-        {
-          "title": "俄罗斯重申不接受西方在乌军事部署",
-          "url": "https://wallstreetcn.com/livenews/3048572",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时28分"
-        },
-        {
-          "title": "俄罗斯副总理诺瓦克：俄罗斯有足够的柴油和汽油满足国内消费需求。 由于库存过剩风险，汽油出口禁令已被解除。",
-          "url": "https://wallstreetcn.com/livenews/3048983",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时40分"
-        },
-        {
-          "title": "俄罗斯央行：俄罗斯银行2025年净利润预计为3.5万亿卢布，低于2024年的3.8万亿卢布。2025年12月净利润环比下降55%，至1760亿卢布。",
-          "url": "https://flash.jin10.com/detail/20260203170102089800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时40分"
-        },
-        {
-          "title": "乌克兰哈尔科夫州长表示，俄罗斯空袭后，哈尔科夫地区近60%的消费者断电。",
-          "url": "https://flash.jin10.com/detail/20260203202701148800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时57分"
-        },
-        {
-          "title": "美欧乌秘密商定多级反应机制 武力遏制俄罗斯再次毁约",
-          "url": "https://flash.jin10.com/detail/20260203130558485800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时50分"
-        },
-        {
-          "title": "乌克兰能源部长：俄罗斯的袭击导致数十万家庭断暖。",
-          "url": "https://flash.jin10.com/detail/20260203150614893800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时42分"
-        },
-        {
-          "title": "乌克兰同意采取多层级计划来执行与俄罗斯的潜在停火协议。",
-          "url": "https://flash.jin10.com/detail/20260203130244481800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时50分"
-        },
-        {
-          "title": "克里姆林宫：我们尚未听到印度就其暂停从俄罗斯购买石油发表任何声明。",
-          "url": "https://flash.jin10.com/detail/20260203174016247800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时39分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "美制造业数据托底风险偏好，美股、加密货币齐反弹、美元续涨，金银企稳，原油重挫",
@@ -1354,8 +1420,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时01分 ~ 20时57分]"
+          "appearance_count": 13,
+          "time_info": "[10时01分 ~ 22时06分]"
+        },
+        {
+          "title": "大反弹！白银涨11%，黄金涨6%，纳指期货涨超0.5%，存储板块美股盘前走高，欧股集体高开，韩股大涨6%",
+          "url": "https://wallstreetcn.com/articles/3764793",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时39分 ~ 22时06分]"
         },
         {
           "title": "美股收盘：标普低开高走迫近新高 存储板块又迎热钱流入",
@@ -1368,18 +1447,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[07时27分 ~ 15时42分]"
-        },
-        {
-          "title": "大反弹！白银涨11%，黄金涨6%，纳指期货涨超0.5%，存储板块美股盘前走高，欧股集体高开，韩股大涨6%",
-          "url": "https://wallstreetcn.com/articles/3764793",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时39分 ~ 20时57分]"
         },
         {
           "title": "商品暴跌震动市场！美股指集体低开，纳指跌0.4%，甲骨文逆势涨4%，现货金银“V”型反转，布油跌5%",
@@ -1461,9 +1528,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时57分"
+        },
+        {
+          "title": "美股期指走高 Palantir盘前大涨逾11% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2279540",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
         },
         {
           "title": "PayPal第四季度调整后每股收益1.23美元，上年同期1.19美元，市场预估1.28美元。 第四季度净营收86.8亿美元，同比增长3.7%，市场预估87.9亿美元。 第四季度调整后运营收益15.5亿美元，同比增长3.2%，市场预估15.9亿美元。 预计全年自由现金流超过60亿美元。 预计全年资本支出大约10亿美元，市场预估9.978亿美元。 PayPal美股盘前跌超8%。",
@@ -1472,7 +1550,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时57分"
         },
@@ -1494,7 +1572,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时57分"
         },
@@ -1516,7 +1594,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时57分"
         }
@@ -1754,7 +1832,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "金价究竟涨到多少才算过高？摩根大通给出预期：8000美元以上",
@@ -1775,11 +1853,12 @@
           "source": "知乎",
           "ranks": [
             11,
-            13
+            13,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时38分 ~ 20时57分]"
+          "appearance_count": 5,
+          "time_info": "[18时38分 ~ 22时06分]"
         },
         {
           "title": "金价暴跌后黄金市场挤满顾客",
@@ -1826,6 +1905,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
+        },
+        {
+          "title": "金价遭遇46年来最惨跌幅，期权交易员竟押注金价将涨至2万美元",
+          "url": "https://wallstreetcn.com/livenews/3049141",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
         },
         {
           "title": "周一（2月2日）纽约尾盘，现货黄金跌4.54%，报4671.58美元/盎司，全天处于下跌状态，北京时间14:38跌至4402.95美元。日线图上，金价连续三个交易日下跌，逼近12月31日底部4319.37美元，一度跌穿50日均线、逼近100日均线（这两个技术指标目前分别报4483.43美元和4228.16美元）。 COMEX黄金期货跌0.90%，报4702.60美元/盎司，14:38也曾跌至4423.20美元。",
@@ -1932,6 +2022,46 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "汇丰：美债短端高收益债更具吸引力",
+          "url": "https://flash.jin10.com/detail/20260203181911181800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时39分 ~ 19时34分]"
+        },
+        {
+          "title": "摩根大通美债客户调查显示净多头占比创去年10月以来最低",
+          "url": "https://wallstreetcn.com/livenews/3049153",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
+        },
+        {
+          "title": "摩根大通美债客户调查显示净多头占比创去年10月以来最低。",
+          "url": "https://flash.jin10.com/detail/20260203210747492800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
+        }
+      ]
+    },
+    {
       "keyword_group": "武器",
       "match_count": 3,
       "titles": [
@@ -1942,7 +2072,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时57分"
         },
@@ -2001,24 +2131,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时39分 ~ 07时28分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "汇丰：美债短端高收益债更具吸引力",
-          "url": "https://flash.jin10.com/detail/20260203181911181800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时39分 ~ 19时34分]"
         }
       ]
     },
