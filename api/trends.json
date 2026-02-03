@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-03T18:39:16.301106+08:00",
-  "total_titles_processed": 1518,
+  "generated_at": "2026-02-03T19:34:18.739463+08:00",
+  "total_titles_processed": 1609,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 44,
+      "match_count": 45,
       "titles": [
         {
           "title": "美媒：欧洲领导人曾熬夜开会，制定应对特朗普的“作战手册”",
@@ -24,24 +24,12 @@
           "url": "https://news.ifeng.com/c/8qRbfAGXhdh",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时39分 ~ 18时39分]"
-        },
-        {
-          "title": "中方回应特朗普让中国参与军控谈判",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A9%E4%B8%AD%E5%9B%BD%E5%8F%82%E4%B8%8E%E5%86%9B%E6%8E%A7%E8%B0%88%E5%88%A4",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            5,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时42分 ~ 18时39分]"
+          "appearance_count": 5,
+          "time_info": "[17时39分 ~ 19时34分]"
         },
         {
           "title": "特朗普：莫迪同意停购俄油，美印达成贸易协议，将降低印度关税",
@@ -53,8 +41,22 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时50分 ~ 19时34分]"
+        },
+        {
+          "title": "中方回应特朗普让中国参与军控谈判",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A9%E4%B8%AD%E5%9B%BD%E5%8F%82%E4%B8%8E%E5%86%9B%E6%8E%A7%E8%B0%88%E5%88%A4",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            5,
+            10,
+            13
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[14时50分 ~ 18时39分]"
+          "time_info": "[15时42分 ~ 19时34分]"
         },
         {
           "title": "特朗普称美印达成贸易协议 Waymo估值超千亿美元 | 环球市场",
@@ -115,6 +117,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时01分 ~ 15时42分]"
+        },
+        {
+          "title": "特朗普谈美伊谈判：希望能达成协议，否则会有糟糕的事",
+          "url": "https://news.ifeng.com/c/8qRnEtgNGZK",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时34分"
         },
         {
           "title": "特朗普：与印度达成贸易协议 将把对印度的关税降至18%",
@@ -215,7 +228,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时39分"
         },
@@ -446,7 +459,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时39分"
         },
@@ -549,6 +562,20 @@
           "time_info": "[00时39分 ~ 02时44分]"
         },
         {
+          "title": "以色列对美国与伊朗谈判提“三不”强硬要求",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32520089",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16,
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时50分 ~ 19时34分]"
+        },
+        {
           "title": "伊朗否认收到美“最后通牒”，总统下令启动核谈判",
           "url": "https://news.ifeng.com/c/8qQImZxB0ZO",
           "source": "凤凰网",
@@ -569,19 +596,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时39分 ~ 02时44分]"
-        },
-        {
-          "title": "以色列对美国与伊朗谈判提“三不”强硬要求",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32520089",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时50分 ~ 18时39分]"
         },
         {
           "title": "伊朗总统已下令启动核谈判",
@@ -608,17 +622,6 @@
           "time_info": "[07时27分 ~ 07时28分]"
         },
         {
-          "title": "伊朗重大让步！川普“航母外交”奏效了？丨Hi，今天怎么看？",
-          "url": "https://flash.jin10.com/detail/20260203182007876800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时39分"
-        },
-        {
           "title": "伊朗外交部就伊美接触明确立场：解除制裁是核心诉求",
           "url": "https://flash.jin10.com/detail/20260203001742180800",
           "source": "金十数据",
@@ -639,17 +642,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时37分"
-        },
-        {
-          "title": "卡塔尔外交部发言人：（就伊朗问题表示）为确保局势降级，地区合作与持续努力正在进行中。",
-          "url": "https://flash.jin10.com/detail/20260203181952367800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时39分"
         },
         {
           "title": "据纽约时报：根据伊朗和美国官员的消息，伊朗已表示愿意关闭或暂停其核计划，以此作为对美国的一项重大让步。",
@@ -699,6 +691,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时01分 ~ 13时50分]"
+        },
+        {
+          "title": "伊朗重大让步！川普“航母外交”奏效了？丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20260203182007876800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时39分 ~ 19时34分]"
+        },
+        {
+          "title": "卡塔尔外交部发言人：（就伊朗问题表示）为确保局势降级，地区合作与持续努力正在进行中。",
+          "url": "https://flash.jin10.com/detail/20260203181952367800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时39分 ~ 19时34分]"
         },
         {
           "title": "伊朗外交部就伊美接触明确立场：解除制裁是核心诉求",
@@ -787,7 +803,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时39分"
         },
@@ -883,7 +899,7 @@
     },
     {
       "keyword_group": "俄罗斯",
-      "match_count": 24,
+      "match_count": 32,
       "titles": [
         {
           "title": "全球变暖是否会使得加拿大和俄罗斯的大片土地变成良田？",
@@ -892,11 +908,12 @@
           "ranks": [
             14,
             6,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时35分 ~ 18时39分]"
+          "appearance_count": 6,
+          "time_info": "[16时35分 ~ 19时34分]"
         },
         {
           "title": "俄罗斯副外长里亚布科夫：新削减战略武器条约到期后，俄罗斯已准备好迎接新现实。",
@@ -938,7 +955,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时39分"
         },
@@ -988,6 +1005,17 @@
           "time_info": "17时40分"
         },
         {
+          "title": "紧张局势升级之际，美媒：一架俄罗斯重型运输机降落在古巴一空军基地",
+          "url": "https://wallstreetcn.com/livenews/3049087",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时34分"
+        },
+        {
           "title": "据俄新社：俄罗斯副外长里亚布科夫表示，俄罗斯核三位一体的现代化已处于非常先进的阶段。",
           "url": "https://flash.jin10.com/detail/20260203171548178800",
           "source": "金十数据",
@@ -1032,6 +1060,17 @@
           "time_info": "16时35分"
         },
         {
+          "title": "乌克兰电力公司DTEK表示，昨夜的俄罗斯空袭是自2026年初以来对能源系统发动的最大规模袭击。",
+          "url": "https://flash.jin10.com/detail/20260203183644726800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时34分"
+        },
+        {
           "title": "穆迪：印度全面转向非俄罗斯石油也可能导致其他地区供应紧张，推高油价，并最终导致更高的通货膨胀。",
           "url": "https://flash.jin10.com/detail/20260203132429037800",
           "source": "金十数据",
@@ -1041,6 +1080,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
+        },
+        {
+          "title": "俄罗斯副总理诺瓦克：欧佩克+预计春夏季石油需求将上升。",
+          "url": "https://flash.jin10.com/detail/20260203183331813800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时34分"
         },
         {
           "title": "据波兰媒体Onet报道称。，消息人士透露，波兰军事情报反间谍局逮捕了一名涉嫌与俄罗斯情报机构勾结的国防部雇员。",
@@ -1054,6 +1104,17 @@
           "time_info": "17时40分"
         },
         {
+          "title": "俄罗斯副总理诺瓦克：（谈4月份欧佩克+行动预期）这将是确保石油市场平衡的另一个因素。",
+          "url": "https://flash.jin10.com/detail/20260203183324735800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时34分"
+        },
+        {
           "title": "据国际文传电讯社：俄罗斯国防部表示，俄军对乌克兰的军工和能源设施发动了大规模打击。",
           "url": "https://flash.jin10.com/detail/20260203171206665800",
           "source": "金十数据",
@@ -1065,6 +1126,39 @@
           "time_info": "17时40分"
         },
         {
+          "title": "俄罗斯副总理诺瓦克：（就印度可能削减俄罗斯石油进口）我们目前只看到了公开声明。",
+          "url": "https://flash.jin10.com/detail/20260203183226098800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时34分"
+        },
+        {
+          "title": "俄罗斯副总理诺瓦克：（谈4月份欧佩克+行动预期）我们看到石油供需平衡。",
+          "url": "https://flash.jin10.com/detail/20260203183155595800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时34分"
+        },
+        {
+          "title": "俄罗斯副总理诺瓦克：我们的商品资源需求旺盛。",
+          "url": "https://flash.jin10.com/detail/20260203183128841800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时34分"
+        },
+        {
           "title": "印度官员宣称，美国将针对购买俄罗斯石油撤销25%的惩罚性关税。 印度同意，未来五年购买5000亿美元（美国产品）。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3048487",
           "source": "华尔街见闻-快讯",
@@ -1074,6 +1168,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时44分"
+        },
+        {
+          "title": "俄罗斯北方钢铁利润率降至16年低点",
+          "url": "https://flash.jin10.com/detail/20260203182950895800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时34分"
         },
         {
           "title": "俄罗斯重申不接受西方在乌军事部署",
@@ -1148,7 +1253,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时39分"
         }
@@ -1167,8 +1272,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时01分 ~ 18时39分]"
+          "appearance_count": 11,
+          "time_info": "[10时01分 ~ 19时34分]"
         },
         {
           "title": "美股收盘：标普低开高走迫近新高 存储板块又迎热钱流入",
@@ -1194,6 +1299,18 @@
           "time_info": "[00时39分 ~ 02时44分]"
         },
         {
+          "title": "大反弹！白银涨11%，黄金涨6%，纳指期货涨超0.5%，存储板块美股盘前走高，欧股集体高开，韩股大涨6%",
+          "url": "https://wallstreetcn.com/articles/3764793",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时39分 ~ 19时34分]"
+        },
+        {
           "title": "黄金白银剧烈波动 美股三大期指集体下跌 | 今夜看点",
           "url": "https://www.cls.cn/detail/2278222",
           "source": "财联社热门",
@@ -1217,18 +1334,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时27分 ~ 07时28分]"
-        },
-        {
-          "title": "大反弹！白银涨11%，黄金涨6%，纳指期货涨超0.5%，存储板块美股盘前走高，欧股集体高开，韩股大涨6%",
-          "url": "https://wallstreetcn.com/articles/3764793",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时39分 ~ 18时39分]"
         },
         {
           "title": "美股稀土板块盘前走强 据称美国拟启动“金库计划” 复制石油储备模式",
@@ -1274,7 +1379,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时39分"
         },
@@ -1288,6 +1393,130 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "汽车",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "事关汽车门把手安全，强制性国家标准发布",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32516211",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            7,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[10时01分 ~ 19时34分]"
+        },
+        {
+          "title": "事关汽车门把手 强制性国家标准发布",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%8B%E5%85%B3%E6%B1%BD%E8%BD%A6%E9%97%A8%E6%8A%8A%E6%89%8B+%E5%BC%BA%E5%88%B6%E6%80%A7%E5%9B%BD%E5%AE%B6%E6%A0%87%E5%87%86%E5%8F%91%E5%B8%83",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            17,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时39分 ~ 07时28分]"
+        },
+        {
+          "title": "雷军回应小米汽车交付量下滑",
+          "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E4%BA%A4%E4%BB%98%E9%87%8F%E4%B8%8B%E6%BB%91",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 07时28分]"
+        },
+        {
+          "title": "鄂尔多斯汽车撞路灯杆车主排除酒驾",
+          "url": "https://www.toutiao.com/trending/7602486731975213110/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时34分"
+        },
+        {
+          "title": "上海：积极支持智能网联新能源汽车、海洋经济、低空经济、航空航天、卫星互联网等产业发展",
+          "url": "https://wallstreetcn.com/livenews/3048691",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
+          "title": "聚焦三类汽车数据出境行为 八部门联合发布安全指引",
+          "url": "https://wallstreetcn.com/livenews/3048963",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
+          "title": "印度官员：与美国的贸易协定，解决了华盛顿方面关于削减印度在汽车等领域高额关税的要求。 与美国的贸易协定涵盖了部分农产品。 根据协议，印度承诺购买的美国商品包括石油、国防产品、电子产品、制药产品、电信产品以及飞机。 关于涉及更多领域的更全面协议的谈判仍将继续。",
+          "url": "https://wallstreetcn.com/livenews/3048813",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时50分"
+        },
+        {
+          "title": "工业和信息化部等八部门印发《汽车数据出境安全指引（2026版）》",
+          "url": "https://wallstreetcn.com/livenews/3048956",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
+          "title": "美国加利福尼亚州政府表示，拟推出的2亿美元电动汽车激励计划将仅面向首次购车者，并要求参与的汽车制造商提供配套资金。",
+          "url": "https://flash.jin10.com/detail/20260203060828726800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        },
+        {
+          "title": "问界M6汽车官图发布",
+          "url": "https://www.toutiao.com/trending/7601345846491467327/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时50分"
         }
       ]
     },
@@ -1397,118 +1626,6 @@
       ]
     },
     {
-      "keyword_group": "汽车",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "事关汽车门把手安全，强制性国家标准发布",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32516211",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时01分 ~ 18时39分]"
-        },
-        {
-          "title": "事关汽车门把手 强制性国家标准发布",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%8B%E5%85%B3%E6%B1%BD%E8%BD%A6%E9%97%A8%E6%8A%8A%E6%89%8B+%E5%BC%BA%E5%88%B6%E6%80%A7%E5%9B%BD%E5%AE%B6%E6%A0%87%E5%87%86%E5%8F%91%E5%B8%83",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            17,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时39分 ~ 07时28分]"
-        },
-        {
-          "title": "雷军回应小米汽车交付量下滑",
-          "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E4%BA%A4%E4%BB%98%E9%87%8F%E4%B8%8B%E6%BB%91",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            25,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时39分 ~ 07时28分]"
-        },
-        {
-          "title": "上海：积极支持智能网联新能源汽车、海洋经济、低空经济、航空航天、卫星互联网等产业发展",
-          "url": "https://wallstreetcn.com/livenews/3048691",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时01分"
-        },
-        {
-          "title": "聚焦三类汽车数据出境行为 八部门联合发布安全指引",
-          "url": "https://wallstreetcn.com/livenews/3048963",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时35分"
-        },
-        {
-          "title": "印度官员：与美国的贸易协定，解决了华盛顿方面关于削减印度在汽车等领域高额关税的要求。 与美国的贸易协定涵盖了部分农产品。 根据协议，印度承诺购买的美国商品包括石油、国防产品、电子产品、制药产品、电信产品以及飞机。 关于涉及更多领域的更全面协议的谈判仍将继续。",
-          "url": "https://wallstreetcn.com/livenews/3048813",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时50分"
-        },
-        {
-          "title": "工业和信息化部等八部门印发《汽车数据出境安全指引（2026版）》",
-          "url": "https://wallstreetcn.com/livenews/3048956",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时35分"
-        },
-        {
-          "title": "美国加利福尼亚州政府表示，拟推出的2亿美元电动汽车激励计划将仅面向首次购车者，并要求参与的汽车制造商提供配套资金。",
-          "url": "https://flash.jin10.com/detail/20260203060828726800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时28分"
-        },
-        {
-          "title": "问界M6汽车官图发布",
-          "url": "https://www.toutiao.com/trending/7601345846491467327/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时50分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
       "match_count": 7,
       "titles": [
@@ -1546,8 +1663,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时38分 ~ 18时39分]"
+          "appearance_count": 3,
+          "time_info": "[18时38分 ~ 19时34分]"
         },
         {
           "title": "李大霄解读金价一夜V型反转",
@@ -1604,11 +1721,12 @@
           "url": "https://wallstreetcn.com/livenews/3049050",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时39分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时39分 ~ 19时34分]"
         },
         {
           "title": "泽连斯基：俄军以450架无人机和70余枚导弹再袭乌能源目标",
@@ -1707,7 +1825,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时39分"
         }
@@ -1756,11 +1874,12 @@
           "url": "https://flash.jin10.com/detail/20260203181911181800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时39分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时39分 ~ 19时34分]"
         }
       ]
     },
@@ -1792,7 +1911,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时39分"
         }
