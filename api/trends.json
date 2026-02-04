@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-04T18:37:29.071278+08:00",
-  "total_titles_processed": 1699,
+  "generated_at": "2026-02-04T19:32:51.388103+08:00",
+  "total_titles_processed": 1791,
   "failed_sources": [],
   "trends": [
     {
@@ -48,11 +48,12 @@
           "source": "凤凰网",
           "ranks": [
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时55分 ~ 18时37分]"
+          "appearance_count": 11,
+          "time_info": "[09时55分 ~ 19时32分]"
         },
         {
           "title": "特朗普：普京遵守了停火承诺，那边真的很冷",
@@ -66,17 +67,6 @@
           "time_info": "[13时48分 ~ 18时37分]"
         },
         {
-          "title": "特朗普称莫迪同意停止购买俄石油，克宫发声",
-          "url": "https://news.ifeng.com/c/8qRsRpYySJZ",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时53分 ~ 06时29分]"
-        },
-        {
           "title": "特朗普提名沃什“过于低调”，美联储恐迎来重大转变！一文读懂",
           "url": "https://www.cls.cn/detail/2280009",
           "source": "财联社热门",
@@ -86,8 +76,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时48分 ~ 18时37分]"
+          "appearance_count": 8,
+          "time_info": "[13时48分 ~ 19时32分]"
+        },
+        {
+          "title": "特朗普称莫迪同意停止购买俄石油，克宫发声",
+          "url": "https://news.ifeng.com/c/8qRsRpYySJZ",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 06时29分]"
         },
         {
           "title": "特朗普称有问题的是比尔盖茨那些人",
@@ -114,17 +115,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时11分 ~ 15时43分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-04）",
-          "url": "https://flash.jin10.com/detail/20260204181439687800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时37分"
         },
         {
           "title": "哥伦比亚总统佩特罗：未与美国总统特朗普讨论可卡因作物喷洒问题。",
@@ -227,6 +217,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时29分 ~ 07时27分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-04）",
+          "url": "https://flash.jin10.com/detail/20260204181439687800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时37分 ~ 19时32分]"
         },
         {
           "title": "美国总统特朗普重申对医疗保险行业的批零。",
@@ -441,7 +443,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
         },
@@ -746,7 +748,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 44,
+      "match_count": 46,
       "titles": [
         {
           "title": "以色列对美国与伊朗谈判提“三不”强硬要求",
@@ -787,8 +789,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时48分 ~ 18时37分]"
+          "appearance_count": 8,
+          "time_info": "[13时48分 ~ 19时32分]"
         },
         {
           "title": "伊朗方面表示，感谢所有为创造形成外交进程条件而作出努力的友好国家。",
@@ -859,6 +861,31 @@
           "time_info": "[09时55分 ~ 12时12分]"
         },
         {
+          "title": "啥情况｜两起军事摩擦，伊朗想改会谈地点：美伊谈判前再生变数？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32529750",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时39分 ~ 19时32分]"
+        },
+        {
+          "title": "美军称击落伊朗无人机，双方在危险的边缘互相试探？",
+          "url": "https://news.ifeng.com/c/8qTVQYD7em2",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
+        },
+        {
           "title": "据伊朗努尔新闻：伊朗外交部发言人表示，关于与美国举行会谈地点的磋商正在进行中。",
           "url": "https://flash.jin10.com/detail/20260204042209933800",
           "source": "金十数据",
@@ -894,17 +921,16 @@
           "time_info": "[01时53分 ~ 02时55分]"
         },
         {
-          "title": "啥情况｜两起军事摩擦，伊朗想改会谈地点：美伊谈判前再生变数？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32529750",
-          "source": "澎湃新闻",
+          "title": "报道称伊朗炮艇逼近挂美国旗油轮、接近美航母的伊无人机被美击落，原油跳涨",
+          "url": "https://wallstreetcn.com/articles/3764876",
+          "source": "华尔街见闻",
           "ranks": [
-            11,
-            8,
-            7
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时39分 ~ 18时37分]"
+          "time_info": "[17时42分 ~ 19时32分]"
         },
         {
           "title": "伊朗：一架无人机在公海执行合法侦察活动时失联",
@@ -917,18 +943,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时34分 ~ 06时29分]"
-        },
-        {
-          "title": "报道称伊朗炮艇逼近挂美国旗油轮、接近美航母的伊无人机被美击落，原油跳涨",
-          "url": "https://wallstreetcn.com/articles/3764876",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时42分 ~ 18时37分]"
         },
         {
           "title": "美军击落一架接近“林肯”号航母的伊朗无人机",
@@ -1030,6 +1044,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时35分"
+        },
+        {
+          "title": "伊朗古列斯坦王宫宣布暂停对外开放",
+          "url": "https://wallstreetcn.com/livenews/3049837",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
         },
         {
           "title": "油价期货延续涨势，WTI和布伦特原油期货价格均上涨逾1美元，此前有消息称，美军击落一架逼近美国海军航母的伊朗无人机。",
@@ -1277,8 +1302,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时27分 ~ 18时37分]"
+          "appearance_count": 12,
+          "time_info": "[07时27分 ~ 19时32分]"
         },
         {
           "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
@@ -1289,8 +1314,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时55分 ~ 18时37分]"
+          "appearance_count": 11,
+          "time_info": "[09时55分 ~ 19时32分]"
         },
         {
           "title": "美制造业数据托底风险偏好，美股、加密货币齐反弹、美元续涨，金银企稳，原油重挫",
@@ -1312,8 +1337,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时48分 ~ 18时37分]"
+          "appearance_count": 8,
+          "time_info": "[13时48分 ~ 19时32分]"
         },
         {
           "title": "美股期指走高 Palantir盘前大涨逾11% | 今夜看点",
@@ -1374,8 +1399,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时48分 ~ 18时37分]"
+          "appearance_count": 8,
+          "time_info": "[13时48分 ~ 19时32分]"
         },
         {
           "title": "堡证券称美股步入季节性偏弱的2月，散户买入潮或显现疲态",
@@ -1875,7 +1900,7 @@
     },
     {
       "keyword_group": "俄罗斯",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "普京：俄罗斯经济放缓是人为造成的",
@@ -1901,6 +1926,17 @@
           "time_info": "16时39分"
         },
         {
+          "title": "乌克兰外交部发言人表示，俄罗斯对能源设施的大规模袭击阻碍了和平谈判。本轮在阿布扎比举行的会谈重点将主要集中在军事和军事政治问题上。乌克兰希望了解莫斯科和华盛顿在和平谈判中的“真实意图”。",
+          "url": "https://flash.jin10.com/detail/20260204190458537800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
+        },
+        {
           "title": "爱沙尼亚税务与海关局：该船正从厄瓜多尔驶往俄罗斯圣彼得堡。",
           "url": "https://flash.jin10.com/detail/20260204162243384800",
           "source": "金十数据",
@@ -1918,7 +1954,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
         },
@@ -1940,7 +1976,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
         },
@@ -1962,9 +1998,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
+        },
+        {
+          "title": "习近平同俄罗斯总统普京举行视频会晤",
+          "url": "https://wallstreetcn.com/livenews/3049761",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时42分 ~ 19时32分]"
         },
         {
           "title": "普京：俄罗斯2025年经济增长1%，放缓符合预期",
@@ -1985,20 +2033,9 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时37分"
-        },
-        {
-          "title": "习近平同俄罗斯总统普京举行视频会晤",
-          "url": "https://wallstreetcn.com/livenews/3049761",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时42分"
+          "time_info": "18时37分"
         },
         {
           "title": "一架据信搭载有俄罗斯代表团的飞机已抵达阿布扎比。",
@@ -2145,11 +2182,12 @@
           "url": "https://wallstreetcn.com/livenews/3049820",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时37分 ~ 19时32分]"
         },
         {
           "title": "2026 年中央一号文件提出「支持新能源汽车下乡」，这会产生什么影响？相关配套设施能否跟得上？",
@@ -2161,8 +2199,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时39分 ~ 18时37分]"
+          "appearance_count": 4,
+          "time_info": "[16时39分 ~ 19时32分]"
         },
         {
           "title": "零跑汽车员工吐槽年会 董事长回应",
@@ -2353,11 +2391,12 @@
           "ranks": [
             19,
             5,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时39分 ~ 18时37分]"
+          "appearance_count": 4,
+          "time_info": "[16时39分 ~ 19时32分]"
         },
         {
           "title": "金价暴力反弹重上5000美元",
@@ -2444,8 +2483,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时53分 ~ 18时37分]"
+          "appearance_count": 24,
+          "time_info": "[00时53分 ~ 19时32分]"
         },
         {
           "title": "书面证词显示，谷歌(GOOG.O)旗下自动驾驶部门Waymo将向美国参议院委员会作证，为其安全记录辩护，并表示其自动驾驶车辆导致的严重伤亡或更严重车祸数量仅为人类驾驶员的十分之一。",
