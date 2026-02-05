@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-05T15:52:28.167294+08:00",
-  "total_titles_processed": 1332,
+  "generated_at": "2026-02-05T16:41:37.075966+08:00",
+  "total_titles_processed": 1432,
   "failed_sources": [],
   "trends": [
     {
@@ -51,8 +51,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时45分 ~ 15时52分]"
+          "appearance_count": 19,
+          "time_info": "[00时45分 ~ 16时41分]"
         },
         {
           "title": "特朗普：中美元首通话内容详实，气氛积极",
@@ -78,8 +78,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时44分 ~ 15时52分]"
+          "appearance_count": 18,
+          "time_info": "[01时44分 ~ 16时41分]"
         },
         {
           "title": "降息快了？特朗普直言：若沃什表达过加息意愿 就不会获提名！",
@@ -90,8 +90,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时16分 ~ 15时52分]"
+          "appearance_count": 7,
+          "time_info": "[12时16分 ~ 16时41分]"
         },
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -434,7 +434,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "美军称击落伊朗无人机，双方在危险的边缘互相试探？",
@@ -472,8 +472,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时57分 ~ 15时52分]"
+          "appearance_count": 8,
+          "time_info": "[09时57分 ~ 16时41分]"
         },
         {
           "title": "一图看懂｜调重兵前往中东，美军目前在伊朗周边军事集结如何？",
@@ -485,8 +485,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时16分 ~ 15时52分]"
+          "appearance_count": 7,
+          "time_info": "[12时16分 ~ 16时41分]"
+        },
+        {
+          "title": "美伊谈判在即 伊朗：只谈核问题",
+          "url": "https://wallstreetcn.com/livenews/3050506",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时41分"
         },
         {
           "title": "伊朗消息人士：原定6日举行的伊美谈判已取消",
@@ -750,8 +761,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时57分 ~ 15时52分]"
+          "appearance_count": 8,
+          "time_info": "[09时57分 ~ 16时41分]"
         },
         {
           "title": "谷歌ALL in AI！Q4云业务激增48% 2026“烧钱”速度翻倍",
@@ -763,8 +774,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时16分 ~ 15时52分]"
+          "appearance_count": 7,
+          "time_info": "[12时16分 ~ 16时41分]"
         },
         {
           "title": "谷歌母公司Alphabet（GOOGL）美股盘后跌1.69%，该公司分析师电话会已经结束。",
@@ -787,6 +798,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
+        },
+        {
+          "title": "谷歌财报电话会实录：首要任务是提高算力 否认“AI取代软件”担忧",
+          "url": "https://www.cls.cn/detail/2281205",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时55分 ~ 16时41分]"
         },
         {
           "title": "英伟达(NVDA.O)和AMD(AMD.O)盘后均涨超1%，谷歌(GOOG.O)大幅上调资本开支预期。",
@@ -863,17 +886,6 @@
           "time_info": "[05时32分 ~ 06时28分]"
         },
         {
-          "title": "谷歌财报电话会实录：首要任务是提高算力 否认“AI取代软件”担忧",
-          "url": "https://www.cls.cn/detail/2281205",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时55分 ~ 15时52分]"
-        },
-        {
           "title": "谷歌营收业绩超预期，2026年资本开支超预期",
           "url": "https://wallstreetcn.com/livenews/3050103",
           "source": "华尔街见闻-快讯",
@@ -923,6 +935,17 @@
           "time_info": "[01时45分 ~ 02时47分]"
         },
         {
+          "title": "谷歌电话会：1850亿支出“不得不花”，确认与苹果合作，Gemini并非SaaS的“终结者”",
+          "url": "https://wallstreetcn.com/articles/3765004",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时52分 ~ 16时41分]"
+        },
+        {
           "title": "谷歌(GOOG.O)美股盘后跌超6%。",
           "url": "https://flash.jin10.com/detail/20260205050408864800",
           "source": "金十数据",
@@ -970,17 +993,6 @@
           "time_info": "07时27分"
         },
         {
-          "title": "谷歌电话会：1850亿支出“不得不花”，确认与苹果合作，Gemini并非SaaS的“终结者”",
-          "url": "https://wallstreetcn.com/articles/3765004",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时52分"
-        },
-        {
           "title": "谷歌母公司Alphabet研发（R&D）开支增长42%，受到AI人才和无人驾驶部门的驱动。 科技基础设施投资中，60%投入服务器、40%投入数据中心。 科技基建（投资）的增幅在2025年收缩38%。 谷歌云（订单）积压同比超过翻倍，至2400亿美元。 Alphabet在Waymo本轮融资中贡献重大。",
           "url": "https://wallstreetcn.com/livenews/3050124",
           "source": "华尔街见闻-快讯",
@@ -1006,7 +1018,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "软件股重挫打压美股，纳指跌超1%，黄金一度重回5000关口，白银涨逾7%，比特币曾跌超7%",
@@ -1190,6 +1202,17 @@
           "time_info": "07时27分"
         },
         {
+          "title": "市值蒸发万亿！美股软件行业空头肆虐 对冲基金年内狂赚240亿美元",
+          "url": "https://www.cls.cn/detail/2281312",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时41分"
+        },
+        {
           "title": "纳斯达克金龙中国指数收跌1.95%，报7461.61点，美股早盘显著下跌，北京时间23:00以来低位震荡。 热门中概股里，亿珑能源初步反弹64%，晶科能源涨8%，百胜中国涨4.6%，再鼎医药涨3.7%，阿特斯太阳能涨3.3%，理想涨2.2%，网易跌5.3%，世纪互联跌5.6%，文远知行跌6.3%。",
           "url": "https://wallstreetcn.com/livenews/3050099",
           "source": "华尔街见闻-快讯",
@@ -1279,7 +1302,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时52分"
         },
@@ -1290,7 +1313,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时52分"
         },
@@ -1301,7 +1324,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时52分"
         },
@@ -1466,7 +1489,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "2026 年中央一号文件提出「支持新能源汽车下乡」，这会产生什么影响？相关配套设施能否跟得上？",
@@ -1488,11 +1511,12 @@
           "source": "今日头条",
           "ranks": [
             5,
-            2
+            2,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时57分 ~ 15时52分]"
+          "appearance_count": 4,
+          "time_info": "[14时57分 ~ 16时41分]"
         },
         {
           "title": "据知情人士透露，斯泰兰蒂斯集团Stellantis NV因一个电池制造商生产困境而面临Peugeot电动汽车被推迟（下线/交付）。（彭博）",
@@ -1512,9 +1536,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时52分"
+        },
+        {
+          "title": "三菱汽车首席执行官：我们目前并未面临令人担忧的稀土短缺，而且在不久的将来也不太可能出现这种情况。",
+          "url": "https://flash.jin10.com/detail/20260205162108324800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时41分"
         },
         {
           "title": "港股新能源汽车股震荡走高，蔚来、小米集团双双涨超3%。",
@@ -1523,7 +1558,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时52分"
         },
@@ -1573,6 +1608,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
+        },
+        {
+          "title": "沃尔沃汽车首席执行官：美国关税在第四季度带来了相当大的影响。",
+          "url": "https://flash.jin10.com/detail/20260205155911525800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时41分"
         },
         {
           "title": "全美汽车工人联合会（UAW）：UAW与大众就首份合同达成初步协议。",
@@ -1632,6 +1678,49 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "金价巨震之下，水贝难寻金条现货|传真",
+          "url": "https://www.cls.cn/detail/2280847",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            9,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时45分 ~ 12时17分]"
+        },
+        {
+          "title": "金价波动",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时16分 ~ 12时17分]"
+        },
+        {
+          "title": "解读金价过山车",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E9%87%91%E4%BB%B7%E8%BF%87%E5%B1%B1%E8%BD%A6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时41分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 3,
       "titles": [
@@ -1683,8 +1772,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时57分 ~ 15时52分]"
+          "appearance_count": 8,
+          "time_info": "[09时57分 ~ 16时41分]"
         },
         {
           "title": "俄外交部：俄美不再受《新削减战略武器条约》任何义务约束",
@@ -1709,38 +1798,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时38分 ~ 04时35分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "金价巨震之下，水贝难寻金条现货|传真",
-          "url": "https://www.cls.cn/detail/2280847",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            9,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时45分 ~ 12时17分]"
-        },
-        {
-          "title": "金价波动",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时16分 ~ 12时17分]"
         }
       ]
     },
@@ -1782,11 +1839,12 @@
           "url": "https://www.cls.cn/detail/2281407",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时52分 ~ 16时41分]"
         }
       ]
     },
@@ -1820,8 +1878,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时57分 ~ 15时52分]"
+          "appearance_count": 4,
+          "time_info": "[14时57分 ~ 16时41分]"
         }
       ]
     }
