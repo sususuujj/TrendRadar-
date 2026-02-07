@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T20:45:24.320930+08:00",
-  "total_titles_processed": 1390,
+  "generated_at": "2026-02-07T21:43:16.601836+08:00",
+  "total_titles_processed": 1447,
   "failed_sources": [],
   "trends": [
     {
@@ -51,11 +51,12 @@
             4,
             5,
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时08分 ~ 20时45分]"
+          "appearance_count": 11,
+          "time_info": "[12时08分 ~ 21时43分]"
         },
         {
           "title": "特朗普起诉美两部门索赔百亿美元，美财长：若胜诉，费用将由民众承担",
@@ -100,8 +101,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时52分 ~ 20时45分]"
+          "appearance_count": 13,
+          "time_info": "[09时52分 ~ 21时43分]"
         },
         {
           "title": "特朗普再谈格陵兰岛：丹麦手里有块“冰”，我们想买它！",
@@ -137,6 +138,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[12时08分 ~ 19时21分]"
+        },
+        {
+          "title": "贝森特和特朗普“表忠心”：澄清强美元政策，重申起诉沃什是玩笑，暗示鲍威尔失职",
+          "url": "https://wallstreetcn.com/articles/3765201",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时31分 ~ 21时43分]"
         },
         {
           "title": "奥巴马夫妇成了大猩猩？特朗普麻烦大了(图)",
@@ -219,6 +232,17 @@
           "time_info": "[02时48分 ~ 07时25分]"
         },
         {
+          "title": "发奥巴马夫妇被P成猿猴视频翻车，特朗普：你们咋不关心选民欺诈",
+          "url": "https://news.ifeng.com/c/8qYEsnIMXAd",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时29分 ~ 21时43分]"
+        },
+        {
           "title": "特朗普称下周将再次与伊朗谈判",
           "url": "https://wallstreetcn.com/livenews/3051664",
           "source": "华尔街见闻-快讯",
@@ -235,6 +259,20 @@
           "time_info": "[09时53分 ~ 16时31分]"
         },
         {
+          "title": "道指突破5万大关！特朗普自夸：提前三年就完成目标，任期结束将站上10万点",
+          "url": "https://wallstreetcn.com/articles/3765222",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时25分 ~ 21时43分]"
+        },
+        {
           "title": "阿根廷外长：特朗普和米莱将继续探讨降低阿根廷铝材和钢材关税的问题。",
           "url": "https://flash.jin10.com/detail/20260207010853247800",
           "source": "金十数据",
@@ -244,17 +282,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
-        },
-        {
-          "title": "贝森特和特朗普“表忠心”：澄清强美元政策，重申起诉沃什是玩笑，暗示鲍威尔失职",
-          "url": "https://wallstreetcn.com/articles/3765201",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时31分 ~ 20时45分]"
         },
         {
           "title": "特朗普拒绝为种族主义视频道歉，称“未看到冒犯内容”",
@@ -271,17 +298,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时08分 ~ 17时29分]"
-        },
-        {
-          "title": "特朗普手机鸽了8个月还没上市 价格将上调 也不再是“美国制造”",
-          "url": "https://flash.jin10.com/detail/20260207200111862800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时45分"
         },
         {
           "title": "美国财长贝森特：特朗普政府的政策显示了对强势美元的支持",
@@ -365,27 +381,42 @@
           "time_info": "[13时41分 ~ 17时29分]"
         },
         {
-          "title": "发奥巴马夫妇被P成猿猴视频翻车，特朗普：你们咋不关心选民欺诈",
-          "url": "https://news.ifeng.com/c/8qYEsnIMXAd",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时29分 ~ 20时45分]"
-        },
-        {
           "title": "尽管物价上涨 特朗普近来已20次声称通胀得到控制",
           "url": "https://flash.jin10.com/detail/20260207191137605800",
           "source": "金十数据",
           "ranks": [
             1,
+            8,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时21分 ~ 21时43分]"
+        },
+        {
+          "title": "特朗普手机鸽了8个月还没上市 价格将上调 也不再是“美国制造”",
+          "url": "https://flash.jin10.com/detail/20260207200111862800",
+          "source": "金十数据",
+          "ranks": [
+            2,
             8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时21分 ~ 20时45分]"
+          "time_info": "[20时45分 ~ 21时43分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-07）",
+          "url": "https://flash.jin10.com/detail/20260207181103862800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            10,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时21分 ~ 21时43分]"
         },
         {
           "title": "泰森食品跌0.3%，报道称美国总统特朗普下令加大对阿根廷牛肉的进口力度。",
@@ -399,18 +430,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时48分 ~ 04时33分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-07）",
-          "url": "https://flash.jin10.com/detail/20260207181103862800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时21分 ~ 20时45分]"
         },
         {
           "title": "特朗普称下周将再次与伊朗谈判",
@@ -476,17 +495,15 @@
           "time_info": "[04时33分 ~ 07时25分]"
         },
         {
-          "title": "道指突破5万大关！特朗普自夸：提前三年就完成目标，任期结束将站上10万点",
-          "url": "https://wallstreetcn.com/articles/3765222",
-          "source": "华尔街见闻",
+          "title": "两大日媒批特朗普干涉日本内政：前所未闻，不可容忍",
+          "url": "https://news.ifeng.com/c/8qY8hiEtDth",
+          "source": "凤凰网",
           "ranks": [
-            8,
-            7,
-            6
+            7
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[18时25分 ~ 20时45分]"
+          "time_info": "[20时45分 ~ 21时43分]"
         },
         {
           "title": "一名官员称，美国总统特朗普下令，从阿根廷进口的牛肉将增加三倍。（CBS）",
@@ -651,6 +668,18 @@
           "time_info": "[09时53分 ~ 12时08分]"
         },
         {
+          "title": "特朗普在经济演讲中宣称通胀胜利近20次，尽管物价高企",
+          "url": "https://wallstreetcn.com/livenews/3051720",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时45分 ~ 21时43分]"
+        },
+        {
           "title": "据福克斯新闻：白宫发言人莱维特就美国总统特朗普关于奥巴马的推文一事表示，美国总统特朗普已就此事与立法者进行了沟通。",
           "url": "https://flash.jin10.com/detail/20260207083052569800",
           "source": "金十数据",
@@ -711,17 +740,6 @@
           "time_info": "[02时48分 ~ 03时37分]"
         },
         {
-          "title": "两大日媒批特朗普干涉日本内政：前所未闻，不可容忍",
-          "url": "https://news.ifeng.com/c/8qY8hiEtDth",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时45分"
-        },
-        {
           "title": "特朗普称道指将站上10万点",
           "url": "https://www.toutiao.com/trending/7603935969964359722/",
           "source": "今日头条",
@@ -731,17 +749,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
-        },
-        {
-          "title": "特朗普在经济演讲中宣称通胀胜利近20次，尽管物价高企",
-          "url": "https://wallstreetcn.com/livenews/3051720",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时45分"
         },
         {
           "title": "特朗普删除将奥巴马P成猴子视频",
@@ -813,7 +820,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 34,
+      "match_count": 35,
       "titles": [
         {
           "title": "伊朗就美伊核谈判发表声明",
@@ -840,6 +847,17 @@
           "time_info": "[00时42分 ~ 09时53分]"
         },
         {
+          "title": "伊朗外长：会谈是良好开端，最大挑战是不信任",
+          "url": "https://news.ifeng.com/c/8qXlsCyK0HX",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时08分 ~ 21时43分]"
+        },
+        {
           "title": "美伊核谈判在阿曼重启 伊朗武装部队今晚起将进入最高级别戒备状态",
           "url": "https://www.cls.cn/detail/2283240",
           "source": "财联社热门",
@@ -850,17 +868,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时42分 ~ 12时08分]"
-        },
-        {
-          "title": "伊朗外长：会谈是良好开端，最大挑战是不信任",
-          "url": "https://news.ifeng.com/c/8qXlsCyK0HX",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时08分 ~ 20时45分]"
         },
         {
           "title": "罕见！伊朗强硬派对美伊谈判态度克制",
@@ -896,11 +903,12 @@
             14,
             12,
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时41分 ~ 20时45分]"
+          "appearance_count": 10,
+          "time_info": "[13时41分 ~ 21时43分]"
         },
         {
           "title": "美国宣布制裁伊朗相关实体及个人",
@@ -922,11 +930,27 @@
           "url": "https://wallstreetcn.com/livenews/3051730",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时45分 ~ 21时43分]"
+        },
+        {
+          "title": "伊朗外长：下一轮核谈判日期未定，若遭美袭击将攻击美军基地",
+          "url": "https://wallstreetcn.com/livenews/3051705",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            8,
+            12,
+            24,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时29分 ~ 21时43分]"
         },
         {
           "title": "联合国秘书长发表声明：欢迎伊朗与美国恢复会谈",
@@ -951,15 +975,15 @@
           "time_info": "01时41分"
         },
         {
-          "title": "伊朗外长会见卡塔尔首相兼外交大臣 就地区局势交换意见",
-          "url": "https://flash.jin10.com/detail/20260207195937294800",
+          "title": "伊朗外长：第二轮伊美谈判地点可能发生变化",
+          "url": "https://flash.jin10.com/detail/20260207210239858800",
           "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时45分"
+          "time_info": "21时43分"
         },
         {
           "title": "据AXIOS网站：伊朗外长阿拉格齐从阿曼动身前往卡塔尔，他将于周六在多哈会见卡塔尔首相兼外交大臣。",
@@ -973,31 +997,6 @@
           "time_info": "00时43分"
         },
         {
-          "title": "伊朗武装部队总参谋长：军队始终保持高度戒备状态",
-          "url": "https://flash.jin10.com/detail/20260207193925361800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时45分"
-        },
-        {
-          "title": "伊朗外长：下一轮核谈判日期未定，若遭美袭击将攻击美军基地",
-          "url": "https://wallstreetcn.com/livenews/3051705",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            8,
-            12,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时29分 ~ 20时45分]"
-        },
-        {
           "title": "伊朗陆军司令说伊朗武装部队将坚决捍卫领土完整",
           "url": "https://flash.jin10.com/detail/20260207090255809800",
           "source": "金十数据",
@@ -1009,6 +1008,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时53分 ~ 13时41分]"
+        },
+        {
+          "title": "伊朗外长会见卡塔尔首相兼外交大臣 就地区局势交换意见",
+          "url": "https://flash.jin10.com/detail/20260207195937294800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时45分 ~ 21时43分]"
+        },
+        {
+          "title": "伊朗武装部队总参谋长：军队始终保持高度戒备状态",
+          "url": "https://flash.jin10.com/detail/20260207193925361800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时45分 ~ 21时43分]"
         },
         {
           "title": "伊朗外长：下一轮核谈判日期尚未确定",
@@ -1059,6 +1082,30 @@
           "time_info": "[01时41分 ~ 03时37分]"
         },
         {
+          "title": "伊朗外长为伊美谈判划定“红线”",
+          "url": "https://wallstreetcn.com/livenews/3051726",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时45分 ~ 21时43分]"
+        },
+        {
+          "title": "伊朗武装部队总参谋长：军队始终保持高度戒备状态",
+          "url": "https://wallstreetcn.com/livenews/3051724",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时45分 ~ 21时43分]"
+        },
+        {
           "title": "据福克斯新闻：消息人士称，伊朗与美国官员在阿曼举行了面对面的谈判。这是自美国去年6月轰炸伊朗核设施以来的首次。伊朗官员称谈判持续了8小时。",
           "url": "https://flash.jin10.com/detail/20260207022751929800",
           "source": "金十数据",
@@ -1095,17 +1142,6 @@
           "time_info": "[17时29分 ~ 18时25分]"
         },
         {
-          "title": "伊朗外长为伊美谈判划定“红线”",
-          "url": "https://wallstreetcn.com/livenews/3051726",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时45分"
-        },
-        {
           "title": "“代表团圆满完成核心使命” 伊朗总统府就美伊核谈判发表声明",
           "url": "https://flash.jin10.com/detail/20260207001449427800",
           "source": "金十数据",
@@ -1115,17 +1151,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时43分"
-        },
-        {
-          "title": "伊朗武装部队总参谋长：军队始终保持高度戒备状态",
-          "url": "https://wallstreetcn.com/livenews/3051724",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时45分"
         },
         {
           "title": "市场消息：伊朗代表团已离开马斯喀特。",
@@ -1219,7 +1244,7 @@
     },
     {
       "keyword_group": "俄罗斯",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "乌克兰安全局官员：乌克兰无人机袭击了一家生产导弹燃料组件的俄罗斯工厂。",
@@ -1228,11 +1253,12 @@
           "ranks": [
             1,
             4,
-            11
+            11,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时25分 ~ 20时45分]"
+          "appearance_count": 4,
+          "time_info": "[18时25分 ~ 21时43分]"
         },
         {
           "title": "泽连斯基说乌克兰遭俄罗斯新一轮空袭",
@@ -1241,11 +1267,12 @@
           "ranks": [
             1,
             5,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时25分 ~ 20时45分]"
+          "appearance_count": 4,
+          "time_info": "[18时25分 ~ 21时43分]"
         },
         {
           "title": "俄罗斯军队已夺取乌克兰东部的丘胡伊夫卡定居点。",
@@ -1255,11 +1282,12 @@
             2,
             10,
             13,
-            20
+            20,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时29分 ~ 20时45分]"
+          "appearance_count": 5,
+          "time_info": "[17时29分 ~ 21时43分]"
         },
         {
           "title": "乌克兰总统泽连斯基：如果俄罗斯同意，乌克兰已做好对等回应的准备。",
@@ -1269,11 +1297,38 @@
             4,
             12,
             15,
-            22
+            22,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时29分 ~ 20时45分]"
+          "appearance_count": 5,
+          "time_info": "[17时29分 ~ 21时43分]"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：美国希望乌克兰和俄罗斯在夏季前结束战争。",
+          "url": "https://flash.jin10.com/detail/20260207170124829800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            13,
+            16,
+            23,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时29分 ~ 21时43分]"
+        },
+        {
+          "title": "乌克兰总参谋部表示，其部队袭击了俄罗斯萨拉托夫州的一个油库。",
+          "url": "https://flash.jin10.com/detail/20260207202750475800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时43分"
         },
         {
           "title": "乌方称俄罗斯“大规模袭击”乌克兰能源设施",
@@ -1288,20 +1343,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时31分 ~ 19时21分]"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：美国希望乌克兰和俄罗斯在夏季前结束战争。",
-          "url": "https://flash.jin10.com/detail/20260207170124829800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            13,
-            16,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时29分 ~ 20时45分]"
         },
         {
           "title": "乌克兰能源部长：俄罗斯袭击了乌克兰的能源发电与配电设施。",
@@ -1521,8 +1562,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时24分 ~ 20时45分]"
+          "appearance_count": 15,
+          "time_info": "[07时24分 ~ 21时43分]"
         },
         {
           "title": "美股收盘：道指历史首次站上5万点 中概股指数涨超3%",
@@ -1536,8 +1577,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时24分 ~ 20时45分]"
+          "appearance_count": 15,
+          "time_info": "[07时24分 ~ 21时43分]"
         },
         {
           "title": "美股三大期指集体反弹 亚马逊盘前大跌近9% | 今夜看点",
@@ -1554,8 +1595,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时42分 ~ 20时45分]"
+          "appearance_count": 23,
+          "time_info": "[00时42分 ~ 21时43分]"
         },
         {
           "title": "科技股抛压暂缓，美股期指集体转涨，英伟达结束五连跌，金银V形反弹，比特币止跌",
@@ -1719,11 +1760,26 @@
           "ranks": [
             2,
             5,
-            12
+            12,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时25分 ~ 20时45分]"
+          "appearance_count": 4,
+          "time_info": "[18时25分 ~ 21时43分]"
+        },
+        {
+          "title": "印度商业和工业部长皮尤什·戈亚尔：印度出口到美国的宝石、钻石、智能手机将享受零关税待遇。 机械设备和基本汽车零部件将享受美国零关税待遇。 并未降低对美国转基因作物的贸易壁垒。 与美国达成的协议是一项公平、公正、平衡的协议。",
+          "url": "https://wallstreetcn.com/livenews/3051703",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            10,
+            14,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时29分 ~ 21时43分]"
         },
         {
           "title": "狗狗挨揍后拉三轮车去撞自家汽车",
@@ -1740,31 +1796,18 @@
           "time_info": "[14时40分 ~ 19时21分]"
         },
         {
-          "title": "印度商业和工业部长皮尤什·戈亚尔：印度出口到美国的宝石、钻石、智能手机将享受零关税待遇。 机械设备和基本汽车零部件将享受美国零关税待遇。 并未降低对美国转基因作物的贸易壁垒。 与美国达成的协议是一项公平、公正、平衡的协议。",
-          "url": "https://wallstreetcn.com/livenews/3051703",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            10,
-            14,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时29分 ~ 20时45分]"
-        },
-        {
           "title": "印度商业和工业部长皮尤什·戈亚尔：部分美国产品将面临最低进口价格限制。 预计未来印度与美国的双边贸易额将达到5000亿美元。 下周起，互惠关税将从25%降至18%。 电动汽车被排除在美国贸易协定范围之外。 将对葡萄酒设定最低进口价格。",
           "url": "https://wallstreetcn.com/livenews/3051709",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
             9,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时25分 ~ 20时45分]"
+          "appearance_count": 4,
+          "time_info": "[18时25分 ~ 21时43分]"
         },
         {
           "title": "狗狗挨揍后拉三轮车去撞自家汽车",
@@ -1785,9 +1828,9 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时45分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时45分 ~ 21时43分]"
         }
       ]
     },
@@ -2057,22 +2100,52 @@
           "url": "https://www.zhihu.com/question/29983694",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时45分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时45分 ~ 21时43分]"
         },
         {
           "title": "兵韬志略｜美国向中东核心盟友大规模军售，制造紧张“大发战争财”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32551116",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时45分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时45分 ~ 21时43分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "无人机",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "二手无人机现“抛售”潮",
+          "url": "https://www.toutiao.com/trending/7604016214180085814/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时42分 ~ 21时43分]"
+        },
+        {
+          "title": "黑飞无人机最近时距客机仅800米",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%91%E9%A3%9E%E6%97%A0%E4%BA%BA%E6%9C%BA%E6%9C%80%E8%BF%91%E6%97%B6%E8%B7%9D%E5%AE%A2%E6%9C%BA%E4%BB%85800%E7%B1%B3%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时42分 ~ 00时43分]"
         }
       ]
     },
@@ -2089,11 +2162,12 @@
             8,
             7,
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时40分 ~ 20时45分]"
+          "appearance_count": 9,
+          "time_info": "[14时40分 ~ 21时43分]"
         }
       ]
     },
@@ -2115,19 +2189,19 @@
       ]
     },
     {
-      "keyword_group": "无人机",
+      "keyword_group": "武器",
       "match_count": 1,
       "titles": [
         {
-          "title": "黑飞无人机最近时距客机仅800米",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%91%E9%A3%9E%E6%97%A0%E4%BA%BA%E6%9C%BA%E6%9C%80%E8%BF%91%E6%97%B6%E8%B7%9D%E5%AE%A2%E6%9C%BA%E4%BB%85800%E7%B1%B3%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
+          "title": "以色列媒体报道称，以色列一直在秘密向加沙地带的武装组织提供资金、武器和实地保护，以此打击哈马斯。",
+          "url": "https://flash.jin10.com/detail/20260207201752211800",
+          "source": "金十数据",
           "ranks": [
-            28
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 00时43分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时43分"
         }
       ]
     }
