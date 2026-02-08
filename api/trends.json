@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T20:46:41.965775+08:00",
-  "total_titles_processed": 1163,
+  "generated_at": "2026-02-08T21:44:32.605392+08:00",
+  "total_titles_processed": 1243,
   "failed_sources": [],
   "trends": [
     {
@@ -321,7 +321,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "伊美谈判“暂时”结束，伊朗外长称开局良好",
@@ -449,6 +449,18 @@
           "time_info": "[15时39分 ~ 20时46分]"
         },
         {
+          "title": "伊朗武装部队总参谋长：没有兴趣发动地区战争",
+          "url": "https://wallstreetcn.com/livenews/3051828",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时46分 ~ 21时44分]"
+        },
+        {
           "title": "伊朗外长：进行铀浓缩是伊朗的权利",
           "url": "https://flash.jin10.com/detail/20260208154251792800",
           "source": "金十数据",
@@ -461,17 +473,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时33分 ~ 19时22分]"
-        },
-        {
-          "title": "伊朗武装部队总参谋长：没有兴趣发动地区战争",
-          "url": "https://wallstreetcn.com/livenews/3051828",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时46分"
         },
         {
           "title": "伊朗武装部队总参谋长：伊空军处于“最高战备状态”",
@@ -494,11 +495,12 @@
           "ranks": [
             5,
             10,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时25分 ~ 20时46分]"
+          "appearance_count": 4,
+          "time_info": "[18时25分 ~ 21时44分]"
         },
         {
           "title": "伊朗外长：美国军事施压吓不倒伊朗",
@@ -508,11 +510,12 @@
             10,
             17,
             22,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时29分 ~ 20时46分]"
+          "appearance_count": 5,
+          "time_info": "[17时29分 ~ 21时44分]"
         },
         {
           "title": "美特使登航母，与击落伊朗无人机飞行员交流",
@@ -576,6 +579,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时28分 ~ 01时25分]"
+        },
+        {
+          "title": "伊朗武装部队总参谋长：没有兴趣发动地区战争",
+          "url": "https://flash.jin10.com/detail/20260208202122596800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
         }
       ]
     },
@@ -634,17 +648,6 @@
           "time_info": "[00时29分 ~ 05时25分]"
         },
         {
-          "title": "美印联合声明未提及放弃采购俄罗斯石油",
-          "url": "https://flash.jin10.com/detail/20260208193208999800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时46分"
-        },
-        {
           "title": "据俄新社：俄罗斯阿列克谢耶夫将军遇刺未遂案的行凶者和同谋已在阿联酋被捕。",
           "url": "https://flash.jin10.com/detail/20260208145115405800",
           "source": "金十数据",
@@ -670,6 +673,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时29分 ~ 19时22分]"
+        },
+        {
+          "title": "美印联合声明未提及放弃采购俄罗斯石油",
+          "url": "https://flash.jin10.com/detail/20260208193208999800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时46分 ~ 21时44分]"
         },
         {
           "title": "俄罗斯国防部：俄军攻占了乌克兰东部的格卢什科夫卡。",
@@ -710,6 +725,18 @@
           "time_info": "[19时22分 ~ 20时46分]"
         },
         {
+          "title": "俄新社援引克里姆林宫消息称，俄罗斯总统普京于周六与阿联酋总统通了电话。",
+          "url": "https://flash.jin10.com/detail/20260208192828706800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时46分 ~ 21时44分]"
+        },
+        {
           "title": "根据爱尔兰海军收集的情报，去年俄罗斯使用受制裁的油轮，经由爱尔兰海域运输了价值约37亿欧元的石油。",
           "url": "https://flash.jin10.com/detail/20260208185606546800",
           "source": "金十数据",
@@ -731,17 +758,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时47分 ~ 14时48分]"
-        },
-        {
-          "title": "俄新社援引克里姆林宫消息称，俄罗斯总统普京于周六与阿联酋总统通了电话。",
-          "url": "https://flash.jin10.com/detail/20260208192828706800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时46分"
         },
         {
           "title": "《俄罗斯黄皮书》发布",
@@ -898,8 +914,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时38分 ~ 20时46分]"
+          "appearance_count": 9,
+          "time_info": "[15时38分 ~ 21时44分]"
         },
         {
           "title": "美股收盘：道指历史首次站上5万点 中概股指数涨超3%",
@@ -912,8 +928,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时28分 ~ 20时46分]"
+          "appearance_count": 25,
+          "time_info": "[00时28分 ~ 21时44分]"
         },
         {
           "title": "美股三大期指集体反弹 亚马逊盘前大跌近9% | 今夜看点",
@@ -953,11 +969,12 @@
           "source": "知乎",
           "ranks": [
             11,
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时26分 ~ 20时46分]"
+          "appearance_count": 14,
+          "time_info": "[10时26分 ~ 21时44分]"
         },
         {
           "title": "国际观察丨美伊谈判能否解除中东“战争警报”",
@@ -970,8 +987,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时26分 ~ 20时46分]"
+          "appearance_count": 12,
+          "time_info": "[10时26分 ~ 21时44分]"
         },
         {
           "title": "兵韬志略｜美国向中东核心盟友大规模军售，制造紧张“大发战争财”",
@@ -1119,8 +1136,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时32分 ~ 20时46分]"
+          "appearance_count": 7,
+          "time_info": "[16时32分 ~ 21时44分]"
         }
       ]
     },
@@ -1137,8 +1154,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时29分 ~ 20时46分]"
+          "appearance_count": 5,
+          "time_info": "[17时29分 ~ 21时44分]"
         }
       ]
     },
@@ -1153,11 +1170,12 @@
           "ranks": [
             2,
             7,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时25分 ~ 20时46分]"
+          "appearance_count": 4,
+          "time_info": "[18时25分 ~ 21时44分]"
         }
       ]
     },
