@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-09T06:25:52.292371+08:00",
-  "total_titles_processed": 432,
+  "generated_at": "2026-02-09T07:31:14.014899+08:00",
+  "total_titles_processed": 483,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,23 @@
             4,
             5,
             12,
-            16
+            16,
+            27
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 06时25分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 07时31分]"
+        },
+        {
+          "title": "特朗普被白头海雕打脸视频再度火了",
+          "url": "https://www.toutiao.com/trending/7603686321965662214/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 07时31分]"
         },
         {
           "title": "美国总统特朗普对美国滑雪运动员亨特·赫斯发出批评，并称他为“彻头彻尾的失败者”。",
@@ -31,22 +43,12 @@
             5,
             6,
             13,
-            17
+            17,
+            28
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 06时25分]"
-        },
-        {
-          "title": "特朗普被白头海雕打脸视频再度火了",
-          "url": "https://www.toutiao.com/trending/7603686321965662214/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 06时25分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 07时31分]"
         },
         {
           "title": "美国财长贝森特：日本新首相是“伟大的盟友”，与美国总统特朗普关系良好。",
@@ -126,8 +128,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 06时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 07时31分]"
         },
         {
           "title": "高盛交易员警告：美股抛售尚未结束",
@@ -137,11 +139,12 @@
             1,
             2,
             9,
-            13
+            13,
+            24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时25分 ~ 06时25分]"
+          "appearance_count": 7,
+          "time_info": "[01时25分 ~ 07时31分]"
         },
         {
           "title": "高盛交易员警告：随着算法资金抛售，美股将迎来剧烈波动，请“系好安全带”",
@@ -171,8 +174,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 06时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 07时31分]"
         },
         {
           "title": "伊朗武装部队总参谋长：没有兴趣发动地区战争",
@@ -214,8 +217,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 06时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 07时31分]"
         },
         {
           "title": "全球第四大汽车巨头半年亏1500亿元",
@@ -224,11 +227,41 @@
           "ranks": [
             23,
             6,
-            1
+            1,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时26分 ~ 06时25分]"
+          "appearance_count": 6,
+          "time_info": "[04时26分 ~ 07时31分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "经济日报问答：春节开新能源车出行有保障吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32561385",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时35分]"
+        },
+        {
+          "title": "2026 年 1 月份广汽本田销量再次暴跌 70% 至 4558 辆，未受到新能源车购置税提振，如何看待这一结果？",
+          "url": "https://www.zhihu.com/question/2002317088476382247",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时30分 ~ 07时31分]"
         }
       ]
     },
@@ -275,8 +308,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 06时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 07时31分]"
         }
       ]
     },
@@ -291,11 +324,12 @@
           "ranks": [
             9,
             28,
-            1
+            1,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时35分 ~ 04时26分]"
+          "appearance_count": 6,
+          "time_info": "[02时35分 ~ 07时31分]"
         }
       ]
     },
@@ -338,24 +372,6 @@
       ]
     },
     {
-      "keyword_group": "新能源",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "经济日报问答：春节开新能源车出行有保障吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32561385",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 02时35分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "战争",
       "match_count": 1,
       "titles": [
@@ -371,8 +387,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 06时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 07时31分]"
         }
       ]
     },
