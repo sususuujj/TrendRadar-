@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-09T07:31:14.014899+08:00",
-  "total_titles_processed": 483,
+  "generated_at": "2026-02-09T10:04:32.905558+08:00",
+  "total_titles_processed": 650,
   "failed_sources": [],
   "trends": [
     {
@@ -125,11 +125,12 @@
           "url": "https://wallstreetcn.com/articles/3765246",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 07时31分]"
+          "appearance_count": 12,
+          "time_info": "[00时29分 ~ 10时04分]"
         },
         {
           "title": "高盛交易员警告：美股抛售尚未结束",
@@ -171,11 +172,12 @@
           "ranks": [
             14,
             16,
-            17
+            17,
+            13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 07时31分]"
+          "appearance_count": 12,
+          "time_info": "[00时29分 ~ 10时04分]"
         },
         {
           "title": "伊朗武装部队总参谋长：没有兴趣发动地区战争",
@@ -214,11 +216,12 @@
             6,
             9,
             8,
-            4
+            4,
+            16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 07时31分]"
+          "appearance_count": 12,
+          "time_info": "[00时29分 ~ 10时04分]"
         },
         {
           "title": "全球第四大汽车巨头半年亏1500亿元",
@@ -308,8 +311,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 07时31分]"
+          "appearance_count": 12,
+          "time_info": "[00时29分 ~ 10时04分]"
         }
       ]
     },
