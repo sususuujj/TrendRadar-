@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-10T16:54:50.163804+08:00",
-  "total_titles_processed": 1177,
+  "generated_at": "2026-02-10T18:01:55.650339+08:00",
+  "total_titles_processed": 1289,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "特朗普再放豪言：我选的美联储掌门沃什 有能力推动美国经济增长15%！",
@@ -44,6 +44,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时03分 ~ 15时03分]"
+        },
+        {
+          "title": "谷爱凌回应特朗普大骂冬奥运动员",
+          "url": "https://www.toutiao.com/trending/7605068464549744178/",
+          "source": "今日头条",
+          "ranks": [
+            11,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时03分 ~ 18时01分]"
         },
         {
           "title": "据华尔街日报：美国总统特朗普将在大规模监管撤销中推翻具有里程碑意义的气候裁决。",
@@ -104,18 +117,6 @@
           "time_info": "[13时03分 ~ 16时54分]"
         },
         {
-          "title": "谷爱凌回应特朗普大骂冬奥运动员",
-          "url": "https://www.toutiao.com/trending/7605068464549744178/",
-          "source": "今日头条",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时03分 ~ 16时54分]"
-        },
-        {
           "title": "再翻一倍？特朗普豪言：我任期结束前 道指将站上10万点！",
           "url": "https://www.cls.cn/detail/2284508",
           "source": "财联社热门",
@@ -127,6 +128,17 @@
           "time_info": "[04时02分 ~ 05时39分]"
         },
         {
+          "title": "内塔尼亚胡1年内将第7次见特朗普，以官员回应",
+          "url": "https://news.ifeng.com/c/8qdLiMlCmog",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时00分 ~ 18时01分]"
+        },
+        {
           "title": "美民调：多数人不认可特朗普关税政策",
           "url": "https://www.toutiao.com/trending/7604360239181807658/",
           "source": "今日头条",
@@ -136,6 +148,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时52分 ~ 01时53分]"
+        },
+        {
+          "title": "特朗普威胁要阻止美加跨国大桥通车",
+          "url": "https://www.toutiao.com/trending/7604069122414231606/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时00分 ~ 18时01分]"
         },
         {
           "title": "特朗普设定15%增长目标 沃什入主美联储压力倍增",
@@ -240,7 +263,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "科技股继续提振美股，标普逼近历史高位，美元跌破97关口，黄金重回5000美元，期银盘中涨近9%",
@@ -251,8 +274,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时13分 ~ 16时54分]"
+          "appearance_count": 8,
+          "time_info": "[10时13分 ~ 18时01分]"
         },
         {
           "title": "美股三大期指盘前集体走低 美光跌3%诺和诺德暴涨 | 今夜看点",
@@ -290,6 +313,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
+        },
+        {
+          "title": "美股光通信股盘前延续涨势，Credo Technology大涨超17%，Astera Labs盘前续涨超5%，康宁涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3052937",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时01分"
         },
         {
           "title": "金十图示：2026年02月09日（周一）热门中概股行情一览（美股盘中）",
@@ -407,6 +441,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时36分"
+        },
+        {
+          "title": "台积电美股盘前涨2.5%。台积电1月销售额同比增长36.8%。",
+          "url": "https://wallstreetcn.com/livenews/3052910",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时01分"
         },
         {
           "title": "高盛称对冲基金创纪录增持美股空头头寸，信息技术板块成抛售重灾区",
@@ -593,7 +638,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
         },
@@ -649,7 +694,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
         },
@@ -723,7 +768,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
         },
@@ -759,6 +804,68 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "俄罗斯",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "俄罗斯经济快撑不住了吗",
+          "url": "https://www.toutiao.com/trending/7605054942725803556/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时03分 ~ 15时03分]"
+        },
+        {
+          "title": "克里姆林宫：我们已注意到马克龙的言论。俄罗斯一直愿意进行对话。",
+          "url": "https://flash.jin10.com/detail/20260210171110294800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时01分"
+        },
+        {
+          "title": "欧盟文件显示，欧盟提议在新一轮制裁方案中将俄罗斯上市石油公司巴什内夫特列入制裁名单。",
+          "url": "https://flash.jin10.com/detail/20260210010724909800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时53分"
+        },
+        {
+          "title": "据俄新社：俄罗斯军队控制了乌克兰扎波罗热的扎利兹尼奇内地区。",
+          "url": "https://flash.jin10.com/detail/20260210171022821800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时01分"
+        },
+        {
+          "title": "欧盟外交与安全政策高级代表办公室文件显示，欧盟拟在第20轮制裁中将包括图阿普谢在内的八家俄罗斯炼油厂列入制裁名单。",
+          "url": "https://flash.jin10.com/detail/20260210010527840800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时53分"
         }
       ]
     },
@@ -817,6 +924,17 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "提供无人机破解服务是犯罪",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%8F%90%E4%BE%9B%E6%97%A0%E4%BA%BA%E6%9C%BA%E7%A0%B4%E8%A7%A3%E6%9C%8D%E5%8A%A1%E6%98%AF%E7%8A%AF%E7%BD%AA%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时54分 ~ 18时01分]"
+        },
+        {
           "title": "韩国警方对“无人机入朝事件”相关单位进行扣押搜查",
           "url": "https://wallstreetcn.com/livenews/3052650",
           "source": "华尔街见闻-快讯",
@@ -828,15 +946,16 @@
           "time_info": "10时14分"
         },
         {
-          "title": "提供无人机破解服务是犯罪",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%8F%90%E4%BE%9B%E6%97%A0%E4%BA%BA%E6%9C%BA%E7%A0%B4%E8%A7%A3%E6%9C%8D%E5%8A%A1%E6%98%AF%E7%8A%AF%E7%BD%AA%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
+          "title": "俄方称扎波罗热地区遭无人机密集袭击 致2人死亡",
+          "url": "https://wallstreetcn.com/livenews/3052892",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            9,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时54分 ~ 18时01分]"
         },
         {
           "title": "据韩国媒体10日报道，韩国警方当天对“无人机入朝事件”相关的韩国国军情报司令部、国家情报院等18个单位进行扣押搜查。 ​​​",
@@ -848,17 +967,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时14分"
-        },
-        {
-          "title": "俄方称扎波罗热地区遭无人机密集袭击 致2人死亡",
-          "url": "https://wallstreetcn.com/livenews/3052892",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时54分"
         }
       ]
     },
@@ -903,42 +1011,30 @@
       ]
     },
     {
-      "keyword_group": "俄罗斯",
-      "match_count": 3,
+      "keyword_group": "金价",
+      "match_count": 2,
       "titles": [
         {
-          "title": "俄罗斯经济快撑不住了吗",
-          "url": "https://www.toutiao.com/trending/7605054942725803556/",
-          "source": "今日头条",
-          "ranks": [
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时03分 ~ 15时03分]"
-        },
-        {
-          "title": "欧盟文件显示，欧盟提议在新一轮制裁方案中将俄罗斯上市石油公司巴什内夫特列入制裁名单。",
-          "url": "https://flash.jin10.com/detail/20260210010724909800",
+          "title": "法巴银行：金价年内有望涨至6000美元 涨势合乎逻辑",
+          "url": "https://flash.jin10.com/detail/20260210173001721800",
           "source": "金十数据",
           "ranks": [
-            14
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时01分"
+        },
+        {
+          "title": "国际金价上蹿下跳，重回5000美元后，反弹动能是否仍然充沛？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32572245",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时53分"
-        },
-        {
-          "title": "欧盟外交与安全政策高级代表办公室文件显示，欧盟拟在第20轮制裁中将包括图阿普谢在内的八家俄罗斯炼油厂列入制裁名单。",
-          "url": "https://flash.jin10.com/detail/20260210010527840800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时53分"
+          "time_info": "16时54分"
         }
       ]
     },
@@ -1026,23 +1122,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时03分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "国际金价上蹿下跳，重回5000美元后，反弹动能是否仍然充沛？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32572245",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时54分"
         }
       ]
     }
