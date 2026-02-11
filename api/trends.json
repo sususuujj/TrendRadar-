@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-11T17:57:30.872909+08:00",
-  "total_titles_processed": 1417,
+  "generated_at": "2026-02-11T18:52:55.214957+08:00",
+  "total_titles_processed": 1513,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 53,
+      "match_count": 54,
       "titles": [
         {
           "title": "美军“导弹已上膛”，特朗普再对伊朗发出威胁",
@@ -39,8 +39,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时10分 ~ 17时57分]"
+          "appearance_count": 10,
+          "time_info": "[10时10分 ~ 18时52分]"
         },
         {
           "title": "内塔尼亚胡1年内将第7次见特朗普，以官员回应",
@@ -63,6 +63,28 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[10时10分 ~ 16时58分]"
+        },
+        {
+          "title": "外交部回应特朗普涉中加合作言论",
+          "url": "https://news.ifeng.com/c/8qetZSIVPBA",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时57分 ~ 18时52分]"
+        },
+        {
+          "title": "特朗普：伊朗希望达成协议，不然太蠢了",
+          "url": "https://news.ifeng.com/c/8qf0rfTG2o3",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时57分 ~ 18时52分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普全力支持商务部长卢特尼克。 （虽然爆出与爱博斯坦有过联系，但）卢特尼克仍然是特朗普团队的重要成员。",
@@ -89,17 +111,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时21分 ~ 05时41分]"
-        },
-        {
-          "title": "外交部回应特朗普涉中加合作言论",
-          "url": "https://news.ifeng.com/c/8qetZSIVPBA",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时57分"
         },
         {
           "title": "据美国媒体报道，以色列总理内塔尼亚胡10日晚在白宫与美国总统特朗普的特使威特科夫和女婿库什纳举行会晤，双方讨论了伊朗局势。",
@@ -133,17 +144,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
-        },
-        {
-          "title": "特朗普：伊朗希望达成协议，不然太蠢了",
-          "url": "https://news.ifeng.com/c/8qf0rfTG2o3",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时57分"
         },
         {
           "title": "花旗：美国总统特朗普住房政策对房地产开发商的影响仍然不明朗。",
@@ -314,6 +314,18 @@
           "time_info": "[05时41分 ~ 06时39分]"
         },
         {
+          "title": "外交部回应特朗普涉中加合作言论",
+          "url": "https://www.toutiao.com/trending/7605448481570897961/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时57分 ~ 18时52分]"
+        },
+        {
           "title": "美国总统特朗普：伊朗希望达成协议。",
           "url": "https://wallstreetcn.com/livenews/3053268",
           "source": "华尔街见闻-快讯",
@@ -470,17 +482,6 @@
           "time_info": "[06时39分 ~ 07时37分]"
         },
         {
-          "title": "外交部回应特朗普涉中加合作言论",
-          "url": "https://www.toutiao.com/trending/7605448481570897961/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时57分"
-        },
-        {
           "title": "美国联邦航空管理局（FAA）：特朗普政府已解决与加拿大之间的飞机认证问题。",
           "url": "https://flash.jin10.com/detail/20260211061349478800",
           "source": "金十数据",
@@ -512,6 +513,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-11）",
+          "url": "https://flash.jin10.com/detail/20260211181613310800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
         },
         {
           "title": "特朗普承认自己犯了大错",
@@ -627,7 +639,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "美股遍寻“下一个AI受害者”，周一保险经纪崩了、周二财富管理崩了，嘉信理财盘中跌超9%",
@@ -638,8 +650,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时10分 ~ 17时57分]"
+          "appearance_count": 10,
+          "time_info": "[10时10分 ~ 18时52分]"
         },
         {
           "title": "科技股继续提振美股，标普逼近历史高位，美元跌破97关口，黄金重回5000美元，期银盘中涨近9%",
@@ -665,6 +677,19 @@
           "time_info": "[00时08分 ~ 06时39分]"
         },
         {
+          "title": "“AI之战”输不得！如果美股Mag 7今年就把现金流“烧成负数”，这对市场意味着什么？",
+          "url": "https://wallstreetcn.com/articles/3765455",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时01分 ~ 18时52分]"
+        },
+        {
           "title": "美股收盘：三大指数涨跌不一 道指续创历史新高",
           "url": "https://www.cls.cn/detail/2286520",
           "source": "财联社热门",
@@ -676,19 +701,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[07时37分 ~ 15时00分]"
-        },
-        {
-          "title": "“AI之战”输不得！如果美股Mag 7今年就把现金流“烧成负数”，这对市场意味着什么？",
-          "url": "https://wallstreetcn.com/articles/3765455",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时01分 ~ 17时57分]"
         },
         {
           "title": "美股三大期指小幅走高 经济数据即将扎堆公布 | 今夜看点",
@@ -798,6 +810,17 @@
           "time_info": "[06时39分 ~ 07时37分]"
         },
         {
+          "title": "84 岁吉姆·罗杰斯清空美股，坚定持有金银铜称要留给后代，预言下次危机是其一生中最惨烈危机，如何解读？",
+          "url": "https://www.zhihu.com/question/2004662806780338439",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
+        },
+        {
           "title": "周二（2月10日）美股尾盘，彭博电动汽车价格回报指数涨0.70%，报3616.33点。 亚太盘初至美股开盘持稳于3600点附近——维持微幅上涨状态，之后一度加速走高。",
           "url": "https://wallstreetcn.com/livenews/3053236",
           "source": "华尔街见闻-快讯",
@@ -837,7 +860,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时57分"
         }
@@ -845,7 +868,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "沙特驻伊朗大使：支持地区局势降温",
@@ -868,6 +891,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
+        },
+        {
+          "title": "据伊朗努尔新闻(Nour News)：伊朗最高领袖顾问沙姆哈尼表示，德黑兰的导弹能力是其红线。",
+          "url": "https://flash.jin10.com/detail/20260211183009729800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
         },
         {
           "title": "伊朗外长向巴基斯坦外长介绍伊美谈判进展",
@@ -930,6 +964,18 @@
           "time_info": "[04时43分 ~ 05时41分]"
         },
         {
+          "title": "中方送伊朗歼-20模型传递何种信号",
+          "url": "https://www.toutiao.com/trending/7605520149600292406/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时57分 ~ 18时52分]"
+        },
+        {
           "title": "伊朗外长：相信可以达成优于伊核协议的新协议",
           "url": "https://flash.jin10.com/detail/20260211140731588800",
           "source": "金十数据",
@@ -939,6 +985,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时00分"
+        },
+        {
+          "title": "伊朗最高领袖政治顾问：导弹能力不在谈判授权范围内",
+          "url": "https://wallstreetcn.com/livenews/3053672",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
         },
         {
           "title": "伊朗外长：相信可以达成优于伊核协议的新协议",
@@ -974,24 +1031,13 @@
           "time_info": "16时58分"
         },
         {
-          "title": "中方送伊朗歼-20模型传递何种信号",
-          "url": "https://www.toutiao.com/trending/7605520149600292406/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时57分"
-        },
-        {
           "title": "伊朗最高领袖顾问访问卡塔尔",
           "url": "https://wallstreetcn.com/livenews/3053604",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时57分"
         },
@@ -1005,6 +1051,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
+        },
+        {
+          "title": "伊朗军事实力如何",
+          "url": "https://www.toutiao.com/trending/7605529877277576740/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
         }
       ]
     },
@@ -1177,7 +1234,7 @@
     },
     {
       "keyword_group": "俄罗斯",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "据俄新社：俄罗斯法院对Telegram平台处以380万卢布罚款。",
@@ -1186,7 +1243,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时57分"
         },
@@ -1219,7 +1276,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时57分"
         },
@@ -1230,7 +1287,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时57分"
         },
@@ -1255,6 +1312,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
+        },
+        {
+          "title": "据俄新社：俄罗斯财政部预计将于三月出售乌茹拉佐洛托黄金矿（Uzhuralzoloto）的国有股份。",
+          "url": "https://flash.jin10.com/detail/20260211180216632800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
         },
         {
           "title": "俄外长：俄罗斯愿通过对话解决乌克兰问题",
@@ -1366,8 +1434,21 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "一次性出手8公斤金条！金价高位震荡，千万元级套现频频",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32581000",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时01分 ~ 18时52分]"
+        },
         {
           "title": "国际金价上蹿下跳，重回5000美元后，反弹动能是否仍然充沛？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32572245",
@@ -1382,17 +1463,15 @@
           "time_info": "[00时08分 ~ 10时10分]"
         },
         {
-          "title": "一次性出手8公斤金条！金价高位震荡，千万元级套现频频",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32581000",
-          "source": "澎湃新闻",
+          "title": "机构：收益率走低支撑金价反弹 市场静候非农报告出炉",
+          "url": "https://flash.jin10.com/detail/20260211182619884800",
+          "source": "金十数据",
           "ranks": [
-            12,
-            11,
-            10
+            4
           ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时01分 ~ 17时57分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
         },
         {
           "title": "金价波动",
@@ -1426,6 +1505,70 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "无人机",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "中国无人机大山里运腊肠",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%A4%A7%E5%B1%B1%E9%87%8C%E8%BF%90%E8%85%8A%E8%82%A0%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时08分 ~ 10时10分]"
+        },
+        {
+          "title": "西部战区年度宣传片：无人机布满天空",
+          "url": "https://www.toutiao.com/trending/7604332861667377171/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            1,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时37分 ~ 13时02分]"
+        },
+        {
+          "title": "沙特采购中国大型无人机",
+          "url": "https://www.douyin.com/hot/2396555",
+          "source": "抖音",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时57分 ~ 18时52分]"
+        },
+        {
+          "title": "欧盟委员会发布应对无人机威胁行动计划",
+          "url": "https://wallstreetcn.com/livenews/3053669",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
+        },
+        {
+          "title": "欧盟委员会发布应对无人机威胁行动计划",
+          "url": "https://flash.jin10.com/detail/20260211180837839800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
         }
       ]
     },
@@ -1567,47 +1710,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时00分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "无人机",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "中国无人机大山里运腊肠",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%A4%A7%E5%B1%B1%E9%87%8C%E8%BF%90%E8%85%8A%E8%82%A0%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时08分 ~ 10时10分]"
-        },
-        {
-          "title": "西部战区年度宣传片：无人机布满天空",
-          "url": "https://www.toutiao.com/trending/7604332861667377171/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            1,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时37分 ~ 13时02分]"
-        },
-        {
-          "title": "沙特采购中国大型无人机",
-          "url": "https://www.douyin.com/hot/2396555",
-          "source": "抖音",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时57分"
         }
       ]
     },
