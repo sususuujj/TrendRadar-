@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-13T17:43:11.023536+08:00",
-  "total_titles_processed": 1417,
+  "generated_at": "2026-02-13T18:38:48.071650+08:00",
+  "total_titles_processed": 1529,
   "failed_sources": [],
   "trends": [
     {
@@ -46,11 +46,12 @@
           "source": "凤凰网",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时06分 ~ 17时43分]"
+          "appearance_count": 9,
+          "time_info": "[10时06分 ~ 18时38分]"
         },
         {
           "title": "特朗普威胁伊朗：不达成协议，就进入第二阶段",
@@ -58,11 +59,12 @@
           "source": "凤凰网",
           "ranks": [
             2,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时06分 ~ 17时43分]"
+          "appearance_count": 9,
+          "time_info": "[10时06分 ~ 18时38分]"
         },
         {
           "title": "路透社：特朗普访华前暂停对华科技禁令",
@@ -87,22 +89,12 @@
             20,
             25,
             27,
-            30
+            30,
+            29
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时57分 ~ 17时43分]"
-        },
-        {
-          "title": "特朗普被曝下月初召开拉美峰会“遏制中国”",
-          "url": "https://news.ifeng.com/c/8qiBqEpZEqH",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时41分 ~ 17时43分]"
+          "appearance_count": 19,
+          "time_info": "[00时57分 ~ 18时38分]"
         },
         {
           "title": "特朗普称期待4月访华",
@@ -113,8 +105,21 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时52分 ~ 18时38分]"
+        },
+        {
+          "title": "煤炭业的狂欢 环保者的悲哀！特朗普宣布撤销“温室气体危害认定”",
+          "url": "https://www.cls.cn/detail/2289315",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            9
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[12时52分 ~ 17时43分]"
+          "time_info": "[13时58分 ~ 18时38分]"
         },
         {
           "title": "中方回应“特朗普将于4月初访华”",
@@ -146,6 +151,18 @@
           "time_info": "[03时04分 ~ 12时52分]"
         },
         {
+          "title": "特朗普被曝下月初召开拉美峰会“遏制中国”",
+          "url": "https://news.ifeng.com/c/8qiBqEpZEqH",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时41分 ~ 18时38分]"
+        },
+        {
           "title": "美国总统特朗普：环保署废除了美国气候监管的基础，此举将消除1.3 万亿美元的监管成本。",
           "url": "https://flash.jin10.com/detail/20260213024705661800",
           "source": "金十数据",
@@ -155,19 +172,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时05分"
-        },
-        {
-          "title": "煤炭业的狂欢 环保者的悲哀！特朗普宣布撤销“温室气体危害认定”",
-          "url": "https://www.cls.cn/detail/2289315",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时58分 ~ 17时43分]"
         },
         {
           "title": "以色列总理办公室：内塔尼亚胡将远程参加美国以色列公共事务委员会（AIPAC）年会，因此下周不会飞往华盛顿。内塔尼亚胡也不会参加特朗普组织的和平委员会会议。",
@@ -249,6 +253,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时57分 ~ 03时05分]"
+        },
+        {
+          "title": "特朗普称印度同意不再购买俄油？俄方回应：没听说过",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32593433",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时42分 ~ 18时38分]"
         },
         {
           "title": "特朗普：美国“必须”与伊朗达成协议，否则局势将“非常严重”",
@@ -333,17 +349,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时32分 ~ 06时32分]"
-        },
-        {
-          "title": "特朗普称印度同意不再购买俄油？俄方回应：没听说过",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32593433",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时42分 ~ 17时43分]"
         },
         {
           "title": "释新闻｜内塔尼亚胡紧急提前访美，说动特朗普打击伊朗了吗？",
@@ -679,8 +684,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时06分 ~ 17时43分]"
+          "appearance_count": 9,
+          "time_info": "[10时06分 ~ 18时38分]"
         },
         {
           "title": "美股收盘：AI颠覆性担忧发酵 三大指数均跌超1%",
@@ -729,8 +734,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时52分 ~ 17时43分]"
+          "appearance_count": 8,
+          "time_info": "[12时52分 ~ 18时38分]"
         },
         {
           "title": "AI恐慌扩散，科技股再度拖垮美股，地产股连日重挫，苹果市值一日蒸发2000亿",
@@ -742,8 +747,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时06分 ~ 17时43分]"
+          "appearance_count": 9,
+          "time_info": "[10时06分 ~ 18时38分]"
         },
         {
           "title": "美股AI叙事进入下半场：从普涨狂欢到“暗礁”密布",
@@ -798,9 +803,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时43分"
+        },
+        {
+          "title": "引爆美股“黑色星期四”的导火索，是这家市值600万美元的“小公司”",
+          "url": "https://wallstreetcn.com/articles/3765636",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时06分 ~ 18时38分]"
         },
         {
           "title": "金十图示：2026年02月12日（周四）美股热门股票行情一览（美股收盘）",
@@ -813,17 +829,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时32分 ~ 06时32分]"
-        },
-        {
-          "title": "引爆美股“黑色星期四”的导火索，是这家市值600万美元的“小公司”",
-          "url": "https://wallstreetcn.com/articles/3765636",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时06分 ~ 17时43分]"
         },
         {
           "title": "金十图示：2026年02月12日（周四）热门中概股行情一览（美股收盘）",
@@ -881,8 +886,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时41分 ~ 17时43分]"
+          "appearance_count": 4,
+          "time_info": "[16时41分 ~ 18时38分]"
         },
         {
           "title": "AI引发的资本市场大溃逃 美股商业地产遭遇“黑色星期四”",
@@ -1058,6 +1063,336 @@
       ]
     },
     {
+      "keyword_group": "俄罗斯",
+      "match_count": 18,
+      "titles": [
+        {
+          "title": "俄罗斯宣布：从古巴接回公民",
+          "url": "https://news.ifeng.com/c/8qgZKCp5S0r",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时57分 ~ 10时06分]"
+        },
+        {
+          "title": "俄罗斯副外长里亚布科夫表示，俄罗斯将向古巴提供物资援助。",
+          "url": "https://flash.jin10.com/detail/20260213163228429800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时41分"
+        },
+        {
+          "title": "俄罗斯央行：在一次性因素的影响消退后，通胀回落预计将继续。",
+          "url": "https://flash.jin10.com/detail/20260213183334653800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
+        },
+        {
+          "title": "俄罗斯央行：预计当前价格增长的核心指标并未发生显著变化。",
+          "url": "https://flash.jin10.com/detail/20260213183320559800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
+        },
+        {
+          "title": "俄罗斯央行：2026年下半年，潜在通胀率将接近4%。2027年及以后，年度通胀率将保持在目标范围内。",
+          "url": "https://flash.jin10.com/detail/20260213183311757800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
+        },
+        {
+          "title": "俄罗斯央行：俄罗斯经济偏离均衡增长路径的上行偏差正在缩小。",
+          "url": "https://flash.jin10.com/detail/20260213183302730800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
+        },
+        {
+          "title": "俄罗斯央行：通胀预期仍处于高位。预计2026年通胀率为4.5%-5.5%。",
+          "url": "https://flash.jin10.com/detail/20260213183244142800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
+        },
+        {
+          "title": "俄罗斯央行：俄罗斯央行将评估是否有必要进一步下调关键利率。",
+          "url": "https://flash.jin10.com/detail/20260213183206782800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
+        },
+        {
+          "title": "俄罗斯央行：根据预测，在当前货币政策立场下，2026年年度通胀率将降至4.5%至5.5%。",
+          "url": "https://flash.jin10.com/detail/20260213183152296800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
+        },
+        {
+          "title": "俄罗斯央行：利率决议意味着货币条件将继续保持紧缩。",
+          "url": "https://flash.jin10.com/detail/20260213183128537800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
+        },
+        {
+          "title": "俄罗斯央行将利率从16%下调至15.5%，市场预期维持不变。",
+          "url": "https://flash.jin10.com/detail/20260213183032577800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
+        },
+        {
+          "title": "俄罗斯至2月13日央行利率决定 15.5%，预期16%，前值16.00%。",
+          "url": "https://flash.jin10.com/detail/20260213183003768800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
+        },
+        {
+          "title": "乌克兰副总理表示，俄罗斯袭击乌克兰敖德萨地区的一个港口，造成1人死亡、6人受伤。",
+          "url": "https://flash.jin10.com/detail/20260213140543108800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时06分"
+        },
+        {
+          "title": "据POLITICO：美国、乌克兰、俄罗斯可能在阿布扎比或迈阿密举行会晤。",
+          "url": "https://flash.jin10.com/detail/20260213160058727800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时41分"
+        },
+        {
+          "title": "苹果(AAPL.O)延长了其在俄罗斯运营至少八项商标的许可期限，直至2036年。",
+          "url": "https://flash.jin10.com/detail/20260213181722769800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
+        },
+        {
+          "title": "俄罗斯发动大规模袭击",
+          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E5%8F%91%E5%8A%A8%E5%A4%A7%E8%A7%84%E6%A8%A1%E8%A2%AD%E5%87%BB",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：俄罗斯再次对乌克兰能源部门发动大规模袭击。昨晚有24枚弹道导弹、1枚巡航导弹和200多架无人机攻击，其中相当一部分已被成功击落。",
+          "url": "https://flash.jin10.com/detail/20260213010905109800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时57分"
+        },
+        {
+          "title": "俄罗斯向古巴援助石油有何考量",
+          "url": "https://www.toutiao.com/trending/7606258737870802438/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "汽车",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "福特汽车去年净亏损82亿美元，全球销量首次被比亚迪超越",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32585791",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时57分 ~ 07时28分]"
+        },
+        {
+          "title": "《汽车行业价格行为合规指南》发布：规范虚假促销等突出问题",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32590922",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            15,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时57分 ~ 10时06分]"
+        },
+        {
+          "title": "宝马将在全球召回数十万辆汽车",
+          "url": "https://www.cls.cn/detail/2288479",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 06时32分]"
+        },
+        {
+          "title": "男子结婚“摇”来约200台小米汽车",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%BB%93%E5%A9%9A%E2%80%9C%E6%91%87%E2%80%9D%E6%9D%A5%E7%BA%A6200%E5%8F%B0%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            23,
+            18,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 05时32分]"
+        },
+        {
+          "title": "印度汽车行业组织SIAM：印度1月国内乘用车销量为449,616辆。",
+          "url": "https://flash.jin10.com/detail/20260213132930608800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时59分 ~ 15时06分]"
+        },
+        {
+          "title": "美国国家公路交通安全管理局：梅赛德斯-奔驰美国因火灾风险召回11895辆汽车。",
+          "url": "https://flash.jin10.com/detail/20260213032445200800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时34分 ~ 05时32分]"
+        },
+        {
+          "title": "岚图汽车预计3月19日挂牌港交所",
+          "url": "https://www.toutiao.com/trending/7605954953656205363/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时06分"
+        },
+        {
+          "title": "小米汽车：严格落实明码标价要求，坚决杜绝价格欺诈及不正当竞争行为",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32593078",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
+        },
+        {
+          "title": "广汽集团：董事会同意向全资子公司广汽传祺汽车有限公司提供金额不超过50亿元的借款。",
+          "url": "https://wallstreetcn.com/livenews/3055035",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时43分"
+        },
+        {
+          "title": "岚图汽车预计将于3月19日登陆港交所",
+          "url": "https://wallstreetcn.com/livenews/3054807",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 9,
       "titles": [
@@ -1171,121 +1506,6 @@
       ]
     },
     {
-      "keyword_group": "汽车",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "福特汽车去年净亏损82亿美元，全球销量首次被比亚迪超越",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32585791",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时57分 ~ 07时28分]"
-        },
-        {
-          "title": "《汽车行业价格行为合规指南》发布：规范虚假促销等突出问题",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32590922",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            15,
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时57分 ~ 10时06分]"
-        },
-        {
-          "title": "宝马将在全球召回数十万辆汽车",
-          "url": "https://www.cls.cn/detail/2288479",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时57分 ~ 06时32分]"
-        },
-        {
-          "title": "男子结婚“摇”来约200台小米汽车",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%BB%93%E5%A9%9A%E2%80%9C%E6%91%87%E2%80%9D%E6%9D%A5%E7%BA%A6200%E5%8F%B0%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            23,
-            18,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 05时32分]"
-        },
-        {
-          "title": "印度汽车行业组织SIAM：印度1月国内乘用车销量为449,616辆。",
-          "url": "https://flash.jin10.com/detail/20260213132930608800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时59分 ~ 15时06分]"
-        },
-        {
-          "title": "美国国家公路交通安全管理局：梅赛德斯-奔驰美国因火灾风险召回11895辆汽车。",
-          "url": "https://flash.jin10.com/detail/20260213032445200800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时34分 ~ 05时32分]"
-        },
-        {
-          "title": "岚图汽车预计3月19日挂牌港交所",
-          "url": "https://www.toutiao.com/trending/7605954953656205363/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时06分"
-        },
-        {
-          "title": "广汽集团：董事会同意向全资子公司广汽传祺汽车有限公司提供金额不超过50亿元的借款。",
-          "url": "https://wallstreetcn.com/livenews/3055035",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时43分"
-        },
-        {
-          "title": "岚图汽车预计将于3月19日登陆港交所",
-          "url": "https://wallstreetcn.com/livenews/3054807",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时06分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 8,
       "titles": [
@@ -1313,11 +1533,12 @@
             12,
             13,
             15,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时57分 ~ 17时43分]"
+          "appearance_count": 19,
+          "time_info": "[00时57分 ~ 18时38分]"
         },
         {
           "title": "UP主实测DeepSeek新模型",
@@ -1331,11 +1552,12 @@
             17,
             15,
             16,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时57分 ~ 17时43分]"
+          "appearance_count": 19,
+          "time_info": "[00时57分 ~ 18时38分]"
         },
         {
           "title": "DeepSeek变冷淡了",
@@ -1356,11 +1578,12 @@
           "source": "百度热搜",
           "ranks": [
             30,
-            19
+            19,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时06分 ~ 17时43分]"
+          "appearance_count": 5,
+          "time_info": "[15时06分 ~ 18时38分]"
         },
         {
           "title": "DeepSeek 更新后被吐槽变冷变傻，你感受到了吗？为什么会出现这种情况？",
@@ -1368,11 +1591,12 @@
           "source": "知乎",
           "ranks": [
             13,
-            12
+            12,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时41分 ~ 17时43分]"
+          "appearance_count": 4,
+          "time_info": "[16时41分 ~ 18时38分]"
         },
         {
           "title": "DeepSeek回应被指变冷淡",
@@ -1484,6 +1708,94 @@
       ]
     },
     {
+      "keyword_group": "伊朗",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "特写｜断网与战争阴霾之下：在伊朗，普通人的生活如何继续",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32583664",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[04时34分 ~ 13时59分]"
+        },
+        {
+          "title": "欧洲航空安全局：此前发布的关于航空公司避免飞越伊朗领空的建议有效期延长至2026年3月31日。",
+          "url": "https://flash.jin10.com/detail/20260213004451467800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时57分"
+        },
+        {
+          "title": "伊朗最高领袖顾问：如美方不提过分要求，则谈判可向积极方向发展",
+          "url": "https://wallstreetcn.com/livenews/3055118",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
+        },
+        {
+          "title": "美国能源部长赖特：俄罗斯和伊朗在委内瑞拉的影响力将会减弱。",
+          "url": "https://flash.jin10.com/detail/20260213041056497800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时34分 ~ 05时32分]"
+        },
+        {
+          "title": "美政府被曝向伊朗境内秘密输送“星链”终端协助骚乱人员",
+          "url": "https://wallstreetcn.com/livenews/3054902",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时52分 ~ 13时59分]"
+        },
+        {
+          "title": "伊朗多款反舰导弹与卫星系统亮相",
+          "url": "https://www.toutiao.com/trending/7604835780381425700/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "伊朗为何愿意接受任何核项目核查",
+          "url": "https://www.toutiao.com/trending/7606136522760261146/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时52分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 6,
       "titles": [
@@ -1560,83 +1872,6 @@
       ]
     },
     {
-      "keyword_group": "伊朗",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "特写｜断网与战争阴霾之下：在伊朗，普通人的生活如何继续",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32583664",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[04时34分 ~ 13时59分]"
-        },
-        {
-          "title": "欧洲航空安全局：此前发布的关于航空公司避免飞越伊朗领空的建议有效期延长至2026年3月31日。",
-          "url": "https://flash.jin10.com/detail/20260213004451467800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时57分"
-        },
-        {
-          "title": "美国能源部长赖特：俄罗斯和伊朗在委内瑞拉的影响力将会减弱。",
-          "url": "https://flash.jin10.com/detail/20260213041056497800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时34分 ~ 05时32分]"
-        },
-        {
-          "title": "美政府被曝向伊朗境内秘密输送“星链”终端协助骚乱人员",
-          "url": "https://wallstreetcn.com/livenews/3054902",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时52分 ~ 13时59分]"
-        },
-        {
-          "title": "伊朗多款反舰导弹与卫星系统亮相",
-          "url": "https://www.toutiao.com/trending/7604835780381425700/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时06分"
-        },
-        {
-          "title": "伊朗为何愿意接受任何核项目核查",
-          "url": "https://www.toutiao.com/trending/7606136522760261146/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时52分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
       "match_count": 5,
       "titles": [
@@ -1659,8 +1894,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时06分 ~ 17时43分]"
+          "appearance_count": 9,
+          "time_info": "[10时06分 ~ 18时38分]"
         },
         {
           "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，贵金属遭流动性挤压，黄金失守5000美元，白银跳水11%",
@@ -1698,67 +1933,6 @@
       ]
     },
     {
-      "keyword_group": "俄罗斯",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "俄罗斯宣布：从古巴接回公民",
-          "url": "https://news.ifeng.com/c/8qgZKCp5S0r",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时57分 ~ 10时06分]"
-        },
-        {
-          "title": "俄罗斯副外长里亚布科夫表示，俄罗斯将向古巴提供物资援助。",
-          "url": "https://flash.jin10.com/detail/20260213163228429800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时41分"
-        },
-        {
-          "title": "乌克兰副总理表示，俄罗斯袭击乌克兰敖德萨地区的一个港口，造成1人死亡、6人受伤。",
-          "url": "https://flash.jin10.com/detail/20260213140543108800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时06分"
-        },
-        {
-          "title": "据POLITICO：美国、乌克兰、俄罗斯可能在阿布扎比或迈阿密举行会晤。",
-          "url": "https://flash.jin10.com/detail/20260213160058727800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时41分"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：俄罗斯再次对乌克兰能源部门发动大规模袭击。昨晚有24枚弹道导弹、1枚巡航导弹和200多架无人机攻击，其中相当一部分已被成功击落。",
-          "url": "https://flash.jin10.com/detail/20260213010905109800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时57分"
-        }
-      ]
-    },
-    {
       "keyword_group": "无人机",
       "match_count": 3,
       "titles": [
@@ -1768,11 +1942,12 @@
           "source": "凤凰网",
           "ranks": [
             6,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时06分 ~ 17时43分]"
+          "appearance_count": 9,
+          "time_info": "[10时06分 ~ 18时38分]"
         },
         {
           "title": "韩国统一部：近期无人机事件违背韩国政府与朝鲜和平共处的原则，将防止此类事件再次发生。",
