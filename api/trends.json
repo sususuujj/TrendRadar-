@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-17T06:27:51.332828+08:00",
-  "total_titles_processed": 563,
+  "generated_at": "2026-02-17T07:28:51.119507+08:00",
+  "total_titles_processed": 602,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             1,
             11,
-            21
+            21,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时32分 ~ 06时27分]"
+          "appearance_count": 5,
+          "time_info": "[03时32分 ~ 07时28分]"
         },
         {
           "title": "特朗普：联邦政府绝不为“Gateway”项目超支买单",
@@ -149,6 +150,18 @@
           "time_info": "[00时41分 ~ 01时38分]"
         },
         {
+          "title": "美伊第二轮开谈前，内塔尼亚胡提条件、特朗普放狠话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32621372",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时27分 ~ 07时28分]"
+        },
+        {
           "title": "据Politico：美国总统特朗普称加州与英国的能源协议“不合适”。",
           "url": "https://flash.jin10.com/detail/20260217002446619800",
           "source": "金十数据",
@@ -171,17 +184,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时32分 ~ 04时29分]"
-        },
-        {
-          "title": "美伊第二轮开谈前，内塔尼亚胡提条件、特朗普放狠话",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32621372",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时27分"
         },
         {
           "title": "美国总统特朗普： 联邦政府将协助处理波托马克河废水泄漏事件。",
@@ -279,6 +281,18 @@
           "time_info": "[02时42分 ~ 04时29分]"
         },
         {
+          "title": "伊朗大秀肌肉回应美国施压",
+          "url": "https://www.toutiao.com/trending/7607336004873096742/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时31分 ~ 07时28分]"
+        },
+        {
           "title": "据福克斯新闻记者：此外，很难想象美国或以色列会在2月22日冬奥会结束前对伊朗发动打击。（2014年普京是在索契冬奥会结束后才派兵进入克里米亚；而四年前在北京冬奥会闭幕后，俄罗斯向乌克兰派出了15万大军）",
           "url": "https://flash.jin10.com/detail/20260217042820518800",
           "source": "金十数据",
@@ -301,17 +315,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时38分 ~ 02时42分]"
-        },
-        {
-          "title": "伊朗大秀肌肉回应美国施压",
-          "url": "https://www.toutiao.com/trending/7607336004873096742/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时31分 ~ 03时32分]"
         }
       ]
     },
@@ -434,8 +437,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时41分 ~ 06时27分]"
+          "appearance_count": 12,
+          "time_info": "[00时41分 ~ 07时28分]"
         },
         {
           "title": "OpenAI：系统（恢复）全面运作。",
@@ -443,11 +446,25 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            11
+            11,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时28分 ~ 06时27分]"
+          "appearance_count": 3,
+          "time_info": "[05时28分 ~ 07时28分]"
+        },
+        {
+          "title": "OpenAI目前正经历某些问题，购物搜索功能宕机。",
+          "url": "https://wallstreetcn.com/livenews/3055834",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            17,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时28分 ~ 07时28分]"
         },
         {
           "title": "市场消息：OpenAI当前遭遇一些问题，购物搜索功能陷入宕机状态。",
@@ -462,25 +479,13 @@
           "time_info": "[05时28分 ~ 06时27分]"
         },
         {
-          "title": "OpenAI目前正经历某些问题，购物搜索功能宕机。",
-          "url": "https://wallstreetcn.com/livenews/3055834",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时28分 ~ 06时27分]"
-        },
-        {
           "title": "OpenAI：系统已恢复全面运作。",
           "url": "https://flash.jin10.com/detail/20260217052259501800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时27分"
         }
@@ -500,8 +505,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时41分 ~ 06时27分]"
+          "appearance_count": 8,
+          "time_info": "[00时41分 ~ 07时28分]"
         },
         {
           "title": "报道：马斯克旗下SpaceX将竞标美国五角大楼的无人机技术承包合同",
@@ -510,11 +515,12 @@
           "ranks": [
             4,
             14,
-            24
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时32分 ~ 06时27分]"
+          "appearance_count": 5,
+          "time_info": "[03时32分 ~ 07时28分]"
         },
         {
           "title": "知情人士：SpaceX将参与美国防部自主无人机技术竞标",
@@ -557,8 +563,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时41分 ~ 06时27分]"
+          "appearance_count": 12,
+          "time_info": "[00时41分 ~ 07时28分]"
         },
         {
           "title": "阿里除夕开源千问3.5：性能媲美Gemini 3 Pro， 实现原生多模态模型代际跃迁",
@@ -571,8 +577,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时41分 ~ 06时27分]"
+          "appearance_count": 12,
+          "time_info": "[00时41分 ~ 07时28分]"
         },
         {
           "title": "印度举办AI“影响力”峰会，谷歌、OpenAI等高管预计出席",
@@ -598,11 +604,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时28分 ~ 06时27分]"
+          "appearance_count": 3,
+          "time_info": "[05时28分 ~ 07时28分]"
         },
         {
           "title": "英媒：欧盟推动汽车供应链本土化 电动车70%零部件须“欧洲制造”",
@@ -668,11 +675,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            18
+            18,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时28分 ~ 06时27分]"
+          "appearance_count": 3,
+          "time_info": "[05时28分 ~ 07时28分]"
         }
       ]
     }
