@@ -1,341 +1,11 @@
 {
-  "generated_at": "2026-02-17T18:44:42.562388+08:00",
-  "total_titles_processed": 1344,
+  "generated_at": "2026-02-17T19:39:20.937393+08:00",
+  "total_titles_processed": 1434,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "俄罗斯",
-      "match_count": 27,
-      "titles": [
-        {
-          "title": "从杭州借道俄罗斯回东北女孩已到家",
-          "url": "https://www.baidu.com/s?wd=%E4%BB%8E%E6%9D%AD%E5%B7%9E%E5%80%9F%E9%81%93%E4%BF%84%E7%BD%97%E6%96%AF%E5%9B%9E%E4%B8%9C%E5%8C%97%E5%A5%B3%E5%AD%A9%E5%B7%B2%E5%88%B0%E5%AE%B6",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            23,
-            18,
-            25,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时57分 ~ 18时44分]"
-        },
-        {
-          "title": "克罗地亚总理Plenkovic谈及匈牙利在Zagreb的问题，称：克罗地亚将与专家们讨论匈牙利对俄罗斯石油供应的诉求。 在美西方对俄罗斯制裁问题上，匈牙利获得的豁免是“完全没必要的”。",
-          "url": "https://wallstreetcn.com/livenews/3055818",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            8,
-            18,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时42分 ~ 06时27分]"
-        },
-        {
-          "title": "俄罗斯民众冒雪看春晚",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E6%B0%91%E4%BC%97%E5%86%92%E9%9B%AA%E7%9C%8B%E6%98%A5%E6%99%9A%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20,
-            5,
-            16,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时55分 ~ 18时44分]"
-        },
-        {
-          "title": "俄罗斯的“石油神话”正在漏气",
-          "url": "https://www.toutiao.com/trending/7607699133649915411/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            24,
-            30,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时00分 ~ 17时46分]"
-        },
-        {
-          "title": "据国际文传电讯社：俄罗斯总统助手帕特鲁舍夫表示，俄罗斯正准备采取措施，以应对对其商船的扣押。",
-          "url": "https://flash.jin10.com/detail/20260217143503574800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时01分"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：俄罗斯的袭击正在“演变”，武器组合更加复杂，需要专门的防御措施。",
-          "url": "https://flash.jin10.com/detail/20260217025651930800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            9,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时32分 ~ 05时28分]"
-        },
-        {
-          "title": "据乌克兰国家通讯社：俄罗斯军队使用弹道导弹袭击乌克兰中部城市克里维里赫，当地交通基础设施受到破坏。",
-          "url": "https://flash.jin10.com/detail/20260217040058294800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时29分 ~ 05时28分]"
-        },
-        {
-          "title": "乌克兰空军：俄罗斯在一夜之间发射了425架无人机和导弹。",
-          "url": "https://flash.jin10.com/detail/20260217153418193800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时56分 ~ 16时43分]"
-        },
-        {
-          "title": "从杭州借道俄罗斯回东北的女孩已到家",
-          "url": "https://www.toutiao.com/trending/7607432421348786217/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时37分 ~ 02时42分]"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：俄罗斯正准备对能源领域发动进一步大规模袭击，需要配置得当的防空系统以及合作伙伴的及时支持。",
-          "url": "https://flash.jin10.com/detail/20260217022306112800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            16,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时32分 ~ 05时28分]"
-        },
-        {
-          "title": "市场消息：乌克兰总统泽连斯基对数名俄罗斯运动员实施制裁。",
-          "url": "https://flash.jin10.com/detail/20260217012156699800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            23,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时42分 ~ 04时29分]"
-        },
-        {
-          "title": "视频丨俄罗斯外交部发言人用中文送上新春祝福",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32625470",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时46分 ~ 18时44分]"
-        },
-        {
-          "title": "地方当局表示，俄罗斯克拉斯诺达尔地区伊尔斯基炼油厂遭无人机袭击后发生火灾。",
-          "url": "https://flash.jin10.com/detail/20260217132342409800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时57分 ~ 15时01分]"
-        },
-        {
-          "title": "俄总统助理：西方试图瘫痪俄罗斯对外贸易",
-          "url": "https://wallstreetcn.com/livenews/3055920",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时46分 ~ 18时44分]"
-        },
-        {
-          "title": "市场消息：俄罗斯代表团将于周二清晨抵达日内瓦参加会谈，预计周三晚间离开。",
-          "url": "https://flash.jin10.com/detail/20260217010552565800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时42分 ~ 03时32分]"
-        },
-        {
-          "title": "俄罗斯民众冒雪看春晚",
-          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E6%B0%91%E4%BC%97%E5%86%92%E9%9B%AA%E7%9C%8B%E6%98%A5%E6%99%9A",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时46分 ~ 18时44分]"
-        },
-        {
-          "title": "俄方警告：若俄罗斯船只遭扣押，或对欧洲航运实施报复",
-          "url": "https://flash.jin10.com/detail/20260217181401975800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时44分"
-        },
-        {
-          "title": "当地政府表示，俄罗斯克拉斯诺达尔地区一处储油设施在遭无人机袭击后起火。",
-          "url": "https://flash.jin10.com/detail/20260217161127967800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时43分"
-        },
-        {
-          "title": "俄罗斯联邦通信、信息技术和大众传媒监管局（Roskomnadzor）对此前公布的有关Telegram被封禁的信息没有补充说明。",
-          "url": "https://flash.jin10.com/detail/20260217170803365800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时46分"
-        },
-        {
-          "title": "乌克兰总理：昨晚，俄罗斯再次对乌克兰的平民进行协调攻击，目标直指剥夺我们人民的供暖、电力和水源。",
-          "url": "https://flash.jin10.com/detail/20260217180127319800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时44分"
-        },
-        {
-          "title": "俄罗斯国防部表示，俄罗斯对乌克兰的军事目标发动了大规模打击。",
-          "url": "https://flash.jin10.com/detail/20260217170419403800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时46分"
-        },
-        {
-          "title": "据国际文传电讯社：俄罗斯乌克兰问题谈判代表团抵达日内瓦。",
-          "url": "https://flash.jin10.com/detail/20260217134944675800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时01分"
-        },
-        {
-          "title": "乌克兰能源公司DTEK表示，俄罗斯对敖德萨地区的袭击对电力基础设施造成了“极其严重”的破坏。",
-          "url": "https://flash.jin10.com/detail/20260217150717472800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时56分"
-        },
-        {
-          "title": "当地政府：俄罗斯克拉斯诺达尔地区的油品储存库火灾已扑灭。",
-          "url": "https://flash.jin10.com/detail/20260217175805225800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时44分"
-        },
-        {
-          "title": "俄罗斯国防部：俄罗斯昨夜击落151架乌克兰无人机。",
-          "url": "https://flash.jin10.com/detail/20260217130344345800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时57分"
-        },
-        {
-          "title": "市场消息：俄罗斯波罗的海港口出口业务因结冰而受到威胁。",
-          "url": "https://flash.jin10.com/detail/20260217125802822800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时57分"
-        },
-        {
-          "title": "市场消息：俄罗斯总统普京任命奥列什金（Oreshkin）为俄罗斯-金砖国家合作委员会主席。",
-          "url": "https://flash.jin10.com/detail/20260216222314378800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
-        }
-      ]
-    },
-    {
       "keyword_group": "伊朗",
-      "match_count": 25,
+      "match_count": 38,
       "titles": [
         {
           "title": "谈判前夕，伊朗革命卫队海军举行大规模海上演习",
@@ -349,19 +19,6 @@
           "time_info": "[09时59分 ~ 18时44分]"
         },
         {
-          "title": "美伊新一轮谈判在即，以总理：伊朗必须拆除核设施",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32618794",
-          "source": "澎湃新闻",
-          "ranks": [
-            3,
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时41分 ~ 05时28分]"
-        },
-        {
           "title": "伊朗谈判新策略曝光：与美联合开发油气田、矿区，采购美飞机，“让美国能快速获得高额经济回报”！",
           "url": "https://wallstreetcn.com/articles/3765802",
           "source": "华尔街见闻",
@@ -373,8 +30,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时25分 ~ 18时44分]"
+          "appearance_count": 10,
+          "time_info": "[12时25分 ~ 19时39分]"
+        },
+        {
+          "title": "美伊新一轮谈判在即，以总理：伊朗必须拆除核设施",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32618794",
+          "source": "澎湃新闻",
+          "ranks": [
+            3,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时41分 ~ 05时28分]"
         },
         {
           "title": "阿曼外交大臣与伊朗外长讨论伊美第二轮核谈判筹备事宜",
@@ -391,15 +61,37 @@
           "time_info": "[01时38分 ~ 05时28分]"
         },
         {
-          "title": "哈梅内伊强调美国无法摧毁伊朗",
-          "url": "https://wallstreetcn.com/livenews/3055945",
+          "title": "【伊朗宣布霍尔木兹海峡部分区域将关闭数小时】据伊朗法尔斯通讯社17日报道，作为“霍尔木兹海峡智能控制演习”的一部分，霍尔木兹海峡部分区域将关闭数小时，以确保航行安全。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3055962",
           "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
+        },
+        {
+          "title": "伊朗伊斯兰革命卫队海军军演主要阶段在霍尔木兹海峡展开",
+          "url": "https://wallstreetcn.com/livenews/3055961",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
+        },
+        {
+          "title": "伊美技术层面谈判已开始，伊朗军演进行中",
+          "url": "https://news.ifeng.com/c/8qp2Kff4127",
+          "source": "凤凰网",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时44分"
+          "time_info": "19时39分"
         },
         {
           "title": "市场消息：伊朗外长阿拉格齐正在与阿曼方面进行对话。阿拉格齐几分钟前进入谈判场地，目前正在与阿曼外长布萨伊迪会面。",
@@ -419,9 +111,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时44分"
+        },
+        {
+          "title": "伊朗外交部发言人: 谈判讨论了核问题和解除制裁问题",
+          "url": "https://wallstreetcn.com/livenews/3055958",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
         },
         {
           "title": "市场消息：伊朗外交部长于周一晚间与阿曼外交部长举行了会晤，这符合每次谈判回合的惯例安排，旨在为德黑兰与华盛顿之间的间接谈判正式开启做好前期准备工作。",
@@ -448,6 +151,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时25分 ~ 15时01分]"
+        },
+        {
+          "title": "哈梅内伊强调美国无法摧毁伊朗",
+          "url": "https://wallstreetcn.com/livenews/3055945",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时44分 ~ 19时39分]"
         },
         {
           "title": "美伊谈判前夕美军加强部署 伊朗政权不确定性加剧战略风险",
@@ -524,6 +239,61 @@
           "time_info": "[01时38分 ~ 02时42分]"
         },
         {
+          "title": "伊朗伊斯兰革命卫队海军军演主要阶段在霍尔木兹海峡展开",
+          "url": "https://flash.jin10.com/detail/20260217192311709800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
+        },
+        {
+          "title": "伊朗革命卫队海军指挥官：在战争中投入战场的武器与演习中展示的不同。",
+          "url": "https://flash.jin10.com/detail/20260217192239948800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
+        },
+        {
+          "title": "伊朗电视台：霍尔木兹海峡部分区域周二将因演习关闭数小时。",
+          "url": "https://wallstreetcn.com/livenews/3055953",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
+        },
+        {
+          "title": "伊朗最高领袖哈梅内伊：国家存在这种通货膨胀是不合逻辑的。国家货币贬值到这种程度是不合逻辑的。这必须得到纠正。",
+          "url": "https://flash.jin10.com/detail/20260217191849617800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
+        },
+        {
+          "title": "伊朗外交部发言人：谈判讨论了核问题和解除制裁问题",
+          "url": "https://flash.jin10.com/detail/20260217191634197800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
+        },
+        {
           "title": "媒体人：伊朗弹道导弹反击已在准备中",
           "url": "https://www.toutiao.com/trending/7607630757841866246/",
           "source": "今日头条",
@@ -544,6 +314,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时46分"
+        },
+        {
+          "title": "伊美技术层面谈判已开始 伊朗军演进行中",
+          "url": "https://wallstreetcn.com/livenews/3055948",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
         },
         {
           "title": "伊朗高级官员：伊朗在日内瓦提出了真诚且具有建设性的提议。",
@@ -568,6 +349,17 @@
           "time_info": "17时46分"
         },
         {
+          "title": "受伊朗军演影响，油价短线飙升至盘中高位",
+          "url": "https://flash.jin10.com/detail/20260217190550485800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
+        },
+        {
           "title": "伊朗高级官员：伊朗与美国谈判的立场“积极而认真”，但对谈判结果不抱先入之见。",
           "url": "https://flash.jin10.com/detail/20260217170251851800",
           "source": "金十数据",
@@ -585,7 +377,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时44分"
         },
@@ -596,9 +388,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时44分"
+        },
+        {
+          "title": "伊朗外交部发言人：我们准备在日内瓦待上几天甚至几周，以达成协议。",
+          "url": "https://flash.jin10.com/detail/20260217185338129800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
         },
         {
           "title": "评论员：伊朗正在准备大量弹道导弹",
@@ -618,7 +421,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时44分"
         },
@@ -632,12 +435,399 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时46分"
+        },
+        {
+          "title": "伊朗最高领袖哈梅内伊：（谈及美伊谈判）预先决定谈判结果是“愚蠢的”。",
+          "url": "https://flash.jin10.com/detail/20260217183014872800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "俄罗斯",
+      "match_count": 31,
+      "titles": [
+        {
+          "title": "从杭州借道俄罗斯回东北女孩已到家",
+          "url": "https://www.baidu.com/s?wd=%E4%BB%8E%E6%9D%AD%E5%B7%9E%E5%80%9F%E9%81%93%E4%BF%84%E7%BD%97%E6%96%AF%E5%9B%9E%E4%B8%9C%E5%8C%97%E5%A5%B3%E5%AD%A9%E5%B7%B2%E5%88%B0%E5%AE%B6",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            23,
+            18,
+            25,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时57分 ~ 18时44分]"
+        },
+        {
+          "title": "克罗地亚总理Plenkovic谈及匈牙利在Zagreb的问题，称：克罗地亚将与专家们讨论匈牙利对俄罗斯石油供应的诉求。 在美西方对俄罗斯制裁问题上，匈牙利获得的豁免是“完全没必要的”。",
+          "url": "https://wallstreetcn.com/livenews/3055818",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            8,
+            18,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时42分 ~ 06时27分]"
+        },
+        {
+          "title": "俄罗斯民众冒雪看春晚",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E6%B0%91%E4%BC%97%E5%86%92%E9%9B%AA%E7%9C%8B%E6%98%A5%E6%99%9A%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            5,
+            16,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时55分 ~ 18时44分]"
+        },
+        {
+          "title": "俄罗斯的“石油神话”正在漏气",
+          "url": "https://www.toutiao.com/trending/7607699133649915411/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            24,
+            30,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时00分 ~ 17时46分]"
+        },
+        {
+          "title": "俄罗斯国家杜马（下议院）通过了一项法律，要求运营商应根据联邦安全局的要求切断有关通信。",
+          "url": "https://flash.jin10.com/detail/20260217192509458800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
+        },
+        {
+          "title": "据国际文传电讯社：俄罗斯总统助手帕特鲁舍夫表示，俄罗斯正准备采取措施，以应对对其商船的扣押。",
+          "url": "https://flash.jin10.com/detail/20260217143503574800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时01分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：俄罗斯的袭击正在“演变”，武器组合更加复杂，需要专门的防御措施。",
+          "url": "https://flash.jin10.com/detail/20260217025651930800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            9,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时32分 ~ 05时28分]"
+        },
+        {
+          "title": "据乌克兰国家通讯社：俄罗斯军队使用弹道导弹袭击乌克兰中部城市克里维里赫，当地交通基础设施受到破坏。",
+          "url": "https://flash.jin10.com/detail/20260217040058294800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时29分 ~ 05时28分]"
+        },
+        {
+          "title": "乌克兰空军：俄罗斯在一夜之间发射了425架无人机和导弹。",
+          "url": "https://flash.jin10.com/detail/20260217153418193800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时56分 ~ 16时43分]"
+        },
+        {
+          "title": "从杭州借道俄罗斯回东北的女孩已到家",
+          "url": "https://www.toutiao.com/trending/7607432421348786217/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时37分 ~ 02时42分]"
+        },
+        {
+          "title": "视频丨俄罗斯外交部发言人用中文送上新春祝福",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32625470",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时46分 ~ 19时39分]"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：俄罗斯正准备对能源领域发动进一步大规模袭击，需要配置得当的防空系统以及合作伙伴的及时支持。",
+          "url": "https://flash.jin10.com/detail/20260217022306112800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            16,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时32分 ~ 05时28分]"
+        },
+        {
+          "title": "市场消息：乌克兰总统泽连斯基对数名俄罗斯运动员实施制裁。",
+          "url": "https://flash.jin10.com/detail/20260217012156699800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            23,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时42分 ~ 04时29分]"
+        },
+        {
+          "title": "俄罗斯民众冒雪看春晚",
+          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E6%B0%91%E4%BC%97%E5%86%92%E9%9B%AA%E7%9C%8B%E6%98%A5%E6%99%9A",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            25,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时46分 ~ 19时39分]"
+        },
+        {
+          "title": "地方当局表示，俄罗斯克拉斯诺达尔地区伊尔斯基炼油厂遭无人机袭击后发生火灾。",
+          "url": "https://flash.jin10.com/detail/20260217132342409800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时57分 ~ 15时01分]"
+        },
+        {
+          "title": "俄总统助理：西方试图瘫痪俄罗斯对外贸易",
+          "url": "https://wallstreetcn.com/livenews/3055920",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时46分 ~ 18时44分]"
+        },
+        {
+          "title": "市场消息：俄罗斯代表团将于周二清晨抵达日内瓦参加会谈，预计周三晚间离开。",
+          "url": "https://flash.jin10.com/detail/20260217010552565800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时42分 ~ 03时32分]"
+        },
+        {
+          "title": "俄方警告：若俄罗斯船只遭扣押，或对欧洲航运实施报复",
+          "url": "https://flash.jin10.com/detail/20260217181401975800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时44分"
+        },
+        {
+          "title": "当地政府表示，俄罗斯克拉斯诺达尔地区一处储油设施在遭无人机袭击后起火。",
+          "url": "https://flash.jin10.com/detail/20260217161127967800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时43分"
+        },
+        {
+          "title": "俄罗斯联邦通信、信息技术和大众传媒监管局（Roskomnadzor）对此前公布的有关Telegram被封禁的信息没有补充说明。",
+          "url": "https://flash.jin10.com/detail/20260217170803365800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时46分"
+        },
+        {
+          "title": "乌克兰总理：昨晚，俄罗斯再次对乌克兰的平民进行协调攻击，目标直指剥夺我们人民的供暖、电力和水源。",
+          "url": "https://flash.jin10.com/detail/20260217180127319800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时44分"
+        },
+        {
+          "title": "俄罗斯国防部表示，俄罗斯对乌克兰的军事目标发动了大规模打击。",
+          "url": "https://flash.jin10.com/detail/20260217170419403800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时46分"
+        },
+        {
+          "title": "据国际文传电讯社：俄罗斯乌克兰问题谈判代表团抵达日内瓦。",
+          "url": "https://flash.jin10.com/detail/20260217134944675800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时01分"
+        },
+        {
+          "title": "乌克兰能源公司DTEK表示，俄罗斯对敖德萨地区的袭击对电力基础设施造成了“极其严重”的破坏。",
+          "url": "https://flash.jin10.com/detail/20260217150717472800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时56分"
+        },
+        {
+          "title": "据报道，关于乌克兰问题的日内瓦谈判将在一个小时后开始，俄罗斯代表团的部分成员也将很快抵达谈判地点。",
+          "url": "https://flash.jin10.com/detail/20260217190001621800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
+        },
+        {
+          "title": "当地政府：俄罗斯克拉斯诺达尔地区的油品储存库火灾已扑灭。",
+          "url": "https://flash.jin10.com/detail/20260217175805225800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时44分"
+        },
+        {
+          "title": "俄罗斯国防部：俄罗斯昨夜击落151架乌克兰无人机。",
+          "url": "https://flash.jin10.com/detail/20260217130344345800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时57分"
+        },
+        {
+          "title": "市场消息：俄罗斯波罗的海港口出口业务因结冰而受到威胁。",
+          "url": "https://flash.jin10.com/detail/20260217125802822800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时57分"
+        },
+        {
+          "title": "法国外长：绕过欧洲制裁是要付出代价的。俄罗斯将无法再通过在我们海岸附近活动的幽灵舰队来肆无忌惮地为其战争提供资金。‘格林奇’号油轮在福斯港耗费数百万欧元并被扣留三周后，终于离开了法国水域。",
+          "url": "https://flash.jin10.com/detail/20260217183834065800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
+        },
+        {
+          "title": "乌克兰军方：袭击了克拉斯诺达尔地区的俄罗斯炼油厂。",
+          "url": "https://flash.jin10.com/detail/20260217183602795800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
+        },
+        {
+          "title": "市场消息：俄罗斯总统普京任命奥列什金（Oreshkin）为俄罗斯-金砖国家合作委员会主席。",
+          "url": "https://flash.jin10.com/detail/20260216222314378800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时41分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 28,
       "titles": [
         {
           "title": "特朗普：将间接参与美伊谈判",
@@ -665,15 +855,15 @@
           "time_info": "[03时32分 ~ 07时28分]"
         },
         {
-          "title": "2028年应当由谁来接棒 特朗普称万斯和卢比奥都很“出色”",
-          "url": "https://wallstreetcn.com/livenews/3055943",
-          "source": "华尔街见闻-快讯",
+          "title": "美部长与下属传出婚外情，特朗普回应",
+          "url": "https://news.ifeng.com/c/8qp4YVQ6NeA",
+          "source": "凤凰网",
           "ranks": [
-            5
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时44分"
+          "time_info": "19时39分"
         },
         {
           "title": "特朗普：联邦政府绝不为“Gateway”项目超支买单",
@@ -767,6 +957,18 @@
           "time_info": "[02时42分 ~ 05时28分]"
         },
         {
+          "title": "2028年应当由谁来接棒 特朗普称万斯和卢比奥都很“出色”",
+          "url": "https://wallstreetcn.com/livenews/3055943",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时44分 ~ 19时39分]"
+        },
+        {
           "title": "特朗普：古巴应该达成协议，没必要在古巴采取类似委内瑞拉的行动。",
           "url": "https://wallstreetcn.com/livenews/3055862",
           "source": "华尔街见闻-快讯",
@@ -857,6 +1059,18 @@
           "time_info": "[01时38分 ~ 02时42分]"
         },
         {
+          "title": "美国土安全部长与下属传出婚外情，特朗普回应：没听说过，会去了解",
+          "url": "https://wallstreetcn.com/livenews/3055940",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时44分 ~ 19时39分]"
+        },
+        {
           "title": "市场消息：印尼方面表示，最多将有8,000名军人在6月前准备好，可能参与加沙的人道主义维和任务，支持特朗普的加沙战后重建计划。",
           "url": "https://flash.jin10.com/detail/20260216234427683800",
           "source": "金十数据",
@@ -905,15 +1119,26 @@
           "time_info": "[16时43分 ~ 17时46分]"
         },
         {
-          "title": "美国土安全部长与下属传出婚外情，特朗普回应：没听说过，会去了解",
-          "url": "https://wallstreetcn.com/livenews/3055940",
+          "title": "特朗普称希拉里精神错乱",
+          "url": "https://wallstreetcn.com/livenews/3055955",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时44分"
+          "time_info": "19时39分"
+        },
+        {
+          "title": "哈梅内伊：如今我要说，特朗普也做不到",
+          "url": "https://news.ifeng.com/c/8qp3k9bhq7k",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
         },
         {
           "title": "美国总统特朗普： 联邦政府将协助处理波托马克河废水泄漏事件。",
@@ -925,6 +1150,141 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
+        },
+        {
+          "title": "特朗普称希拉里精神错乱",
+          "url": "https://flash.jin10.com/detail/20260217191010466800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-17）",
+          "url": "https://flash.jin10.com/detail/20260217183508117800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "汽车",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "现在的汽车怎么掉价那么快，为什么？",
+          "url": "https://www.zhihu.com/question/1968985160482535223",
+          "source": "知乎",
+          "ranks": [
+            20,
+            15,
+            11,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时57分 ~ 17时46分]"
+        },
+        {
+          "title": "周一（2月16日），彭博电动汽车价格回报指数跌0.20%，报3624.68点。",
+          "url": "https://wallstreetcn.com/livenews/3055837",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            15,
+            19,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时28分 ~ 09时59分]"
+        },
+        {
+          "title": "英媒：欧盟推动汽车供应链本土化 电动车70%零部件须“欧洲制造”",
+          "url": "https://flash.jin10.com/detail/20260217045334472800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时28分 ~ 06时27分]"
+        },
+        {
+          "title": "据英国金融时报：欧盟方面表示，电动汽车必须有70%的部件在欧盟制造，才能获得国家支持。",
+          "url": "https://flash.jin10.com/detail/20260217044036203800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时28分 ~ 06时27分]"
+        },
+        {
+          "title": "铃木汽车周二在印度推出了其首款电动汽车，为客户提供电池租赁计划以降低前期成本。",
+          "url": "https://flash.jin10.com/detail/20260217192348534800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
+        },
+        {
+          "title": "美国纯正零件公司 (Genuine Parts)计划拆分汽车零部件和工业零部件部门。",
+          "url": "https://flash.jin10.com/detail/20260217185540608800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
+        },
+        {
+          "title": "金十图示：2026年02月17日（周二）全球汽车制造商市值变化",
+          "url": "https://flash.jin10.com/detail/20260217111421840800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时25分"
+        },
+        {
+          "title": "长安汽车董事长：智能汽车正在学会“思考”",
+          "url": "https://flash.jin10.com/detail/20260217125426443800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时57分"
+        },
+        {
+          "title": "马鲁蒂铃木高管：我们的客户将可以使用超过14,000个电动汽车充电桩。",
+          "url": "https://flash.jin10.com/detail/20260217174353838800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时44分"
         }
       ]
     },
@@ -943,8 +1303,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时59分 ~ 18时44分]"
+          "appearance_count": 11,
+          "time_info": "[09时59分 ~ 19时39分]"
         },
         {
           "title": "美股盘前：黄金股、科技股普跌，纳斯达克100指数期货跌0.55%",
@@ -1014,97 +1374,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时41分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "汽车",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "现在的汽车怎么掉价那么快，为什么？",
-          "url": "https://www.zhihu.com/question/1968985160482535223",
-          "source": "知乎",
-          "ranks": [
-            20,
-            15,
-            11,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时57分 ~ 17时46分]"
-        },
-        {
-          "title": "周一（2月16日），彭博电动汽车价格回报指数跌0.20%，报3624.68点。",
-          "url": "https://wallstreetcn.com/livenews/3055837",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            15,
-            19,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时28分 ~ 09时59分]"
-        },
-        {
-          "title": "英媒：欧盟推动汽车供应链本土化 电动车70%零部件须“欧洲制造”",
-          "url": "https://flash.jin10.com/detail/20260217045334472800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时28分 ~ 06时27分]"
-        },
-        {
-          "title": "据英国金融时报：欧盟方面表示，电动汽车必须有70%的部件在欧盟制造，才能获得国家支持。",
-          "url": "https://flash.jin10.com/detail/20260217044036203800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时28分 ~ 06时27分]"
-        },
-        {
-          "title": "金十图示：2026年02月17日（周二）全球汽车制造商市值变化",
-          "url": "https://flash.jin10.com/detail/20260217111421840800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时25分"
-        },
-        {
-          "title": "长安汽车董事长：智能汽车正在学会“思考”",
-          "url": "https://flash.jin10.com/detail/20260217125426443800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时57分"
-        },
-        {
-          "title": "马鲁蒂铃木高管：我们的客户将可以使用超过14,000个电动汽车充电桩。",
-          "url": "https://flash.jin10.com/detail/20260217174353838800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时44分"
         }
       ]
     },
@@ -1189,7 +1458,7 @@
     },
     {
       "keyword_group": "无人机",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "三角洲无人机新春祝福",
@@ -1253,9 +1522,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时44分"
+        },
+        {
+          "title": "乌克兰军方：俄军一架Ka-27直升机和三个无人机控制点遭到打击。将继续打击敌方重要军事目标。",
+          "url": "https://flash.jin10.com/detail/20260217185454971800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
         }
       ]
     },
@@ -1290,8 +1570,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时41分 ~ 18时44分]"
+          "appearance_count": 23,
+          "time_info": "[00时41分 ~ 19时39分]"
         },
         {
           "title": "印度举办AI“影响力”峰会，谷歌、OpenAI等高管预计出席",
@@ -1323,6 +1603,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时44分 ~ 19时39分]"
+        },
+        {
           "title": "因金价走软，美国上市金矿股盘前走低。纽蒙特下跌3%，Sibanye Stillwater下跌5.8%，巴里克矿业下跌2.4%，哈莫尼黄金下跌4.2%。",
           "url": "https://flash.jin10.com/detail/20260217171116932800",
           "source": "金十数据",
@@ -1332,17 +1624,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时46分"
-        },
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时44分"
         }
       ]
     },
