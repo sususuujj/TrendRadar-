@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-17T15:56:08.133555+08:00",
-  "total_titles_processed": 1116,
+  "generated_at": "2026-02-17T16:43:52.128922+08:00",
+  "total_titles_processed": 1169,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "特朗普：将间接参与美伊谈判",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时59分 ~ 15时56分]"
+          "appearance_count": 8,
+          "time_info": "[09时59分 ~ 16时43分]"
         },
         {
           "title": "美国总统特朗普声称：“（加沙）和平委员会”将说明如何开销承诺的50亿美元。（纽约邮报）",
@@ -259,12 +259,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
+        },
+        {
+          "title": "特朗普反应低调 日本怕中美搞大动作",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%8D%E5%BA%94%E4%BD%8E%E8%B0%83+%E6%97%A5%E6%9C%AC%E6%80%95%E4%B8%AD%E7%BE%8E%E6%90%9E%E5%A4%A7%E5%8A%A8%E4%BD%9C",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时43分"
         }
       ]
     },
     {
       "keyword_group": "俄罗斯",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "克罗地亚总理Plenkovic谈及匈牙利在Zagreb的问题，称：克罗地亚将与专家们讨论匈牙利对俄罗斯石油供应的诉求。 在美西方对俄罗斯制裁问题上，匈牙利获得的豁免是“完全没必要的”。",
@@ -281,15 +292,17 @@
           "time_info": "[02时42分 ~ 06时27分]"
         },
         {
-          "title": "乌克兰空军：俄罗斯在一夜之间发射了425架无人机和导弹。",
-          "url": "https://flash.jin10.com/detail/20260217153418193800",
-          "source": "金十数据",
+          "title": "从杭州借道俄罗斯回东北女孩已到家",
+          "url": "https://www.baidu.com/s?wd=%E4%BB%8E%E6%9D%AD%E5%B7%9E%E5%80%9F%E9%81%93%E4%BF%84%E7%BD%97%E6%96%AF%E5%9B%9E%E4%B8%9C%E5%8C%97%E5%A5%B3%E5%AD%A9%E5%B7%B2%E5%88%B0%E5%AE%B6",
+          "source": "百度热搜",
           "ranks": [
-            4
+            17,
+            23,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时56分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时57分 ~ 16时43分]"
         },
         {
           "title": "据国际文传电讯社：俄罗斯总统助手帕特鲁舍夫表示，俄罗斯正准备采取措施，以应对对其商船的扣押。",
@@ -303,17 +316,29 @@
           "time_info": "15时01分"
         },
         {
-          "title": "从杭州借道俄罗斯回东北女孩已到家",
-          "url": "https://www.baidu.com/s?wd=%E4%BB%8E%E6%9D%AD%E5%B7%9E%E5%80%9F%E9%81%93%E4%BF%84%E7%BD%97%E6%96%AF%E5%9B%9E%E4%B8%9C%E5%8C%97%E5%A5%B3%E5%AD%A9%E5%B7%B2%E5%88%B0%E5%AE%B6",
-          "source": "百度热搜",
+          "title": "俄罗斯民众冒雪看春晚",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E6%B0%91%E4%BC%97%E5%86%92%E9%9B%AA%E7%9C%8B%E6%98%A5%E6%99%9A%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
           "ranks": [
-            17,
-            23,
-            18
+            20,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时55分 ~ 16时43分]"
+        },
+        {
+          "title": "俄罗斯的“石油神话”正在漏气",
+          "url": "https://www.toutiao.com/trending/7607699133649915411/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            24,
+            30
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[13时57分 ~ 15时56分]"
+          "time_info": "[15时00分 ~ 16时43分]"
         },
         {
           "title": "乌克兰总统泽连斯基：俄罗斯的袭击正在“演变”，武器组合更加复杂，需要专门的防御措施。",
@@ -341,16 +366,16 @@
           "time_info": "[04时29分 ~ 05时28分]"
         },
         {
-          "title": "俄罗斯的“石油神话”正在漏气",
-          "url": "https://www.toutiao.com/trending/7607699133649915411/",
-          "source": "今日头条",
+          "title": "乌克兰空军：俄罗斯在一夜之间发射了425架无人机和导弹。",
+          "url": "https://flash.jin10.com/detail/20260217153418193800",
+          "source": "金十数据",
           "ranks": [
-            19,
-            24
+            4,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时00分 ~ 15时56分]"
+          "appearance_count": 2,
+          "time_info": "[15时56分 ~ 16时43分]"
         },
         {
           "title": "从杭州借道俄罗斯回东北的女孩已到家",
@@ -415,15 +440,15 @@
           "time_info": "[02时42分 ~ 03时32分]"
         },
         {
-          "title": "俄罗斯民众冒雪看春晚",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E6%B0%91%E4%BC%97%E5%86%92%E9%9B%AA%E7%9C%8B%E6%98%A5%E6%99%9A%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
+          "title": "当地政府表示，俄罗斯克拉斯诺达尔地区一处储油设施在遭无人机袭击后起火。",
+          "url": "https://flash.jin10.com/detail/20260217161127967800",
+          "source": "金十数据",
           "ranks": [
-            20
+            12
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时55分 ~ 15时56分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时43分"
         },
         {
           "title": "据国际文传电讯社：俄罗斯乌克兰问题谈判代表团抵达日内瓦。",
@@ -443,7 +468,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时56分"
         },
@@ -507,8 +532,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时59分 ~ 15时56分]"
+          "appearance_count": 8,
+          "time_info": "[09时59分 ~ 16时43分]"
         },
         {
           "title": "伊朗谈判新策略曝光：与美联合开发油气田、矿区，采购美飞机，“让美国能快速获得高额经济回报”！",
@@ -517,11 +542,12 @@
           "ranks": [
             10,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时25分 ~ 15时56分]"
+          "appearance_count": 7,
+          "time_info": "[12时25分 ~ 16时43分]"
         },
         {
           "title": "阿曼外交大臣与伊朗外长讨论伊美第二轮核谈判筹备事宜",
@@ -666,6 +692,19 @@
       "match_count": 6,
       "titles": [
         {
+          "title": "现在的汽车怎么掉价那么快，为什么？",
+          "url": "https://www.zhihu.com/question/1968985160482535223",
+          "source": "知乎",
+          "ranks": [
+            20,
+            15,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时57分 ~ 16时43分]"
+        },
+        {
           "title": "周一（2月16日），彭博电动汽车价格回报指数跌0.20%，报3624.68点。",
           "url": "https://wallstreetcn.com/livenews/3055837",
           "source": "华尔街见闻-快讯",
@@ -678,19 +717,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时28分 ~ 09时59分]"
-        },
-        {
-          "title": "现在的汽车怎么掉价那么快，为什么？",
-          "url": "https://www.zhihu.com/question/1968985160482535223",
-          "source": "知乎",
-          "ranks": [
-            20,
-            15,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时57分 ~ 15时56分]"
         },
         {
           "title": "英媒：欧盟推动汽车供应链本土化 电动车70%零部件须“欧洲制造”",
@@ -809,6 +835,65 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "阿里发布千问3.5，性能媲美Gemini 3， Token价格仅为其1/18",
+          "url": "https://wallstreetcn.com/articles/3765786",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 20,
+          "time_info": "[00时41分 ~ 16时43分]"
+        },
+        {
+          "title": "阿里除夕开源千问3.5：性能媲美Gemini 3 Pro， 实现原生多模态模型代际跃迁",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32621821",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            6,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 20,
+          "time_info": "[00时41分 ~ 16时43分]"
+        },
+        {
+          "title": "印度举办AI“影响力”峰会，谷歌、OpenAI等高管预计出席",
+          "url": "https://flash.jin10.com/detail/20260216233255611800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时41分 ~ 01时38分]"
+        },
+        {
+          "title": "市场消息：联合利华与谷歌云达成五年合作，将使用谷歌云的先进人工智能、数据和平台。",
+          "url": "https://flash.jin10.com/detail/20260217160309287800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时43分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 4,
       "titles": [
@@ -818,11 +903,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时59分 ~ 15时56分]"
+          "appearance_count": 8,
+          "time_info": "[09时59分 ~ 16时43分]"
         },
         {
           "title": "美银Hartnett：“AI颠覆交易”加速扩散，一旦有科技巨头削减开支，将引发美股“轮动海啸”",
@@ -873,11 +959,12 @@
             13,
             25,
             22,
-            30
+            30,
+            19
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时41分 ~ 15时56分]"
+          "appearance_count": 13,
+          "time_info": "[00时41分 ~ 16时43分]"
         },
         {
           "title": "报道：马斯克旗下SpaceX将竞标美国五角大楼的无人机技术承包合同",
@@ -922,53 +1009,6 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "阿里发布千问3.5，性能媲美Gemini 3， Token价格仅为其1/18",
-          "url": "https://wallstreetcn.com/articles/3765786",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时41分 ~ 15时56分]"
-        },
-        {
-          "title": "阿里除夕开源千问3.5：性能媲美Gemini 3 Pro， 实现原生多模态模型代际跃迁",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32621821",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            6,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时41分 ~ 15时56分]"
-        },
-        {
-          "title": "印度举办AI“影响力”峰会，谷歌、OpenAI等高管预计出席",
-          "url": "https://flash.jin10.com/detail/20260216233255611800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 01时38分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
       "match_count": 2,
       "titles": [
@@ -993,6 +1033,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "武器",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "莱茵金属：合同包含最多29套额外海蛇武器系统的选择权。",
+          "url": "https://flash.jin10.com/detail/20260217161414687800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时43分"
+        },
+        {
+          "title": "莱茵金属：瑞典委托公司提供八套“海蛇30”武器系统。",
+          "url": "https://flash.jin10.com/detail/20260217161158300800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时43分"
         }
       ]
     },
