@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-18T18:43:23.748874+08:00",
-  "total_titles_processed": 1406,
+  "generated_at": "2026-02-18T19:38:32.589810+08:00",
+  "total_titles_processed": 1494,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 48,
       "titles": [
         {
           "title": "美国专家：美伊谈判前景像掷硬币，关键在于特朗普的决策",
@@ -53,8 +53,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时42分 ~ 18时43分]"
+          "appearance_count": 5,
+          "time_info": "[16时42分 ~ 19时38分]"
         },
         {
           "title": "特朗普宣布大消息，日本要当冤大头了",
@@ -91,23 +91,12 @@
         },
         {
           "title": "泽连斯基称特朗普要求乌方单方让步“不公平”",
-          "url": "https://wallstreetcn.com/livenews/3056288",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时43分"
-        },
-        {
-          "title": "泽连斯基称特朗普要求乌方单方让步“不公平”",
           "url": "https://flash.jin10.com/detail/20260218180824939800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时43分"
         },
@@ -182,6 +171,18 @@
           "time_info": "[00时57分 ~ 01时56分]"
         },
         {
+          "title": "泽连斯基称特朗普要求乌方单方让步“不公平”",
+          "url": "https://wallstreetcn.com/livenews/3056288",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时43分 ~ 19时38分]"
+        },
+        {
           "title": "特朗普女儿伊万卡中文拜年",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%A5%B3%E5%84%BF%E4%BC%8A%E4%B8%87%E5%8D%A1%E4%B8%AD%E6%96%87%E6%8B%9C%E5%B9%B4%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
@@ -218,6 +219,17 @@
           "time_info": "[04时44分 ~ 05时56分]"
         },
         {
+          "title": "泽连斯基抱怨：特朗普总是要求乌克兰让步，这不公平",
+          "url": "https://news.ifeng.com/c/8qqOE4vhF5L",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时46分 ~ 19时38分]"
+        },
+        {
           "title": "墨西哥总统：墨西哥已拒绝特朗普加入“和平委员会”的邀请",
           "url": "https://wallstreetcn.com/livenews/3056209",
           "source": "华尔街见闻-快讯",
@@ -242,17 +254,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时52分 ~ 15时13分]"
-        },
-        {
-          "title": "泽连斯基抱怨：特朗普总是要求乌克兰让步，这不公平",
-          "url": "https://news.ifeng.com/c/8qqOE4vhF5L",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时46分 ~ 18时43分]"
         },
         {
           "title": "美国总统特朗普：波托马克河泄漏是激进左派造成的环境危害。",
@@ -513,6 +514,17 @@
           "time_info": "00时57分"
         },
         {
+          "title": "市场消息：德国计划大幅扩展其外国情报机构的权力，担心特朗普可能会停止情报共享。",
+          "url": "https://flash.jin10.com/detail/20260218185830971800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时38分"
+        },
+        {
           "title": "美空军确认“空军一号”新涂装将采用特朗普偏爱的配色：红、白、金、深蓝",
           "url": "https://flash.jin10.com/detail/20260218152713560800",
           "source": "金十数据",
@@ -533,12 +545,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时56分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-18）",
+          "url": "https://flash.jin10.com/detail/20260218185306479800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时38分"
         }
       ]
     },
     {
       "keyword_group": "俄罗斯",
-      "match_count": 26,
+      "match_count": 31,
       "titles": [
         {
           "title": "俄罗斯民众冒雪看春晚",
@@ -583,6 +606,28 @@
           "time_info": "[01时55分 ~ 05时56分]"
         },
         {
+          "title": "市场消息：2025年俄罗斯石油钻探量降至三年来最低水平。",
+          "url": "https://flash.jin10.com/detail/20260218192705390800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时38分"
+        },
+        {
+          "title": "2025年俄罗斯石油钻井活动跌至三年最低。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3056301",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时38分"
+        },
+        {
           "title": "中国游客被困俄罗斯极光村超40小时",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E8%A2%AB%E5%9B%B0%E4%BF%84%E7%BD%97%E6%96%AF%E6%9E%81%E5%85%89%E6%9D%91%E8%B6%8540%E5%B0%8F%E6%97%B6%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -613,7 +658,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时43分"
         },
@@ -622,11 +667,12 @@
           "url": "https://www.toutiao.com/trending/7608116553476738586/",
           "source": "今日头条",
           "ranks": [
-            6
+            6,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时42分 ~ 18时43分]"
+          "appearance_count": 5,
+          "time_info": "[16时42分 ~ 19时38分]"
         },
         {
           "title": "泽连斯基：俄罗斯正试图拖延谈判进程。 周二的日内瓦会谈相当艰难。",
@@ -634,11 +680,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            14
+            14,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时46分 ~ 18时43分]"
+          "appearance_count": 3,
+          "time_info": "[17时46分 ~ 19时38分]"
         },
         {
           "title": "乌克兰总统泽连斯基：日内瓦谈判的第一天并不容易，俄罗斯试图拖延进程。",
@@ -665,6 +712,28 @@
           "time_info": "[03时47分 ~ 04时44分]"
         },
         {
+          "title": "向德国要1.3万亿欧元还不满足，波兰向俄罗斯伸手：赔钱",
+          "url": "https://news.ifeng.com/c/8qqWwEp6bah",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时46分 ~ 19时38分]"
+        },
+        {
+          "title": "乌已对白俄罗斯总统实施制裁",
+          "url": "https://www.douyin.com/hot/2405093",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时46分 ~ 19时38分]"
+        },
+        {
           "title": "乌克兰国家安全与国防委员会秘书乌梅罗夫：俄罗斯、乌克兰和美国之间的三边会谈首日已结束。会谈聚焦于实际问题和可能决策的机制。",
           "url": "https://flash.jin10.com/detail/20260218021817157800",
           "source": "金十数据",
@@ -689,15 +758,16 @@
           "time_info": "[00时57分 ~ 01时56分]"
         },
         {
-          "title": "向德国要1.3万亿欧元还不满足，波兰向俄罗斯伸手：赔钱",
-          "url": "https://news.ifeng.com/c/8qqWwEp6bah",
-          "source": "凤凰网",
+          "title": "俄罗斯称新一轮会谈不久将举行；谈判艰难，但务实。（RIA）",
+          "url": "https://wallstreetcn.com/livenews/3056282",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            10,
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时46分 ~ 18时43分]"
+          "time_info": "[18时43分 ~ 19时38分]"
         },
         {
           "title": "乌克兰外长：白俄罗斯总统卢卡申科及其政权对乌克兰和整个欧洲构成混合安全威胁，对他们的制裁是适当、必要和充分的回应。",
@@ -724,17 +794,6 @@
           "time_info": "[17时46分 ~ 18时43分]"
         },
         {
-          "title": "乌已对白俄罗斯总统实施制裁",
-          "url": "https://www.douyin.com/hot/2405093",
-          "source": "抖音",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时46分 ~ 18时43分]"
-        },
-        {
           "title": "消息人士：乌克兰与俄罗斯在日内瓦政治小组的会谈今日已结束。军方代表仍在继续会谈。",
           "url": "https://flash.jin10.com/detail/20260218010214735800",
           "source": "金十数据",
@@ -752,20 +811,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时43分"
         },
         {
-          "title": "俄罗斯称新一轮会谈不久将举行；谈判艰难，但务实。（RIA）",
-          "url": "https://wallstreetcn.com/livenews/3056282",
+          "title": "俄罗斯外交部长拉夫罗夫：与古巴的合作并不威胁美国。",
+          "url": "https://wallstreetcn.com/livenews/3056292",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时43分"
+          "time_info": "19时38分"
         },
         {
           "title": "据俄罗斯媒体报道，在日内瓦举行的乌克兰问题会谈已结束。新的乌克兰问题谈判即将举行。",
@@ -774,7 +833,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时43分"
         },
@@ -799,6 +858,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时56分"
+        },
+        {
+          "title": "芬兰总理：我已向印度总理莫迪阐明了芬兰和欧洲的立场——我们需要支持乌克兰，并向俄罗斯施压以实现和平。",
+          "url": "https://flash.jin10.com/detail/20260218191344279800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时38分"
         },
         {
           "title": "俄罗斯军队控制了乌克兰东部的克里尼奇内。",
@@ -834,6 +904,17 @@
           "time_info": "02时57分"
         },
         {
+          "title": "匈牙利外长西雅尔多：匈牙利寻求欧盟批准进口海上运输的俄罗斯原油。",
+          "url": "https://flash.jin10.com/detail/20260218184955479800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时38分"
+        },
+        {
           "title": "乌克兰无人机部队最高指挥官表示，自新年以来，乌克兰无人机已袭击了俄罗斯境内的九家炼油厂。",
           "url": "https://flash.jin10.com/detail/20260217231220943800",
           "source": "金十数据",
@@ -848,7 +929,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "伊朗谈判新策略曝光：与美联合开发油气田、矿区，采购美飞机，“让美国能快速获得高额经济回报”！",
@@ -921,11 +1002,12 @@
             11,
             6,
             14,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时52分 ~ 18时43分]"
+          "appearance_count": 8,
+          "time_info": "[12时52分 ~ 19时38分]"
         },
         {
           "title": "伊朗外长称就伊美谈判“指导原则”达成一致，布油一度跌近3%",
@@ -936,8 +1018,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时52分 ~ 18时43分]"
+          "appearance_count": 8,
+          "time_info": "[12时52分 ~ 19时38分]"
         },
         {
           "title": "伊美技术层面谈判已开始，伊朗军演进行中",
@@ -957,9 +1039,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时43分"
+        },
+        {
+          "title": "伊朗总统：决心迅速准确落实伊俄全面战略合作计划",
+          "url": "https://flash.jin10.com/detail/20260218192602169800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时38分"
         },
         {
           "title": "报道：俄罗斯和伊朗海军在阿曼湾举行联合演习",
@@ -1162,8 +1255,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时02分 ~ 18时43分]"
+          "appearance_count": 10,
+          "time_info": "[10时02分 ~ 19时38分]"
         },
         {
           "title": "美股休市，科技股拖累欧股反弹，黄金失去“中国动力”失守5000美元，人民币涨破6.89",
@@ -1187,8 +1280,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时56分 ~ 18时43分]"
+          "appearance_count": 20,
+          "time_info": "[00时56分 ~ 19时38分]"
         },
         {
           "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
@@ -1199,8 +1292,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时02分 ~ 18时43分]"
+          "appearance_count": 10,
+          "time_info": "[10时02分 ~ 19时38分]"
         },
         {
           "title": "美股盘前科技股普涨，黄金收复4900，白银日内涨超3%，欧洲斯托克600触及新纪录高位",
@@ -1274,11 +1367,12 @@
           "url": "https://wallstreetcn.com/articles/3765829",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时46分 ~ 18时43分]"
+          "appearance_count": 3,
+          "time_info": "[17时46分 ~ 19时38分]"
         },
         {
           "title": "美股盘前，科技股普涨，英伟达涨1.6%，美光科技涨约1%，英特尔涨约1%。 黄金股普涨，哈莫尼黄金涨约1%，科尔黛伦矿业涨约2%。",
@@ -1372,100 +1466,8 @@
       ]
     },
     {
-      "keyword_group": "无人机",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "三角洲无人机新春祝福",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%89%E8%A7%92%E6%B4%B2%E6%97%A0%E4%BA%BA%E6%9C%BA%E6%96%B0%E6%98%A5%E7%A5%9D%E7%A6%8F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21,
-            12,
-            22,
-            15,
-            11,
-            20,
-            17,
-            26,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[02时56分 ~ 17时46分]"
-        },
-        {
-          "title": "韩国统一部长官：三名民间人士四次向朝鲜放飞无人机",
-          "url": "https://wallstreetcn.com/livenews/3056222",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时01分"
-        },
-        {
-          "title": "春晚20000多架无人机起飞破世界纪录",
-          "url": "https://www.baidu.com/s?wd=%E6%98%A5%E6%99%9A20000%E5%A4%9A%E6%9E%B6%E6%97%A0%E4%BA%BA%E6%9C%BA%E8%B5%B7%E9%A3%9E%E7%A0%B4%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时46分 ~ 18时43分]"
-        },
-        {
-          "title": "韩国统一部长官：尹锡悦政府11次向平壤放飞无人机",
-          "url": "https://flash.jin10.com/detail/20260218133904890800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时01分"
-        },
-        {
-          "title": "韩国统一部：尹锡悦政府11次向平壤放飞无人机",
-          "url": "https://wallstreetcn.com/livenews/3056222",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时13分"
-        },
-        {
-          "title": "韩国统一部长官：三名民间人士四次向朝鲜放飞无人机",
-          "url": "https://flash.jin10.com/detail/20260218133328966800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时01分"
-        },
-        {
-          "title": "韩方：尹锡悦政府11次向平壤放飞无人机，诱导军事冲突",
-          "url": "https://news.ifeng.com/c/8qqMUsTpofR",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时43分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "13F报告显示：Tiger Global Management LLC.在四季度增持Coupang、Black、ServiceNOW等。 清仓MongoDB等。 减持Sea、微软、Applovin、Meta、Reddit。 重仓谷歌母公司Alphabet、微软、亚马逊、英伟达、Sea。",
@@ -1527,6 +1529,17 @@
           "time_info": "05时56分"
         },
         {
+          "title": "谷歌母公司Alphabet首席执行官Pichai：投入人工智能合情合理，因为这是一个非凡的机遇。",
+          "url": "https://wallstreetcn.com/livenews/3056294",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时38分"
+        },
+        {
           "title": "网络状况监测网站DownDetector：用户报告显示谷歌(GOOG.O)的使用出现问题。",
           "url": "https://flash.jin10.com/detail/20260218091820831800",
           "source": "金十数据",
@@ -1536,6 +1549,99 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "无人机",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "三角洲无人机新春祝福",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%89%E8%A7%92%E6%B4%B2%E6%97%A0%E4%BA%BA%E6%9C%BA%E6%96%B0%E6%98%A5%E7%A5%9D%E7%A6%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21,
+            12,
+            22,
+            15,
+            11,
+            20,
+            17,
+            26,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[02时56分 ~ 17时46分]"
+        },
+        {
+          "title": "韩国统一部长官：三名民间人士四次向朝鲜放飞无人机",
+          "url": "https://wallstreetcn.com/livenews/3056222",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时01分"
+        },
+        {
+          "title": "春晚20000多架无人机起飞破世界纪录",
+          "url": "https://www.baidu.com/s?wd=%E6%98%A5%E6%99%9A20000%E5%A4%9A%E6%9E%B6%E6%97%A0%E4%BA%BA%E6%9C%BA%E8%B5%B7%E9%A3%9E%E7%A0%B4%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            25,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时46分 ~ 19时38分]"
+        },
+        {
+          "title": "韩方：尹锡悦政府11次向平壤放飞无人机，诱导军事冲突",
+          "url": "https://news.ifeng.com/c/8qqMUsTpofR",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时43分 ~ 19时38分]"
+        },
+        {
+          "title": "韩国统一部长官：尹锡悦政府11次向平壤放飞无人机",
+          "url": "https://flash.jin10.com/detail/20260218133904890800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时01分"
+        },
+        {
+          "title": "韩国统一部：尹锡悦政府11次向平壤放飞无人机",
+          "url": "https://wallstreetcn.com/livenews/3056222",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时13分"
+        },
+        {
+          "title": "韩国统一部长官：三名民间人士四次向朝鲜放飞无人机",
+          "url": "https://flash.jin10.com/detail/20260218133328966800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时01分"
         }
       ]
     },
@@ -1706,6 +1812,36 @@
       ]
     },
     {
+      "keyword_group": "汽车",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "特斯拉首辆Cybercab下线：没有方向盘和踏板的汽车终于来了",
+          "url": "https://wallstreetcn.com/articles/3765831",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时52分 ~ 19时38分]"
+        },
+        {
+          "title": "大众汽车：安德烈亚斯·明特（Andreas Mindt）被任命为集团设计新负责人。",
+          "url": "https://flash.jin10.com/detail/20260218190410056800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时38分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
@@ -1723,24 +1859,6 @@
       ]
     },
     {
-      "keyword_group": "汽车",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "特斯拉首辆Cybercab下线：没有方向盘和踏板的汽车终于来了",
-          "url": "https://wallstreetcn.com/articles/3765831",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时52分 ~ 18时43分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "新能源",
       "match_count": 1,
       "titles": [
@@ -1754,6 +1872,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "战争",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "泽连斯基：各方在军事问题上都表现出了建设性态度。 各方同意，如果战争结束，美国将协助监督停火。 各方将在后续会谈中讨论政治问题。",
+          "url": "https://wallstreetcn.com/livenews/3056293",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时38分"
         }
       ]
     }
