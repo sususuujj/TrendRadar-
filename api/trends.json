@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-20T20:55:53.486342+08:00",
-  "total_titles_processed": 1605,
+  "generated_at": "2026-02-20T22:01:25.989914+08:00",
+  "total_titles_processed": 1724,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 99,
+      "match_count": 102,
       "titles": [
         {
           "title": "“10-15天”最后通牒？特朗普：美伊必须达成有意义协议，否则发生“糟糕的事”",
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时57分 ~ 20时55分]"
+          "appearance_count": 14,
+          "time_info": "[09时57分 ~ 22时01分]"
         },
         {
           "title": "特朗普：高市早苗“特别喜欢我”",
@@ -64,8 +64,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时17分 ~ 20时55分]"
+          "appearance_count": 13,
+          "time_info": "[12时17分 ~ 22时01分]"
         },
         {
           "title": "对于伊朗和油价，特朗普是“自信过头”还是“姿态做足”？",
@@ -101,6 +101,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时57分 ~ 12时17分]"
+        },
+        {
+          "title": "美国第四季度经济增长大幅放缓 特朗普提前给市场打预防针",
+          "url": "https://flash.jin10.com/detail/20260220214756529800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时01分"
+        },
+        {
+          "title": "特朗普称将解密外星生命相关的政府文件，如何看待这一解密承诺？有哪些与外星人相关的待解之谜？",
+          "url": "https://www.zhihu.com/question/2008125477047509192",
+          "source": "知乎",
+          "ranks": [
+            17,
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时37分 ~ 22时01分]"
         },
         {
           "title": "宾夕法尼亚大学沃顿商学院预算模型称，如果最高法院裁定特朗普败诉，美国可能面临超过1750亿美元的关税退税。",
@@ -174,18 +198,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时49分 ~ 04时31分]"
-        },
-        {
-          "title": "特朗普称将解密外星生命相关的政府文件，如何看待这一解密承诺？有哪些与外星人相关的待解之谜？",
-          "url": "https://www.zhihu.com/question/2008125477047509192",
-          "source": "知乎",
-          "ranks": [
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时37分 ~ 20时55分]"
         },
         {
           "title": "法国称欧盟委员会“出人意料”参与特朗普会议，无权代表欧盟成员国",
@@ -553,6 +565,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
+        },
+        {
+          "title": "特朗普回忆2017年访华经历，赞叹中国仪仗队强大阵容",
+          "url": "https://news.ifeng.com/c/8qu28qoqKpX",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时01分"
         },
         {
           "title": "特朗普称在“可负担性”问题上赢得了胜利",
@@ -1072,6 +1095,17 @@
           "time_info": "00时51分"
         },
         {
+          "title": "特朗普再次呼吁降低利率。特朗普表示，政府关门至少让美国损失了两个百分点的GDP。",
+          "url": "https://wallstreetcn.com/livenews/3056941",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时01分"
+        },
+        {
           "title": "特朗普称伊朗最多还有15天",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%BC%8A%E6%9C%97%E6%9C%80%E5%A4%9A%E8%BF%98%E6%9C%8915%E5%A4%A9%23&t=31&band_rank=28&Refer=top",
           "source": "微博",
@@ -1152,7 +1186,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 42,
+      "match_count": 44,
       "titles": [
         {
           "title": "这一次不一样？美军做好“最早本周末打击伊朗”准备，油价会如何？",
@@ -1190,8 +1224,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时17分 ~ 20时55分]"
+          "appearance_count": 13,
+          "time_info": "[12时17分 ~ 22时01分]"
         },
         {
           "title": "美油大涨5%！美以或对伊朗联合袭击，白宫称谈判取得进展、但关键议题相距甚远",
@@ -1240,11 +1274,12 @@
           "source": "知乎",
           "ranks": [
             7,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时17分 ~ 20时55分]"
+          "appearance_count": 13,
+          "time_info": "[12时17分 ~ 22时01分]"
         },
         {
           "title": "原油贵金属大幅收涨 消息称美以或将联合袭击伊朗 | 环球市场",
@@ -1257,8 +1292,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时51分 ~ 20时55分]"
+          "appearance_count": 24,
+          "time_info": "[00时51分 ~ 22时01分]"
         },
         {
           "title": "美设定“3月中旬”期限：对伊朗兵力将部署到位，战云逼近？",
@@ -1356,11 +1391,12 @@
           "url": "https://news.ifeng.com/c/8qtwXLy365G",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时31分 ~ 20时55分]"
+          "appearance_count": 4,
+          "time_info": "[19时31分 ~ 22时01分]"
         },
         {
           "title": "伊朗国防部队已进入全面战备状态",
@@ -1404,7 +1440,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时55分"
         },
@@ -1415,7 +1451,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时55分"
         },
@@ -1582,7 +1618,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时55分"
         },
@@ -1593,7 +1629,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时55分"
         },
@@ -1626,9 +1662,31 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时55分"
+        },
+        {
+          "title": "伊朗外长：将在三天内确定与美方的协议草案",
+          "url": "https://wallstreetcn.com/livenews/3056946",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时01分"
+        },
+        {
+          "title": "伊朗外长：外交是解决伊朗和平核计划问题的唯一途径",
+          "url": "https://wallstreetcn.com/livenews/3056944",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时01分"
         },
         {
           "title": "内塔尼亚胡警告伊朗：以色列“已为任何情况做好准备”",
@@ -1678,7 +1736,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "科技股拖累美股，金融股砸盘，美伊开打危险撑原油至半年新高，降息分歧压制黄金涨势",
@@ -1690,8 +1748,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[06时30分 ~ 20时55分]"
+          "appearance_count": 17,
+          "time_info": "[06时30分 ~ 22时01分]"
         },
         {
           "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
@@ -1705,8 +1763,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时57分 ~ 20时55分]"
+          "appearance_count": 14,
+          "time_info": "[09时57分 ~ 22时01分]"
         },
         {
           "title": "美股三大指数高开后悉数转跌，明星科技股普跌，黄金站上5000美元",
@@ -1755,8 +1813,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时51分 ~ 20时55分]"
+          "appearance_count": 24,
+          "time_info": "[00时51分 ~ 22时01分]"
         },
         {
           "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
@@ -1768,8 +1826,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时51分 ~ 20时55分]"
+          "appearance_count": 24,
+          "time_info": "[00时51分 ~ 22时01分]"
         },
         {
           "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
@@ -1792,8 +1850,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时39分 ~ 20时55分]"
+          "appearance_count": 9,
+          "time_info": "[16时39分 ~ 22时01分]"
         },
         {
           "title": "金十图示：2026年02月19日（周四）美股热门股票行情一览（美股收盘）",
@@ -1840,6 +1898,17 @@
           "time_info": "05时32分"
         },
         {
+          "title": "美国PCE等数据公布后，美股期货短线走低， 纳指期货日内跌0.33%，标普500指数期货跌0.24%，道指期货跌0.18%。美国国债持稳，美元指数走低至日内低点。",
+          "url": "https://wallstreetcn.com/livenews/3056963",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时01分"
+        },
+        {
           "title": "美股大类资产类ETF涨跌各异，布油基金涨超2.2%",
           "url": "https://wallstreetcn.com/livenews/3056806",
           "source": "华尔街见闻-快讯",
@@ -1850,6 +1919,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时31分 ~ 07时29分]"
+        },
+        {
+          "title": "静候“美联储最爱通胀指标”，美股期货转跌，黄金站上5040美元，白银突破81美元",
+          "url": "https://wallstreetcn.com/articles/3765902",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时55分 ~ 22时01分]"
         },
         {
           "title": "AppLovin美股盘后涨6.6%。",
@@ -1874,17 +1955,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时31分 ~ 07时29分]"
-        },
-        {
-          "title": "静候“美联储最爱通胀指标”，美股期货转跌，黄金站上5040美元，白银突破81美元",
-          "url": "https://wallstreetcn.com/articles/3765902",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时55分"
         }
       ]
     },
@@ -2003,7 +2073,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时55分"
         },
@@ -2025,7 +2095,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时55分"
         },
@@ -2044,8 +2114,19 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "春节新能源汽车高速充电大增",
+          "url": "https://www.douyin.com/hot/2407147",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时01分"
+        },
         {
           "title": "一载有8人汽车在贝加尔湖沉没",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%BD%BD%E6%9C%898%E4%BA%BA%E6%B1%BD%E8%BD%A6%E5%9C%A8%E8%B4%9D%E5%8A%A0%E5%B0%94%E6%B9%96%E6%B2%89%E6%B2%A1%23&t=31&band_rank=5&Refer=top",
@@ -2085,6 +2166,18 @@
           "time_info": "[18时38分 ~ 20时55分]"
         },
         {
+          "title": "载8名中国游客汽车在贝加尔湖落水，目前仅一名中国游客获救",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32636440",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时55分 ~ 22时01分]"
+        },
+        {
           "title": "周四（2月19日），彭博电动汽车价格回报指数涨0.20%，报3647.64点。",
           "url": "https://wallstreetcn.com/livenews/3056779",
           "source": "华尔街见闻-快讯",
@@ -2120,6 +2213,17 @@
           "time_info": "[19时31分 ~ 19时32分]"
         },
         {
+          "title": "中国游客汽车在俄落水7人遇难",
+          "url": "https://www.douyin.com/hot/2407019",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时55分 ~ 22时01分]"
+        },
+        {
           "title": "科技汽车就选鸿蒙智行",
           "url": "https://s.weibo.com/weibo?q=%23%E7%A7%91%E6%8A%80%E6%B1%BD%E8%BD%A6%E5%B0%B1%E9%80%89%E9%B8%BF%E8%92%99%E6%99%BA%E8%A1%8C%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -2131,26 +2235,15 @@
           "time_info": "[18时37分 ~ 18时38分]"
         },
         {
-          "title": "载8名中国游客汽车在贝加尔湖落水，目前仅一名中国游客获救",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32636440",
-          "source": "澎湃新闻",
+          "title": "载 8 名中国游客汽车因冰面破裂在贝加尔湖沉没，7 名中国游客溺亡，事故具体是如何发生的？",
+          "url": "https://www.zhihu.com/question/2008248751752438816",
+          "source": "知乎",
           "ranks": [
-            6
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时55分"
-        },
-        {
-          "title": "中国游客汽车在俄落水7人遇难",
-          "url": "https://www.douyin.com/hot/2407019",
-          "source": "抖音",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时55分"
+          "time_info": "22时01分"
         },
         {
           "title": "金十图示：2026年02月20日（周五）全球汽车制造商市值变化",
@@ -2189,7 +2282,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时55分"
         },
@@ -2249,7 +2342,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时55分"
         }
@@ -2396,11 +2489,12 @@
           "url": "https://news.ifeng.com/c/8qtv0U1LKbC",
           "source": "凤凰网",
           "ranks": [
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时31分 ~ 20时55分]"
+          "appearance_count": 4,
+          "time_info": "[19时31分 ~ 22时01分]"
         },
         {
           "title": "德国国防部长表示，德国将以常规武器支持法国，而不是参与核威慑。",
@@ -2409,7 +2503,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时55分"
         },
@@ -2560,11 +2654,12 @@
           "ranks": [
             14,
             4,
-            5
+            5,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时37分 ~ 20时55分]"
+          "appearance_count": 6,
+          "time_info": "[18时37分 ~ 22时01分]"
         }
       ]
     }
