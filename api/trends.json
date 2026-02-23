@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-23T15:54:46.466242+08:00",
-  "total_titles_processed": 1024,
+  "generated_at": "2026-02-23T16:50:04.337154+08:00",
+  "total_titles_processed": 1100,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 44,
+      "match_count": 47,
       "titles": [
         {
           "title": "曝伊朗革命卫队已接管黎巴嫩真主党",
@@ -116,17 +116,6 @@
           "time_info": "[00时28分 ~ 05时23分]"
         },
         {
-          "title": "伊朗外交部发言人：关于与美国达成“临时协议”的讨论毫无根据",
-          "url": "https://flash.jin10.com/detail/20260223154344256800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时54分"
-        },
-        {
           "title": "据AXIOS网站：如果伊朗尽快提交核方案，美伊谈判预计将于下周五举行。",
           "url": "https://flash.jin10.com/detail/20260222220602460800",
           "source": "金十数据",
@@ -138,39 +127,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时29分 ~ 05时23分]"
-        },
-        {
-          "title": "伊朗外交部发言人：伊朗与国际原子能机构的所有合作将继续完全在伊朗保障监督义务和议会颁布的相关法律框架内进行。",
-          "url": "https://flash.jin10.com/detail/20260223154302036800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时54分"
-        },
-        {
-          "title": "伊朗外交部发言人：关于与美国达成“临时协议”的讨论毫无根据",
-          "url": "https://wallstreetcn.com/livenews/3057391",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时54分"
-        },
-        {
-          "title": "印度“建议”其国民离开伊朗。",
-          "url": "https://flash.jin10.com/detail/20260223154237773800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时54分"
         },
         {
           "title": "美媒：若伊朗很快提交核方案，美伊会谈预计将于周五举行",
@@ -185,6 +141,31 @@
           "time_info": "[00时29分 ~ 04时25分]"
         },
         {
+          "title": "伊朗外长：有可能达成比2015年伊核协议“更好的协议”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32644744",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时57分 ~ 16时50分]"
+        },
+        {
+          "title": "伊朗外交部发言人：关于与美国达成“临时协议”的讨论毫无根据",
+          "url": "https://flash.jin10.com/detail/20260223154344256800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时54分 ~ 16时50分]"
+        },
+        {
           "title": "伊朗多所高校再出现学生反政府集会",
           "url": "https://news.ifeng.com/c/8qyIqT5ziOE",
           "source": "凤凰网",
@@ -197,6 +178,30 @@
           "time_info": "[10时02分 ~ 15时54分]"
         },
         {
+          "title": "伊朗外交部发言人：伊朗与国际原子能机构的所有合作将继续完全在伊朗保障监督义务和议会颁布的相关法律框架内进行。",
+          "url": "https://flash.jin10.com/detail/20260223154302036800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时54分 ~ 16时50分]"
+        },
+        {
+          "title": "伊朗外交部发言人：关于与美国达成“临时协议”的讨论毫无根据",
+          "url": "https://wallstreetcn.com/livenews/3057391",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时54分 ~ 16时50分]"
+        },
+        {
           "title": "伊朗外交部：伊朗和阿曼外长通话 就下一轮谈判的安排进行了磋商",
           "url": "https://flash.jin10.com/detail/20260223044644545800",
           "source": "金十数据",
@@ -207,6 +212,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时23分 ~ 06时23分]"
+        },
+        {
+          "title": "印度“建议”其国民离开伊朗。",
+          "url": "https://flash.jin10.com/detail/20260223154237773800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时54分 ~ 16时50分]"
         },
         {
           "title": "伊朗医学组织：战备医疗体系随时待命，快速反应队伍可即刻增援",
@@ -245,16 +262,62 @@
           "time_info": "[05时23分 ~ 06时23分]"
         },
         {
-          "title": "伊朗外长：有可能达成比2015年伊核协议“更好的协议”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32644744",
-          "source": "澎湃新闻",
+          "title": "伊朗为何欲迅速落实伊俄全面战略合作",
+          "url": "https://www.toutiao.com/trending/7609922436754050606/",
+          "source": "今日头条",
           "ranks": [
-            10,
-            13
+            30,
+            17,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时06分 ~ 16时50分]"
+        },
+        {
+          "title": "美军重兵合围伊朗",
+          "url": "https://www.douyin.com/hot/2409181",
+          "source": "抖音",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时06分 ~ 16时50分]"
+        },
+        {
+          "title": "美国可能于2月23日或24日对伊朗发动打击",
+          "url": "https://news.ifeng.com/c/8qyjFuaqHm4",
+          "source": "凤凰网",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时57分 ~ 15时54分]"
+          "time_info": "[15时54分 ~ 16时50分]"
+        },
+        {
+          "title": "与美国达成“临时协议”？伊朗：毫无根据",
+          "url": "https://news.ifeng.com/c/8qyqpPm0Q9R",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时49分 ~ 16时50分]"
+        },
+        {
+          "title": "伊朗军队总司令：将誓死捍卫国家独立和主权完整",
+          "url": "https://news.ifeng.com/c/8qyqxrcRN3h",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时49分 ~ 16时50分]"
         },
         {
           "title": "多国紧急提醒：立即离开伊朗",
@@ -269,27 +332,39 @@
           "time_info": "[10时02分 ~ 12时57分]"
         },
         {
-          "title": "伊朗为何欲迅速落实伊俄全面战略合作",
-          "url": "https://www.toutiao.com/trending/7609922436754050606/",
-          "source": "今日头条",
+          "title": "机构分析：随着美国和伊朗面临开战，油价恐飙升到90-100美元",
+          "url": "https://flash.jin10.com/detail/20260223152537446800",
+          "source": "金十数据",
           "ranks": [
-            30,
-            17
+            13,
+            28
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时06分 ~ 15时54分]"
+          "time_info": "[15时54分 ~ 16时50分]"
         },
         {
-          "title": "美军重兵合围伊朗",
-          "url": "https://www.douyin.com/hot/2409181",
-          "source": "抖音",
+          "title": "伊朗军队总司令：将誓死捍卫国家独立和主权完整",
+          "url": "https://wallstreetcn.com/livenews/3057376",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时54分 ~ 16时50分]"
+        },
+        {
+          "title": "伊朗：将誓死捍卫国家独立和主权完整",
+          "url": "https://www.toutiao.com/trending/7609028906888445958/",
+          "source": "今日头条",
           "ranks": [
             18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时06分 ~ 15时54分]"
+          "time_info": "[16时49分 ~ 16时50分]"
         },
         {
           "title": "伊朗官员称伊朗与美国在解除制裁问题上存在分歧，计划于3月初举行新一轮会谈。（路透）",
@@ -302,17 +377,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时29分 ~ 01时25分]"
-        },
-        {
-          "title": "美国可能于2月23日或24日对伊朗发动打击",
-          "url": "https://news.ifeng.com/c/8qyjFuaqHm4",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时54分"
         },
         {
           "title": "伊朗陆军称密切监控边境敌方动向",
@@ -359,17 +423,6 @@
           "time_info": "14时06分"
         },
         {
-          "title": "机构分析：随着美国和伊朗面临开战，油价恐飙升到90-100美元",
-          "url": "https://flash.jin10.com/detail/20260223152537446800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时54分"
-        },
-        {
           "title": "伊朗陆军司令：正持续监控边境沿线的所有敌方动向。全面战备是防止敌方误判和敌对行动的主要威慑手段。",
           "url": "https://flash.jin10.com/detail/20260223064445954800",
           "source": "金十数据",
@@ -401,17 +454,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
-        },
-        {
-          "title": "伊朗军队总司令：将誓死捍卫国家独立和主权完整",
-          "url": "https://wallstreetcn.com/livenews/3057376",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时54分"
         },
         {
           "title": "伊朗总统：正持续密切关注美国行动",
@@ -475,7 +517,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时54分"
         },
@@ -486,7 +528,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时54分"
         },
@@ -527,7 +569,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 35,
+      "match_count": 37,
       "titles": [
         {
           "title": "特朗普：原本10%的全球进口关税税率将升至15%",
@@ -537,8 +579,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时28分 ~ 15时54分]"
+          "appearance_count": 17,
+          "time_info": "[00时28分 ~ 16时50分]"
         },
         {
           "title": "特朗普新加征关税税率加码至15% 美政府“越权”关税引企业诉讼潮",
@@ -596,8 +638,31 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时28分 ~ 15时54分]"
+          "appearance_count": 17,
+          "time_info": "[00时28分 ~ 16时50分]"
+        },
+        {
+          "title": "美贸易代表：特朗普访华不受最高法关税裁决影响",
+          "url": "https://news.ifeng.com/c/8qyOjcC9kzZ",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时57分 ~ 16时50分]"
+        },
+        {
+          "title": "特朗普的亲家、美驻法大使因“不当言论”被法国外交部召见",
+          "url": "https://news.ifeng.com/c/8qyRMnxS2f3",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时57分 ~ 16时50分]"
         },
         {
           "title": "一名试图闯入特朗普海湖庄园的男子被枪击身亡",
@@ -628,17 +693,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时34分 ~ 07时25分]"
-        },
-        {
-          "title": "美贸易代表：特朗普访华不受最高法关税裁决影响",
-          "url": "https://news.ifeng.com/c/8qyOjcC9kzZ",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时57分 ~ 15时54分]"
         },
         {
           "title": "摩根大通承认国会山骚乱后关了特朗普的账户",
@@ -672,18 +726,6 @@
           "time_info": "[01时25分 ~ 07时25分]"
         },
         {
-          "title": "特朗普的亲家、美驻法大使因“不当言论”被法国外交部召见",
-          "url": "https://news.ifeng.com/c/8qyRMnxS2f3",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时57分 ~ 15时54分]"
-        },
-        {
           "title": "连锁反应来了，印度打脸特朗普",
           "url": "https://news.ifeng.com/c/8qyEs3M9n4D",
           "source": "凤凰网",
@@ -711,6 +753,17 @@
           "time_info": "[00时29分 ~ 06时23分]"
         },
         {
+          "title": "加州州长：特朗普正摧毁美国经济",
+          "url": "https://news.ifeng.com/c/8qyoio7uTTF",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时49分 ~ 16时50分]"
+        },
+        {
           "title": "特朗普大厦将落地黄金海岸 成为澳大利亚最高建筑之一",
           "url": "https://flash.jin10.com/detail/20260223134320639800",
           "source": "金十数据",
@@ -728,7 +781,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时54分"
         },
@@ -783,6 +836,18 @@
           "time_info": "[10时02分 ~ 15时54分]"
         },
         {
+          "title": "重兵集结下美伊本周再谈，特朗普面临选择：签“面子协议”和先定点打击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32645069",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时54分 ~ 16时50分]"
+        },
+        {
           "title": "特朗普：将在常规关税基础上对全球征收10%的进口关税",
           "url": "https://www.cls.cn/detail/2292216",
           "source": "财联社热门",
@@ -807,6 +872,18 @@
           "time_info": "[10时02分 ~ 14时06分]"
         },
         {
+          "title": "特朗普被曝考虑对伊朗先小打再大打",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%A2%AB%E6%9B%9D%E8%80%83%E8%99%91%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%85%88%E5%B0%8F%E6%89%93%E5%86%8D%E5%A4%A7%E6%89%93",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时54分 ~ 16时50分]"
+        },
+        {
           "title": "特朗普被曝考虑对伊朗先“小打”再“大打”",
           "url": "https://wallstreetcn.com/livenews/3057362",
           "source": "华尔街见闻-快讯",
@@ -817,6 +894,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时06分 ~ 15时54分]"
+        },
+        {
+          "title": "华尔街深度解读“特朗普IEEPA关税被否”：下半年关税或下调，退税或变全面刺激，潜在的行业利好",
+          "url": "https://wallstreetcn.com/articles/3765969",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时49分 ~ 16时50分]"
         },
         {
           "title": "商务部回应美裁定特朗普关税违法",
@@ -876,17 +964,6 @@
           "time_info": "14时06分"
         },
         {
-          "title": "重兵集结下美伊本周再谈，特朗普面临选择：签“面子协议”和先定点打击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32645069",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时54分"
-        },
-        {
           "title": "格陵兰岛自治政府总理拒绝特朗普拟派医院船提议",
           "url": "https://flash.jin10.com/detail/20260223062904190800",
           "source": "金十数据",
@@ -918,17 +995,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时57分"
-        },
-        {
-          "title": "特朗普被曝考虑对伊朗先小打再大打",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%A2%AB%E6%9B%9D%E8%80%83%E8%99%91%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%85%88%E5%B0%8F%E6%89%93%E5%86%8D%E5%A4%A7%E6%89%93",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时54分"
         },
         {
           "title": "如何看待特朗普关税战被判非法",
@@ -968,17 +1034,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时28分 ~ 07时25分]"
-        },
-        {
-          "title": "俄罗斯索契机场暂停所有航班运营",
-          "url": "https://wallstreetcn.com/livenews/3057392",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时54分"
         },
         {
           "title": "俄罗斯开始卖黄金背后有何考量",
@@ -1031,6 +1086,18 @@
           "time_info": "[05时23分 ~ 06时23分]"
         },
         {
+          "title": "俄罗斯索契机场暂停所有航班运营",
+          "url": "https://wallstreetcn.com/livenews/3057392",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时54分 ~ 16时50分]"
+        },
+        {
           "title": "俄罗斯发动大规模导弹袭击",
           "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E5%8F%91%E5%8A%A8%E5%A4%A7%E8%A7%84%E6%A8%A1%E5%AF%BC%E5%BC%B9%E8%A2%AD%E5%87%BB",
           "source": "百度热搜",
@@ -1059,44 +1126,48 @@
           "url": "https://flash.jin10.com/detail/20260223154100415800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时54分 ~ 16时50分]"
         },
         {
           "title": "俄罗斯索契机场暂停所有航班运营",
           "url": "https://flash.jin10.com/detail/20260223154048429800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时54分 ~ 16时50分]"
         },
         {
           "title": "德国外长瓦德富尔：（就欧盟对俄罗斯的制裁表示）我们将与匈牙利方面接触，促使他们重新考虑其立场。",
           "url": "https://flash.jin10.com/detail/20260223153914650800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时54分 ~ 16时50分]"
         },
         {
           "title": "欧盟外交官Kallas：竭尽全力推动对俄罗斯实施第20轮制裁措施。 从匈牙利方面听到了明确的表态。 不预计匈牙利今天会改变立场。",
           "url": "https://wallstreetcn.com/livenews/3057380",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时54分 ~ 16时50分]"
         },
         {
           "title": "欧盟外交与安全政策高级代表卡拉斯：我们正在尽一切努力推动对俄罗斯的第20项制裁措施获得通过。",
@@ -1105,7 +1176,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时54分"
         },
@@ -1116,7 +1187,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时54分"
         },
@@ -1127,9 +1198,60 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "汽车",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "有博主说汽车后备箱最怕「米酒、海鲜、菜籽油」洒出来，味道祛除不掉，这是真的吗？",
+          "url": "https://www.zhihu.com/question/2005389727063303883",
+          "source": "知乎",
+          "ranks": [
+            10,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时02分 ~ 15时54分]"
+        },
+        {
+          "title": "问界汽车回应惠州车辆起火",
+          "url": "https://www.toutiao.com/trending/7608861809327947795/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时49分 ~ 16时50分]"
+        },
+        {
+          "title": "男子花5600元套中汽车使用权商家反悔",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%8A%B15600%E5%85%83%E5%A5%97%E4%B8%AD%E6%B1%BD%E8%BD%A6%E4%BD%BF%E7%94%A8%E6%9D%83%E5%95%86%E5%AE%B6%E5%8F%8D%E6%82%94%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时49分 ~ 16时50分]"
+        },
+        {
+          "title": "金十图示：2026年02月23日（周一）全球汽车制造商市值变化",
+          "url": "https://flash.jin10.com/detail/20260223110625760800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时57分"
         }
       ]
     },
@@ -1175,11 +1297,53 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时06分 ~ 15时54分]"
+          "appearance_count": 4,
+          "time_info": "[14时06分 ~ 16时50分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "无人机",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "市场消息：莫斯科机场在无人机袭击后恢复航班运营。",
+          "url": "https://flash.jin10.com/detail/20260222220159942800",
+          "source": "金十数据",
+          "ranks": [
+            17,
+            16,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 05时23分]"
+        },
+        {
+          "title": "乌称敖德萨州遭俄军无人机袭击 已致2死3伤",
+          "url": "https://wallstreetcn.com/livenews/3057399",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
+        },
+        {
+          "title": "乌称敖德萨州遭俄军无人机袭击 已致2死3伤",
+          "url": "https://flash.jin10.com/detail/20260223155852110800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
         }
       ]
     },
@@ -1196,8 +1360,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时28分 ~ 15时54分]"
+          "appearance_count": 17,
+          "time_info": "[00时28分 ~ 16时50分]"
         },
         {
           "title": "表面风光之下，OpenAI的“四大困境”",
@@ -1225,8 +1389,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时28分 ~ 15时54分]"
+          "appearance_count": 17,
+          "time_info": "[00时28分 ~ 16时50分]"
         },
         {
           "title": "过去30年来未见之局面！美股指数波动之小创1960年来之最，而个股波动率却高达指数7倍",
@@ -1239,35 +1403,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时28分 ~ 07时25分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "汽车",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "有博主说汽车后备箱最怕「米酒、海鲜、菜籽油」洒出来，味道祛除不掉，这是真的吗？",
-          "url": "https://www.zhihu.com/question/2005389727063303883",
-          "source": "知乎",
-          "ranks": [
-            10,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时02分 ~ 15时54分]"
-        },
-        {
-          "title": "金十图示：2026年02月23日（周一）全球汽车制造商市值变化",
-          "url": "https://flash.jin10.com/detail/20260223110625760800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时57分"
         }
       ]
     },
@@ -1307,27 +1442,25 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[02时33分 ~ 15时54分]"
+          "appearance_count": 14,
+          "time_info": "[02时33分 ~ 16时50分]"
         }
       ]
     },
     {
-      "keyword_group": "无人机",
+      "keyword_group": "战争",
       "match_count": 1,
       "titles": [
         {
-          "title": "市场消息：莫斯科机场在无人机袭击后恢复航班运营。",
-          "url": "https://flash.jin10.com/detail/20260222220159942800",
+          "title": "联合国人权事务负责人：战争法正遭到残酷践踏，苏丹、加沙、乌克兰和缅甸的平民正遭受大规模苦难。",
+          "url": "https://flash.jin10.com/detail/20260223164616943800",
           "source": "金十数据",
           "ranks": [
-            17,
-            16,
-            27
+            1
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 05时23分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
         }
       ]
     }
