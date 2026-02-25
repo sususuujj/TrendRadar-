@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T17:54:33.360984+08:00",
-  "total_titles_processed": 1362,
+  "generated_at": "2026-02-25T19:37:06.980243+08:00",
+  "total_titles_processed": 1494,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 80,
+      "match_count": 82,
       "titles": [
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
@@ -53,8 +53,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时21分 ~ 17时54分]"
+          "appearance_count": 20,
+          "time_info": "[01时21分 ~ 19时37分]"
         },
         {
           "title": "中美就特朗普访华事宜保持着沟通",
@@ -96,6 +96,29 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时01分 ~ 16时47分]"
+        },
+        {
+          "title": "特朗普戏精上身，模仿民众哭诉“赢到不知道该怎么办”(图)",
+          "url": "https://v.ifeng.com/c/8r1uSam1Yxo",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时54分 ~ 19时37分]"
+        },
+        {
+          "title": "特朗普声称争取到18万亿美元投资承诺，美媒打脸：纯属虚构",
+          "url": "https://news.ifeng.com/c/8r1wCrsmaVy",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时54分 ~ 19时37分]"
         },
         {
           "title": "特朗普发表国情咨文演讲，民主党议员举横幅被带离",
@@ -154,6 +177,17 @@
           "time_info": "04时34分"
         },
         {
+          "title": "市场消息：特朗普政府已下令美国外交官游说反对监管美国科技公司处理外国人数据的行为。",
+          "url": "https://flash.jin10.com/detail/20260225190515560800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时37分"
+        },
+        {
           "title": "特朗普：伊朗正研制很快打到美国的导弹",
           "url": "https://www.toutiao.com/trending/7610645788871364115/",
           "source": "今日头条",
@@ -163,17 +197,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时01分"
-        },
-        {
-          "title": "特朗普戏精上身，模仿民众哭诉“赢到不知道该怎么办”(图)",
-          "url": "https://v.ifeng.com/c/8r1uSam1Yxo",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时54分"
         },
         {
           "title": "据福克斯新闻：特朗普将呼吁实施新一轮减税。",
@@ -229,17 +252,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时41分"
-        },
-        {
-          "title": "特朗普声称争取到18万亿美元投资承诺，美媒打脸：纯属虚构",
-          "url": "https://news.ifeng.com/c/8r1wCrsmaVy",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时54分"
         },
         {
           "title": "乌克兰驻美大使斯特凡尼希娜：美国的制裁法案总体而言是一项非常好的法案，若该法案获国会通过，预计美国总统特朗普会予以签署。",
@@ -349,6 +361,19 @@
           "time_info": "[03时53分 ~ 04时34分]"
         },
         {
+          "title": "解读特朗普2.0首份国情咨文：过去一年美国经济到底赢没赢？",
+          "url": "https://www.cls.cn/detail/2294552",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时47分 ~ 19时37分]"
+        },
+        {
           "title": "弗吉尼亚州州长斯潘伯格：美国总统特朗普正筹划新关税，其力度堪比大规模加税。",
           "url": "https://flash.jin10.com/detail/20260225121648684800",
           "source": "金十数据",
@@ -371,6 +396,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时06分 ~ 06时33分]"
+        },
+        {
+          "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
+          "url": "https://wallstreetcn.com/articles/3766126",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时54分 ~ 19时37分]"
         },
         {
           "title": "据CNBC：特朗普将通过预算协调程序公布减税计划。",
@@ -407,18 +444,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时01分 ~ 15时14分]"
-        },
-        {
-          "title": "解读特朗普2.0首份国情咨文：过去一年美国经济到底赢没赢？",
-          "url": "https://www.cls.cn/detail/2294552",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时47分 ~ 17时54分]"
         },
         {
           "title": "据华尔街日报：消息人士称，美国总统特朗普政府考虑采取行动，要求银行收集客户国籍信息。关于潜在的新行政命令尚未作出最终决定。",
@@ -535,17 +560,6 @@
           "time_info": "10时01分"
         },
         {
-          "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
-          "url": "https://wallstreetcn.com/articles/3766126",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时54分"
-        },
-        {
           "title": "美国总统特朗普的国情咨文演讲持续1小时48分钟后结束，创历史之最。",
           "url": "https://flash.jin10.com/detail/20260225120035789800",
           "source": "金十数据",
@@ -588,6 +602,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时01分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-25）",
+          "url": "https://flash.jin10.com/detail/20260225184821744800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时37分"
         },
         {
           "title": "市场消息：特朗普离开白宫，准备发表国情咨文。",
@@ -871,7 +896,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时54分"
         },
@@ -953,6 +978,19 @@
           "time_info": "[01时21分 ~ 10时01分]"
         },
         {
+          "title": "伊朗大规模军演 试射多种导弹",
+          "url": "https://www.douyin.com/hot/2410859",
+          "source": "抖音",
+          "ranks": [
+            2,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时01分 ~ 19时37分]"
+        },
+        {
           "title": "伊朗一军用直升机坠毁",
           "url": "https://www.douyin.com/hot/2410332",
           "source": "抖音",
@@ -1004,23 +1042,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时01分 ~ 17时54分]"
-        },
-        {
-          "title": "伊朗大规模军演 试射多种导弹",
-          "url": "https://www.douyin.com/hot/2410859",
-          "source": "抖音",
-          "ranks": [
             2,
-            5
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时01分 ~ 17时54分]"
+          "appearance_count": 6,
+          "time_info": "[14时01分 ~ 19时37分]"
         },
         {
           "title": "美军参联会主席警告：对伊朗动武可能带来重大风险",
@@ -1051,11 +1078,12 @@
           "url": "https://news.ifeng.com/c/8r29cDgfx2m",
           "source": "凤凰网",
           "ranks": [
-            3
+            3,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时54分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时54分 ~ 19时37分]"
         },
         {
           "title": "英媒称美军仅能维持4至5天对伊朗高强度空袭",
@@ -1182,7 +1210,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时54分"
         },
@@ -1234,7 +1262,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
@@ -1303,7 +1331,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时54分"
         },
@@ -1314,7 +1342,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时54分"
         },
@@ -1439,6 +1467,17 @@
           "time_info": "07时41分"
         },
         {
+          "title": "劳氏第四季度调整后每股收益1.98美元，上年同期1.93美元，预估1.94美元。 第四季度销售净额205.8亿美元，同比增长11%，预估203.5亿美元。 第四季度同店销售增长1.3％，预估增长0.47％。 第四季度毛利66.8亿美元，同比增长9.6%，预估66.3亿美元。 劳氏预计全年调整后每股收益12.25美元至12.75美元。 劳氏预计全年调整后运营利润率11.6％至11.8％。 劳氏预计全年资本支出大约25亿美元，预估25亿美元。 劳氏美股盘前跌1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3058828",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时37分"
+        },
+        {
           "title": "德债收益率在美股盘初短暂地拉升",
           "url": "https://wallstreetcn.com/livenews/3058277",
           "source": "华尔街见闻-快讯",
@@ -1495,7 +1534,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时54分"
         },
@@ -1567,7 +1606,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时54分"
         },
@@ -1589,7 +1628,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时54分"
         },
@@ -1627,6 +1666,19 @@
           "time_info": "[01时21分 ~ 07时41分]"
         },
         {
+          "title": "比亚迪加入、马年“金融战”再开打！超二十家汽车品牌力推七年低息贷款",
+          "url": "https://www.cls.cn/detail/2294647",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时47分 ~ 19时37分]"
+        },
+        {
           "title": "恒生科技指数日内涨幅扩大至1%，小鹏汽车涨超3%，华虹半导体涨2%。",
           "url": "https://wallstreetcn.com/livenews/3058455",
           "source": "华尔街见闻-快讯",
@@ -1655,18 +1707,6 @@
           "ranks": [
             1,
             28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时47分 ~ 17时54分]"
-        },
-        {
-          "title": "比亚迪加入、马年“金融战”再开打！超二十家汽车品牌力推七年低息贷款",
-          "url": "https://www.cls.cn/detail/2294647",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            5
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -1753,7 +1793,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时54分"
         },
@@ -1801,11 +1841,12 @@
           "url": "https://www.toutiao.com/trending/7609749816309989395/",
           "source": "今日头条",
           "ranks": [
-            1
+            1,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时54分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时54分 ~ 19时37分]"
         },
         {
           "title": "美国国防部长“战争部”部长Hegseth就人工智能（AI）保障措施向Anthropic提供的最后期限为周五。 Hegseth告知该公司CEO Amodei，五角大楼可能会援引《国防生产法案》（DPA）。（Axios）",
@@ -1849,6 +1890,18 @@
           "time_info": "04时34分"
         },
         {
+          "title": "韩女子用ChatGPT策划连环杀人案",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%A5%B3%E5%AD%90%E7%94%A8ChatGPT%E7%AD%96%E5%88%92%E8%BF%9E%E7%8E%AF%E6%9D%80%E4%BA%BA%E6%A1%88%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时54分 ~ 19时37分]"
+        },
+        {
           "title": "OpenAI：欢迎美国法院针对x.AI官司的决定。",
           "url": "https://wallstreetcn.com/livenews/3058374",
           "source": "华尔街见闻-快讯",
@@ -1858,17 +1911,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "武器",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "墨防长：缴获毒枭武器80%来自美国",
+          "url": "https://www.toutiao.com/trending/7609236585661533759/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时00分 ~ 06时06分]"
         },
         {
-          "title": "韩女子用ChatGPT策划连环杀人案",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%A5%B3%E5%AD%90%E7%94%A8ChatGPT%E7%AD%96%E5%88%92%E8%BF%9E%E7%8E%AF%E6%9D%80%E4%BA%BA%E6%A1%88%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
+          "title": "外交部回应英法或供乌核武器",
+          "url": "https://www.douyin.com/hot/2411598",
+          "source": "抖音",
           "ranks": [
-            17
+            8
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时36分 ~ 19时37分]"
+        },
+        {
+          "title": "英国外交部：（就俄方有关乌克兰在英法支持下试图获取核武器的指控表示）此说法毫无根据。",
+          "url": "https://flash.jin10.com/detail/20260225005252035800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时54分"
+          "time_info": "01时21分"
         }
       ]
     },
@@ -1898,35 +1980,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "武器",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "墨防长：缴获毒枭武器80%来自美国",
-          "url": "https://www.toutiao.com/trending/7609236585661533759/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时00分 ~ 06时06分]"
-        },
-        {
-          "title": "英国外交部：（就俄方有关乌克兰在英法支持下试图获取核武器的指控表示）此说法毫无根据。",
-          "url": "https://flash.jin10.com/detail/20260225005252035800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时21分"
         }
       ]
     },
