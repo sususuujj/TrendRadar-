@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T07:41:03.304956+08:00",
-  "total_titles_processed": 617,
+  "generated_at": "2026-02-25T10:01:26.168743+08:00",
+  "total_titles_processed": 780,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 46,
       "titles": [
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时21分 ~ 07时41分]"
+          "appearance_count": 13,
+          "time_info": "[01时21分 ~ 10时01分]"
         },
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
@@ -49,11 +49,12 @@
             8,
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时21分 ~ 07时41分]"
+          "appearance_count": 13,
+          "time_info": "[01时21分 ~ 10时01分]"
         },
         {
           "title": "中美就特朗普访华事宜保持着沟通",
@@ -118,6 +119,17 @@
           "time_info": "04时34分"
         },
         {
+          "title": "美媒曝光特朗普国情咨文 提及住房、成本、国家安全等内容",
+          "url": "https://flash.jin10.com/detail/20260225095456929800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
           "title": "乌克兰驻美大使斯特凡尼希娜：我受邀出席美国总统特朗普的国情咨文演讲。",
           "url": "https://flash.jin10.com/detail/20260225011114735800",
           "source": "金十数据",
@@ -129,13 +141,24 @@
           "time_info": "01时21分"
         },
         {
+          "title": "特朗普夫人梅拉尼娅在国情咨文演讲上身着杜嘉班纳服饰。",
+          "url": "https://flash.jin10.com/detail/20260225095115822800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
           "title": "美国众议长称，最高法院关税裁决对特朗普是“一记重击”",
           "url": "https://wallstreetcn.com/livenews/3058387",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时41分"
         },
@@ -284,6 +307,83 @@
           "time_info": "[06时06分 ~ 06时33分]"
         },
         {
+          "title": "特朗普：100%错误",
+          "url": "https://news.ifeng.com/c/8r1UTBsOox0",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
+          "title": "美国总统特朗普将于十分钟后发表国情咨文。",
+          "url": "https://flash.jin10.com/detail/20260225095000000800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
+          "title": "特朗普走上“关税悬崖”",
+          "url": "https://news.ifeng.com/c/8r1Z2HFV2Mj",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
+          "title": "美国总统特朗普抵达国会山发表国情咨文。",
+          "url": "https://flash.jin10.com/detail/20260225094447407800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
+          "title": "特朗普将要求国会禁止投资公司购买独栋住宅",
+          "url": "https://wallstreetcn.com/livenews/3058444",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
+          "title": "特朗普打还是不打，只是时间问题了",
+          "url": "https://news.ifeng.com/c/8r1bJIeSigy",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
+          "title": "市场消息：特朗普离开白宫，准备发表国情咨文。",
+          "url": "https://flash.jin10.com/detail/20260225094052863800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
           "title": "乌克兰驻美大使斯特凡尼希娜：预计将在美国总统特朗普的国情咨文演讲中听到有关结束冲突的信息。",
           "url": "https://flash.jin10.com/detail/20260225004034013800",
           "source": "金十数据",
@@ -295,15 +395,70 @@
           "time_info": "01时21分"
         },
         {
+          "title": "市场消息：美国总统特朗普将表示，正在恢复美国在西半球的安全和主导地位。",
+          "url": "https://flash.jin10.com/detail/20260225093851641800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
           "title": "市场消息：特朗普将于周三举行会议，讨论政府振兴弗吉尼亚州杜勒斯机场的计划。",
           "url": "https://flash.jin10.com/detail/20260225062520187800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时41分"
+        },
+        {
+          "title": "市场消息：美国总统特朗普将表示，要充分发挥美国的潜力，首先必须保障社区安全。",
+          "url": "https://flash.jin10.com/detail/20260225093829467800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
+          "title": "市场消息：美国总统特朗普将表示，作为总统，我会尽可能地促进和平，但只要是我们必须采取行动的时候，我绝不会退缩，会毫不犹豫地应对对美国构成的威胁。",
+          "url": "https://flash.jin10.com/detail/20260225093816678800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
+          "title": "市场消息：美国总统特朗普将表示，要求立即全面恢复美国边境安全和国土安全部的所有资金。",
+          "url": "https://flash.jin10.com/detail/20260225093620104800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
+          "title": "市场消息：美国总统特朗普将在国情咨文中表示，请求国会永久实施禁止华尔街大型投资公司大量收购独栋住宅的行政命令。",
+          "url": "https://flash.jin10.com/detail/20260225093421945800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
         },
         {
           "title": "美国发布特朗普行政令公告，延长最低限度豁免（de minimis exemption）暂停期。",
@@ -326,6 +481,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
+        },
+        {
+          "title": "美国总统特朗普：我还要终结处方药价格的飞涨。其他总统也尝试过，但他们都失败了。他们只会空谈，没有实际行动。而我做到了。",
+          "url": "https://flash.jin10.com/detail/20260225092719887800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
+          "title": "美国总统特朗普：展望未来，工厂、就业、投资和数万亿美元将继续涌入美国——因为我们终于有了一位把美国放在首位的总统。",
+          "url": "https://flash.jin10.com/detail/20260225092652948800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
+          "title": "美国总统特朗普：我们实现了前所未有的变革，实现了划时代的逆转。",
+          "url": "https://flash.jin10.com/detail/20260225092635757800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
         },
         {
           "title": "英国央行行长贝利：特朗普关税出现变动，这对英国的影响偏小。",
@@ -353,7 +541,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "在伊朗中国人：华联会已准备撤离方案",
@@ -375,11 +563,12 @@
           "ranks": [
             7,
             6,
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时21分 ~ 07时41分]"
+          "appearance_count": 13,
+          "time_info": "[01时21分 ~ 10时01分]"
         },
         {
           "title": "伊朗一军用直升机坠毁",
@@ -389,11 +578,12 @@
             16,
             17,
             18,
-            15
+            15,
+            12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时21分 ~ 07时41分]"
+          "appearance_count": 13,
+          "time_info": "[01时21分 ~ 10时01分]"
         },
         {
           "title": "WW3预热,美国对伊朗动手",
@@ -404,8 +594,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时21分 ~ 07时41分]"
+          "appearance_count": 13,
+          "time_info": "[01时21分 ~ 10时01分]"
         },
         {
           "title": "美军参联会主席警告：对伊朗动武可能带来重大风险",
@@ -430,6 +620,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "在伊朗中国人：华联会已准备撤离方案",
+          "url": "https://www.baidu.com/s?wd=%E5%9C%A8%E4%BC%8A%E6%9C%97%E4%B8%AD%E5%9B%BD%E4%BA%BA%EF%BC%9A%E5%8D%8E%E8%81%94%E4%BC%9A%E5%B7%B2%E5%87%86%E5%A4%87%E6%92%A4%E7%A6%BB%E6%96%B9%E6%A1%88",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
         },
         {
           "title": "英媒称美军仅能维持4至5天对伊朗高强度空袭",
@@ -605,11 +806,24 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时21分 ~ 07时41分]"
+          "appearance_count": 13,
+          "time_info": "[01时21分 ~ 10时01分]"
+        },
+        {
+          "title": "美股收盘：软件板块回暖三大指数齐涨 空头突袭存储牛股",
+          "url": "https://www.cls.cn/detail/2294131",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时40分 ~ 10时01分]"
         },
         {
           "title": "数字货币市场在美股早盘反弹",
@@ -634,17 +848,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时06分 ~ 06时33分]"
-        },
-        {
-          "title": "美股收盘：软件板块回暖三大指数齐涨 空头突袭存储牛股",
-          "url": "https://www.cls.cn/detail/2294131",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时40分 ~ 07时41分]"
         },
         {
           "title": "新兴市场ETF收涨将近1.6%，领跑美股大类资产类ETF，黄金ETF跌约1.4%",
@@ -725,7 +928,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时41分"
         },
@@ -755,7 +958,7 @@
     },
     {
       "keyword_group": "俄罗斯",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "美国、加拿大、英国、法国、俄罗斯，发布“安全警告”",
@@ -839,6 +1042,17 @@
           "time_info": "01时21分"
         },
         {
+          "title": "俄罗斯为何拿不下乌克兰",
+          "url": "https://www.toutiao.com/trending/7610449388539743782/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
           "title": "天然气公司NAFTOGAZ首席执行官（CEO）Sergii Koretskyi：俄罗斯无人机摧毁该公司位于乌克兰的天然气生产设施。",
           "url": "https://wallstreetcn.com/livenews/3058252",
           "source": "华尔街见闻-快讯",
@@ -852,8 +1066,85 @@
       ]
     },
     {
+      "keyword_group": "汽车",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "飞行汽车来了 一次亮相4款",
+          "url": "https://www.baidu.com/s?wd=%E9%A3%9E%E8%A1%8C%E6%B1%BD%E8%BD%A6%E6%9D%A5%E4%BA%86+%E4%B8%80%E6%AC%A1%E4%BA%AE%E7%9B%B84%E6%AC%BE",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            25,
+            29,
+            20,
+            27,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[01时21分 ~ 07时41分]"
+        },
+        {
+          "title": "恒生科技指数日内涨幅扩大至1%，小鹏汽车涨超3%，华虹半导体涨2%。",
+          "url": "https://wallstreetcn.com/livenews/3058455",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
+          "title": "恒指高开0.58%，报26745.20点；恒生科技指数涨0.86%。小鹏汽车涨超2%，华虹半导体、中芯国际涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3058435",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
+          "title": "消息人士称，现代汽车集团将宣布在韩国西海岸的新万金地区（SAEMANGEUM）进行大规模投资，建设数据中心、机器人工厂等项目。",
+          "url": "https://flash.jin10.com/detail/20260225093037819800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
+          "title": "世贸组织：专家组将审查印度对电池和电动汽车的措施。 美国对税收抵免报告提出上诉。",
+          "url": "https://wallstreetcn.com/livenews/3058239",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时21分"
+        },
+        {
+          "title": "银河证券：节后多款旗舰新能源产品有望陆续上市 汽车市场消费有望回暖",
+          "url": "https://wallstreetcn.com/livenews/3058412",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "谷歌(GOOG.O)旗下自动驾驶部门Waymo将其自动驾驶叫车服务扩展至美国四座城市。",
@@ -866,6 +1157,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时53分 ~ 04时34分]"
+        },
+        {
+          "title": "谷歌宣布将新建数据中心：承诺电费全包不涨价 绿电+储能齐推进",
+          "url": "https://www.cls.cn/detail/2294085",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
         },
         {
           "title": "谷歌将在明尼苏达州建设数据中心，配套新增太阳能、风电及储能项目",
@@ -954,7 +1256,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时41分"
         }
@@ -986,39 +1288,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "汽车",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "飞行汽车来了 一次亮相4款",
-          "url": "https://www.baidu.com/s?wd=%E9%A3%9E%E8%A1%8C%E6%B1%BD%E8%BD%A6%E6%9D%A5%E4%BA%86+%E4%B8%80%E6%AC%A1%E4%BA%AE%E7%9B%B84%E6%AC%BE",
-          "source": "百度热搜",
-          "ranks": [
-            16,
-            25,
-            29,
-            20,
-            27,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时21分 ~ 07时41分]"
-        },
-        {
-          "title": "世贸组织：专家组将审查印度对电池和电动汽车的措施。 美国对税收抵免报告提出上诉。",
-          "url": "https://wallstreetcn.com/livenews/3058239",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时21分"
         }
       ]
     },
@@ -1066,6 +1335,23 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时52分 ~ 07时41分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "澳大利亚CPI数据公布后，澳元兑美元小幅走高，澳洲股指ASX 200指数涨幅收窄至0.6%，澳大利亚3年期国债收益率上行4个基点。",
+          "url": "https://wallstreetcn.com/livenews/3058410",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
         }
       ]
     },
