@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T21:02:27.015364+08:00",
-  "total_titles_processed": 1631,
+  "generated_at": "2026-02-25T22:47:48.494550+08:00",
+  "total_titles_processed": 1769,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 84,
+      "match_count": 86,
       "titles": [
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
@@ -66,8 +66,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时54分 ~ 21时02分]"
+          "appearance_count": 7,
+          "time_info": "[17时54分 ~ 22时47分]"
         },
         {
           "title": "特朗普声称争取到18万亿美元投资承诺，美媒打脸：纯属虚构",
@@ -107,6 +107,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[03时52分 ~ 07时41分]"
+        },
+        {
+          "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
+          "url": "https://wallstreetcn.com/articles/3766126",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时54分 ~ 22时47分]"
         },
         {
           "title": "特朗普：100%错误",
@@ -181,18 +194,6 @@
           "time_info": "[03时53分 ~ 04时34分]"
         },
         {
-          "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
-          "url": "https://wallstreetcn.com/articles/3766126",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时54分 ~ 21时02分]"
-        },
-        {
           "title": "据福克斯新闻：特朗普表示，伊朗尚未同意放弃核武器。",
           "url": "https://flash.jin10.com/detail/20260225041411754800",
           "source": "金十数据",
@@ -202,6 +203,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
+        },
+        {
+          "title": "墨西哥总统：曾与美国总统特朗普通话，“让其了解针对墨西哥的情况”。",
+          "url": "https://flash.jin10.com/detail/20260225223331337800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时47分"
         },
         {
           "title": "特朗普：伊朗正研制很快打到美国的导弹",
@@ -268,6 +280,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时41分"
+        },
+        {
+          "title": "伊朗强硬回击特朗普国情咨文：弥天大谎",
+          "url": "https://news.ifeng.com/c/8r2aEG9ywSj",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时47分"
         },
         {
           "title": "乌克兰驻美大使斯特凡尼希娜：美国的制裁法案总体而言是一项非常好的法案，若该法案获国会通过，预计美国总统特朗普会予以签署。",
@@ -712,7 +735,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         },
@@ -800,7 +823,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         },
@@ -972,345 +995,8 @@
       ]
     },
     {
-      "keyword_group": "伊朗",
-      "match_count": 27,
-      "titles": [
-        {
-          "title": "在伊朗中国人：华联会已准备撤离方案",
-          "url": "https://www.toutiao.com/trending/7609535429876056107/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时21分 ~ 07时41分]"
-        },
-        {
-          "title": "中方回应“美考虑军事打击伊朗”",
-          "url": "https://www.douyin.com/hot/2410571",
-          "source": "抖音",
-          "ranks": [
-            7,
-            6,
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时21分 ~ 10时01分]"
-        },
-        {
-          "title": "伊朗大规模军演 试射多种导弹",
-          "url": "https://www.douyin.com/hot/2410859",
-          "source": "抖音",
-          "ranks": [
-            2,
-            5,
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时01分 ~ 21时02分]"
-        },
-        {
-          "title": "美大军压境伊朗为何不屈服",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%A4%A7%E5%86%9B%E5%8E%8B%E5%A2%83%E4%BC%8A%E6%9C%97%E4%B8%BA%E4%BD%95%E4%B8%8D%E5%B1%88%E6%9C%8D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            2,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时01分 ~ 19时40分]"
-        },
-        {
-          "title": "伊朗一军用直升机坠毁",
-          "url": "https://www.douyin.com/hot/2410332",
-          "source": "抖音",
-          "ranks": [
-            16,
-            17,
-            18,
-            15,
-            12,
-            25,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时21分 ~ 14时01分]"
-        },
-        {
-          "title": "WW3预热,美国对伊朗动手",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350882&amp;topic_name=WW3%E9%A2%84%E7%83%AD%2C%E7%BE%8E%E5%9B%BD%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8A%A8%E6%89%8B",
-          "source": "贴吧",
-          "ranks": [
-            16,
-            17,
-            23,
-            24,
-            22,
-            25,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时21分 ~ 17时54分]"
-        },
-        {
-          "title": "媒体：伊朗即将购入中国超音速反舰导弹",
-          "url": "https://news.ifeng.com/c/8r1iOMfEAgf",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时27分 ~ 17时54分]"
-        },
-        {
-          "title": "两个因素决定美国是否会攻打伊朗，何时攻打伊朗",
-          "url": "https://news.ifeng.com/c/8r29cDgfx2m",
-          "source": "凤凰网",
-          "ranks": [
-            3,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时54分 ~ 21时02分]"
-        },
-        {
-          "title": "美军参联会主席警告：对伊朗动武可能带来重大风险",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32647811",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时21分 ~ 06时06分]"
-        },
-        {
-          "title": "伊朗副外长：伊方准备好与美方尽快达成协议",
-          "url": "https://flash.jin10.com/detail/20260225011341745800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时21分"
-        },
-        {
-          "title": "德国外交部发言人就即将在日内瓦举行的伊核谈判表示，我们期待伊朗抓住机遇，以建设性方式参与谈判。",
-          "url": "https://flash.jin10.com/detail/20260225202647910800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时02分"
-        },
-        {
-          "title": "据官方媒体报道，伊朗谈判代表团已离开德黑兰，前往日内瓦参加第三轮核谈判。",
-          "url": "https://flash.jin10.com/detail/20260225202053665800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时02分"
-        },
-        {
-          "title": "英媒称美军仅能维持4至5天对伊朗高强度空袭",
-          "url": "https://wallstreetcn.com/livenews/3058314",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时53分 ~ 04时34分]"
-        },
-        {
-          "title": "伊朗外长：希望在最短时间内与美国达成公平协议",
-          "url": "https://wallstreetcn.com/livenews/3058301",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            12,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时01分 ~ 04时34分]"
-        },
-        {
-          "title": "在伊朗中国人：华联会已准备撤离方案",
-          "url": "https://www.baidu.com/s?wd=%E5%9C%A8%E4%BC%8A%E6%9C%97%E4%B8%AD%E5%9B%BD%E4%BA%BA%EF%BC%9A%E5%8D%8E%E8%81%94%E4%BC%9A%E5%B7%B2%E5%87%86%E5%A4%87%E6%92%A4%E7%A6%BB%E6%96%B9%E6%A1%88",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时01分 ~ 12时27分]"
-        },
-        {
-          "title": "据知情人士透露，美国中情局局长拉特克利夫将同国务卿鲁比奥一道，参加美东时间15:00“八人小组”进行的伊朗问题简报会。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3058288",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            23,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时01分 ~ 04时34分]"
-        },
-        {
-          "title": "伊朗外长：希望在最短时间内与美国达成公平协议",
-          "url": "https://flash.jin10.com/detail/20260225025902265800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时53分 ~ 04时34分]"
-        },
-        {
-          "title": "美中情局公开教伊朗人“怎么找它”",
-          "url": "https://www.toutiao.com/trending/7610697188645158955/",
-          "source": "今日头条",
-          "ranks": [
-            29,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时47分 ~ 17时54分]"
-        },
-        {
-          "title": "伊朗外长阿拉格齐：只要优先考虑外交途径，与美国达成核协议是可能的。",
-          "url": "https://flash.jin10.com/detail/20260225125758262800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时01分"
-        },
-        {
-          "title": "伊官员：若美国犯错 伊朗将对其造成重大伤亡",
-          "url": "https://wallstreetcn.com/livenews/3058246",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时21分"
-        },
-        {
-          "title": "市场消息：知情人士透露，美国中情局局长拉特克利夫将同国务卿鲁比奥一道，参加当地时间下午3点向“八人小组”进行的伊朗问题简报会。",
-          "url": "https://flash.jin10.com/detail/20260225021001091800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时01分"
-        },
-        {
-          "title": "伊朗德黑兰一电子产品仓库发生火灾",
-          "url": "https://wallstreetcn.com/livenews/3058245",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时21分"
-        },
-        {
-          "title": "土耳其否认“计划以安全为由入侵伊朗领土”",
-          "url": "https://wallstreetcn.com/livenews/3058748",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时54分"
-        },
-        {
-          "title": "伊朗副外长：伊方准备好与美方尽快达成协议",
-          "url": "https://wallstreetcn.com/livenews/3058276",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时01分"
-        },
-        {
-          "title": "伊朗外交部长：德黑兰将在日内瓦恢复与美国会谈，旨在尽快达成一项公平公正的协议。",
-          "url": "https://flash.jin10.com/detail/20260225015805598800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时01分"
-        },
-        {
-          "title": "伊朗外交部长：我们面临一个历史性机遇，有望达成一项前所未有的协议，解决彼此关切并实现共同利益。",
-          "url": "https://flash.jin10.com/detail/20260225015102991800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时01分"
-        },
-        {
-          "title": "伊朗外交部长：与美国达成协议“只有在外交被置于优先地位”的情况下才触手可及。",
-          "url": "https://flash.jin10.com/detail/20260225015035672800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时01分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 29,
       "titles": [
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
@@ -1373,6 +1059,17 @@
           "time_info": "[07时40分 ~ 15时14分]"
         },
         {
+          "title": "半导体ETF涨1.63%，全球科技股指数ETF涨1.07%，科技行业ETF涨0.88%，在美股盘初领跑行业ETF。",
+          "url": "https://wallstreetcn.com/livenews/3058936",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时47分"
+        },
+        {
           "title": "甲骨文(ORCL.N)美股盘前一度上涨3%。",
           "url": "https://flash.jin10.com/detail/20260225193717302800",
           "source": "金十数据",
@@ -1382,6 +1079,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
+        },
+        {
+          "title": "美股锂矿概念股走强，Sigma Lithium大涨27%，美国雅保涨9.91%，Lithium Argentina AG涨超7%。",
+          "url": "https://flash.jin10.com/detail/20260225223210838800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时47分"
         },
         {
           "title": "美股锂矿概念股盘前走强，Sigma Lithium涨超8%，美国雅保涨超4%，智利矿业化工、Lithium Argentina AG涨约4%。此前消息称津巴布韦据悉暂停出口锂精矿和原矿。",
@@ -1404,6 +1112,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时54分"
+        },
+        {
+          "title": "美股开盘，道指涨0.35%、标普500指数涨0.43%、纳指涨0.67%，英伟达(NVDA.O)开涨1%，公司将于盘后公布四季度财报，甲骨文涨2.5%，此前奥本海默将其评级上调至“跑赢大盘”。",
+          "url": "https://flash.jin10.com/detail/20260225223043019800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时47分"
+        },
+        {
+          "title": "美股三大期指集体走高 英伟达财报重磅来袭 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2295156",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时47分"
         },
         {
           "title": "数字货币市场在美股早盘反弹",
@@ -1538,15 +1268,48 @@
           "time_info": "07时41分"
         },
         {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-02-25）",
+          "url": "https://flash.jin10.com/detail/20260225220210090800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时47分"
+        },
+        {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3058910",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时47分"
+        },
+        {
           "title": "甲骨文美股盘前涨3%，此前Oppenheimer将甲骨文评级从与大盘一致上调至“跑赢大盘”，目标价185美元。",
           "url": "https://wallstreetcn.com/livenews/3058852",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
+        },
+        {
+          "title": "美股期货短线波动不大，美国贸易代表格里尔：正在研究如何实施15%的关税",
+          "url": "https://wallstreetcn.com/livenews/3058905",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时47分"
         },
         {
           "title": "德债收益率在美股盘初短暂地拉升",
@@ -1573,8 +1336,357 @@
       ]
     },
     {
+      "keyword_group": "伊朗",
+      "match_count": 28,
+      "titles": [
+        {
+          "title": "在伊朗中国人：华联会已准备撤离方案",
+          "url": "https://www.toutiao.com/trending/7609535429876056107/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[01时21分 ~ 07时41分]"
+        },
+        {
+          "title": "伊朗大规模军演 试射多种导弹",
+          "url": "https://www.douyin.com/hot/2410859",
+          "source": "抖音",
+          "ranks": [
+            2,
+            5,
+            4,
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时01分 ~ 22时47分]"
+        },
+        {
+          "title": "中方回应“美考虑军事打击伊朗”",
+          "url": "https://www.douyin.com/hot/2410571",
+          "source": "抖音",
+          "ranks": [
+            7,
+            6,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[01时21分 ~ 10时01分]"
+        },
+        {
+          "title": "美大军压境伊朗为何不屈服",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%A4%A7%E5%86%9B%E5%8E%8B%E5%A2%83%E4%BC%8A%E6%9C%97%E4%B8%BA%E4%BD%95%E4%B8%8D%E5%B1%88%E6%9C%8D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            2,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时01分 ~ 19时40分]"
+        },
+        {
+          "title": "伊朗一军用直升机坠毁",
+          "url": "https://www.douyin.com/hot/2410332",
+          "source": "抖音",
+          "ranks": [
+            16,
+            17,
+            18,
+            15,
+            12,
+            25,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[01时21分 ~ 14时01分]"
+        },
+        {
+          "title": "WW3预热,美国对伊朗动手",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350882&amp;topic_name=WW3%E9%A2%84%E7%83%AD%2C%E7%BE%8E%E5%9B%BD%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8A%A8%E6%89%8B",
+          "source": "贴吧",
+          "ranks": [
+            16,
+            17,
+            23,
+            24,
+            22,
+            25,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[01时21分 ~ 17时54分]"
+        },
+        {
+          "title": "媒体：伊朗即将购入中国超音速反舰导弹",
+          "url": "https://news.ifeng.com/c/8r1iOMfEAgf",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时27分 ~ 17时54分]"
+        },
+        {
+          "title": "两个因素决定美国是否会攻打伊朗，何时攻打伊朗",
+          "url": "https://news.ifeng.com/c/8r29cDgfx2m",
+          "source": "凤凰网",
+          "ranks": [
+            3,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时54分 ~ 21时02分]"
+        },
+        {
+          "title": "美军参联会主席警告：对伊朗动武可能带来重大风险",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32647811",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时21分 ~ 06时06分]"
+        },
+        {
+          "title": "伊朗副外长：伊方准备好与美方尽快达成协议",
+          "url": "https://flash.jin10.com/detail/20260225011341745800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时21分"
+        },
+        {
+          "title": "德国外交部发言人就即将在日内瓦举行的伊核谈判表示，我们期待伊朗抓住机遇，以建设性方式参与谈判。",
+          "url": "https://flash.jin10.com/detail/20260225202647910800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
+          "title": "据官方媒体报道，伊朗谈判代表团已离开德黑兰，前往日内瓦参加第三轮核谈判。",
+          "url": "https://flash.jin10.com/detail/20260225202053665800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
+          "title": "英媒称美军仅能维持4至5天对伊朗高强度空袭",
+          "url": "https://wallstreetcn.com/livenews/3058314",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时53分 ~ 04时34分]"
+        },
+        {
+          "title": "伊朗外长：希望在最短时间内与美国达成公平协议",
+          "url": "https://wallstreetcn.com/livenews/3058301",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            12,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时01分 ~ 04时34分]"
+        },
+        {
+          "title": "在伊朗中国人：华联会已准备撤离方案",
+          "url": "https://www.baidu.com/s?wd=%E5%9C%A8%E4%BC%8A%E6%9C%97%E4%B8%AD%E5%9B%BD%E4%BA%BA%EF%BC%9A%E5%8D%8E%E8%81%94%E4%BC%9A%E5%B7%B2%E5%87%86%E5%A4%87%E6%92%A4%E7%A6%BB%E6%96%B9%E6%A1%88",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 12时27分]"
+        },
+        {
+          "title": "据知情人士透露，美国中情局局长拉特克利夫将同国务卿鲁比奥一道，参加美东时间15:00“八人小组”进行的伊朗问题简报会。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3058288",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            23,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时01分 ~ 04时34分]"
+        },
+        {
+          "title": "伊朗外长：希望在最短时间内与美国达成公平协议",
+          "url": "https://flash.jin10.com/detail/20260225025902265800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时53分 ~ 04时34分]"
+        },
+        {
+          "title": "美中情局公开教伊朗人“怎么找它”",
+          "url": "https://www.toutiao.com/trending/7610697188645158955/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时47分 ~ 17时54分]"
+        },
+        {
+          "title": "伊朗外长启程赴日内瓦参加伊美新一轮间接谈判",
+          "url": "https://wallstreetcn.com/livenews/3058921",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时47分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：只要优先考虑外交途径，与美国达成核协议是可能的。",
+          "url": "https://flash.jin10.com/detail/20260225125758262800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时01分"
+        },
+        {
+          "title": "伊官员：若美国犯错 伊朗将对其造成重大伤亡",
+          "url": "https://wallstreetcn.com/livenews/3058246",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时21分"
+        },
+        {
+          "title": "市场消息：知情人士透露，美国中情局局长拉特克利夫将同国务卿鲁比奥一道，参加当地时间下午3点向“八人小组”进行的伊朗问题简报会。",
+          "url": "https://flash.jin10.com/detail/20260225021001091800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时01分"
+        },
+        {
+          "title": "伊朗德黑兰一电子产品仓库发生火灾",
+          "url": "https://wallstreetcn.com/livenews/3058245",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时21分"
+        },
+        {
+          "title": "土耳其否认“计划以安全为由入侵伊朗领土”",
+          "url": "https://wallstreetcn.com/livenews/3058748",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时54分"
+        },
+        {
+          "title": "伊朗副外长：伊方准备好与美方尽快达成协议",
+          "url": "https://wallstreetcn.com/livenews/3058276",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时01分"
+        },
+        {
+          "title": "伊朗外交部长：德黑兰将在日内瓦恢复与美国会谈，旨在尽快达成一项公平公正的协议。",
+          "url": "https://flash.jin10.com/detail/20260225015805598800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时01分"
+        },
+        {
+          "title": "伊朗外交部长：我们面临一个历史性机遇，有望达成一项前所未有的协议，解决彼此关切并实现共同利益。",
+          "url": "https://flash.jin10.com/detail/20260225015102991800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时01分"
+        },
+        {
+          "title": "伊朗外交部长：与美国达成协议“只有在外交被置于优先地位”的情况下才触手可及。",
+          "url": "https://flash.jin10.com/detail/20260225015035672800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时01分"
+        }
+      ]
+    },
+    {
       "keyword_group": "俄罗斯",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "美国、加拿大、英国、法国、俄罗斯，发布“安全警告”",
@@ -1743,7 +1855,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         },
@@ -1757,12 +1869,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "俄罗斯副总理诺瓦克：当前油价水平有利于石油生产和出口。",
+          "url": "https://wallstreetcn.com/livenews/3058900",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时47分"
+        },
+        {
+          "title": "俄罗斯1905年出生女子或成最长寿",
+          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF1905%E5%B9%B4%E5%87%BA%E7%94%9F%E5%A5%B3%E5%AD%90%E6%88%96%E6%88%90%E6%9C%80%E9%95%BF%E5%AF%BF",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时47分"
         }
       ]
     },
     {
       "keyword_group": "汽车",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "比亚迪加入、马年“金融战”再开打！超二十家汽车品牌力推七年低息贷款",
@@ -1775,8 +1909,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时47分 ~ 21时02分]"
+          "appearance_count": 8,
+          "time_info": "[16时47分 ~ 22时47分]"
         },
         {
           "title": "飞行汽车来了 一次亮相4款",
@@ -1804,6 +1938,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
+        },
+        {
+          "title": "宝马集团董事长齐普策随德国总理访华：全球紧密协作才能促进汽车产业繁荣共享",
+          "url": "https://wallstreetcn.com/livenews/3058928",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时47分"
         },
         {
           "title": "福建省印发2026年汽车以旧换新实施细则，最高补贴1.5万元",
@@ -1992,6 +2137,56 @@
       ]
     },
     {
+      "keyword_group": "无人机",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "从俄乌冲突看无人机如何重构空战",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E4%BF%84%E4%B9%8C%E5%86%B2%E7%AA%81%E7%9C%8B%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%A6%82%E4%BD%95%E9%87%8D%E6%9E%84%E7%A9%BA%E6%88%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时47分"
+        },
+        {
+          "title": "俄侦查委员会：乌军无人机袭击俄一化工厂 致7人死亡",
+          "url": "https://wallstreetcn.com/livenews/3058922",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时47分"
+        },
+        {
+          "title": "文件显示，德国将攻击无人机框架协议金额从此前的43亿欧元削减至20亿欧元。",
+          "url": "https://flash.jin10.com/detail/20260225192517450800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时40分"
+        },
+        {
+          "title": "陈茂波：香港将分阶段推行无人机交通管理系统",
+          "url": "https://wallstreetcn.com/livenews/3058559",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时27分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 3,
       "titles": [
@@ -2054,7 +2249,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         },
@@ -2084,8 +2279,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时36分 ~ 21时02分]"
+          "appearance_count": 6,
+          "time_info": "[19时36分 ~ 22时47分]"
         },
         {
           "title": "墨防长：缴获毒枭武器80%来自美国",
@@ -2141,34 +2336,6 @@
       ]
     },
     {
-      "keyword_group": "无人机",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "文件显示，德国将攻击无人机框架协议金额从此前的43亿欧元削减至20亿欧元。",
-          "url": "https://flash.jin10.com/detail/20260225192517450800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时40分"
-        },
-        {
-          "title": "陈茂波：香港将分阶段推行无人机交通管理系统",
-          "url": "https://wallstreetcn.com/livenews/3058559",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时27分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -2195,11 +2362,12 @@
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E9%AB%98%E7%9A%84%E5%B7%B2%E7%BB%8F%E6%8E%A8%E5%87%BA%E7%BA%A2%E7%BB%B3%E6%88%92%E6%8C%87%E4%BA%86&t=31&band_rank=9&Refer=top",
           "source": "微博",
           "ranks": [
-            9
+            9,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时02分 ~ 22时47分]"
         }
       ]
     },
