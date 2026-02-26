@@ -1,25 +1,12 @@
 {
-  "generated_at": "2026-02-26T19:39:49.476732+08:00",
-  "total_titles_processed": 1658,
+  "generated_at": "2026-02-26T21:03:02.685031+08:00",
+  "total_titles_processed": 1788,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 42,
+      "match_count": 47,
       "titles": [
-        {
-          "title": "中方正密切关注伊朗局势发展",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E6%AD%A3%E5%AF%86%E5%88%87%E5%85%B3%E6%B3%A8%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF%E5%8F%91%E5%B1%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时45分 ~ 19时39分]"
-        },
         {
           "title": "白宫官员希望以色列先打击伊朗",
           "url": "https://news.ifeng.com/c/8r3lr4eCVvP",
@@ -28,8 +15,22 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时45分 ~ 19时39分]"
+          "appearance_count": 7,
+          "time_info": "[16时45分 ~ 21时03分]"
+        },
+        {
+          "title": "中方正密切关注伊朗局势发展",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E6%AD%A3%E5%AF%86%E5%88%87%E5%85%B3%E6%B3%A8%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF%E5%8F%91%E5%B1%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            4,
+            3,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时45分 ~ 21时03分]"
         },
         {
           "title": "如美发动攻击，中俄会否联手支援伊朗？外交部回应",
@@ -39,8 +40,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时48分 ~ 19时39分]"
+          "appearance_count": 6,
+          "time_info": "[17时48分 ~ 21时03分]"
+        },
+        {
+          "title": "如果美国对伊朗发动攻击，中国是否会和俄罗斯一道支持伊朗？外交部回应",
+          "url": "https://www.cls.cn/detail/2295813",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时48分 ~ 21时03分]"
         },
         {
           "title": "美国国务卿鲁比奥：伊朗正试图研制洲际弹道导弹。",
@@ -76,6 +90,17 @@
           "time_info": "07时27分"
         },
         {
+          "title": "伊朗伊斯兰共和国通讯社（IRNA）：伊美谈判将于数小时后恢复。",
+          "url": "https://flash.jin10.com/detail/20260226203652251800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
+        },
+        {
           "title": "美国国务卿鲁比奥：伊朗拥有旨在攻击美国的常规武器。",
           "url": "https://flash.jin10.com/detail/20260226065927497800",
           "source": "金十数据",
@@ -96,19 +121,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
-        },
-        {
-          "title": "如果美国对伊朗发动攻击，中国是否会和俄罗斯一道支持伊朗？外交部回应",
-          "url": "https://www.cls.cn/detail/2295813",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时48分 ~ 19时39分]"
         },
         {
           "title": "美国副总统万斯：我们看到证据表明伊朗正试图重建核武器。",
@@ -167,6 +179,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时48分 ~ 17时49分]"
+        },
+        {
+          "title": "中国是否会与俄罗斯一道支持伊朗抵御美国侵略？外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32653060",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时02分 ~ 21时03分]"
+        },
+        {
+          "title": "伊朗媒体说伊美新一轮间接谈判暂停",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%AA%92%E4%BD%93%E8%AF%B4%E4%BC%8A%E7%BE%8E%E6%96%B0%E4%B8%80%E8%BD%AE%E9%97%B4%E6%8E%A5%E8%B0%88%E5%88%A4%E6%9A%82%E5%81%9C%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时02分 ~ 21时03分]"
         },
         {
           "title": "伊朗外交部发言人：美国应该在谈判现场发表声明，而不是在媒体层面。",
@@ -274,9 +308,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
+        },
+        {
+          "title": "市场消息：伊朗-美国核谈判暂停，预计将在日内瓦时间下午晚些时候恢复。",
+          "url": "https://flash.jin10.com/detail/20260226201938260800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
         },
         {
           "title": "美财政部发布涉伊朗最新制裁名单",
@@ -299,6 +344,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时45分"
+        },
+        {
+          "title": "伊朗官员：若伊美谈判核心为伊朗不发展核武器 有望迅速达成协议",
+          "url": "https://wallstreetcn.com/livenews/3059554",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
         },
         {
           "title": "美方公布新一轮涉伊朗制裁名单",
@@ -480,7 +536,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
@@ -550,8 +606,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时57分 ~ 19时39分]"
+          "appearance_count": 9,
+          "time_info": "[13时57分 ~ 21时03分]"
         },
         {
           "title": "梳理｜特朗普吹、民主党骂，回看美国史上最长国情咨文",
@@ -589,6 +645,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时33分 ~ 07时27分]"
+        },
+        {
+          "title": "特朗普白宫设宴，请美国男子冰球队吃麦当劳",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32658507",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时44分 ~ 21时03分]"
+        },
+        {
+          "title": "特朗普和泽连斯基通话30分钟，谈及俄乌冲突结束时间",
+          "url": "https://news.ifeng.com/c/8r3yuvat2ge",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时39分 ~ 21时03分]"
         },
         {
           "title": "被批“脱离群众”，特朗普演讲后民调出炉",
@@ -650,16 +730,26 @@
           "time_info": "[06时33分 ~ 07时27分]"
         },
         {
-          "title": "特朗普白宫设宴，请美国男子冰球队吃麦当劳",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32658507",
-          "source": "澎湃新闻",
+          "title": "特朗普将召集科技巨头签自行发电承诺",
+          "url": "https://www.toutiao.com/trending/7610290087637123126/",
+          "source": "今日头条",
           "ranks": [
-            16,
-            14
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时44分 ~ 19时39分]"
+          "time_info": "[21时02分 ~ 21时03分]"
+        },
+        {
+          "title": "特朗普威胁将教父饰演者驱逐出境",
+          "url": "https://www.toutiao.com/trending/7610586645797863478/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时02分 ~ 21时03分]"
         },
         {
           "title": "特朗普把国情咨文演讲开成吹牛大会",
@@ -694,17 +784,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时18分"
-        },
-        {
-          "title": "特朗普和泽连斯基通话30分钟，谈及俄乌冲突结束时间",
-          "url": "https://news.ifeng.com/c/8r3yuvat2ge",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时39分"
         },
         {
           "title": "美国堪萨斯城联储主席Schmid：（总统特朗普的美联储主席提名人）凯文·沃什出任美联储理事将是合适的。",
@@ -798,8 +877,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时27分 ~ 19时39分]"
+          "appearance_count": 13,
+          "time_info": "[07时27分 ~ 21时03分]"
         },
         {
           "title": "静待英伟达财报，美股指高开，纳指涨幅扩大至1%，科技股普涨，现货黄金日内涨超1%",
@@ -967,7 +1046,7 @@
     },
     {
       "keyword_group": "俄罗斯",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "市场消息：白俄罗斯总统卢卡申科与俄罗斯总统普京举行会晤。",
@@ -976,7 +1055,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
         },
@@ -1033,9 +1112,31 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
+        },
+        {
+          "title": "俄罗斯国防部：莫斯科时间12点至14点期间，执行任务的防空系统拦截并摧毁了35架在布良斯克地区上空飞行的乌克兰无人机。",
+          "url": "https://flash.jin10.com/detail/20260226202346415800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
+        },
+        {
+          "title": "俄罗斯国防部：将英国军队部署至乌克兰不会结束冲突，反而会延长战争。",
+          "url": "https://flash.jin10.com/detail/20260226202302487800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
         },
         {
           "title": "俄罗斯",
@@ -1058,6 +1159,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "白俄罗斯总统卢卡申科：俄罗斯与白俄罗斯之间集体安全条约的实际实施已经开始。",
+          "url": "https://flash.jin10.com/detail/20260226200928610800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
         },
         {
           "title": "据知情人士透露，俄罗斯考虑因油价下跌而下调2026年GDP预期。（彭博）",
@@ -1091,6 +1203,104 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "汽车",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "2025全球汽车销量TOP10出炉！中国品牌“三强聚首” 比亚迪排名创新高",
+          "url": "https://www.cls.cn/detail/2296081",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时44分 ~ 21时03分]"
+        },
+        {
+          "title": "丰田汽车最新财报净利润暴跌 43%，CFO 近健太接任社长，此次人事变动是出于哪些考量？",
+          "url": "https://www.zhihu.com/question/2009187744631497288",
+          "source": "知乎",
+          "ranks": [
+            4,
+            5,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时56分 ~ 15时02分]"
+        },
+        {
+          "title": "小汽车翻入沟渠 一家6口砸车窗救人",
+          "url": "https://www.toutiao.com/trending/7610693729093124146/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时56分 ~ 09时57分]"
+        },
+        {
+          "title": "周三（2月25日），彭博电动汽车价格回报指数涨1.77%，报3758.97点，亚太早盘持续上涨，北京时间10:00以来持续高位震荡。",
+          "url": "https://wallstreetcn.com/livenews/3059100",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时27分"
+        },
+        {
+          "title": "纳斯达克中国金龙指数最新下跌1%，小鹏汽车(XPEV.N)跌超3%，小牛电动(NIU.O)、中通快递(ZTO.N)跌超2%。",
+          "url": "https://flash.jin10.com/detail/20260225234124110800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时02分"
+        },
+        {
+          "title": "丰田：1月份母公司全球汽车产量同比下降6.0%，至735,097辆。1月份日本本土仅面向本国市场的汽车产量同比下降6.1%，至249,827辆。",
+          "url": "https://flash.jin10.com/detail/20260226123035777800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时57分"
+        },
+        {
+          "title": "浙江：建强中德合作平台 在汽车、机械制造、化工及人工智能、绿色低碳等领域加强双向投资",
+          "url": "https://wallstreetcn.com/livenews/3059541",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
+        },
+        {
+          "title": "斯泰兰蒂斯（Stellantis）考虑在欧洲的汽车中使用零跑汽车的电动汽车技术。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3059540",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
         }
       ]
     },
@@ -1181,77 +1391,83 @@
       ]
     },
     {
-      "keyword_group": "汽车",
+      "keyword_group": "无人机",
       "match_count": 6,
       "titles": [
         {
-          "title": "丰田汽车最新财报净利润暴跌 43%，CFO 近健太接任社长，此次人事变动是出于哪些考量？",
-          "url": "https://www.zhihu.com/question/2009187744631497288",
-          "source": "知乎",
+          "title": "从俄乌冲突看无人机如何重构空战",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E4%BF%84%E4%B9%8C%E5%86%B2%E7%AA%81%E7%9C%8B%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%A6%82%E4%BD%95%E9%87%8D%E6%9E%84%E7%A9%BA%E6%88%98",
+          "source": "bilibili 热搜",
           "ranks": [
-            4,
-            5,
+            28,
             8,
-            10
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时56分 ~ 15时02分]"
+          "appearance_count": 9,
+          "time_info": "[00时01分 ~ 09时57分]"
         },
         {
-          "title": "2025全球汽车销量TOP10出炉！中国品牌“三强聚首” 比亚迪排名创新高",
-          "url": "https://www.cls.cn/detail/2296081",
-          "source": "财联社热门",
+          "title": "无人机超高“黑飞”50余次、最高2700米影响民航飞行安全，男子被刑拘",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32658513",
+          "source": "澎湃新闻",
           "ranks": [
-            4
+            20,
+            17,
+            15,
+            14,
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时44分 ~ 19时39分]"
+          "appearance_count": 8,
+          "time_info": "[15时02分 ~ 21时03分]"
         },
         {
-          "title": "小汽车翻入沟渠 一家6口砸车窗救人",
-          "url": "https://www.toutiao.com/trending/7610693729093124146/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时56分 ~ 09时57分]"
-        },
-        {
-          "title": "周三（2月25日），彭博电动汽车价格回报指数涨1.77%，报3758.97点，亚太早盘持续上涨，北京时间10:00以来持续高位震荡。",
-          "url": "https://wallstreetcn.com/livenews/3059100",
+          "title": "乌称遭俄39枚导弹420架无人机袭击",
+          "url": "https://wallstreetcn.com/livenews/3059471",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            5,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时49分 ~ 18时44分]"
+        },
+        {
+          "title": "乌称遭俄39枚导弹420架无人机袭击",
+          "url": "https://flash.jin10.com/detail/20260226171625812800",
+          "source": "金十数据",
+          "ranks": [
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时27分"
+          "time_info": "17时49分"
         },
         {
-          "title": "纳斯达克中国金龙指数最新下跌1%，小鹏汽车(XPEV.N)跌超3%，小牛电动(NIU.O)、中通快递(ZTO.N)跌超2%。",
-          "url": "https://flash.jin10.com/detail/20260225234124110800",
+          "title": "市场消息：瑞典国防部队对无人机采取了“应对措施”。",
+          "url": "https://flash.jin10.com/detail/20260226202133430800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
+        },
+        {
+          "title": "据AXIOS网站：美国陆军斥资1.86亿美元采购“弹簧刀无人机”。",
+          "url": "https://flash.jin10.com/detail/20260226201412762800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时02分"
-        },
-        {
-          "title": "丰田：1月份母公司全球汽车产量同比下降6.0%，至735,097辆。1月份日本本土仅面向本国市场的汽车产量同比下降6.1%，至249,827辆。",
-          "url": "https://flash.jin10.com/detail/20260226123035777800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时57分"
+          "time_info": "21时03分"
         }
       ]
     },
@@ -1306,67 +1522,9 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "无人机",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "从俄乌冲突看无人机如何重构空战",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E4%BF%84%E4%B9%8C%E5%86%B2%E7%AA%81%E7%9C%8B%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%A6%82%E4%BD%95%E9%87%8D%E6%9E%84%E7%A9%BA%E6%88%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28,
-            8,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时01分 ~ 09时57分]"
-        },
-        {
-          "title": "无人机超高“黑飞”50余次、最高2700米影响民航飞行安全，男子被刑拘",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32658513",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            17,
-            15,
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时02分 ~ 19时39分]"
-        },
-        {
-          "title": "乌称遭俄39枚导弹420架无人机袭击",
-          "url": "https://wallstreetcn.com/livenews/3059471",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时49分 ~ 18时44分]"
-        },
-        {
-          "title": "乌称遭俄39枚导弹420架无人机袭击",
-          "url": "https://flash.jin10.com/detail/20260226171625812800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时49分"
         }
       ]
     },
@@ -1434,7 +1592,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
         },
@@ -1445,7 +1603,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
         }
@@ -1520,6 +1678,35 @@
       ]
     },
     {
+      "keyword_group": "战争",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "胡锡进：在俄乌的中国人都须小心谨慎，决不卷入战争和政治",
+          "url": "https://news.ifeng.com/c/8r43KfZZApm",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时02分 ~ 21时03分]"
+        },
+        {
+          "title": "外交部：核武器用不得核战争打不得",
+          "url": "https://www.toutiao.com/trending/7609749816309989395/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时35分 ~ 05时34分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "武器",
       "match_count": 2,
       "titles": [
@@ -1543,7 +1730,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
         }
@@ -1563,24 +1750,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时34分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "战争",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "外交部：核武器用不得核战争打不得",
-          "url": "https://www.toutiao.com/trending/7609749816309989395/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时35分 ~ 05时34分]"
         }
       ]
     }
