@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-27T16:39:56.999692+08:00",
-  "total_titles_processed": 1416,
+  "generated_at": "2026-02-27T17:40:01.431037+08:00",
+  "total_titles_processed": 1519,
   "failed_sources": [],
   "trends": [
     {
@@ -39,8 +39,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时55分 ~ 16时39分]"
+          "appearance_count": 11,
+          "time_info": "[09时55分 ~ 17时40分]"
         },
         {
           "title": "中方正密切关注伊朗局势发展",
@@ -95,6 +95,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时43分"
+        },
+        {
+          "title": "伊朗外交部发言人：本轮伊美谈判非常深入",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32661028",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时52分 ~ 17时40分]"
         },
         {
           "title": "伊朗拒绝向国外转移浓缩铀",
@@ -189,19 +203,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时36分 ~ 05时31分]"
-        },
-        {
-          "title": "伊朗外交部发言人：本轮伊美谈判非常深入",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32661028",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时52分 ~ 16时39分]"
         },
         {
           "title": "伊朗警告：将让侵略者付出惨重代价",
@@ -339,7 +340,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时39分"
         },
@@ -613,11 +614,12 @@
             18,
             15,
             19,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时55分 ~ 16时39分]"
+          "appearance_count": 11,
+          "time_info": "[09时55分 ~ 17时40分]"
         },
         {
           "title": "特朗普和泽连斯基通话30分钟，谈及俄乌冲突结束时间",
@@ -645,6 +647,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时57分 ~ 07时28分]"
+        },
+        {
+          "title": "史无前例！联合国宣布特朗普夫人将主持安理会会议",
+          "url": "https://news.ifeng.com/c/8r5F4LVejaT",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时52分 ~ 17时40分]"
         },
         {
           "title": "消息人士：没有美国情报支持美国总统特朗普关于伊朗“很快”将拥有可抵达美国的导弹的说法。",
@@ -692,18 +706,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时52分 ~ 15时46分]"
-        },
-        {
-          "title": "史无前例！联合国宣布特朗普夫人将主持安理会会议",
-          "url": "https://news.ifeng.com/c/8r5F4LVejaT",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时52分 ~ 16时39分]"
         },
         {
           "title": "特朗普旨在引导古巴加大对美依赖",
@@ -781,6 +783,30 @@
           "time_info": "[12时13分 ~ 13时52分]"
         },
         {
+          "title": "爱泼斯坦案风波延烧，希拉里一句话把矛头指向特朗普",
+          "url": "https://news.ifeng.com/c/8r5SIs2UIPN",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时39分 ~ 17时40分]"
+        },
+        {
+          "title": "美军中东最高指挥官向特朗普汇报",
+          "url": "https://www.toutiao.com/trending/7611361368545280036/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时39分 ~ 17时40分]"
+        },
+        {
           "title": "美国参议院民主党成员Warren发函货币监理署（OCC）、联邦存款保险公司（FDID）、以及EREBOR Bank。 Warren向亚马逊询问，总统特朗普的关税是否造成（该公司）涨价。",
           "url": "https://wallstreetcn.com/livenews/3059695",
           "source": "华尔街见闻-快讯",
@@ -849,17 +875,6 @@
           "time_info": "00时57分"
         },
         {
-          "title": "爱泼斯坦案风波延烧，希拉里一句话把矛头指向特朗普",
-          "url": "https://news.ifeng.com/c/8r5SIs2UIPN",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时39分"
-        },
-        {
           "title": "据《今日以色列》：美国官员称，特朗普预计将在周五召集高级顾问，详细讨论伊朗问题，并决定对德黑兰的行动方针。讨论的重点不是袭击是否会发生，而是其范围和潜在目标。官员表示，讨论的选项包括核设施、导弹基地、国家机构和基础设施。",
           "url": "https://flash.jin10.com/detail/20260227053249656800",
           "source": "金十数据",
@@ -902,17 +917,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时32分"
-        },
-        {
-          "title": "美军中东最高指挥官向特朗普汇报",
-          "url": "https://www.toutiao.com/trending/7611361368545280036/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时39分"
         },
         {
           "title": "美军驻中东最高将领向特朗普汇报针对伊朗的军事选项",
@@ -1215,7 +1219,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "美股收盘：英伟达绩后再现惯性跳水 拖累纳指跌超1%",
@@ -1336,6 +1340,17 @@
           "time_info": "15时46分"
         },
         {
+          "title": "奈飞美股盘前涨近9%，放弃竞购华纳兄弟，派拉蒙成为赢家；戴尔科技盘前涨逾12%，公司预计今年AI服务器收入将翻倍。",
+          "url": "https://wallstreetcn.com/livenews/3060167",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
+        },
+        {
           "title": "戴尔(DELL.N)美股盘后涨幅扩大至12%。",
           "url": "https://flash.jin10.com/detail/20260227053003552800",
           "source": "金十数据",
@@ -1416,7 +1431,7 @@
     },
     {
       "keyword_group": "俄罗斯",
-      "match_count": 9,
+      "match_count": 14,
       "titles": [
         {
           "title": "冬奥花滑冠军刘美贤遭俄罗斯粉丝吐槽",
@@ -1434,6 +1449,28 @@
           "time_info": "[00时57分 ~ 07时28分]"
         },
         {
+          "title": "据俄新社：俄罗斯国防部表示，俄罗斯军队控制了乌克兰第聂伯罗彼得罗夫斯克州的比利亚基夫卡。",
+          "url": "https://flash.jin10.com/detail/20260227172704935800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
+        },
+        {
+          "title": "俄罗斯国防部：过去一周，俄罗斯军队对乌克兰的军事目标进行了两次大规模打击和六次小组打击。",
+          "url": "https://flash.jin10.com/detail/20260227172639550800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
+        },
+        {
           "title": "据俄新社：若巴基斯坦和阿富汗双方提出请求，俄罗斯将考虑进行调解。",
           "url": "https://flash.jin10.com/detail/20260227133317689800",
           "source": "金十数据",
@@ -1443,6 +1480,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
+        },
+        {
+          "title": "比尔·盖茨承认与 2 名俄罗斯女子有婚外情，称与爱泼斯坦往来是「巨大错误」，如何评价这一道歉？",
+          "url": "https://www.zhihu.com/question/2010047778584224612",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时39分 ~ 17时40分]"
+        },
+        {
+          "title": "俄罗斯在强迫外国人参军吗",
+          "url": "https://www.toutiao.com/trending/7611409655276768819/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时39分 ~ 17时40分]"
         },
         {
           "title": "乌克兰副总理：俄罗斯昨夜袭击了乌克兰敖德萨地区的港口基础设施。",
@@ -1489,6 +1548,17 @@
           "time_info": "03时43分"
         },
         {
+          "title": "瑞典拦截疑似俄罗斯无人机，当时该无人机正接近停泊在马尔默港的法国“戴高乐”号航空母舰。",
+          "url": "https://flash.jin10.com/detail/20260227171112212800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
+        },
+        {
           "title": "俄罗斯莫斯科州长：击落4架飞往莫斯科的无人机。",
           "url": "https://flash.jin10.com/detail/20260227002221184800",
           "source": "金十数据",
@@ -1525,7 +1595,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "2025全球汽车销量TOP10出炉！中国品牌“三强聚首” 比亚迪排名创新高",
@@ -1548,11 +1618,35 @@
             21,
             13,
             10,
-            12
+            12,
+            17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时55分 ~ 16时39分]"
+          "appearance_count": 11,
+          "time_info": "[09时55分 ~ 17时40分]"
+        },
+        {
+          "title": "理想汽车：将于2026年3月12日公布2025年第四季度及全年财务业绩。",
+          "url": "https://wallstreetcn.com/livenews/3060163",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
+        },
+        {
+          "title": "媒体评新能源汽车关灯惊魂",
+          "url": "https://www.toutiao.com/trending/7611438470594039339/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时39分 ~ 17时40分]"
         },
         {
           "title": "韩国首尔综指转涨，收复早盘2.4%的跌幅，因现代汽车持续上涨。",
@@ -1600,24 +1694,13 @@
           "time_info": "12时13分"
         },
         {
-          "title": "媒体评新能源汽车关灯惊魂",
-          "url": "https://www.toutiao.com/trending/7611438470594039339/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时39分"
-        },
-        {
           "title": "印度2025年新能源汽车年销量增长17%至逾240万辆",
           "url": "https://wallstreetcn.com/livenews/3060100",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时39分"
         },
@@ -1635,75 +1718,8 @@
       ]
     },
     {
-      "keyword_group": "战争",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "巴基斯坦防长宣布对阿富汗展开“公开战争”",
-          "url": "https://www.cls.cn/detail/2296786",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时51分 ~ 16时39分]"
-        },
-        {
-          "title": "巴基斯坦防长宣布对阿富汗展开“公开战争”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32664807",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时51分 ~ 16时39分]"
-        },
-        {
-          "title": "巴防长宣布与阿进入公开战争",
-          "url": "https://www.douyin.com/hot/2413030",
-          "source": "抖音",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时39分"
-        },
-        {
-          "title": "未来战争如果机器人完全取代了人类士兵，是否会出现到人类的意志对战争形势无法起到任何影响的情况?",
-          "url": "https://www.zhihu.com/question/536760105",
-          "source": "知乎",
-          "ranks": [
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时52分 ~ 16时39分]"
-        },
-        {
-          "title": "巴基斯坦防长宣布对阿富汗展开“公开战争”",
-          "url": "https://wallstreetcn.com/livenews/3059942",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时13分"
-        }
-      ]
-    },
-    {
       "keyword_group": "无人机",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
         {
           "title": "无人机超高“黑飞”50余次、最高2700米影响民航飞行安全，男子被刑拘",
@@ -1720,6 +1736,50 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时57分 ~ 13时52分]"
+        },
+        {
+          "title": "美方通报：击落自家无人机",
+          "url": "https://news.ifeng.com/c/8r5VHNU6aYk",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时39分 ~ 17时40分]"
+        },
+        {
+          "title": "阿富汗塔利班发言人：阿富汗塔利班对巴基斯坦目标发动了无人机袭击。",
+          "url": "https://flash.jin10.com/detail/20260227171806625800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
+        },
+        {
+          "title": "巴基斯坦信息部长：巴基斯坦的反无人机系统击落所有无人机，未造成人员伤亡。",
+          "url": "https://flash.jin10.com/detail/20260227171637672800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
+        },
+        {
+          "title": "巴基斯坦信息部长：巴基斯坦塔利班武装分子曾试图利用无人机对巴基斯坦境内目标发动袭击。",
+          "url": "https://flash.jin10.com/detail/20260227171451580800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
         },
         {
           "title": "美军首支自杀式无人机部队已做好行动准备",
@@ -1768,9 +1828,92 @@
       ]
     },
     {
+      "keyword_group": "战争",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "巴基斯坦防长宣布对阿富汗展开“公开战争”",
+          "url": "https://www.cls.cn/detail/2296786",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时51分 ~ 17时40分]"
+        },
+        {
+          "title": "巴基斯坦防长宣布对阿富汗展开“公开战争”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32664807",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时51分 ~ 17时40分]"
+        },
+        {
+          "title": "巴防长宣布与阿进入公开战争",
+          "url": "https://www.douyin.com/hot/2413030",
+          "source": "抖音",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时39分 ~ 17时40分]"
+        },
+        {
+          "title": "未来战争如果机器人完全取代了人类士兵，是否会出现到人类的意志对战争形势无法起到任何影响的情况?",
+          "url": "https://www.zhihu.com/question/536760105",
+          "source": "知乎",
+          "ranks": [
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时52分 ~ 16时39分]"
+        },
+        {
+          "title": "巴基斯坦防长宣布对阿富汗展开“公开战争”",
+          "url": "https://wallstreetcn.com/livenews/3059942",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时13分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 4,
       "titles": [
+        {
+          "title": "硅谷“最贵华人”被OpenAI挖走",
+          "url": "https://www.baidu.com/s?wd=%E7%A1%85%E8%B0%B7%E2%80%9C%E6%9C%80%E8%B4%B5%E5%8D%8E%E4%BA%BA%E2%80%9D%E8%A2%ABOpenAI%E6%8C%96%E8%B5%B0",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            26,
+            23,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时51分 ~ 17时40分]"
+        },
         {
           "title": "OpenAI：将与加拿大执法机构建立直接联系渠道，承诺与加拿大政府和专家合作，继续强化我们的强化执法转介标准。",
           "url": "https://flash.jin10.com/detail/20260227062334976800",
@@ -1781,19 +1924,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时32分"
-        },
-        {
-          "title": "硅谷“最贵华人”被OpenAI挖走",
-          "url": "https://www.baidu.com/s?wd=%E7%A1%85%E8%B0%B7%E2%80%9C%E6%9C%80%E8%B4%B5%E5%8D%8E%E4%BA%BA%E2%80%9D%E8%A2%ABOpenAI%E6%8C%96%E8%B5%B0",
-          "source": "百度热搜",
-          "ranks": [
-            20,
-            26,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时51分 ~ 16时39分]"
         },
         {
           "title": "据华尔街日报：OpenAI创始人Sam Altman的Tools for Humanity与Gap、Visa、Tinder合作，推广World ID人类验证产品（区分人类与机器人的身份验证技术）。",
