@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T13:52:04.171271+08:00",
-  "total_titles_processed": 1128,
+  "generated_at": "2026-02-27T14:52:43.889084+08:00",
+  "total_titles_processed": 1226,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 45,
+      "match_count": 46,
       "titles": [
         {
           "title": "白宫官员希望以色列先打击伊朗",
@@ -68,8 +68,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时57分 ~ 13时52分]"
+          "appearance_count": 14,
+          "time_info": "[00时57分 ~ 14时52分]"
         },
         {
           "title": "伊美第三轮谈判结束，伊朗外长称取得良好进展，美媒称美方谈判期间感到失望",
@@ -81,8 +81,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时55分 ~ 13时52分]"
+          "appearance_count": 6,
+          "time_info": "[09时55分 ~ 14时52分]"
         },
         {
           "title": "伊朗外长Abbas Araghchi在国家电视台表示：今天的谈判属于最严肃的磋商之一。",
@@ -190,6 +190,18 @@
           "time_info": "[04时36分 ~ 05时31分]"
         },
         {
+          "title": "伊朗石油出货量为何突然飙升",
+          "url": "https://www.toutiao.com/trending/7611366925066571302/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时51分 ~ 14时52分]"
+        },
+        {
           "title": "据伊朗塔斯尼姆通讯社：伊朗外长阿拉格齐与威特科夫的会晤仅限于握手和礼节。",
           "url": "https://flash.jin10.com/detail/20260227021855722800",
           "source": "金十数据",
@@ -248,17 +260,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时43分 ~ 04时36分]"
-        },
-        {
-          "title": "伊朗石油出货量为何突然飙升",
-          "url": "https://www.toutiao.com/trending/7611366925066571302/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时51分 ~ 13时52分]"
         },
         {
           "title": "伊朗威胁美国",
@@ -367,7 +368,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
         },
@@ -392,6 +393,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时13分"
+        },
+        {
+          "title": "伊朗外交部发言人：本轮伊美谈判非常深入",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32661028",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
         },
         {
           "title": "据伊朗国家电视台：美国代表团参加伊朗问题会谈的车辆离开会场。",
@@ -529,7 +541,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
         {
           "title": "特朗普白宫设宴，请美国男子冰球队吃麦当劳",
@@ -573,6 +585,19 @@
           "time_info": "[00时57分 ~ 07时28分]"
         },
         {
+          "title": "AI挤崩电网、引爆电费？特朗普要求科技巨头自建电厂压电价",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32660479",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时55分 ~ 14时52分]"
+        },
+        {
           "title": "消息人士：没有美国情报支持美国总统特朗普关于伊朗“很快”将拥有可抵达美国的导弹的说法。",
           "url": "https://flash.jin10.com/detail/20260227114444531800",
           "source": "金十数据",
@@ -584,6 +609,30 @@
           "time_info": "12时13分"
         },
         {
+          "title": "白宫：特朗普愿在无前提条件下与金正恩对话",
+          "url": "https://news.ifeng.com/c/8r4zqmCwYJf",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时13分 ~ 14时52分]"
+        },
+        {
+          "title": "特朗普2026国会演讲全解析",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE2026%E5%9B%BD%E4%BC%9A%E6%BC%94%E8%AE%B2%E5%85%A8%E8%A7%A3%E6%9E%90",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
+        },
+        {
           "title": "美中东最高指挥官向特朗普汇报对伊朗军事选项",
           "url": "https://wallstreetcn.com/livenews/3059912",
           "source": "华尔街见闻-快讯",
@@ -593,31 +642,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
-        },
-        {
-          "title": "白宫：特朗普愿在无前提条件下与金正恩对话",
-          "url": "https://news.ifeng.com/c/8r4zqmCwYJf",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时13分 ~ 13时52分]"
-        },
-        {
-          "title": "AI挤崩电网、引爆电费？特朗普要求科技巨头自建电厂压电价",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32660479",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时55分 ~ 13时52分]"
         },
         {
           "title": "特朗普旨在引导古巴加大对美依赖",
@@ -717,6 +741,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时31分 ~ 06时32分]"
+        },
+        {
+          "title": "史无前例！联合国宣布特朗普夫人将主持安理会会议",
+          "url": "https://news.ifeng.com/c/8r5F4LVejaT",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
         },
         {
           "title": "市场消息：特朗普要求美国最高法院终止对叙利亚移民的保护。",
@@ -876,7 +911,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "谷歌正就TPU租赁合资事宜进行洽谈；谷歌已与投资基金签署协议，将成立TPU租赁合资企业。（The Information）",
@@ -888,6 +923,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
+        },
+        {
+          "title": "谷歌Nano Banana 2亮相：专业能力全面下放 成本腰斩一半",
+          "url": "https://www.cls.cn/detail/2296526",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时55分 ~ 14时52分]"
         },
         {
           "title": "知情人士称，Meta已与谷歌签署协议，将租赁其AI芯片以开发新的AI模型。（The Information）",
@@ -943,18 +990,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
-        },
-        {
-          "title": "谷歌Nano Banana 2亮相：专业能力全面下放 成本腰斩一半",
-          "url": "https://www.cls.cn/detail/2296526",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时55分 ~ 13时52分]"
         },
         {
           "title": "谷歌：推出更快版本的最新图像模型Nano Banana 2，并将在谷歌旗下各产品中逐步上线。",
@@ -1016,13 +1051,24 @@
           "time_info": "09时56分"
         },
         {
+          "title": "谷歌的“豆包手机”来了？",
+          "url": "https://news.ifeng.com/c/8r5Hb8yN4Fm",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
+        },
+        {
           "title": "韩国批准谷歌的地图数据出口申请。",
           "url": "https://flash.jin10.com/detail/20260227130247973800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
         },
@@ -1066,7 +1112,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
         },
@@ -1118,8 +1164,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时28分 ~ 13时52分]"
+          "appearance_count": 7,
+          "time_info": "[07时28分 ~ 14时52分]"
         },
         {
           "title": "美股三大期指集体走高 英伟达盘前上涨 | 今夜看点",
@@ -1286,7 +1332,7 @@
     },
     {
       "keyword_group": "俄罗斯",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "冬奥花滑冠军刘美贤遭俄罗斯粉丝吐槽",
@@ -1310,9 +1356,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
+        },
+        {
+          "title": "乌克兰副总理：俄罗斯昨夜袭击了乌克兰敖德萨地区的港口基础设施。",
+          "url": "https://flash.jin10.com/detail/20260227143348616800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
         },
         {
           "title": "据俄新社：俄罗斯总统特别代表德米特里耶夫在日内瓦与美国官员举行会谈。",
@@ -1368,6 +1425,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时57分"
+        },
+        {
+          "title": "俄罗斯内部财务压力渐显 制裁与收入下滑冲击俄企",
+          "url": "https://flash.jin10.com/detail/20260227135205296800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
         }
       ]
     },
@@ -1393,11 +1461,24 @@
           "source": "百度热搜",
           "ranks": [
             1,
-            21
+            21,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时55分 ~ 13时52分]"
+          "appearance_count": 6,
+          "time_info": "[09时55分 ~ 14时52分]"
+        },
+        {
+          "title": "韩国首尔综指转涨，收复早盘2.4%的跌幅，因现代汽车持续上涨。",
+          "url": "https://wallstreetcn.com/livenews/3060004",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 14时52分]"
         },
         {
           "title": "恒指高开0.25%，报26447.05点；恒生科技指数涨0.15%。药明生物涨近5%，商汤涨超4%，腾讯音乐涨超3%，携程、小鹏汽车、理想汽车涨超1%。百度跌超1%，此前公布财报。",
@@ -1409,17 +1490,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
-        },
-        {
-          "title": "韩国首尔综指转涨，收复早盘2.4%的跌幅，因现代汽车持续上涨。",
-          "url": "https://wallstreetcn.com/livenews/3060004",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时52分"
         },
         {
           "title": "金十图示：2026年02月27日（周五）全球汽车制造商市值变化",
@@ -1494,7 +1564,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
         },
@@ -1505,7 +1575,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
         },
@@ -1516,7 +1586,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
         }
@@ -1573,6 +1643,58 @@
       ]
     },
     {
+      "keyword_group": "战争",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "巴基斯坦防长宣布对阿富汗展开“公开战争”",
+          "url": "https://www.cls.cn/detail/2296786",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时51分 ~ 14时52分]"
+        },
+        {
+          "title": "巴基斯坦防长宣布对阿富汗展开“公开战争”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32664807",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时51分 ~ 14时52分]"
+        },
+        {
+          "title": "未来战争如果机器人完全取代了人类士兵，是否会出现到人类的意志对战争形势无法起到任何影响的情况?",
+          "url": "https://www.zhihu.com/question/536760105",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
+        },
+        {
+          "title": "巴基斯坦防长宣布对阿富汗展开“公开战争”",
+          "url": "https://wallstreetcn.com/livenews/3059942",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时13分"
+        }
+      ]
+    },
+    {
       "keyword_group": "武器",
       "match_count": 4,
       "titles": [
@@ -1604,11 +1726,12 @@
           "url": "https://news.ifeng.com/c/8r56a40z1tt",
           "source": "凤凰网",
           "ranks": [
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时13分 ~ 13时52分]"
+          "appearance_count": 4,
+          "time_info": "[12时13分 ~ 14时52分]"
         },
         {
           "title": "以色列国防军：以色列国防军袭击了黎巴嫩境内“拉德万部队”用于储存武器和训练的八个军事营地。",
@@ -1660,45 +1783,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "战争",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "巴基斯坦防长宣布对阿富汗展开“公开战争”",
-          "url": "https://www.cls.cn/detail/2296786",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时51分 ~ 13时52分]"
-        },
-        {
-          "title": "巴基斯坦防长宣布对阿富汗展开“公开战争”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32664807",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时51分 ~ 13时52分]"
-        },
-        {
-          "title": "巴基斯坦防长宣布对阿富汗展开“公开战争”",
-          "url": "https://wallstreetcn.com/livenews/3059942",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时13分"
         }
       ]
     },
