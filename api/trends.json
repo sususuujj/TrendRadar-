@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-27T19:31:58.806236+08:00",
-  "total_titles_processed": 1717,
+  "generated_at": "2026-02-27T20:56:43.120789+08:00",
+  "total_titles_processed": 1827,
   "failed_sources": [],
   "trends": [
     {
@@ -39,8 +39,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时55分 ~ 19时31分]"
+          "appearance_count": 14,
+          "time_info": "[09时55分 ~ 20时56分]"
         },
         {
           "title": "中方正密切关注伊朗局势发展",
@@ -94,11 +94,12 @@
             19,
             18,
             16,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时52分 ~ 19时31分]"
+          "appearance_count": 9,
+          "time_info": "[14时52分 ~ 20时56分]"
         },
         {
           "title": "外交部提醒中国公民暂勿前往伊朗",
@@ -107,9 +108,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时31分 ~ 20时56分]"
         },
         {
           "title": "外交部提醒中国公民暂勿前往伊朗",
@@ -118,9 +119,32 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时31分 ~ 20时56分]"
+        },
+        {
+          "title": "提醒在伊朗的中国公民尽快撤离",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%8F%90%E9%86%92%E5%9C%A8%E4%BC%8A%E6%9C%97%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%B0%BD%E5%BF%AB%E6%92%A4%E7%A6%BB%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时31分 ~ 20时56分]"
+        },
+        {
+          "title": "外交部提醒中国公民暂勿前往伊朗",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E6%8F%90%E9%86%92%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E6%9A%82%E5%8B%BF%E5%89%8D%E5%BE%80%E4%BC%8A%E6%9C%97",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时31分 ~ 20时56分]"
         },
         {
           "title": "伊朗外长Abbas Araghchi在国家电视台表示：今天的谈判属于最严肃的磋商之一。",
@@ -132,28 +156,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时43分"
-        },
-        {
-          "title": "外交部提醒中国公民暂勿前往伊朗",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E6%8F%90%E9%86%92%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E6%9A%82%E5%8B%BF%E5%89%8D%E5%BE%80%E4%BC%8A%E6%9C%97",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时31分"
-        },
-        {
-          "title": "提醒在伊朗的中国公民尽快撤离",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%8F%90%E9%86%92%E5%9C%A8%E4%BC%8A%E6%9C%97%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%B0%BD%E5%BF%AB%E6%92%A4%E7%A6%BB%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时31分"
         },
         {
           "title": "伊朗拒绝向国外转移浓缩铀",
@@ -176,17 +178,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
-        },
-        {
-          "title": "中国公民暂勿前往伊朗",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E6%9A%82%E5%8B%BF%E5%89%8D%E5%BE%80%E4%BC%8A%E6%9C%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时31分"
         },
         {
           "title": "据黎巴嫩电视台Al-Mayadeen：有消息称谈判出现了积极迹象，谈判有可能将延长至明天。伊朗方面在铀浓缩问题上表现出了很大的灵活性，而美国方面尚未同意完全解除对伊朗的制裁。",
@@ -213,6 +204,30 @@
           "time_info": "[02时54分 ~ 04时36分]"
         },
         {
+          "title": "中国公民暂勿前往伊朗",
+          "url": "https://www.douyin.com/hot/2413685",
+          "source": "抖音",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时31分 ~ 20时56分]"
+        },
+        {
+          "title": "外交部提醒中国公民暂勿前往伊朗",
+          "url": "https://www.cls.cn/detail/2297484",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时31分 ~ 20时56分]"
+        },
+        {
           "title": "据Axios记者援引美国官员称，在日内瓦与伊朗举行的核谈判取得积极进展。",
           "url": "https://flash.jin10.com/detail/20260227031929854800",
           "source": "金十数据",
@@ -223,6 +238,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时43分 ~ 04时36分]"
+        },
+        {
+          "title": "中国公民暂勿前往伊朗",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E6%9A%82%E5%8B%BF%E5%89%8D%E5%BE%80%E4%BC%8A%E6%9C%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时31分 ~ 20时56分]"
         },
         {
           "title": "伊朗代表团已返回谈判地点，参加美伊日内瓦会谈。（CGTN）",
@@ -390,17 +417,6 @@
           "time_info": "04时36分"
         },
         {
-          "title": "中国公民暂勿前往伊朗",
-          "url": "https://www.douyin.com/hot/2413685",
-          "source": "抖音",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时31分"
-        },
-        {
           "title": "伊朗军官称已做好应对敌军行动准备",
           "url": "https://flash.jin10.com/detail/20260227160957204800",
           "source": "金十数据",
@@ -454,17 +470,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时43分"
-        },
-        {
-          "title": "外交部提醒中国公民暂勿前往伊朗",
-          "url": "https://www.cls.cn/detail/2297484",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时31分"
         },
         {
           "title": "据伊朗电视台：有迹象显示一项（美伊）协议即将达成。",
@@ -715,7 +720,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
         },
@@ -745,7 +750,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 35,
+      "match_count": 37,
       "titles": [
         {
           "title": "特朗普白宫设宴，请美国男子冰球队吃麦当劳",
@@ -770,11 +775,12 @@
             15,
             19,
             14,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时55分 ~ 19时31分]"
+          "appearance_count": 14,
+          "time_info": "[09时55分 ~ 20时56分]"
         },
         {
           "title": "特朗普和泽连斯基通话30分钟，谈及俄乌冲突结束时间",
@@ -814,6 +820,45 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[14时52分 ~ 18时36分]"
+        },
+        {
+          "title": "德国总理默茨将寻求特朗普在华盛顿会谈中就关税问题给出明确答复",
+          "url": "https://flash.jin10.com/detail/20260227203739625800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        },
+        {
+          "title": "美军中东最高指挥官向特朗普汇报",
+          "url": "https://www.toutiao.com/trending/7611361368545280036/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            10,
+            8,
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时39分 ~ 20时56分]"
+        },
+        {
+          "title": "爱泼斯坦案风波延烧，希拉里一句话把矛头指向特朗普",
+          "url": "https://news.ifeng.com/c/8r5SIs2UIPN",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时39分 ~ 20时56分]"
         },
         {
           "title": "消息人士：没有美国情报支持美国总统特朗普关于伊朗“很快”将拥有可抵达美国的导弹的说法。",
@@ -862,6 +907,17 @@
           "time_info": "18时36分"
         },
         {
+          "title": "德国总理默茨将赴美会晤特朗普 寻求澄清关税政策",
+          "url": "https://wallstreetcn.com/livenews/3060300",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        },
+        {
           "title": "特朗普2026国会演讲全解析",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE2026%E5%9B%BD%E4%BC%9A%E6%BC%94%E8%AE%B2%E5%85%A8%E8%A7%A3%E6%9E%90",
           "source": "bilibili 热搜",
@@ -872,33 +928,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时52分 ~ 15时46分]"
-        },
-        {
-          "title": "美军中东最高指挥官向特朗普汇报",
-          "url": "https://www.toutiao.com/trending/7611361368545280036/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            10,
-            8,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时39分 ~ 19时31分]"
-        },
-        {
-          "title": "爱泼斯坦案风波延烧，希拉里一句话把矛头指向特朗普",
-          "url": "https://news.ifeng.com/c/8r5SIs2UIPN",
-          "source": "凤凰网",
-          "ranks": [
-            11,
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时39分 ~ 19时31分]"
         },
         {
           "title": "特朗普旨在引导古巴加大对美依赖",
@@ -1039,7 +1068,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
         },
@@ -1399,7 +1428,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "美股收盘：英伟达绩后再现惯性跳水 拖累纳指跌超1%",
@@ -1586,6 +1615,17 @@
           "time_info": "06时32分"
         },
         {
+          "title": "2025年沙特投资者大幅增加美股交易量，国内交易额近乎减半",
+          "url": "https://flash.jin10.com/detail/20260227200350341800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        },
+        {
           "title": "奈飞拒绝像派拉蒙（Paramount SkyDance）那样提高收购华纳兄弟探索公司（WBD）的报价。 这笔（潜在的）收购交易不再具有财务魅力。 本来，这笔交易有望创造股东价值。 奈飞将恢复股票回购计划。 奈飞美股盘后涨约8%。",
           "url": "https://wallstreetcn.com/livenews/3059808",
           "source": "华尔街见闻-快讯",
@@ -1611,7 +1651,7 @@
     },
     {
       "keyword_group": "俄罗斯",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "冬奥花滑冠军刘美贤遭俄罗斯粉丝吐槽",
@@ -1673,16 +1713,28 @@
           "time_info": "13时52分"
         },
         {
+          "title": "消息人士称，在俄罗斯发动袭击前，“友谊”输油管道既输送乌克兰原油，也输送俄罗斯原油。",
+          "url": "https://flash.jin10.com/detail/20260227203054741800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        },
+        {
           "title": "比尔·盖茨承认与 2 名俄罗斯女子有婚外情，称与爱泼斯坦往来是「巨大错误」，如何评价这一道歉？",
           "url": "https://www.zhihu.com/question/2010047778584224612",
           "source": "知乎",
           "ranks": [
             17,
-            15
+            15,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时39分 ~ 19时31分]"
+          "appearance_count": 5,
+          "time_info": "[17时39分 ~ 20时56分]"
         },
         {
           "title": "俄罗斯在强迫外国人参军吗",
@@ -1713,7 +1765,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
         },
@@ -1809,7 +1861,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "2025全球汽车销量TOP10出炉！中国品牌“三强聚首” 比亚迪排名创新高",
@@ -1838,6 +1890,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[09时55分 ~ 17时40分]"
+        },
+        {
+          "title": "小米汽车：将重建安全顾问委员会及公众安全沟通机制",
+          "url": "https://wallstreetcn.com/livenews/3060301",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
         },
         {
           "title": "理想汽车：将于2026年3月12日公布2025年第四季度及全年财务业绩。",
@@ -1960,8 +2023,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时39分 ~ 19时31分]"
+          "appearance_count": 5,
+          "time_info": "[17时39分 ~ 20时56分]"
         },
         {
           "title": "阿富汗塔利班发言人：阿富汗塔利班对巴基斯坦目标发动了无人机袭击。",
@@ -2055,11 +2118,12 @@
             9,
             8,
             7,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时51分 ~ 19时31分]"
+          "appearance_count": 11,
+          "time_info": "[13时51分 ~ 20时56分]"
         },
         {
           "title": "巴基斯坦防长宣布对阿富汗展开“公开战争”",
@@ -2084,8 +2148,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时39分 ~ 19时31分]"
+          "appearance_count": 6,
+          "time_info": "[16时39分 ~ 20时56分]"
         },
         {
           "title": "未来战争如果机器人完全取代了人类士兵，是否会出现到人类的意志对战争形势无法起到任何影响的情况?",
