@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-28T12:55:20.388768+08:00",
-  "total_titles_processed": 1022,
+  "generated_at": "2026-02-28T13:33:21.022430+08:00",
+  "total_titles_processed": 1056,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 92,
+      "match_count": 94,
       "titles": [
         {
           "title": "美军中东最高指挥官向特朗普汇报",
@@ -34,6 +34,31 @@
           "time_info": "[00时39分 ~ 07时23分]"
         },
         {
+          "title": "多国撤人，航母抵以，美国要边打边谈？特朗普称美伊将继续谈判、警告“有时不得不打”",
+          "url": "https://wallstreetcn.com/articles/3766396",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时46分 ~ 13时33分]"
+        },
+        {
+          "title": "专访｜打击伊核设施“刺激”特朗普军事冒进，以色列欲再推美国动武",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32667369",
+          "source": "澎湃新闻",
+          "ranks": [
+            4,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时46分 ~ 13时33分]"
+        },
+        {
           "title": "释疑｜特朗普再出重拳，美国用了哪些杀招让古巴“窒息”？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32601815",
           "source": "澎湃新闻",
@@ -46,29 +71,26 @@
           "time_info": "[00时39分 ~ 06时21分]"
         },
         {
-          "title": "多国撤人，航母抵以，美国要边打边谈？特朗普称美伊将继续谈判、警告“有时不得不打”",
-          "url": "https://wallstreetcn.com/articles/3766396",
-          "source": "华尔街见闻",
+          "title": "【早报】证监会召开重磅会议，吴清发声；特朗普警告伊朗“有时候不得不打”",
+          "url": "https://www.cls.cn/detail/2297916",
+          "source": "财联社热门",
           "ranks": [
-            4,
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时46分 ~ 12时55分]"
+          "appearance_count": 3,
+          "time_info": "[11时54分 ~ 13时33分]"
         },
         {
-          "title": "专访｜打击伊核设施“刺激”特朗普军事冒进，以色列欲再推美国动武",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32667369",
-          "source": "澎湃新闻",
+          "title": "特朗普扬言：美国或“友好接管”古巴",
+          "url": "https://news.ifeng.com/c/8r6XoCrGIH8",
+          "source": "凤凰网",
           "ranks": [
-            4,
-            2,
-            3
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时46分 ~ 12时55分]"
+          "appearance_count": 3,
+          "time_info": "[11时54分 ~ 13时33分]"
         },
         {
           "title": "特朗普对伊核谈判不满",
@@ -80,28 +102,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时46分 ~ 09时47分]"
-        },
-        {
-          "title": "【早报】证监会召开重磅会议，吴清发声；特朗普警告伊朗“有时候不得不打”",
-          "url": "https://www.cls.cn/detail/2297916",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时54分 ~ 12时55分]"
-        },
-        {
-          "title": "特朗普扬言：美国或“友好接管”古巴",
-          "url": "https://news.ifeng.com/c/8r6XoCrGIH8",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时54分 ~ 12时55分]"
         },
         {
           "title": "特朗普在Truth Social上发布了一封关于政治行动的FTC信件，其中提到苹果(AAPL.O)。",
@@ -148,6 +148,17 @@
           "time_info": "00时39分"
         },
         {
+          "title": "特朗普媒体与科技集团2025年财务资产达25亿美元",
+          "url": "https://flash.jin10.com/detail/20260228131710675800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时33分"
+        },
+        {
           "title": "美国总统特朗普：我们拭目以待伊朗局势的发展，一切都会好起来的。",
           "url": "https://flash.jin10.com/detail/20260228020911978800",
           "source": "金十数据",
@@ -179,6 +190,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时41分"
+        },
+        {
+          "title": "多国撤人、双航母就位，特朗普就伊朗问题释放最新信号",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32669796",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时46分 ~ 13时33分]"
         },
         {
           "title": "美国总统特朗普：将在美国提炼委内瑞拉石油，并对部分石油进行出口。",
@@ -364,19 +388,6 @@
           "time_info": "[06时21分 ~ 07时23分]"
         },
         {
-          "title": "多国撤人、双航母就位，特朗普就伊朗问题释放最新信号",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32669796",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时46分 ~ 12时55分]"
-        },
-        {
           "title": "特朗普下令：所有联邦政府机构将立即停用Anthropic",
           "url": "https://flash.jin10.com/detail/20260228045153490800",
           "source": "金十数据",
@@ -403,6 +414,19 @@
           "time_info": "[02时41分 ~ 04时27分]"
         },
         {
+          "title": "特朗普政府表示，关税退款流程将继续进行，退款流程可能需要很长时间。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/3060581",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时54分 ~ 13时33分]"
+        },
+        {
           "title": "美国总统特朗普：伊朗有那么多石油，根本不需要去浓缩铀。",
           "url": "https://flash.jin10.com/detail/20260228053714270800",
           "source": "金十数据",
@@ -425,6 +449,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时23分 ~ 09时47分]"
+        },
+        {
+          "title": "美国总统特朗普：明尼苏达州自闭症补助金从2017年的1,099,946美元飙升至2024年的343,176,474美元，短短几年内增长了34,000%。这简直就是个天大的骗局。立即调查并逮捕骗子。更多索马里势力介入。加州的情况更糟。要平衡预算。",
+          "url": "https://flash.jin10.com/detail/20260228115311357800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时55分 ~ 13时33分]"
         },
         {
           "title": "美国总统特朗普：我们从委内瑞拉攫取的36万桶石油正“躺”在油轮里。 将在美国提炼委内瑞拉的石油，出口其中一部分。 （除了倒卖给其他国家的）我们会给自己留一些（来自委内瑞拉的石油）。",
@@ -559,6 +595,17 @@
           "time_info": "[07时23分 ~ 09时47分]"
         },
         {
+          "title": "克林顿闭门作证爱泼斯坦案，特朗普表态",
+          "url": "https://news.ifeng.com/c/8r6bGfY13Ho",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时55分 ~ 13时33分]"
+        },
+        {
           "title": "美国总统特朗普宣称：关税已经影响到诺华制药。 该公司打算在美国建厂。",
           "url": "https://wallstreetcn.com/livenews/3060471",
           "source": "华尔街见闻-快讯",
@@ -583,16 +630,15 @@
           "time_info": "[07时23分 ~ 09时47分]"
         },
         {
-          "title": "特朗普政府表示，关税退款流程将继续进行，退款流程可能需要很长时间。（Politico）",
-          "url": "https://wallstreetcn.com/livenews/3060581",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普透露美伊将继续谈判 但警告“有时候不得不打”",
+          "url": "https://www.cls.cn/detail/2297953",
+          "source": "财联社热门",
           "ranks": [
-            11,
-            14
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时54分 ~ 12时55分]"
+          "time_info": "[12时55分 ~ 13时33分]"
         },
         {
           "title": "意大利总理不赞同特朗普对欧征关税，呼吁欧盟与美国建立自由贸易区",
@@ -691,17 +737,6 @@
           "time_info": "[02时41分 ~ 03时33分]"
         },
         {
-          "title": "美国总统特朗普：明尼苏达州自闭症补助金从2017年的1,099,946美元飙升至2024年的343,176,474美元，短短几年内增长了34,000%。这简直就是个天大的骗局。立即调查并逮捕骗子。更多索马里势力介入。加州的情况更糟。要平衡预算。",
-          "url": "https://flash.jin10.com/detail/20260228115311357800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时55分"
-        },
-        {
           "title": "特朗普：我不喜欢克林顿被这样质询，他们当初对我狠得多",
           "url": "https://news.ifeng.com/c/8r6bGfY13Ho",
           "source": "凤凰网",
@@ -757,15 +792,15 @@
           "time_info": "02时41分"
         },
         {
-          "title": "克林顿闭门作证爱泼斯坦案，特朗普表态",
-          "url": "https://news.ifeng.com/c/8r6bGfY13Ho",
-          "source": "凤凰网",
+          "title": "美国前总统拜登在南卡罗来纳州的演讲中宣称，他将“最强的南部边界”和“世界上最强的经济”交给了现任总统特朗普。“这不是夸大其词。”",
+          "url": "https://flash.jin10.com/detail/20260228124443012800",
+          "source": "金十数据",
           "ranks": [
-            11
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时55分"
+          "time_info": "13时33分"
         },
         {
           "title": "美国总统特朗普：（谈对伊军事行动）我非常希望不要动用武力。",
@@ -788,17 +823,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
-        },
-        {
-          "title": "特朗普透露美伊将继续谈判 但警告“有时候不得不打”",
-          "url": "https://www.cls.cn/detail/2297953",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时55分"
         },
         {
           "title": "美国总统特朗普：古巴处境很危险。",
@@ -1114,8 +1138,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时39分 ~ 12时55分]"
+          "appearance_count": 15,
+          "time_info": "[00时39分 ~ 13时33分]"
         },
         {
           "title": "外交部提醒中国公民暂勿前往伊朗",
@@ -1141,8 +1165,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时39分 ~ 12时55分]"
+          "appearance_count": 15,
+          "time_info": "[00时39分 ~ 13时33分]"
         },
         {
           "title": "外交部提醒中国公民暂勿前往伊朗",
@@ -1181,11 +1205,12 @@
           "ranks": [
             3,
             11,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时39分 ~ 12时55分]"
+          "appearance_count": 15,
+          "time_info": "[00时39分 ~ 13时33分]"
         },
         {
           "title": "美国 伊朗",
@@ -1213,18 +1238,6 @@
           "time_info": "[00时39分 ~ 11时54分]"
         },
         {
-          "title": "中国驻伊朗大使馆郑重提醒",
-          "url": "https://www.douyin.com/hot/2413950",
-          "source": "抖音",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时23分 ~ 12时55分]"
-        },
-        {
           "title": "信号已很明显，伊朗进入空前高危时刻",
           "url": "https://news.ifeng.com/c/8r6YprFoVti",
           "source": "凤凰网",
@@ -1232,8 +1245,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时54分 ~ 12时55分]"
+          "appearance_count": 3,
+          "time_info": "[11时54分 ~ 13时33分]"
+        },
+        {
+          "title": "中国驻伊朗大使馆郑重提醒",
+          "url": "https://www.douyin.com/hot/2413950",
+          "source": "抖音",
+          "ranks": [
+            5,
+            6,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时23分 ~ 13时33分]"
         },
         {
           "title": "IAEA：无法确认伊朗核活动",
@@ -1252,11 +1278,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时54分 ~ 12时55分]"
+          "appearance_count": 3,
+          "time_info": "[11时54分 ~ 13时33分]"
         },
         {
           "title": "【早报】证监会召开重磅会议，吴清发声；特朗警告伊朗“有时候不得不打”",
@@ -1318,6 +1345,20 @@
           "time_info": "[09时46分 ~ 11时54分]"
         },
         {
+          "title": "伊朗同意不拥有可制造核弹核材料",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%90%8C%E6%84%8F%E4%B8%8D%E6%8B%A5%E6%9C%89%E5%8F%AF%E5%88%B6%E9%80%A0%E6%A0%B8%E5%BC%B9%E6%A0%B8%E6%9D%90%E6%96%99",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            13,
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时46分 ~ 13时33分]"
+        },
+        {
           "title": "美国国务院：任何美国公民均不应以任何理由前往伊朗。",
           "url": "https://flash.jin10.com/detail/20260228051256394800",
           "source": "金十数据",
@@ -1357,6 +1398,19 @@
           "time_info": "[05时28分 ~ 07时23分]"
         },
         {
+          "title": "美国对伊朗提了4项要求",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%AF%B9%E4%BC%8A%E6%9C%97%E6%8F%90%E4%BA%864%E9%A1%B9%E8%A6%81%E6%B1%82%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5,
+            8,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时54分 ~ 13时33分]"
+        },
+        {
           "title": "美国国务卿卢比奥宣称：美国人无论处于任何原因都不应该前往伊朗。",
           "url": "https://wallstreetcn.com/livenews/3060514",
           "source": "华尔街见闻-快讯",
@@ -1367,31 +1421,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时28分 ~ 06时21分]"
-        },
-        {
-          "title": "美国对伊朗提了4项要求",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%AF%B9%E4%BC%8A%E6%9C%97%E6%8F%90%E4%BA%864%E9%A1%B9%E8%A6%81%E6%B1%82%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时54分 ~ 12时55分]"
-        },
-        {
-          "title": "伊朗同意不拥有可制造核弹核材料",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%90%8C%E6%84%8F%E4%B8%8D%E6%8B%A5%E6%9C%89%E5%8F%AF%E5%88%B6%E9%80%A0%E6%A0%B8%E5%BC%B9%E6%A0%B8%E6%9D%90%E6%96%99",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            13,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时46分 ~ 12时55分]"
         },
         {
           "title": "曝伊朗同意不拥有可制造核弹核材料",
@@ -1417,6 +1446,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时47分 ~ 12时55分]"
+        },
+        {
+          "title": "伊朗同意不拥有制造核弹的核材料",
+          "url": "https://www.douyin.com/hot/2414004",
+          "source": "抖音",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时54分 ~ 13时33分]"
         },
         {
           "title": "莫迪趁着伊朗危局要好处能得逞吗",
@@ -1490,6 +1531,18 @@
           "time_info": "[03时33分 ~ 04时27分]"
         },
         {
+          "title": "卡塔尔首相与伊朗外长通电话 讨论地区局势",
+          "url": "https://flash.jin10.com/detail/20260228113407268800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时55分 ~ 13时33分]"
+        },
+        {
           "title": "土耳其航空公司：飞往伊朗的日间航班正常运营",
           "url": "https://wallstreetcn.com/livenews/3060560",
           "source": "华尔街见闻-快讯",
@@ -1512,17 +1565,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时21分 ~ 07时23分]"
-        },
-        {
-          "title": "伊朗同意不拥有制造核弹的核材料",
-          "url": "https://www.douyin.com/hot/2414004",
-          "source": "抖音",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时54分 ~ 12时55分]"
         },
         {
           "title": "美国究竟想从伊朗得到什么",
@@ -1578,17 +1620,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时27分"
-        },
-        {
-          "title": "卡塔尔首相与伊朗外长通电话 讨论地区局势",
-          "url": "https://flash.jin10.com/detail/20260228113407268800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时55分"
         },
         {
           "title": "外交部提醒中国公民暂勿前往伊朗",
@@ -1760,8 +1791,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时35分 ~ 12时55分]"
+          "appearance_count": 14,
+          "time_info": "[01时35分 ~ 13时33分]"
         },
         {
           "title": "OpenAI获1100亿美元投资",
@@ -1787,19 +1818,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[05时28分 ~ 12时55分]"
-        },
-        {
-          "title": "和Anthropic闹翻“仅数小时” 美国国防部便和OpenAI签署合作协议",
-          "url": "https://flash.jin10.com/detail/20260228120317791800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时55分"
+          "appearance_count": 8,
+          "time_info": "[05时28分 ~ 13时33分]"
         },
         {
           "title": "消息人士称，英伟达正准备推出一款专用芯片，以撼动人工智能计算领域的竞争格局。OpenAI即将成为英伟达新款处理器的最大客户之一。",
@@ -1807,11 +1827,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            14
+            14,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时54分 ~ 12时55分]"
+          "appearance_count": 3,
+          "time_info": "[11时54分 ~ 13时33分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：我们将部署前线工程师来协助我们的模型，为了确保模型的安全，我们将只在云网络上进行部署。",
@@ -1850,6 +1871,18 @@
           "time_info": "[11时54分 ~ 12时55分]"
         },
         {
+          "title": "和Anthropic闹翻“仅数小时” 美国国防部便和OpenAI签署合作协议",
+          "url": "https://flash.jin10.com/detail/20260228120317791800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时55分 ~ 13时33分]"
+        },
+        {
           "title": "OpenAI将追加融资100亿美元。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3060477",
           "source": "华尔街见闻-快讯",
@@ -1867,11 +1900,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时54分 ~ 12时55分]"
+          "appearance_count": 3,
+          "time_info": "[11时54分 ~ 13时33分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：我们也会构建技术安全措施，以确保我们的模型按预期运行，美国国防部也希望如此。",
@@ -1942,6 +1976,20 @@
           "time_info": "[00时39分 ~ 09时47分]"
         },
         {
+          "title": "全球汽车销量前 10 出炉，中国 3 家上榜，中企继续冲击前三还需要哪些条件？",
+          "url": "https://www.zhihu.com/question/2010648541866005278",
+          "source": "知乎",
+          "ranks": [
+            19,
+            7,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时46分 ~ 13时33分]"
+        },
+        {
           "title": "小米汽车预告“给大家准备了一个惊喜”。小米集团董事长雷军称“明天见”。",
           "url": "https://flash.jin10.com/detail/20260228091010973800",
           "source": "金十数据",
@@ -1953,30 +2001,18 @@
           "time_info": "09时47分"
         },
         {
-          "title": "全球汽车销量前 10 出炉，中国 3 家上榜，中企继续冲击前三还需要哪些条件？",
-          "url": "https://www.zhihu.com/question/2010648541866005278",
-          "source": "知乎",
-          "ranks": [
-            19,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时46分 ~ 12时55分]"
-        },
-        {
           "title": "手机集体涨价后 汽车会是下一个吗",
           "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E9%9B%86%E4%BD%93%E6%B6%A8%E4%BB%B7%E5%90%8E+%E6%B1%BD%E8%BD%A6%E4%BC%9A%E6%98%AF%E4%B8%8B%E4%B8%80%E4%B8%AA%E5%90%97",
           "source": "百度热搜",
           "ranks": [
             10,
             7,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时46分 ~ 12时55分]"
+          "appearance_count": 5,
+          "time_info": "[09时46分 ~ 13时33分]"
         },
         {
           "title": "小米汽车或将推出超跑车型",
@@ -1987,8 +2023,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时54分 ~ 12时55分]"
+          "appearance_count": 3,
+          "time_info": "[11时54分 ~ 13时33分]"
         },
         {
           "title": "成都小米SU7事故细节进一步曝光，小米汽车再陷安全争议",
@@ -1999,8 +2035,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时46分 ~ 12时55分]"
+          "appearance_count": 5,
+          "time_info": "[09时46分 ~ 13时33分]"
         },
         {
           "title": "深圳：支持汽车置换更新，购买新能源乘用车补贴车价的8%",
@@ -2008,11 +2044,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            12
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时54分 ~ 13时33分]"
+        },
+        {
+          "title": "小米展示新一代SU7汽车机械门把手",
+          "url": "https://www.toutiao.com/trending/7611078565454695942/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时54分 ~ 12时55分]"
+          "time_info": "[12时55分 ~ 13时33分]"
         },
         {
           "title": "First Brands将出售为福特汽车生产零部件的多个部门。",
@@ -2027,6 +2076,18 @@
           "time_info": "[03时33分 ~ 04时27分]"
         },
         {
+          "title": "2025年，马来西亚的汽车销量超过印尼，成为东南亚第一。",
+          "url": "https://flash.jin10.com/detail/20260228113540928800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时55分 ~ 13时33分]"
+        },
+        {
           "title": "3家中国车企跻身全球汽车销量TOP10",
           "url": "https://www.toutiao.com/trending/7610724384298418182/",
           "source": "今日头条",
@@ -2037,28 +2098,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时54分 ~ 12时55分]"
-        },
-        {
-          "title": "2025年，马来西亚的汽车销量超过印尼，成为东南亚第一。",
-          "url": "https://flash.jin10.com/detail/20260228113540928800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时55分"
-        },
-        {
-          "title": "小米展示新一代SU7汽车机械门把手",
-          "url": "https://www.toutiao.com/trending/7611078565454695942/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时55分"
         }
       ]
     },
@@ -2089,8 +2128,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时39分 ~ 12时55分]"
+          "appearance_count": 15,
+          "time_info": "[00时39分 ~ 13时33分]"
         },
         {
           "title": "巴防长宣布与阿进入公开战争",
@@ -2113,8 +2152,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时46分 ~ 12时55分]"
+          "appearance_count": 5,
+          "time_info": "[09时46分 ~ 13时33分]"
         },
         {
           "title": "美航母抵以色列 美伊战争风险升高",
@@ -2123,11 +2162,12 @@
           "ranks": [
             1,
             2,
-            8
+            8,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时46分 ~ 12时55分]"
+          "appearance_count": 5,
+          "time_info": "[09时46分 ~ 13时33分]"
         },
         {
           "title": "学者：俄乌战争打满四年俄伤了国本",
@@ -2146,11 +2186,12 @@
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E8%A6%81%E9%87%8D%E6%BC%94%E4%BC%8A%E6%8B%89%E5%85%8B%E6%88%98%E4%BA%89%E5%89%A7%E6%9C%AC%E5%90%97",
           "source": "百度热搜",
           "ranks": [
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时54分 ~ 12时55分]"
+          "appearance_count": 3,
+          "time_info": "[11时54分 ~ 13时33分]"
         },
         {
           "title": "多国撤人航母抵以 美伊战争风险升高",
@@ -2159,9 +2200,9 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时55分 ~ 13时33分]"
         },
         {
           "title": "歼15T将上线战争雷霆",
@@ -2190,8 +2231,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时23分 ~ 12时55分]"
+          "appearance_count": 6,
+          "time_info": "[07时23分 ~ 13时33分]"
         },
         {
           "title": "美股金银指数收涨超1.6%，历史上首次站上470点，2月份累涨23%",
@@ -2276,8 +2317,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时46分 ~ 12时55分]"
+          "appearance_count": 5,
+          "time_info": "[09时46分 ~ 13时33分]"
         },
         {
           "title": "地缘政治与信贷担忧拖累美股，道指跌1%，10年期美债收益率跌破4%，金银拉升，原油走强",
@@ -2427,8 +2468,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时39分 ~ 12时55分]"
+          "appearance_count": 12,
+          "time_info": "[00时39分 ~ 13时33分]"
         }
       ]
     },
@@ -2478,7 +2519,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时55分"
         }
