@@ -1,12 +1,37 @@
 {
-  "generated_at": "2026-02-28T13:33:21.022430+08:00",
-  "total_titles_processed": 1056,
+  "generated_at": "2026-02-28T14:37:04.964303+08:00",
+  "total_titles_processed": 1138,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 94,
+      "match_count": 97,
       "titles": [
+        {
+          "title": "多国撤人，航母抵以，美国要边打边谈？特朗普称美伊将继续谈判、警告“有时不得不打”",
+          "url": "https://wallstreetcn.com/articles/3766396",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时46分 ~ 14时37分]"
+        },
+        {
+          "title": "专访｜打击伊核设施“刺激”特朗普军事冒进，以色列欲再推美国动武",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32667369",
+          "source": "澎湃新闻",
+          "ranks": [
+            4,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时46分 ~ 14时37分]"
+        },
         {
           "title": "美军中东最高指挥官向特朗普汇报",
           "url": "https://www.toutiao.com/trending/7611361368545280036/",
@@ -34,29 +59,26 @@
           "time_info": "[00时39分 ~ 07时23分]"
         },
         {
-          "title": "多国撤人，航母抵以，美国要边打边谈？特朗普称美伊将继续谈判、警告“有时不得不打”",
-          "url": "https://wallstreetcn.com/articles/3766396",
-          "source": "华尔街见闻",
+          "title": "【早报】证监会召开重磅会议，吴清发声；特朗普警告伊朗“有时候不得不打”",
+          "url": "https://www.cls.cn/detail/2297916",
+          "source": "财联社热门",
           "ranks": [
-            4,
             2
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[09时46分 ~ 13时33分]"
+          "time_info": "[11时54分 ~ 14时37分]"
         },
         {
-          "title": "专访｜打击伊核设施“刺激”特朗普军事冒进，以色列欲再推美国动武",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32667369",
-          "source": "澎湃新闻",
+          "title": "特朗普扬言：美国或“友好接管”古巴",
+          "url": "https://news.ifeng.com/c/8r6XoCrGIH8",
+          "source": "凤凰网",
           "ranks": [
-            4,
-            2,
-            3
+            4
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[09时46分 ~ 13时33分]"
+          "time_info": "[11时54分 ~ 14时37分]"
         },
         {
           "title": "释疑｜特朗普再出重拳，美国用了哪些杀招让古巴“窒息”？",
@@ -71,28 +93,6 @@
           "time_info": "[00时39分 ~ 06时21分]"
         },
         {
-          "title": "【早报】证监会召开重磅会议，吴清发声；特朗普警告伊朗“有时候不得不打”",
-          "url": "https://www.cls.cn/detail/2297916",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时54分 ~ 13时33分]"
-        },
-        {
-          "title": "特朗普扬言：美国或“友好接管”古巴",
-          "url": "https://news.ifeng.com/c/8r6XoCrGIH8",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时54分 ~ 13时33分]"
-        },
-        {
           "title": "特朗普对伊核谈判不满",
           "url": "https://news.ifeng.com/c/8r6XYcWAlcB",
           "source": "凤凰网",
@@ -102,6 +102,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时46分 ~ 09时47分]"
+        },
+        {
+          "title": "多国撤人、双航母就位，特朗普就伊朗问题释放最新信号",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32669796",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时46分 ~ 14时37分]"
         },
         {
           "title": "特朗普在Truth Social上发布了一封关于政治行动的FTC信件，其中提到苹果(AAPL.O)。",
@@ -148,17 +161,6 @@
           "time_info": "00时39分"
         },
         {
-          "title": "特朗普媒体与科技集团2025年财务资产达25亿美元",
-          "url": "https://flash.jin10.com/detail/20260228131710675800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时33分"
-        },
-        {
           "title": "美国总统特朗普：我们拭目以待伊朗局势的发展，一切都会好起来的。",
           "url": "https://flash.jin10.com/detail/20260228020911978800",
           "source": "金十数据",
@@ -190,19 +192,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时41分"
-        },
-        {
-          "title": "多国撤人、双航母就位，特朗普就伊朗问题释放最新信号",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32669796",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时46分 ~ 13时33分]"
         },
         {
           "title": "美国总统特朗普：将在美国提炼委内瑞拉石油，并对部分石油进行出口。",
@@ -328,6 +317,18 @@
           "time_info": "[07时23分 ~ 09时47分]"
         },
         {
+          "title": "特朗普媒体与科技集团2025年财务资产达25亿美元",
+          "url": "https://flash.jin10.com/detail/20260228131710675800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时33分 ~ 14时37分]"
+        },
+        {
           "title": "雷朋与联邦快递客户要求退还“已转嫁”的特朗普关税",
           "url": "https://wallstreetcn.com/livenews/3060533",
           "source": "华尔街见闻-快讯",
@@ -386,6 +387,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时21分 ~ 07时23分]"
+        },
+        {
+          "title": "特朗普透露美伊将继续谈判 但警告“有时候不得不打”",
+          "url": "https://www.cls.cn/detail/2297953",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时55分 ~ 14时37分]"
         },
         {
           "title": "特朗普下令：所有联邦政府机构将立即停用Anthropic",
@@ -535,6 +547,17 @@
           "time_info": "[07时23分 ~ 09时47分]"
         },
         {
+          "title": "Anthropic拒绝五角大楼要求，特朗普下令联邦机构停用Anthropic产品",
+          "url": "https://wallstreetcn.com/articles/3766399",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时36分 ~ 14时37分]"
+        },
+        {
           "title": "美国总统特朗普：委内瑞拉运气不错，现在做得很好。",
           "url": "https://flash.jin10.com/detail/20260228053001600800",
           "source": "金十数据",
@@ -583,6 +606,18 @@
           "time_info": "[11时54分 ~ 12时55分]"
         },
         {
+          "title": "美国前总统拜登在南卡罗来纳州的演讲中宣称，他将“最强的南部边界”和“世界上最强的经济”交给了现任总统特朗普。“这不是夸大其词。”",
+          "url": "https://flash.jin10.com/detail/20260228124443012800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时33分 ~ 14时37分]"
+        },
+        {
           "title": "美国总统特朗普：幸运的是，美联储主席鲍威尔很快就会离开美联储。",
           "url": "https://wallstreetcn.com/livenews/3060543",
           "source": "华尔街见闻-快讯",
@@ -604,6 +639,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时55分 ~ 13时33分]"
+        },
+        {
+          "title": "“特朗普的安全芭比”，危险了",
+          "url": "https://news.ifeng.com/c/8r6sxbP9dJN",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时36分 ~ 14时37分]"
         },
         {
           "title": "美国总统特朗普宣称：关税已经影响到诺华制药。 该公司打算在美国建厂。",
@@ -628,17 +674,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时23分 ~ 09时47分]"
-        },
-        {
-          "title": "特朗普透露美伊将继续谈判 但警告“有时候不得不打”",
-          "url": "https://www.cls.cn/detail/2297953",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时55分 ~ 13时33分]"
         },
         {
           "title": "意大利总理不赞同特朗普对欧征关税，呼吁欧盟与美国建立自由贸易区",
@@ -792,17 +827,6 @@
           "time_info": "02时41分"
         },
         {
-          "title": "美国前总统拜登在南卡罗来纳州的演讲中宣称，他将“最强的南部边界”和“世界上最强的经济”交给了现任总统特朗普。“这不是夸大其词。”",
-          "url": "https://flash.jin10.com/detail/20260228124443012800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时33分"
-        },
-        {
           "title": "美国总统特朗普：（谈对伊军事行动）我非常希望不要动用武力。",
           "url": "https://flash.jin10.com/detail/20260228020354133800",
           "source": "金十数据",
@@ -834,6 +858,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时41分"
+        },
+        {
+          "title": "美国总统特朗普：（谈白俄罗斯时表示）我们关系非常好。我非常喜欢这个领导人——我对他非常尊重。",
+          "url": "https://flash.jin10.com/detail/20260228134622338800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
         },
         {
           "title": "美国总统特朗普：（谈古巴）可能会发生非常积极的事情。",
@@ -1103,7 +1138,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 56,
+      "match_count": 71,
       "titles": [
         {
           "title": "外交部提醒中国公民暂勿前往伊朗",
@@ -1138,8 +1173,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时39分 ~ 13时33分]"
+          "appearance_count": 17,
+          "time_info": "[00时39分 ~ 14时37分]"
         },
         {
           "title": "外交部提醒中国公民暂勿前往伊朗",
@@ -1165,8 +1200,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时39分 ~ 13时33分]"
+          "appearance_count": 17,
+          "time_info": "[00时39分 ~ 14时37分]"
         },
         {
           "title": "外交部提醒中国公民暂勿前往伊朗",
@@ -1206,11 +1241,12 @@
             3,
             11,
             15,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时39分 ~ 13时33分]"
+          "appearance_count": 17,
+          "time_info": "[00时39分 ~ 14时37分]"
         },
         {
           "title": "美国 伊朗",
@@ -1262,6 +1298,53 @@
           "time_info": "[07时23分 ~ 13时33分]"
         },
         {
+          "title": "以色列宣布袭击伊朗",
+          "url": "https://www.baidu.com/s?wd=%E4%BB%A5%E8%89%B2%E5%88%97%E5%AE%A3%E5%B8%83%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时36分 ~ 14时37分]"
+        },
+        {
+          "title": "以色列对伊朗发起打击",
+          "url": "https://news.ifeng.com/c/8r727OWpJy6",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时36分 ~ 14时37分]"
+        },
+        {
+          "title": "伊朗首都发生爆炸",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E9%A6%96%E9%83%BD%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时36分 ~ 14时37分]"
+        },
+        {
+          "title": "伊朗同意不拥有可制造核弹核材料",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%90%8C%E6%84%8F%E4%B8%8D%E6%8B%A5%E6%9C%89%E5%8F%AF%E5%88%B6%E9%80%A0%E6%A0%B8%E5%BC%B9%E6%A0%B8%E6%9D%90%E6%96%99",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            13,
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时46分 ~ 14时37分]"
+        },
+        {
           "title": "IAEA：无法确认伊朗核活动",
           "url": "https://www.douyin.com/hot/2413928",
           "source": "抖音",
@@ -1273,17 +1356,62 @@
           "time_info": "[00时39分 ~ 04时27分]"
         },
         {
+          "title": "伊朗首都德黑兰市中心发生爆炸",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%A6%96%E9%83%BD%E5%BE%B7%E9%BB%91%E5%85%B0%E5%B8%82%E4%B8%AD%E5%BF%83%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时36分 ~ 14时37分]"
+        },
+        {
+          "title": "以色列宣布袭击伊朗",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E5%AE%A3%E5%B8%83%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时36分 ~ 14时37分]"
+        },
+        {
+          "title": "以色列宣布袭击伊朗",
+          "url": "https://www.douyin.com/hot/2414338",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时36分 ~ 14时37分]"
+        },
+        {
           "title": "卡塔尔首相与伊朗外长通电话 讨论地区局势",
           "url": "https://wallstreetcn.com/livenews/3060594",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
             4,
-            7
+            7,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时54分 ~ 13时33分]"
+          "appearance_count": 4,
+          "time_info": "[11时54分 ~ 14时37分]"
+        },
+        {
+          "title": "伊朗首都德黑兰市中心发生爆炸",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E9%A6%96%E9%83%BD%E5%BE%B7%E9%BB%91%E5%85%B0%E5%B8%82%E4%B8%AD%E5%BF%83%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时36分 ~ 14时37分]"
         },
         {
           "title": "【早报】证监会召开重磅会议，吴清发声；特朗警告伊朗“有时候不得不打”",
@@ -1295,6 +1423,50 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时46分 ~ 09时47分]"
+        },
+        {
+          "title": "伊朗首都德黑兰发生爆炸",
+          "url": "https://www.douyin.com/hot/2414331",
+          "source": "抖音",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时36分 ~ 14时37分]"
+        },
+        {
+          "title": "以色列防长宣布：对伊朗发动“先发制人打击”",
+          "url": "https://wallstreetcn.com/livenews/3060619",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
+        },
+        {
+          "title": "以色列防长：已对伊朗发起先发制人的打击",
+          "url": "https://flash.jin10.com/detail/20260228142214538800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
+        },
+        {
+          "title": "以色列外交部说已对伊朗发动二次袭击。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3060618",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
         },
         {
           "title": "伊美第三轮谈判结束，伊朗外长称取得良好进展，美媒称美方谈判期间感到失望",
@@ -1333,6 +1505,39 @@
           "time_info": "01时35分"
         },
         {
+          "title": "据路透社援引以色列国防部消息，以色列今天（2月28日）对伊朗发动了“预防性”的打击。（CCTV国际时讯）",
+          "url": "https://wallstreetcn.com/livenews/3060616",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
+        },
+        {
+          "title": "市场消息：伊朗德黑兰发生爆炸。",
+          "url": "https://flash.jin10.com/detail/20260228141614546800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
+        },
+        {
+          "title": "据以色列方面消息称，以色列已对伊朗发起打击。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3060615",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
+        },
+        {
           "title": "伊朗同意不拥有可制造核弹的核材料",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%90%8C%E6%84%8F%E4%B8%8D%E6%8B%A5%E6%9C%89%E5%8F%AF%E5%88%B6%E9%80%A0%E6%A0%B8%E5%BC%B9%E7%9A%84%E6%A0%B8%E6%9D%90%E6%96%99%23&t=31&band_rank=4&Refer=top",
           "source": "微博",
@@ -1345,18 +1550,16 @@
           "time_info": "[09时46分 ~ 11时54分]"
         },
         {
-          "title": "伊朗同意不拥有可制造核弹核材料",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%90%8C%E6%84%8F%E4%B8%8D%E6%8B%A5%E6%9C%89%E5%8F%AF%E5%88%B6%E9%80%A0%E6%A0%B8%E5%BC%B9%E6%A0%B8%E6%9D%90%E6%96%99",
-          "source": "百度热搜",
+          "title": "伊朗同意不拥有制造核弹的核材料",
+          "url": "https://www.douyin.com/hot/2414004",
+          "source": "抖音",
           "ranks": [
-            17,
-            13,
-            15,
-            16
+            20,
+            19
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[09时46分 ~ 13时33分]"
+          "time_info": "[11时54分 ~ 14时37分]"
         },
         {
           "title": "美国国务院：任何美国公民均不应以任何理由前往伊朗。",
@@ -1446,18 +1649,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时47分 ~ 12时55分]"
-        },
-        {
-          "title": "伊朗同意不拥有制造核弹的核材料",
-          "url": "https://www.douyin.com/hot/2414004",
-          "source": "抖音",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时54分 ~ 13时33分]"
         },
         {
           "title": "莫迪趁着伊朗危局要好处能得逞吗",
@@ -1587,6 +1778,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时27分"
+        },
+        {
+          "title": "伊朗首都德黑兰市中心发生爆炸",
+          "url": "https://wallstreetcn.com/livenews/3060612",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
         },
         {
           "title": "伊朗外长称致力于通过外交解决问题",
@@ -1779,8 +1981,23 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
+        {
+          "title": "估值7300亿美元！OpenAI完成1100亿美元融资，亚马逊投了500亿",
+          "url": "https://wallstreetcn.com/articles/3766389",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[05时28分 ~ 14时37分]"
+        },
         {
           "title": "亚马逊、英伟达和软银豪掷1100亿美元 OpenAI估值冲至7300亿美元",
           "url": "https://www.cls.cn/detail/2297763",
@@ -1791,8 +2008,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时35分 ~ 13时33分]"
+          "appearance_count": 16,
+          "time_info": "[01时35分 ~ 14时37分]"
         },
         {
           "title": "OpenAI获1100亿美元投资",
@@ -1807,21 +2024,6 @@
           "time_info": "[00时39分 ~ 07时23分]"
         },
         {
-          "title": "估值7300亿美元！OpenAI完成1100亿美元融资，亚马逊投了500亿",
-          "url": "https://wallstreetcn.com/articles/3766389",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[05时28分 ~ 13时33分]"
-        },
-        {
           "title": "消息人士称，英伟达正准备推出一款专用芯片，以撼动人工智能计算领域的竞争格局。OpenAI即将成为英伟达新款处理器的最大客户之一。",
           "url": "https://flash.jin10.com/detail/20260228110554688800",
           "source": "金十数据",
@@ -1833,6 +2035,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时54分 ~ 13时33分]"
+        },
+        {
+          "title": "和Anthropic闹翻“仅数小时” 美国国防部便和OpenAI签署合作协议",
+          "url": "https://flash.jin10.com/detail/20260228120317791800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            17,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时55分 ~ 14时37分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：我们将部署前线工程师来协助我们的模型，为了确保模型的安全，我们将只在云网络上进行部署。",
@@ -1859,6 +2074,20 @@
           "time_info": "[11时54分 ~ 12时55分]"
         },
         {
+          "title": "OpenAI创始人奥尔特曼：我们与美国国防部达成协议，将我们的模型部署到他们的机密网络中。",
+          "url": "https://wallstreetcn.com/livenews/3060587",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            9,
+            12,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时54分 ~ 14时37分]"
+        },
+        {
           "title": "OpenAI创始人奥尔特曼：我们要求美国国防部向所有人工智能公司提供这些相同条款，我们认为每个人都应该愿意接受。",
           "url": "https://flash.jin10.com/detail/20260228105836118800",
           "source": "金十数据",
@@ -1869,18 +2098,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时54分 ~ 12时55分]"
-        },
-        {
-          "title": "和Anthropic闹翻“仅数小时” 美国国防部便和OpenAI签署合作协议",
-          "url": "https://flash.jin10.com/detail/20260228120317791800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时55分 ~ 13时33分]"
         },
         {
           "title": "OpenAI将追加融资100亿美元。（The Information）",
@@ -1895,19 +2112,6 @@
           "time_info": "[03时33分 ~ 04时27分]"
         },
         {
-          "title": "OpenAI创始人奥尔特曼：我们与美国国防部达成协议，将我们的模型部署到他们的机密网络中。",
-          "url": "https://wallstreetcn.com/livenews/3060587",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时54分 ~ 13时33分]"
-        },
-        {
           "title": "OpenAI创始人奥尔特曼：我们也会构建技术安全措施，以确保我们的模型按预期运行，美国国防部也希望如此。",
           "url": "https://flash.jin10.com/detail/20260228105824885800",
           "source": "金十数据",
@@ -1918,6 +2122,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时54分 ~ 12时55分]"
+        },
+        {
+          "title": "解读OpenAI获千亿美元投资背后",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBOpenAI%E8%8E%B7%E5%8D%83%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84%E8%83%8C%E5%90%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时36分 ~ 14时37分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：我们与美国国防部达成协议，将我们的模型部署到他们的机密网络中。",
@@ -1943,6 +2158,17 @@
           "time_info": "09时47分"
         },
         {
+          "title": "AWS与OpenAI联合开发“有状态运行时环境”，预计数月内推出",
+          "url": "https://flash.jin10.com/detail/20260228132543765800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
+        },
+        {
           "title": "（对于此前宣布的OpenAI已完成的融资轮）亚马逊对OpenAI的500亿美元投资为现金。 OpenAI料将在3月底之前融资大约100亿美元。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3060443",
           "source": "华尔街见闻-快讯",
@@ -1957,7 +2183,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "新能源汽车开征“里程税”？多地回应",
@@ -1986,8 +2212,36 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时46分 ~ 13时33分]"
+          "appearance_count": 7,
+          "time_info": "[09时46分 ~ 14时37分]"
+        },
+        {
+          "title": "手机集体涨价后 汽车会是下一个吗",
+          "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E9%9B%86%E4%BD%93%E6%B6%A8%E4%BB%B7%E5%90%8E+%E6%B1%BD%E8%BD%A6%E4%BC%9A%E6%98%AF%E4%B8%8B%E4%B8%80%E4%B8%AA%E5%90%97",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            7,
+            9,
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时46分 ~ 14时37分]"
+        },
+        {
+          "title": "成都小米SU7事故细节进一步曝光，小米汽车再陷安全争议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32664749",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时46分 ~ 14时37分]"
         },
         {
           "title": "小米汽车预告“给大家准备了一个惊喜”。小米集团董事长雷军称“明天见”。",
@@ -2001,18 +2255,17 @@
           "time_info": "09时47分"
         },
         {
-          "title": "手机集体涨价后 汽车会是下一个吗",
-          "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E9%9B%86%E4%BD%93%E6%B6%A8%E4%BB%B7%E5%90%8E+%E6%B1%BD%E8%BD%A6%E4%BC%9A%E6%98%AF%E4%B8%8B%E4%B8%80%E4%B8%AA%E5%90%97",
-          "source": "百度热搜",
+          "title": "小米展示新一代SU7汽车机械门把手",
+          "url": "https://www.toutiao.com/trending/7611078565454695942/",
+          "source": "今日头条",
           "ranks": [
-            10,
+            27,
             7,
-            9,
-            13
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时46分 ~ 13时33分]"
+          "appearance_count": 4,
+          "time_info": "[12时55分 ~ 14时37分]"
         },
         {
           "title": "小米汽车或将推出超跑车型",
@@ -2027,41 +2280,18 @@
           "time_info": "[11时54分 ~ 13时33分]"
         },
         {
-          "title": "成都小米SU7事故细节进一步曝光，小米汽车再陷安全争议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32664749",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时46分 ~ 13时33分]"
-        },
-        {
           "title": "深圳：支持汽车置换更新，购买新能源乘用车补贴车价的8%",
           "url": "https://wallstreetcn.com/livenews/3060583",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
             12,
-            15
+            15,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时54分 ~ 13时33分]"
-        },
-        {
-          "title": "小米展示新一代SU7汽车机械门把手",
-          "url": "https://www.toutiao.com/trending/7611078565454695942/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时55分 ~ 13时33分]"
+          "appearance_count": 4,
+          "time_info": "[11时54分 ~ 14时37分]"
         },
         {
           "title": "First Brands将出售为福特汽车生产零部件的多个部门。",
@@ -2098,6 +2328,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时54分 ~ 12时55分]"
+        },
+        {
+          "title": "2月汽车经销商库存预警指数同环比均下降",
+          "url": "https://wallstreetcn.com/livenews/3060608",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
         }
       ]
     },
@@ -2118,6 +2359,18 @@
           "time_info": "[00时39分 ~ 09时47分]"
         },
         {
+          "title": "惊人相似！美重演伊拉克战争剧本？",
+          "url": "https://news.ifeng.com/c/8r5sRCXJ1kS",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时46分 ~ 14时37分]"
+        },
+        {
           "title": "美军中东集结规模创伊拉克战争后之最，对伊动武的三种可能剧本",
           "url": "https://m.thepaper.cn/newsDetail_forward_32660713",
           "source": "澎湃新闻",
@@ -2128,8 +2381,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时39分 ~ 13时33分]"
+          "appearance_count": 17,
+          "time_info": "[00时39分 ~ 14时37分]"
         },
         {
           "title": "巴防长宣布与阿进入公开战争",
@@ -2144,18 +2397,6 @@
           "time_info": "[00时39分 ~ 09时47分]"
         },
         {
-          "title": "惊人相似！美重演伊拉克战争剧本？",
-          "url": "https://news.ifeng.com/c/8r5sRCXJ1kS",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时46分 ~ 13时33分]"
-        },
-        {
           "title": "美航母抵以色列 美伊战争风险升高",
           "url": "https://www.toutiao.com/trending/7611553987921186347/",
           "source": "今日头条",
@@ -2163,11 +2404,37 @@
             1,
             2,
             8,
-            17
+            17,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时46分 ~ 14时37分]"
+        },
+        {
+          "title": "美国要重演伊拉克战争剧本吗",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E8%A6%81%E9%87%8D%E6%BC%94%E4%BC%8A%E6%8B%89%E5%85%8B%E6%88%98%E4%BA%89%E5%89%A7%E6%9C%AC%E5%90%97",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            25,
+            30
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[09时46分 ~ 13时33分]"
+          "time_info": "[11时54分 ~ 14时37分]"
+        },
+        {
+          "title": "多国撤人航母抵以 美伊战争风险升高",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9B%BD%E6%92%A4%E4%BA%BA%E8%88%AA%E6%AF%8D%E6%8A%B5%E4%BB%A5+%E7%BE%8E%E4%BC%8A%E6%88%98%E4%BA%89%E9%A3%8E%E9%99%A9%E5%8D%87%E9%AB%98",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时55分 ~ 14时37分]"
         },
         {
           "title": "学者：俄乌战争打满四年俄伤了国本",
@@ -2180,29 +2447,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时32分 ~ 06时21分]"
-        },
-        {
-          "title": "美国要重演伊拉克战争剧本吗",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E8%A6%81%E9%87%8D%E6%BC%94%E4%BC%8A%E6%8B%89%E5%85%8B%E6%88%98%E4%BA%89%E5%89%A7%E6%9C%AC%E5%90%97",
-          "source": "百度热搜",
-          "ranks": [
-            23,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时54分 ~ 13时33分]"
-        },
-        {
-          "title": "多国撤人航母抵以 美伊战争风险升高",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9B%BD%E6%92%A4%E4%BA%BA%E8%88%AA%E6%AF%8D%E6%8A%B5%E4%BB%A5+%E7%BE%8E%E4%BC%8A%E6%88%98%E4%BA%89%E9%A3%8E%E9%99%A9%E5%8D%87%E9%AB%98",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时55分 ~ 13时33分]"
         },
         {
           "title": "歼15T将上线战争雷霆",
@@ -2231,8 +2475,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时23分 ~ 13时33分]"
+          "appearance_count": 8,
+          "time_info": "[07时23分 ~ 14时37分]"
         },
         {
           "title": "美股金银指数收涨超1.6%，历史上首次站上470点，2月份累涨23%",
@@ -2317,8 +2561,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时46分 ~ 13时33分]"
+          "appearance_count": 7,
+          "time_info": "[09时46分 ~ 14时37分]"
         },
         {
           "title": "地缘政治与信贷担忧拖累美股，道指跌1%，10年期美债收益率跌破4%，金银拉升，原油走强",
@@ -2468,8 +2712,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时39分 ~ 13时33分]"
+          "appearance_count": 14,
+          "time_info": "[00时39分 ~ 14时37分]"
         }
       ]
     },
