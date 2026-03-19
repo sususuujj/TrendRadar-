@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-20T04:36:25.719232+08:00",
-  "total_titles_processed": 522,
+  "generated_at": "2026-03-20T05:35:23.145518+08:00",
+  "total_titles_processed": 571,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 70,
+      "match_count": 75,
       "titles": [
         {
           "title": "海湾能源设施又遭伊朗攻击 沙特红海炼厂首次遭袭 国际油价飙升",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 04时36分]"
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 05时35分]"
         },
         {
           "title": "以军：继续“追杀”伊朗所有高层",
@@ -26,19 +26,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 04时36分]"
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 05时35分]"
         },
         {
           "title": "伊朗对美相关能源设施发动大规模导弹袭击，列明中东三国目标，卡塔尔称“全球最大LNG设施遭严重破坏”",
           "url": "https://wallstreetcn.com/articles/3767863",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 04时36分]"
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 05时35分]"
         },
         {
           "title": "美以伊战争丨伊朗发布击中美军F-35隐形战机视频",
@@ -48,8 +49,91 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时56分 ~ 04时36分]"
+          "appearance_count": 5,
+          "time_info": "[02时56分 ~ 05时35分]"
+        },
+        {
+          "title": "重大升级！能源设施已被卷入，华尔街“重估”伊朗战争时间表，再提“2022场景”",
+          "url": "https://wallstreetcn.com/articles/3767878",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 05时35分]"
+        },
+        {
+          "title": "伊朗：击中美国第五舰队",
+          "url": "https://www.toutiao.com/trending/7618459226796523571/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 05时35分]"
+        },
+        {
+          "title": "美军F-35战机疑被伊朗击中",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9BF-35%E6%88%98%E6%9C%BA%E7%96%91%E8%A2%AB%E4%BC%8A%E6%9C%97%E5%87%BB%E4%B8%AD",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 05时35分]"
+        },
+        {
+          "title": "美以袭击伊朗进入第 20 天，当前局势如何？还有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2017692346066630422",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 05时35分]"
+        },
+        {
+          "title": "贝森特：已允许伊朗石油继续从海湾地区流出，或解除对海上伊朗石油的制裁",
+          "url": "https://wallstreetcn.com/articles/3767941",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 05时35分]"
+        },
+        {
+          "title": "报道：伊朗拟对霍尔木兹海峡船只征收“安全通行费”，布油回落",
+          "url": "https://wallstreetcn.com/articles/3767926",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 05时35分]"
+        },
+        {
+          "title": "伊朗称打击命中美第五舰队",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%A7%B0%E6%89%93%E5%87%BB%E5%91%BD%E4%B8%AD%E7%BE%8E%E7%AC%AC%E4%BA%94%E8%88%B0%E9%98%9F%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 05时35分]"
         },
         {
           "title": "美以伊战争丨伊朗称命中美国第五舰队",
@@ -63,86 +147,6 @@
           "time_info": "[00时57分 ~ 01时53分]"
         },
         {
-          "title": "伊朗：击中美国第五舰队",
-          "url": "https://www.toutiao.com/trending/7618459226796523571/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 04时36分]"
-        },
-        {
-          "title": "美军F-35战机疑被伊朗击中",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9BF-35%E6%88%98%E6%9C%BA%E7%96%91%E8%A2%AB%E4%BC%8A%E6%9C%97%E5%87%BB%E4%B8%AD",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 04时36分]"
-        },
-        {
-          "title": "重大升级！能源设施已被卷入，华尔街“重估”伊朗战争时间表，再提“2022场景”",
-          "url": "https://wallstreetcn.com/articles/3767878",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 04时36分]"
-        },
-        {
-          "title": "美以袭击伊朗进入第 20 天，当前局势如何？还有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2017692346066630422",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 04时36分]"
-        },
-        {
-          "title": "报道：伊朗拟对霍尔木兹海峡船只征收“安全通行费”，布油回落",
-          "url": "https://wallstreetcn.com/articles/3767926",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 04时36分]"
-        },
-        {
-          "title": "贝森特：已允许伊朗石油继续从海湾地区流出，或解除对海上伊朗石油的制裁",
-          "url": "https://wallstreetcn.com/articles/3767941",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 04时36分]"
-        },
-        {
-          "title": "伊朗称打击命中美第五舰队",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%A7%B0%E6%89%93%E5%87%BB%E5%91%BD%E4%B8%AD%E7%BE%8E%E7%AC%AC%E4%BA%94%E8%88%B0%E9%98%9F%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 04时36分]"
-        },
-        {
           "title": "伊朗称将打击中东三国石油设施，全力打击美相关石油设施，冲突是否会彻底失控？油价会涨到多少？",
           "url": "https://www.zhihu.com/question/2017713766402385101",
           "source": "知乎",
@@ -150,8 +154,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 04时36分]"
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 05时35分]"
         },
         {
           "title": "伊朗称打击行动命中美国第五舰队，造成破坏有多大？对美军有哪些影响？",
@@ -161,8 +165,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 04时36分]"
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 05时35分]"
         },
         {
           "title": "伊朗称启动第64波行动 命中美军舰队",
@@ -172,11 +176,12 @@
             13,
             15,
             20,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 04时36分]"
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 05时35分]"
         },
         {
           "title": "战火蔓延!伊朗猛攻海湾油库",
@@ -186,8 +191,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 04时36分]"
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 05时35分]"
         },
         {
           "title": "伊朗外长回应美2000亿美元战争拨款",
@@ -200,8 +205,32 @@
             21
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 05时35分]"
+        },
+        {
+          "title": "以军空袭,伊朗最高安全官遇害",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351988&amp;topic_name=%E4%BB%A5%E5%86%9B%E7%A9%BA%E8%A2%AD%2C%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E5%AE%89%E5%85%A8%E5%AE%98%E9%81%87%E5%AE%B3",
+          "source": "贴吧",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 05时35分]"
+        },
+        {
+          "title": "伊朗最高领袖：血债将很快得到清算",
+          "url": "https://www.toutiao.com/trending/7618732232047627827/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            15,
+            13
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[00时57分 ~ 04时36分]"
+          "time_info": "[01时53分 ~ 05时35分]"
         },
         {
           "title": "伊朗动用新一代自杀式无人机机群",
@@ -211,17 +240,6 @@
             18,
             22,
             24
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 04时36分]"
-        },
-        {
-          "title": "以军空袭,伊朗最高安全官遇害",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351988&amp;topic_name=%E4%BB%A5%E5%86%9B%E7%A9%BA%E8%A2%AD%2C%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E5%AE%89%E5%85%A8%E5%AE%98%E9%81%87%E5%AE%B3",
-          "source": "贴吧",
-          "ranks": [
-            21
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -239,15 +257,15 @@
           "time_info": "01时53分"
         },
         {
-          "title": "伊朗敦促国际原子能机构谴责以色列蓄意袭击核电站",
-          "url": "https://wallstreetcn.com/livenews/3073562",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗导弹击中以色列海法炼油厂",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%AF%BC%E5%BC%B9%E5%87%BB%E4%B8%AD%E4%BB%A5%E8%89%B2%E5%88%97%E6%B5%B7%E6%B3%95%E7%82%BC%E6%B2%B9%E5%8E%82%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
           "ranks": [
-            2
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时36分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时56分 ~ 05时35分]"
         },
         {
           "title": "美国中央司令部：美国军队正在摧毁威胁霍尔木兹海峡及其附近国际航运的伊朗海军目标。",
@@ -267,9 +285,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时36分"
+        },
+        {
+          "title": "欧盟领导人峰会声明：欧洲理事会强烈谴责伊朗对该地区各国发动的无差别军事打击。向受影响国家表示支持。",
+          "url": "https://flash.jin10.com/detail/20260320053139524800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
         },
         {
           "title": "惠誉：伊朗战争对租赁融资构成有限风险。",
@@ -294,19 +323,6 @@
           "time_info": "[01时53分 ~ 04时36分]"
         },
         {
-          "title": "伊朗最高领袖：血债将很快得到清算",
-          "url": "https://www.toutiao.com/trending/7618732232047627827/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时53分 ~ 04时36分]"
-        },
-        {
           "title": "伊朗称破解以军安全通信相关代码",
           "url": "https://www.toutiao.com/trending/7617851532335235126/",
           "source": "今日头条",
@@ -321,15 +337,55 @@
           "time_info": "[00时57分 ~ 03时47分]"
         },
         {
-          "title": "伊朗导弹击中以色列海法炼油厂",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%AF%BC%E5%BC%B9%E5%87%BB%E4%B8%AD%E4%BB%A5%E8%89%B2%E5%88%97%E6%B5%B7%E6%B3%95%E7%82%BC%E6%B2%B9%E5%8E%82%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
+          "title": "美国打伊朗，两周烧掉委内瑞拉去年七分之一 GDP，这是什么概念？美国还能「烧」多少钱？",
+          "url": "https://www.zhihu.com/question/2017546059308606187",
+          "source": "知乎",
           "ranks": [
-            6
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时56分 ~ 04时36分]"
+          "appearance_count": 5,
+          "time_info": "[02时56分 ~ 05时35分]"
+        },
+        {
+          "title": "伊朗要求阿联酋作出赔偿",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E8%A6%81%E6%B1%82%E9%98%BF%E8%81%94%E9%85%8B%E4%BD%9C%E5%87%BA%E8%B5%94%E5%81%BF%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29,
+            27,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时56分 ~ 05时35分]"
+        },
+        {
+          "title": "美防长称请求白宫批准针对伊朗行动的拨款",
+          "url": "https://wallstreetcn.com/livenews/3073539",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            17,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时47分 ~ 05时35分]"
+        },
+        {
+          "title": "伊朗称以色列密谋袭击沙特石油设施",
+          "url": "https://wallstreetcn.com/livenews/3073536",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            18,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时47分 ~ 05时35分]"
         },
         {
           "title": "伊朗：“真实承诺-4”第65轮行动打击以色列炼油厂和美军基地",
@@ -369,28 +425,16 @@
           "time_info": "[00时57分 ~ 01时53分]"
         },
         {
-          "title": "美防长称请求白宫批准针对伊朗行动的拨款",
-          "url": "https://wallstreetcn.com/livenews/3073539",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时47分 ~ 04时36分]"
-        },
-        {
-          "title": "伊朗称以色列密谋袭击沙特石油设施",
-          "url": "https://wallstreetcn.com/livenews/3073536",
+          "title": "伊朗敦促国际原子能机构谴责以色列蓄意袭击核电站",
+          "url": "https://wallstreetcn.com/livenews/3073562",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            18
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时47分 ~ 04时36分]"
+          "time_info": "[04时36分 ~ 05时35分]"
         },
         {
           "title": "阿联酋高级官员Gargash：伊朗需要立即停止对邻国的“侵略”。",
@@ -453,31 +497,6 @@
           "time_info": "[00时57分 ~ 01时53分]"
         },
         {
-          "title": "美国打伊朗，两周烧掉委内瑞拉去年七分之一 GDP，这是什么概念？美国还能「烧」多少钱？",
-          "url": "https://www.zhihu.com/question/2017546059308606187",
-          "source": "知乎",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时56分 ~ 04时36分]"
-        },
-        {
-          "title": "伊朗要求阿联酋作出赔偿",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E8%A6%81%E6%B1%82%E9%98%BF%E8%81%94%E9%85%8B%E4%BD%9C%E5%87%BA%E8%B5%94%E5%81%BF%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29,
-            27,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时56分 ~ 04时36分]"
-        },
-        {
           "title": "伊朗要求阿联酋作出赔偿",
           "url": "https://www.toutiao.com/trending/7618739606183870474/",
           "source": "今日头条",
@@ -489,6 +508,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时57分 ~ 03时47分]"
+        },
+        {
+          "title": "美财长称或解除对海上伊朗石油的制裁",
+          "url": "https://www.toutiao.com/trending/7618242429951377450/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            24,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 05时35分]"
         },
         {
           "title": "美防长称请求白宫批准针对伊朗行动的拨款",
@@ -539,16 +571,28 @@
           "time_info": "[02时57分 ~ 03时47分]"
         },
         {
-          "title": "美财长称或解除对海上伊朗石油的制裁",
-          "url": "https://www.toutiao.com/trending/7618242429951377450/",
-          "source": "今日头条",
+          "title": "沙特召集多国外长在利雅得举行部长级磋商会议，呼吁伊朗立即停止袭击。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3073545",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            27,
-            24
+            15,
+            27
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时57分 ~ 03时47分]"
+          "time_info": "[04时36分 ~ 05时35分]"
+        },
+        {
+          "title": "内塔尼亚胡：对伊朗军事行动将持续至必要时为止",
+          "url": "https://wallstreetcn.com/livenews/3073544",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时36分 ~ 05时35分]"
         },
         {
           "title": "伊朗高官接连遇害如何影响战局走向",
@@ -635,9 +679,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时36分"
+        },
+        {
+          "title": "安全消息人士：一起火箭袭击瞄准了伊拉克库尔德地区苏莱曼尼亚附近的伊朗反对派组织据点。",
+          "url": "https://flash.jin10.com/detail/20260320050057912800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
         },
         {
           "title": "以色列国防军：自从真主党决定支持伊朗恐怖政权并于3月2日攻击以色列以来，它已从利塔尼河以南地区向以色列发射了大约700枚火箭、炮弹和无人机。黎巴嫩军队本应清除利塔尼河以南的真主党恐怖主义，但未能做到。我们别无选择，只能对真主党对以色列平民构成的威胁采取行动。",
@@ -651,15 +706,15 @@
           "time_info": "02时57分"
         },
         {
-          "title": "沙特召集多国外长在利雅得举行部长级磋商会议，呼吁伊朗立即停止袭击。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3073545",
-          "source": "华尔街见闻-快讯",
+          "title": "据伊朗塔斯尼姆通讯社：德黑兰中部已启动空中防御系统。",
+          "url": "https://flash.jin10.com/detail/20260320045915633800",
+          "source": "金十数据",
           "ranks": [
             15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时36分"
+          "time_info": "05时35分"
         },
         {
           "title": "伊朗总统证实拉里贾尼已遇难",
@@ -671,17 +726,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
-        },
-        {
-          "title": "内塔尼亚胡：对伊朗军事行动将持续至必要时为止",
-          "url": "https://wallstreetcn.com/livenews/3073544",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时36分"
         },
         {
           "title": "英国首相办公室：首相与卡塔尔埃米尔通话，谴责伊朗对卡塔尔能源设施的袭击。",
@@ -739,6 +783,17 @@
           "time_info": "03时47分"
         },
         {
+          "title": "内塔尼亚胡：以方将“暂停”空袭伊朗能源设施",
+          "url": "https://flash.jin10.com/detail/20260320044701702800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
+        },
+        {
           "title": "据伊朗努尔新闻(Nour News)：伊朗向以色列发射了新一波导弹。",
           "url": "https://flash.jin10.com/detail/20260320005142332800",
           "source": "金十数据",
@@ -748,6 +803,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
+        },
+        {
+          "title": "以色列国防军：发现从伊朗发射的导弹朝以色列领土飞来。防御系统正在运作以拦截威胁。",
+          "url": "https://flash.jin10.com/detail/20260320044416008800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
         },
         {
           "title": "伊朗公布卫星图像显示美在中东多处军事设施遭破坏",
@@ -789,7 +855,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时36分"
         },
@@ -819,7 +885,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
         {
           "title": "特朗普盟友警告：美国经济受不了对伊动武所致高油价",
@@ -829,8 +895,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 04时36分]"
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 05时35分]"
         },
         {
           "title": "报告与特朗普开战理由相悖？美情报总监矛盾表态",
@@ -840,8 +906,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 04时36分]"
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 05时35分]"
         },
         {
           "title": "特朗普威胁：再炸卡塔尔，把你们伊朗气田炸上天",
@@ -851,8 +917,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 04时36分]"
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 05时35分]"
         },
         {
           "title": "被特朗普抱怨不积极，默茨最新表态",
@@ -863,19 +929,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 04时36分]"
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 05时35分]"
         },
         {
           "title": "“能源战”升级！以军轰炸伊朗最大气田、油价暴涨背后：以色列完全“控制”了特朗普？",
           "url": "https://wallstreetcn.com/articles/3767896",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 04时36分]"
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 05时35分]"
         },
         {
           "title": "特朗普见高市早苗提偷袭珍珠港",
@@ -885,8 +952,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时56分 ~ 04时36分]"
+          "appearance_count": 5,
+          "time_info": "[02时56分 ~ 05时35分]"
         },
         {
           "title": "据知情人士透露，美国总统特朗普支持Pirro就美联储主席鲍威尔传票（被法官驳回一事）提起上诉。（彭博）",
@@ -914,6 +981,18 @@
           "time_info": "[00时57分 ~ 01时53分]"
         },
         {
+          "title": "特朗普会晤高市早苗，把美国袭击伊朗比作偷袭珍珠港",
+          "url": "https://wallstreetcn.com/livenews/3073556",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时36分 ~ 05时35分]"
+        },
+        {
           "title": "美国总统特朗普暗示，司法部应该继续调查美联储主席鲍威尔。 这恐怕会让凯文·沃什的美联储主席提名资格在参议院获得确认的前景变得错综复杂。（CNBC）",
           "url": "https://wallstreetcn.com/livenews/3073487",
           "source": "华尔街见闻-快讯",
@@ -938,15 +1017,15 @@
           "time_info": "[00时57分 ~ 01时53分]"
         },
         {
-          "title": "特朗普会晤高市早苗，把美国袭击伊朗比作偷袭珍珠港",
-          "url": "https://wallstreetcn.com/livenews/3073556",
-          "source": "华尔街见闻-快讯",
+          "title": "响应特朗普呼声，以色列总理称将暂停空袭伊朗能源设施，卡塔尔称伊袭破坏17%LNG产能",
+          "url": "https://wallstreetcn.com/articles/3767948",
+          "source": "华尔街见闻",
           "ranks": [
-            7
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时36分"
+          "time_info": "05时35分"
         },
         {
           "title": "日本首相高市早苗：特朗普和我讨论了日本在霍尔木兹海的援助法律限制。",
@@ -958,6 +1037,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时47分"
+        },
+        {
+          "title": "【内塔尼亚胡：以方将“暂停”空袭伊朗能源设施】以色列总理内塔尼亚胡19日在一场新闻发布会上回答媒体提问时称，是以色列“单独”空袭了伊朗天然气田，以方将“遵守”美国总统特朗普所提“暂停”后续空袭能源设施的要求。特朗普当天早些时候在白宫回答媒体提问时表示，他已经告知内塔尼亚胡不要攻击伊朗境内的能源设施。据伊朗媒体18日报道，伊朗南部布什尔省南帕尔斯和阿萨卢耶部分石油化工设施遭美国和以色列空袭。伊朗随后宣布打击沙特阿拉伯、卡塔尔等海湾国家与美国相关的石油设施。特朗普当天在社交媒体上发文，称美方对以色列袭击伊朗油气设施事先“毫不知情”。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3073569",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
+        },
+        {
+          "title": "周四（3月19日），降息赢家指数跌0.12%，报86.81点，绝大部分时间低位震荡，北京时间03:00前后迅猛拉升，使得日内整体跌幅快速收窄。 2月10日美股收盘以来，已经累计下跌18.77%。 “特朗普关税输家”指数涨0.65%，“特朗普金融指数”涨0.10%。 散户抱团概念股指数/迷因股（meme stock）指数跌0.07%。",
+          "url": "https://wallstreetcn.com/livenews/3073567",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
         },
         {
           "title": "特朗普称已告知以色列勿攻击伊朗境内能源设施",
@@ -988,7 +1089,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时36分"
         },
@@ -1051,7 +1152,7 @@
     },
     {
       "keyword_group": "小米",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "小米新一代SU7售价21.99万起",
@@ -1061,8 +1162,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 04时36分]"
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 05时35分]"
         },
         {
           "title": "新一代小米 SU7 发布，全系搭载 V6s Plus 超级电机，最高续航达 902km，还有哪些看点？",
@@ -1072,8 +1173,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 04时36分]"
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 05时35分]"
         },
         {
           "title": "小米汽车",
@@ -1084,8 +1185,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 04时36分]"
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 05时35分]"
         },
         {
           "title": "小米新一代SU7售价21.99万起",
@@ -1095,8 +1196,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 04时36分]"
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 05时35分]"
         },
         {
           "title": "小米新一代SU7采用车外机械拉手",
@@ -1106,11 +1207,12 @@
             1,
             10,
             22,
-            27
+            27,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 04时36分]"
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 05时35分]"
         },
         {
           "title": "小米新SU7起售价21.99万元",
@@ -1124,8 +1226,36 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 04时36分]"
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 05时35分]"
+        },
+        {
+          "title": "小米新一代SU7售价21.99万起",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E6%96%B0%E4%B8%80%E4%BB%A3SU7%E5%94%AE%E4%BB%B721.99%E4%B8%87%E8%B5%B7",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            20,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 05时35分]"
+        },
+        {
+          "title": "小米发布会把半个车圈请来了",
+          "url": "https://www.douyin.com/hot/2436612",
+          "source": "抖音",
+          "ranks": [
+            14,
+            15,
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 05时35分]"
         },
         {
           "title": "小米新一代SU7采用车外机械拉手",
@@ -1142,32 +1272,6 @@
           "time_info": "[00时57分 ~ 04时36分]"
         },
         {
-          "title": "小米新一代SU7售价21.99万起",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E6%96%B0%E4%B8%80%E4%BB%A3SU7%E5%94%AE%E4%BB%B721.99%E4%B8%87%E8%B5%B7",
-          "source": "百度热搜",
-          "ranks": [
-            21,
-            20,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 04时36分]"
-        },
-        {
-          "title": "小米发布会把半个车圈请来了",
-          "url": "https://www.douyin.com/hot/2436612",
-          "source": "抖音",
-          "ranks": [
-            14,
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 04时36分]"
-        },
-        {
           "title": "较预售降万元、新一代小米SU7 “低价”上市 雷军：不想让车主超预算",
           "url": "https://www.cls.cn/detail/2318736",
           "source": "财联社热门",
@@ -1176,8 +1280,22 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时56分 ~ 04时36分]"
+          "appearance_count": 5,
+          "time_info": "[02时56分 ~ 05时35分]"
+        },
+        {
+          "title": "新一代小米SU7全系涨价4000",
+          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E4%B8%80%E4%BB%A3%E5%B0%8F%E7%B1%B3SU7%E5%85%A8%E7%B3%BB%E6%B6%A8%E4%BB%B74000",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            29,
+            28,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时56分 ~ 05时35分]"
         },
         {
           "title": "小米笔记本",
@@ -1189,21 +1307,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 02时57分]"
-        },
-        {
-          "title": "新一代小米SU7全系涨价4000",
-          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E4%B8%80%E4%BB%A3%E5%B0%8F%E7%B1%B3SU7%E5%85%A8%E7%B3%BB%E6%B6%A8%E4%BB%B74000",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            29,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时56分 ~ 04时36分]"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 05时35分]"
         },
         {
           "title": "小米笔记本Pro14发布 售价8499元起",
@@ -1218,32 +1323,44 @@
           "time_info": "[02时56分 ~ 03时47分]"
         },
         {
+          "title": "小米发布会",
+          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E5%8F%91%E5%B8%83%E4%BC%9A&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时36分 ~ 05时35分]"
+        },
+        {
           "title": "舒淇代言小米汽车 SU7谐音梗成真",
           "url": "https://www.toutiao.com/trending/7618063303169261587/",
           "source": "今日头条",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时36分"
         },
         {
-          "title": "小米发布会",
-          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E5%8F%91%E5%B8%83%E4%BC%9A&t=31&band_rank=27&Refer=top",
-          "source": "微博",
+          "title": "小米新一代SU7发布",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E6%96%B0%E4%B8%80%E4%BB%A3SU7%E5%8F%91%E5%B8%83",
+          "source": "百度热搜",
           "ranks": [
-            27
+            30
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时36分"
+          "time_info": "05时35分"
         }
       ]
     },
     {
       "keyword_group": "中东",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "中东局势重大升级！除了原油，所有资产都在跌！",
@@ -1253,8 +1370,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 04时36分]"
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 05时35分]"
         },
         {
           "title": "多家香港银行避谈“千亿中东资本涌港”传闻，金融业内：无数据可佐证，但关注度却有明显提升",
@@ -1266,8 +1383,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 04时36分]"
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 05时35分]"
         },
         {
           "title": "中东新一轮“备胎”计划：海湾国家正探索陆上数据走廊方案",
@@ -1278,8 +1395,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 04时36分]"
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 05时35分]"
         },
         {
           "title": "美联储按兵不动：中东局势影响不确定，暗示今年降息1次（附声明全文）",
@@ -1289,8 +1406,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 04时36分]"
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 05时35分]"
         },
         {
           "title": "WTI 4月原油期货收跌0.18美元，跌幅超过0.18%，报96.14美元/桶。 布伦特5月原油期货收涨1.27美元，涨幅超过1.18%，报108.65美元/桶。 中东Abu Dhabi Murban原油期货涨5.57%，报123.27美元/桶，北京时间17:25曾达到128.84美元。 NYMEX 4月天然气期货收报3.1660美元/百万英热单位。 NYMEX 4月汽油期货收报3.1271美元/加仑，NYMEX 3月取暖油期货收报4.3420美元/加仑。",
@@ -1364,6 +1481,17 @@
           "time_info": "02时57分"
         },
         {
+          "title": "美国给中东三国补充损耗 批准165亿美元军售",
+          "url": "https://flash.jin10.com/detail/20260320051037347800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
+        },
+        {
           "title": "阿联酋总统与埃及总统讨论中东局势",
           "url": "https://www.toutiao.com/trending/7618172952162975754/",
           "source": "今日头条",
@@ -1415,6 +1543,18 @@
           "time_info": "[03时47分 ~ 04时36分]"
         },
         {
+          "title": "亚洲自俄罗斯燃料油进口量料创纪录新高",
+          "url": "https://wallstreetcn.com/livenews/3073548",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时36分 ~ 05时35分]"
+        },
+        {
           "title": "市场消息：联合国人权理事会呼吁立即对黎巴嫩袭击俄罗斯记者的事件进行调查，并追究相关责任人的法律责任。",
           "url": "https://flash.jin10.com/detail/20260320012447585800",
           "source": "金十数据",
@@ -1424,17 +1564,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
-        },
-        {
-          "title": "亚洲自俄罗斯燃料油进口量料创纪录新高",
-          "url": "https://wallstreetcn.com/livenews/3073548",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时36分"
         },
         {
           "title": "美国财政部：允许销售截至2026年3月12日已装载至船只的俄罗斯原油及石油产品。",
@@ -1465,7 +1594,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时36分"
         }
@@ -1529,7 +1658,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时36分"
         },
@@ -1540,7 +1669,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时36分"
         }
@@ -1550,17 +1679,6 @@
       "keyword_group": "gemini",
       "match_count": 2,
       "titles": [
-        {
-          "title": "Gemini SpaceX Station四季度营收6030万美元，分析师预期5570万美元。",
-          "url": "https://wallstreetcn.com/livenews/3073558",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时36分"
-        },
         {
           "title": "谷歌开始测试Gemini Mac版应用，以与ChatGPT和Claude竞争。",
           "url": "https://flash.jin10.com/detail/20260320033049642800",
@@ -1572,6 +1690,46 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时47分 ~ 04时36分]"
+        },
+        {
+          "title": "Gemini SpaceX Station四季度营收6030万美元，分析师预期5570万美元。",
+          "url": "https://wallstreetcn.com/livenews/3073558",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时36分 ~ 05时35分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "纳斯达克金龙中国指数初步收跌1%。 热门中概股里，阿特斯太阳能初步收跌27%，阿里巴巴跌7%，大全新能源跌5.5%，贝壳、百度跌超2%，腾讯跌1.4%，小鹏则涨1.9%，亚朵涨4%。",
+          "url": "https://wallstreetcn.com/livenews/3073553",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时36分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌1.00%，报6945.39点，跳空低开之后跌幅迅速扩大至将近3.12%，绝大部分时间持稳于6900点上方——形成高位窄幅震荡。 热门中概股里，阿特斯太阳能初步收跌27%，阿里巴巴跌7%，大全新能源跌5.5%，贝壳、百度跌超2%，腾讯跌1.4%，小鹏则涨1.9%，亚朵涨4%。 ETF中，中概互联网指数ETF（KWEB）收跌1.22%，中国科技指数ETF（CQQQ）收跌0.89%。 XtrackersHarvest中证50（ASHS）收跌0.86%，德银嘉实沪深300指数ETF（ASHR）收跌0.21%。",
+          "url": "https://wallstreetcn.com/livenews/3073553",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
         }
       ]
     },
@@ -1587,25 +1745,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 04时36分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新能源",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "纳斯达克金龙中国指数初步收跌1%。 热门中概股里，阿特斯太阳能初步收跌27%，阿里巴巴跌7%，大全新能源跌5.5%，贝壳、百度跌超2%，腾讯跌1.4%，小鹏则涨1.9%，亚朵涨4%。",
-          "url": "https://wallstreetcn.com/livenews/3073553",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时36分"
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 05时35分]"
         }
       ]
     }
