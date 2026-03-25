@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-03-26T05:38:21.344762+08:00",
-  "total_titles_processed": 590,
+  "generated_at": "2026-03-26T06:35:03.371792+08:00",
+  "total_titles_processed": 626,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 73,
+      "match_count": 75,
       "titles": [
-        {
-          "title": "美方向伊朗提出含“15项条件”的和谈方案",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32825505",
-          "source": "澎湃新闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时13分 ~ 05时38分]"
-        },
         {
           "title": "伊朗称向美林肯号航母发射导弹",
           "url": "https://news.ifeng.com/c/8rmkkOjixQd",
@@ -26,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时13分 ~ 05时38分]"
+          "appearance_count": 9,
+          "time_info": "[00时13分 ~ 06时35分]"
         },
         {
           "title": "伊朗大使：未与美国直接或间接谈判",
@@ -37,19 +26,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时13分 ~ 05时38分]"
+          "appearance_count": 9,
+          "time_info": "[00时13分 ~ 06时35分]"
         },
         {
           "title": "力促周四前，等待伊朗回应！巴基斯坦总理：已准备好主持美伊会谈",
           "url": "https://wallstreetcn.com/articles/3768300",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时13分 ~ 05时38分]"
+          "appearance_count": 9,
+          "time_info": "[00时13分 ~ 06时35分]"
         },
         {
           "title": "伊拉克不忍了？“允许亲伊朗武装报复美以”",
@@ -59,8 +49,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时13分 ~ 05时38分]"
+          "appearance_count": 9,
+          "time_info": "[00时13分 ~ 06时35分]"
         },
         {
           "title": "贝莱德CEO推演伊朗战争结局：若油价升至150美元将引发全球衰退",
@@ -70,6 +60,17 @@
             4,
             6,
             5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时13分 ~ 06时35分]"
+        },
+        {
+          "title": "美方向伊朗提出含“15项条件”的和谈方案",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32825505",
+          "source": "澎湃新闻",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -85,8 +86,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时13分 ~ 05时38分]"
+          "appearance_count": 9,
+          "time_info": "[00时13分 ~ 06时35分]"
         },
         {
           "title": "伊朗称向美林肯号航母发射导弹",
@@ -96,8 +97,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时13分 ~ 05时38分]"
+          "appearance_count": 9,
+          "time_info": "[00时13分 ~ 06时35分]"
         },
         {
           "title": "伊朗拒绝美国停战方案",
@@ -107,19 +108,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时13分 ~ 05时38分]"
+          "appearance_count": 9,
+          "time_info": "[00时13分 ~ 06时35分]"
         },
         {
           "title": "伊朗称“除了交战国，海峡已开放”！“非敌对船只”可以“在与伊朗协调下”通过霍尔木兹海峡",
           "url": "https://wallstreetcn.com/articles/3768310",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时13分 ~ 05时38分]"
+          "appearance_count": 9,
+          "time_info": "[00时13分 ~ 06时35分]"
         },
         {
           "title": "伊朗：满足条件的非敌对船只可通行霍尔木兹海峡",
@@ -129,19 +131,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时13分 ~ 05时38分]"
+          "appearance_count": 9,
+          "time_info": "[00时13分 ~ 06时35分]"
         },
         {
           "title": "美国一边提停火方案一边加紧增兵，伊朗告诉调解方：怀疑和平谈判只是一个幌子",
           "url": "https://wallstreetcn.com/articles/3768338",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时13分 ~ 05时38分]"
+          "appearance_count": 9,
+          "time_info": "[00时13分 ~ 06时35分]"
         },
         {
           "title": "伊朗发动“真实承诺4”第81波行动",
@@ -153,8 +156,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时13分 ~ 05时38分]"
+          "appearance_count": 9,
+          "time_info": "[00时13分 ~ 06时35分]"
         },
         {
           "title": "击毁F-35A，再看伊朗防空作战能力，其实还凑合？",
@@ -164,8 +167,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时13分 ~ 05时38分]"
+          "appearance_count": 9,
+          "time_info": "[00时13分 ~ 06时35分]"
         },
         {
           "title": "伊朗喊话美国：别把你们失败称为协议",
@@ -174,11 +177,12 @@
           "ranks": [
             19,
             14,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时13分 ~ 05时38分]"
+          "appearance_count": 9,
+          "time_info": "[00时13分 ~ 06时35分]"
         },
         {
           "title": "伊朗被曝拒绝与威特科夫和库什纳谈判，更倾向于万斯作为代表",
@@ -190,8 +194,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时13分 ~ 05时38分]"
+          "appearance_count": 9,
+          "time_info": "[00时13分 ~ 06时35分]"
         },
         {
           "title": "伊朗重申非交战国家船只可安全通过霍尔木兹海峡，如何看待这一表态？全球能源供应压力会得到缓解吗？",
@@ -201,8 +205,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时13分 ~ 05时38分]"
+          "appearance_count": 9,
+          "time_info": "[00时13分 ~ 06时35分]"
         },
         {
           "title": "美以军事打击伊朗引发四重裂痕",
@@ -212,11 +216,12 @@
             25,
             22,
             24,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时13分 ~ 05时38分]"
+          "appearance_count": 9,
+          "time_info": "[00时13分 ~ 06时35分]"
         },
         {
           "title": "伊朗提出关于停战5项条件",
@@ -227,8 +232,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时57分 ~ 05时38分]"
+          "appearance_count": 8,
+          "time_info": "[01时57分 ~ 06时35分]"
         },
         {
           "title": "巴基斯坦：伊朗将在今晚回复我们",
@@ -253,26 +258,15 @@
           "time_info": "03时50分"
         },
         {
-          "title": "美国中央司令部：我们已打击伊朗超过1万个军事目标，摧毁了伊朗92%的大型海军舰艇。他们已经失去了有效投射海军力量的能力。",
-          "url": "https://flash.jin10.com/detail/20260326050956133800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时38分"
-        },
-        {
-          "title": "据英国金融时报：西方情报称俄罗斯正向伊朗派遣无人机。",
-          "url": "https://flash.jin10.com/detail/20260326050525377800",
-          "source": "金十数据",
+          "title": "大摩预计美元涨势难持久，美欧利差料收窄且伊朗战争恐拖累经济",
+          "url": "https://wallstreetcn.com/livenews/3076927",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时38分"
+          "time_info": "06时35分"
         },
         {
           "title": "美媒：伊朗轰炸美军基地 迫使大部分美军转入“远程作战”",
@@ -330,28 +324,6 @@
           "time_info": "03时50分"
         },
         {
-          "title": "据伊朗媒体：伊朗东南部城市设拉子发生爆炸。",
-          "url": "https://flash.jin10.com/detail/20260326045346172800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时38分"
-        },
-        {
-          "title": "美国白宫新闻秘书卡罗琳·莱维特：美国副总统万斯自始至终都参与了关于伊朗问题的讨论。",
-          "url": "https://wallstreetcn.com/livenews/3076907",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时38分"
-        },
-        {
           "title": "伊朗议长警告“某地区国家”",
           "url": "https://wallstreetcn.com/livenews/3076859",
           "source": "华尔街见闻-快讯",
@@ -378,6 +350,18 @@
           "time_info": "[02时59分 ~ 04时37分]"
         },
         {
+          "title": "美国中央司令部：我们已打击伊朗超过1万个军事目标，摧毁了伊朗92%的大型海军舰艇。他们已经失去了有效投射海军力量的能力。",
+          "url": "https://flash.jin10.com/detail/20260326050956133800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时38分 ~ 06时35分]"
+        },
+        {
           "title": "伊朗军方：精准击中一架美国F-18型战斗机",
           "url": "https://wallstreetcn.com/livenews/3076841",
           "source": "华尔街见闻-快讯",
@@ -391,6 +375,18 @@
           "time_info": "[01时58分 ~ 03时50分]"
         },
         {
+          "title": "据英国金融时报：西方情报称俄罗斯正向伊朗派遣无人机。",
+          "url": "https://flash.jin10.com/detail/20260326050525377800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时38分 ~ 06时35分]"
+        },
+        {
           "title": "WTI原油期货跌幅收窄至1.26%，暂报91.19美元。 伊朗外长阿拉格齐称，美国正通过不同的中间人传递信息。通过调解人交换信息“并不意味着与美国进行谈判”。 伊朗高层正在审查各方提出的方案，德黑兰无意与美国举行会谈。",
           "url": "https://wallstreetcn.com/livenews/3076866",
           "source": "华尔街见闻-快讯",
@@ -401,6 +397,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时50分 ~ 04时37分]"
+        },
+        {
+          "title": "据伊朗媒体：伊朗东南部城市设拉子发生爆炸。",
+          "url": "https://flash.jin10.com/detail/20260326045346172800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时38分 ~ 06时35分]"
+        },
+        {
+          "title": "美国白宫新闻秘书卡罗琳·莱维特：美国副总统万斯自始至终都参与了关于伊朗问题的讨论。",
+          "url": "https://wallstreetcn.com/livenews/3076907",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时38分 ~ 06时35分]"
         },
         {
           "title": "伊朗布什尔核电站再遭袭",
@@ -461,6 +481,30 @@
           "time_info": "[02时59分 ~ 03时50分]"
         },
         {
+          "title": "美国白宫新闻秘书卡罗琳·莱维特：目前外界有关在巴基斯坦等地举行美伊会谈的说法多属“猜测性报道”，“在白宫正式宣布前，不应视为已确定安排”。 当前对伊朗的军事行动“无需国会正式授权”，不过政府仍安排国家安全官员向国会议员进行简报，此举出于“礼节与尊重”。",
+          "url": "https://wallstreetcn.com/livenews/3076905",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时38分 ~ 06时35分]"
+        },
+        {
+          "title": "国际货币基金组织对可能出现的因伊朗战争而需要援助的情况进行了模拟分析，评估重点在于那些实施积极融资计划的国家。",
+          "url": "https://flash.jin10.com/detail/20260326044518789800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时38分 ~ 06时35分]"
+        },
+        {
           "title": "伊朗外长：伊朗经调解方与美“交流信息” 没有谈判",
           "url": "https://flash.jin10.com/detail/20260326042312820800",
           "source": "金十数据",
@@ -473,6 +517,30 @@
           "time_info": "[04时37分 ~ 05时38分]"
         },
         {
+          "title": "据知情人士透露，在伊朗战争持续之际，国际货币基金组织（IMF）加大对资金缺口的评估。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3076896",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时38分 ~ 06时35分]"
+        },
+        {
+          "title": "伊朗外长：伊朗经调解方与美“交流信息”，没有谈判",
+          "url": "https://wallstreetcn.com/livenews/3076893",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时38分 ~ 06时35分]"
+        },
+        {
           "title": "伊朗责令擅自通过霍尔木兹海峡船返航",
           "url": "https://www.toutiao.com/trending/7620083118104133638/",
           "source": "今日头条",
@@ -483,6 +551,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时37分 ~ 05时38分]"
+        },
+        {
+          "title": "伊朗军方喊话美国：“别把你们的失败称为协议”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32827616",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时34分 ~ 06时35分]"
         },
         {
           "title": "伊朗拒绝美国停战方案、提五条件，威胁开启曼德海峡新战线，白宫称美伊在对话且有成效、伊外长否认对话",
@@ -516,28 +595,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时13分"
-        },
-        {
-          "title": "美国白宫新闻秘书卡罗琳·莱维特：目前外界有关在巴基斯坦等地举行美伊会谈的说法多属“猜测性报道”，“在白宫正式宣布前，不应视为已确定安排”。 当前对伊朗的军事行动“无需国会正式授权”，不过政府仍安排国家安全官员向国会议员进行简报，此举出于“礼节与尊重”。",
-          "url": "https://wallstreetcn.com/livenews/3076905",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时38分"
-        },
-        {
-          "title": "国际货币基金组织对可能出现的因伊朗战争而需要援助的情况进行了模拟分析，评估重点在于那些实施积极融资计划的国家。",
-          "url": "https://flash.jin10.com/detail/20260326044518789800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时38分"
         },
         {
           "title": "据半岛电视台：伊朗革命卫队称防空系统击落了一架美国F-18战斗机。",
@@ -593,17 +650,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时50分"
-        },
-        {
-          "title": "据知情人士透露，在伊朗战争持续之际，国际货币基金组织（IMF）加大对资金缺口的评估。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3076896",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时38分"
         },
         {
           "title": "白宫新闻秘书莱维特：美国副总统万斯一直有参与有关伊朗的讨论。",
@@ -681,17 +727,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时13分"
-        },
-        {
-          "title": "伊朗外长：伊朗经调解方与美“交流信息”，没有谈判",
-          "url": "https://wallstreetcn.com/livenews/3076893",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时38分"
         },
         {
           "title": "白宫新闻秘书莱维特：目前尚不能确认任何正式的伊朗和平谈判。",
@@ -840,19 +875,8 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
-        {
-          "title": "特朗普称美伊谈判“可能已相当接近达成协议”、伊朗同意永不拥有核武，报道称美国有意停火一个月、提15条和谈方案",
-          "url": "https://wallstreetcn.com/articles/3768302",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时13分 ~ 05时38分]"
-        },
         {
           "title": "美以伊战争丨美媒：军方只向特朗普展示胜利画面",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
@@ -861,8 +885,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时13分 ~ 05时38分]"
+          "appearance_count": 9,
+          "time_info": "[00时13分 ~ 06时35分]"
         },
         {
           "title": "凤凰女记者：伊朗民众认为特朗普说谎，在为美方袭击做准备",
@@ -870,6 +894,17 @@
           "source": "凤凰网",
           "ranks": [
             4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时13分 ~ 06时35分]"
+        },
+        {
+          "title": "特朗普称美伊谈判“可能已相当接近达成协议”、伊朗同意永不拥有核武，报道称美国有意停火一个月、提15条和谈方案",
+          "url": "https://wallstreetcn.com/articles/3768302",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -883,8 +918,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时13分 ~ 05时38分]"
+          "appearance_count": 9,
+          "time_info": "[00时13分 ~ 06时35分]"
         },
         {
           "title": "伊朗称向美林肯号航母发射导弹，特朗普再谈正与伊朗谈判，声称收到伊方「大礼」，具体情况如何？",
@@ -895,8 +930,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时13分 ~ 05时38分]"
+          "appearance_count": 9,
+          "time_info": "[00时13分 ~ 06时35分]"
         },
         {
           "title": "又赢了？特朗普声称已实现伊朗的政权更迭，“他们还同意放弃拥核”",
@@ -907,8 +942,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时13分 ~ 05时38分]"
+          "appearance_count": 9,
+          "time_info": "[00时13分 ~ 06时35分]"
         },
         {
           "title": "美媒：以总理希望呼吁伊朗人民“起义” 遭特朗普拒绝",
@@ -931,6 +966,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
+        },
+        {
+          "title": "伊朗拒绝美国停战方案、称不允许特朗普决定停战时间，白宫称美伊在谈判且有成效，伊外长称信息交流并非谈判",
+          "url": "https://wallstreetcn.com/articles/3768393",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时38分 ~ 06时35分]"
         },
         {
           "title": "布伦特原油期货目前跌2.33%，暂报97.89美元。 据纽约时报，伊朗的袭击迫使美军远程行动部，分驻中东美军已迁至酒店和办公室。 另据Axios报道，特朗普拒绝了内塔尼亚胡号召伊朗发动起义的提议。",
@@ -956,6 +1003,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时58分 ~ 03时50分]"
+        },
+        {
+          "title": "野村辜朝明：“伊朗战争”发生在特朗普输掉“高院关税战”后几天，这不是巧合",
+          "url": "https://wallstreetcn.com/articles/3768337",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时34分 ~ 06时35分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：关于15点和平计划的报道存在一些错误信息。 美国总统特朗普不会虚张声势，伊朗不应该误判形势。 如果伊朗不接受失败的结果，特朗普将“释放地狱之火”。",
@@ -992,15 +1050,15 @@
           "time_info": "00时13分"
         },
         {
-          "title": "伊朗拒绝美国停战方案、称不允许特朗普决定停战时间，白宫称美伊在谈判且有成效，伊外长称信息交流并非谈判",
-          "url": "https://wallstreetcn.com/articles/3768393",
-          "source": "华尔街见闻",
+          "title": "美国佛罗里达州共和党人提出法案，拟将棕榈滩机场更名为特朗普机场。",
+          "url": "https://flash.jin10.com/detail/20260326060757337800",
+          "source": "金十数据",
           "ranks": [
-            7
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时38分"
+          "time_info": "06时35分"
         },
         {
           "title": "美国总统特朗普：仇恨国家的民主党正在试图制造内部混乱，以掩盖我们在伊朗取得的伟大军事成就。他们讨厌看到我们如此彻底和果断的胜利，但美国公众看到了正在发生的事情。",
@@ -1061,19 +1119,8 @@
     },
     {
       "keyword_group": "俄罗斯",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
-        {
-          "title": "俄罗斯：希望土耳其阻止乌克兰袭击俄天然气管道",
-          "url": "https://wallstreetcn.com/livenews/3076912",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时38分"
-        },
         {
           "title": "乌克兰总统泽连斯基：乌克兰拥有足够的国产远程打击能力，可以对俄罗斯的袭击进行报复。在战场上，乌克兰与俄罗斯在FPV无人机方面势均力敌，每年产量各约700万架。",
           "url": "https://flash.jin10.com/detail/20260326022524149800",
@@ -1084,6 +1131,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
+        },
+        {
+          "title": "俄罗斯：希望土耳其阻止乌克兰袭击俄天然气管道",
+          "url": "https://wallstreetcn.com/livenews/3076912",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时38分 ~ 06时35分]"
         },
         {
           "title": "普京签署法令：俄罗斯自5月起限制黄金出口",
@@ -1120,6 +1179,17 @@
           "time_info": "02时59分"
         },
         {
+          "title": "俄罗斯希望土耳其阻止乌克兰袭击俄天然气管道",
+          "url": "https://flash.jin10.com/detail/20260326052108880800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时35分"
+        },
+        {
           "title": "据路透社：据消息人士数据进行的计算显示，在基础设施遭到袭击和油轮被扣押后，俄罗斯的石油出口能力已缩减了40%。",
           "url": "https://flash.jin10.com/detail/20260325232815146800",
           "source": "金十数据",
@@ -1134,18 +1204,19 @@
     },
     {
       "keyword_group": "中东",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "中远海运集运：即日恢复中东六国新订舱业务！",
           "url": "https://wallstreetcn.com/articles/3768348",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时13分 ~ 05时38分]"
+          "appearance_count": 9,
+          "time_info": "[00时13分 ~ 06时35分]"
         },
         {
           "title": "尼日利亚国家石油公司执行副总裁：买家对尼日利亚液化天然气货物的兴趣激增。由于尼日利亚的地理位置和储量规模，中东冲突为本国创造了机遇。",
@@ -1153,11 +1224,35 @@
           "source": "金十数据",
           "ranks": [
             2,
-            15
+            15,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时37分 ~ 06时35分]"
+        },
+        {
+          "title": "据半岛电视台：五角大楼官员表示，美国已下令从第82空降师向中东部署约2500名美军。计划部署的部队包括该师第1战斗旅的指挥官和后勤支援人员。",
+          "url": "https://flash.jin10.com/detail/20260326043803908800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            28
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时37分 ~ 05时38分]"
+          "time_info": "[05时38分 ~ 06时35分]"
+        },
+        {
+          "title": "澳洲联储助理主席肯特：中东冲突导致金融环境一定程度收紧。",
+          "url": "https://flash.jin10.com/detail/20260326061622412800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时35分"
         },
         {
           "title": "WTI 5月原油期货收报90.32美元/桶。 布伦特5月原油期货收报102.22美元/桶。 中东Abu Dhabi Murban原油期货跌13.67%，报100.26美元/桶。 NYMEX 4月天然气期货收报2.9520美元/百万英热单位。 NYMEX 4月汽油期货收报3.0124美元/加仑，NYMEX 3月取暖油期货收报4.0063美元/加仑。",
@@ -1171,15 +1266,15 @@
           "time_info": "03时50分"
         },
         {
-          "title": "据半岛电视台：五角大楼官员表示，美国已下令从第82空降师向中东部署约2500名美军。计划部署的部队包括该师第1战斗旅的指挥官和后勤支援人员。",
-          "url": "https://flash.jin10.com/detail/20260326043803908800",
+          "title": "金十数据整理：中东局势跟踪（3月26日）",
+          "url": "https://flash.jin10.com/detail/20260326054811835800",
           "source": "金十数据",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时38分"
+          "time_info": "06时35分"
         }
       ]
     },
@@ -1196,8 +1291,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时13分 ~ 05时38分]"
+          "appearance_count": 9,
+          "time_info": "[00时13分 ~ 06时35分]"
         },
         {
           "title": "雷军称新一代小米 SU7 推出「准现车」方案，一周到五周内快速交付，这能彻底解决小米「交付慢」痛点吗？",
@@ -1225,6 +1320,47 @@
       ]
     },
     {
+      "keyword_group": "基金",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "国投瑞银白银基金估值调整和解方案后续：和解率超95%，线上渠道将适时关闭",
+          "url": "https://www.cls.cn/detail/2324799",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时13分 ~ 06时35分]"
+        },
+        {
+          "title": "公募基金规模突破38万亿元，连续11个月创新高",
+          "url": "https://wallstreetcn.com/livenews/3076928",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时35分"
+        },
+        {
+          "title": "一天两度停牌，有油气QDII基金溢价率比成立总回报还高，高溢价还能撑多久？",
+          "url": "https://www.cls.cn/detail/2324801",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时50分 ~ 06时35分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "openai",
       "match_count": 2,
       "titles": [
@@ -1236,11 +1372,12 @@
             14,
             16,
             15,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时13分 ~ 05时38分]"
+          "appearance_count": 9,
+          "time_info": "[00时13分 ~ 06时35分]"
         },
         {
           "title": "OpenAI推出安全漏洞赏金计划。",
@@ -1254,36 +1391,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时58分 ~ 03时50分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "基金",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "国投瑞银白银基金估值调整和解方案后续：和解率超95%，线上渠道将适时关闭",
-          "url": "https://www.cls.cn/detail/2324799",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时13分 ~ 05时38分]"
-        },
-        {
-          "title": "一天两度停牌，有油气QDII基金溢价率比成立总回报还高，高溢价还能撑多久？",
-          "url": "https://www.cls.cn/detail/2324801",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时50分 ~ 05时38分]"
         }
       ]
     }
