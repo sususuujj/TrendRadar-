@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-30T06:31:20.410140+08:00",
-  "total_titles_processed": 494,
+  "generated_at": "2026-03-30T07:31:41.100503+08:00",
+  "total_titles_processed": 550,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时33分 ~ 06时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 07时31分]"
         },
         {
           "title": "DeepSeek“崩了”",
@@ -30,8 +30,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时33分 ~ 06时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 07时31分]"
         }
       ]
     }
