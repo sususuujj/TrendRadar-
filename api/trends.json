@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-29T17:36:38.527823+08:00",
-  "total_titles_processed": 1068,
+  "generated_at": "2026-03-29T18:32:39.103912+08:00",
+  "total_titles_processed": 1117,
   "failed_sources": [],
   "trends": [
     {
@@ -54,11 +54,12 @@
           "ranks": [
             2,
             11,
-            16
+            16,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时02分 ~ 17时36分]"
+          "appearance_count": 4,
+          "time_info": "[15时02分 ~ 18时32分]"
         },
         {
           "title": "王兴兴定义具身智能“GPT时刻”：带机器人到陌生场景，语音指令完成80%以上任务",
