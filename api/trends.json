@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-29T21:53:18.821698+08:00",
-  "total_titles_processed": 1301,
+  "generated_at": "2026-03-29T22:33:31.527300+08:00",
+  "total_titles_processed": 1346,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时54分 ~ 21时53分]"
+          "appearance_count": 3,
+          "time_info": "[20时54分 ~ 22时33分]"
         },
         {
           "title": "马斯克：特斯拉人工智能自动驾驶的安全性将比人类驾驶高出10倍以上。",
@@ -82,6 +82,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek崩了",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B4%A9%E4%BA%86&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
         }
       ]
     },
