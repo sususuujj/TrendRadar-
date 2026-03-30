@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-31T00:05:23.535144+08:00",
-  "total_titles_processed": 304,
+  "generated_at": "2026-03-31T01:54:34.931711+08:00",
+  "total_titles_processed": 407,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.toutiao.com/trending/7622965821714730505/",
           "source": "今日头条",
           "ranks": [
-            30
+            30,
+            26
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时05分"
+          "appearance_count": 2,
+          "time_info": "[00时05分 ~ 01时54分]"
         }
       ]
     },
@@ -32,8 +33,25 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时05分 ~ 01时54分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "豆包",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "现在豆包完全免费使用，那字节跳动开发豆包的意义是什么？如何盈利？",
+          "url": "https://www.zhihu.com/question/2019342722851452166",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时05分"
+          "time_info": "01时54分"
         }
       ]
     }
