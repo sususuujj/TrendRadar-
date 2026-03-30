@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-30T17:11:11.363538+08:00",
-  "total_titles_processed": 1195,
+  "generated_at": "2026-03-30T19:02:06.750617+08:00",
+  "total_titles_processed": 1328,
   "failed_sources": [],
   "trends": [
     {
@@ -34,6 +34,32 @@
           "time_info": "[00时33分 ~ 07时31分]"
         },
         {
+          "title": "DeepSeek“崩了”一夜，相关功能仍无法正常使用",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32860242",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时23分 ~ 19时02分]"
+        },
+        {
+          "title": "DeepSeek宕机12小时后恢复服务",
+          "url": "https://www.toutiao.com/trending/7622849000173178419/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            15,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时23分 ~ 19时02分]"
+        },
+        {
           "title": "DeepSeek公告服务出现重大中断",
           "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E5%85%AC%E5%91%8A%E6%9C%8D%E5%8A%A1%E5%87%BA%E7%8E%B0%E9%87%8D%E5%A4%A7%E4%B8%AD%E6%96%AD%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
@@ -45,36 +71,12 @@
           "time_info": "10时23分"
         },
         {
-          "title": "DeepSeek“崩了”一夜，相关功能仍无法正常使用",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32860242",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时23分 ~ 17时11分]"
-        },
-        {
           "title": "3 月 29 日大量用户反映 DeepSeek 服务出现异常，在宕机 12 小时后恢复服务，怎么回事？",
           "url": "https://www.zhihu.com/question/2021724542909903612",
           "source": "知乎",
           "ranks": [
             12,
             19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时23分 ~ 17时11分]"
-        },
-        {
-          "title": "DeepSeek宕机12小时后恢复服务",
-          "url": "https://www.toutiao.com/trending/7622849000173178419/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            15
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -172,8 +174,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时23分 ~ 17时11分]"
+          "appearance_count": 8,
+          "time_info": "[10时23分 ~ 19时02分]"
         },
         {
           "title": "印度否认“马斯克参与特朗普与莫迪通话”",
