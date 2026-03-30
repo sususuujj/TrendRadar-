@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-30T15:25:44.164392+08:00",
-  "total_titles_processed": 1054,
+  "generated_at": "2026-03-30T17:11:11.363538+08:00",
+  "total_titles_processed": 1195,
   "failed_sources": [],
   "trends": [
     {
@@ -45,18 +45,6 @@
           "time_info": "10时23分"
         },
         {
-          "title": "豆包谈DeepSeek频繁崩溃",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%B1%86%E5%8C%85%E8%B0%88DeepSeek%E9%A2%91%E7%B9%81%E5%B4%A9%E6%BA%83%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时23分 ~ 15时25分]"
-        },
-        {
           "title": "DeepSeek“崩了”一夜，相关功能仍无法正常使用",
           "url": "https://m.thepaper.cn/newsDetail_forward_32860242",
           "source": "澎湃新闻",
@@ -65,8 +53,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时23分 ~ 15时25分]"
+          "appearance_count": 5,
+          "time_info": "[13时23分 ~ 17时11分]"
         },
         {
           "title": "3 月 29 日大量用户反映 DeepSeek 服务出现异常，在宕机 12 小时后恢复服务，怎么回事？",
@@ -77,8 +65,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时23分 ~ 15时25分]"
+          "appearance_count": 5,
+          "time_info": "[13时23分 ~ 17时11分]"
         },
         {
           "title": "DeepSeek宕机12小时后恢复服务",
@@ -87,6 +75,18 @@
           "ranks": [
             13,
             15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时23分 ~ 17时11分]"
+        },
+        {
+          "title": "豆包谈DeepSeek频繁崩溃",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B1%86%E5%8C%85%E8%B0%88DeepSeek%E9%A2%91%E7%B9%81%E5%B4%A9%E6%BA%83%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8,
+            22
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -172,8 +172,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时23分 ~ 15时25分]"
+          "appearance_count": 6,
+          "time_info": "[10时23分 ~ 17时11分]"
         },
         {
           "title": "印度否认“马斯克参与特朗普与莫迪通话”",
