@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-02T19:04:10.565146+08:00",
-  "total_titles_processed": 1555,
+  "generated_at": "2026-04-02T21:10:33.475685+08:00",
+  "total_titles_processed": 1709,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马斯克",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "史上最大IPO要来了！马斯克旗下SpaceX据悉已递交上市申请",
@@ -19,6 +19,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时07分 ~ 15时11分]"
+        },
+        {
+          "title": "马斯克确认停产特斯拉两款车型",
+          "url": "https://www.douyin.com/hot/2451990",
+          "source": "抖音",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
         },
         {
           "title": "据英国金融时报：亚马逊(AMZN.O)正洽谈收购卫星公司全球星，与埃隆·马斯克的星链展开竞争。",
