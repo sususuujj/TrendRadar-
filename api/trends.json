@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-02T18:02:17.065652+08:00",
-  "total_titles_processed": 1445,
+  "generated_at": "2026-04-02T19:04:10.565146+08:00",
+  "total_titles_processed": 1555,
   "failed_sources": [],
   "trends": [
     {
@@ -30,6 +30,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek正处在一个变化的关口",
+          "url": "https://www.toutiao.com/trending/7624072229898161710/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时03分 ~ 19时04分]"
         }
       ]
     },
