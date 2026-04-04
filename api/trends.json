@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-04T13:56:56.093225+08:00",
-  "total_titles_processed": 904,
+  "generated_at": "2026-04-04T15:02:00.641907+08:00",
+  "total_titles_processed": 964,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时25分 ~ 13时56分]"
+          "appearance_count": 3,
+          "time_info": "[12时25分 ~ 15时02分]"
         },
         {
           "title": "千问3.6Plus大模型登顶全球模型调用排行榜首，日调用量破万亿",
@@ -25,11 +26,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            15
+            15,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时25分 ~ 13时56分]"
+          "appearance_count": 3,
+          "time_info": "[12时25分 ~ 15时02分]"
         },
         {
           "title": "千问3.6Plus大模型登顶全球模型调用排行榜首",
@@ -37,11 +39,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             11,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时25分 ~ 13时56分]"
+          "appearance_count": 3,
+          "time_info": "[12时25分 ~ 15时02分]"
         }
       ]
     },
