@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-04-05T07:30:58.880224+08:00",
-  "total_titles_processed": 473,
+  "generated_at": "2026-04-05T10:15:04.897248+08:00",
+  "total_titles_processed": 635,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "网传OpenAI“股权结构表”：微软“130亿美元投资”已升至“2283亿美元”",
+          "url": "https://wallstreetcn.com/articles/3769250",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时14分 ~ 10时15分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://github.com/sususuujj/img/news.jpg"
 }
