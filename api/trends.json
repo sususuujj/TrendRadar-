@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-07T05:37:31.158193+08:00",
-  "total_titles_processed": 590,
+  "generated_at": "2026-04-07T06:35:38.496568+08:00",
+  "total_titles_processed": 622,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "报道：OpenAI计划最早今年四季度IPO",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时45分 ~ 01时43分]"
+        },
+        {
+          "title": "OpenAI敦促加州和特拉华州调查马斯克的“反竞争行为”。",
+          "url": "https://flash.jin10.com/detail/20260407054852467800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时35分"
         },
         {
           "title": "据CNBC：OpenAI计划最早于第四季度进行IPO。OpenAI首席执行官、首席财务官在筹集1220亿美元后对IPO“充满信心”。",
