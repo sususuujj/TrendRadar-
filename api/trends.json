@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-07T21:31:47.953510+08:00",
-  "total_titles_processed": 1712,
+  "generated_at": "2026-04-07T23:06:42.698133+08:00",
+  "total_titles_processed": 1835,
   "failed_sources": [],
   "trends": [
     {
@@ -68,11 +68,12 @@
             7,
             8,
             9,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时14分 ~ 21时31分]"
+          "appearance_count": 10,
+          "time_info": "[15时14分 ~ 23时06分]"
         },
         {
           "title": "Faker称已准备好迎战马斯克AI",
