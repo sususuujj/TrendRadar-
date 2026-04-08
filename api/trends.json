@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-08T18:15:11.892428+08:00",
-  "total_titles_processed": 1494,
+  "generated_at": "2026-04-08T19:54:49.275737+08:00",
+  "total_titles_processed": 1627,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             10,
             7,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时12分 ~ 18时15分]"
+          "appearance_count": 8,
+          "time_info": "[10时12分 ~ 19时54分]"
         },
         {
           "title": "DeepSeek更新专家模式",
@@ -68,11 +69,12 @@
             5,
             4,
             8,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时10分 ~ 18时15分]"
+          "appearance_count": 7,
+          "time_info": "[13时10分 ~ 19时54分]"
         },
         {
           "title": "宁波高二女生将 AI『豆包』视为灵魂伴侣并为之休学，青少年过度沉迷 AI 会带来哪些风险？",
