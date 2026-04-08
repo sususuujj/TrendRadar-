@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-04-08T15:17:27.263715+08:00",
-  "total_titles_processed": 1219,
+  "generated_at": "2026-04-08T17:00:48.447237+08:00",
+  "total_titles_processed": 1378,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek",
       "match_count": 4,
       "titles": [
-        {
-          "title": "DeepSeek更新专家模式",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%9B%B4%E6%96%B0%E4%B8%93%E5%AE%B6%E6%A8%A1%E5%BC%8F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时10分 ~ 15时17分]"
-        },
         {
           "title": "DeepSeek 更新「快速模式」和「专家模式」，二者有何区别？这是否意味着 V4 快来了？",
           "url": "https://www.zhihu.com/question/2024876426596291384",
@@ -28,8 +17,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时12分 ~ 15时17分]"
+          "appearance_count": 5,
+          "time_info": "[10时12分 ~ 17时00分]"
+        },
+        {
+          "title": "DeepSeek更新专家模式",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%9B%B4%E6%96%B0%E4%B8%93%E5%AE%B6%E6%A8%A1%E5%BC%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时10分 ~ 15时17分]"
         },
         {
           "title": "DeepSeek重要更新：上线专家模式",
@@ -66,11 +66,12 @@
           "source": "知乎",
           "ranks": [
             5,
-            4
+            4,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时10分 ~ 15时17分]"
+          "appearance_count": 4,
+          "time_info": "[13时10分 ~ 17时00分]"
         },
         {
           "title": "宁波高二女生将 AI『豆包』视为灵魂伴侣并为之休学，青少年过度沉迷 AI 会带来哪些风险？",
@@ -96,11 +97,12 @@
           "ranks": [
             13,
             23,
-            26
+            26,
+            29
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时57分 ~ 15时17分]"
+          "appearance_count": 13,
+          "time_info": "[00时57分 ~ 17时00分]"
         }
       ]
     },
@@ -115,7 +117,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
         }
