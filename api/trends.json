@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-04-10T04:49:41.663053+08:00",
-  "total_titles_processed": 477,
+  "generated_at": "2026-04-10T05:44:05.029878+08:00",
+  "total_titles_processed": 539,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "openai",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "OpenAI声称其算力比Anthropic更有优势",
           "url": "https://flash.jin10.com/detail/20260410043705456800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时49分 ~ 05时44分]"
         },
         {
           "title": "OpenAI告诉投资者，其计算能力优于Anthropic。",
@@ -25,7 +26,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
         },
@@ -39,6 +40,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时04分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：很高兴看到Codex受到这么多人的喜爱。应广大用户的强烈要求，我们即将推出100美元的ChatGPT Pro会员等级。",
+          "url": "https://flash.jin10.com/detail/20260410044609661800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时44分"
+        },
+        {
+          "title": "美国佛州总检察长就涉ChatGPT枪击事件调查OpenAI",
+          "url": "https://wallstreetcn.com/livenews/3085328",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时44分"
         }
       ]
     }
