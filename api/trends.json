@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-14T05:47:40.074230+08:00",
-  "total_titles_processed": 554,
+  "generated_at": "2026-04-14T06:42:27.474387+08:00",
+  "total_titles_processed": 598,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时11分 ~ 05时47分]"
+          "appearance_count": 7,
+          "time_info": "[00时11分 ~ 06时42分]"
         },
         {
           "title": "马斯克旗下X独立通讯应用XChat即将上线",
@@ -63,11 +63,12 @@
             7,
             14,
             4,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时50分 ~ 05时47分]"
+          "appearance_count": 5,
+          "time_info": "[02时50分 ~ 06时42分]"
         }
       ]
     }
