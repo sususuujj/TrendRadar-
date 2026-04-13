@@ -1,22 +1,51 @@
 {
-  "generated_at": "2026-04-14T00:12:08.941664+08:00",
-  "total_titles_processed": 307,
+  "generated_at": "2026-04-14T02:50:22.602348+08:00",
+  "total_titles_processed": 414,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马斯克",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "“马斯克版微信”真的来了！",
           "url": "https://wallstreetcn.com/articles/3769793",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时11分 ~ 00时12分]"
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 02时50分]"
+        },
+        {
+          "title": "马斯克旗下X独立通讯应用XChat即将上线",
+          "url": "https://wallstreetcn.com/livenews/3087115",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "豆包",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何看待有人通过豆包买保险，结果豆包编造订单，受害人支付的却是个人二维码，还被立案了？",
+          "url": "https://www.zhihu.com/question/2026223211436676545",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时50分"
         }
       ]
     }
