@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-13T18:04:46.423589+08:00",
-  "total_titles_processed": 1247,
+  "generated_at": "2026-04-13T20:02:37.599099+08:00",
+  "total_titles_processed": 1394,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时04分"
         },
@@ -30,6 +30,18 @@
           "time_info": "10时32分"
         },
         {
+          "title": "“马斯克版微信”真的来了！",
+          "url": "https://wallstreetcn.com/articles/3769793",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时04分 ~ 20时02分]"
+        },
+        {
           "title": "马斯克旗下 XChat 在大陆 AppStore 开启预约，用区块链技术了吗？是否会对微信造成冲击？",
           "url": "https://www.zhihu.com/question/2026962469038420752",
           "source": "知乎",
@@ -40,23 +52,12 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时48分 ~ 18时04分]"
-        },
-        {
-          "title": "“马斯克版微信”真的来了！",
-          "url": "https://wallstreetcn.com/articles/3769793",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时04分"
         }
       ]
     },
     {
       "keyword_group": "豆包",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "字节与荣耀接洽“豆包手机”合作？ 知情人士：细节尚未达成一致",
@@ -79,6 +80,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时40分"
+        },
+        {
+          "title": "与字节跳动就“豆包手机”接洽合作？荣耀回应：不属实",
+          "url": "https://flash.jin10.com/detail/20260413193557421800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
         }
       ]
     },
