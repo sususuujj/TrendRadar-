@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-16T03:16:00.273822+08:00",
-  "total_titles_processed": 409,
+  "generated_at": "2026-04-16T04:44:59.530143+08:00",
+  "total_titles_processed": 483,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "今日头条",
           "ranks": [
             24,
-            10
+            10,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 03时16分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 04时44分]"
         },
         {
           "title": "DeepSeek高薪招聘数据中心人才",
