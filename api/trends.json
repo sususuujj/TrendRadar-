@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-16T13:31:30.738068+08:00",
-  "total_titles_processed": 978,
+  "generated_at": "2026-04-16T15:44:12.861280+08:00",
+  "total_titles_processed": 1140,
   "failed_sources": [],
   "trends": [
     {
@@ -21,8 +21,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时02分 ~ 10时37分]"
+          "appearance_count": 11,
+          "time_info": "[01时02分 ~ 15时44分]"
         },
         {
           "title": "DeepSeek高薪招聘数据中心人才",
@@ -42,6 +42,19 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "特斯拉AI芯片里程碑！马斯克官宣AI5成功流片，双芯性能对标Blackwell",
+          "url": "https://wallstreetcn.com/articles/3770049",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时36分 ~ 15时44分]"
+        },
+        {
           "title": "马斯克要求供应商以“光速”推进“Terafab”芯片制造项目。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3088949",
           "source": "华尔街见闻-快讯",
@@ -51,18 +64,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时37分"
-        },
-        {
-          "title": "特斯拉AI芯片里程碑！马斯克官宣AI5成功流片，双芯性能对标Blackwell",
-          "url": "https://wallstreetcn.com/articles/3770049",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时36分 ~ 13时31分]"
         }
       ]
     },
