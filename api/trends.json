@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-19T01:36:41.852994+08:00",
-  "total_titles_processed": 357,
+  "generated_at": "2026-04-19T02:48:22.724345+08:00",
+  "total_titles_processed": 385,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时39分 ~ 01时36分]"
+          "appearance_count": 3,
+          "time_info": "[00时39分 ~ 02时48分]"
         },
         {
           "title": "据华尔街日报：美国司法部告知法国执法部门，将不会协助他们调查马斯克的社交平台X。",
@@ -44,8 +44,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 01时36分]"
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 02时48分]"
         }
       ]
     },
@@ -60,7 +60,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时36分"
         }
