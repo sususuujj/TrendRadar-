@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-19T05:34:27.677983+08:00",
-  "total_titles_processed": 439,
+  "generated_at": "2026-04-19T06:34:03.777623+08:00",
+  "total_titles_processed": 454,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             3,
             6,
-            15
+            15,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时40分 ~ 05时34分]"
+          "appearance_count": 4,
+          "time_info": "[03时40分 ~ 06时34分]"
         },
         {
           "title": "美国司法部驳回法方对X平台调查及马斯克采访的相关要求。（华尔街日报）",
@@ -57,8 +58,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 05时34分]"
+          "appearance_count": 10,
+          "time_info": "[00时38分 ~ 06时34分]"
         },
         {
           "title": "DeepSeek百亿融资背后的两张王牌",
