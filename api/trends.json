@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-19T20:59:24.920238+08:00",
-  "total_titles_processed": 1201,
+  "generated_at": "2026-04-19T22:02:45.843424+08:00",
+  "total_titles_processed": 1295,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
           "ranks": [
             7,
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时27分 ~ 20时59分]"
+          "appearance_count": 10,
+          "time_info": "[13时27分 ~ 22时02分]"
         },
         {
           "title": "多名核心人员流失，AGI梦想不敌商业化现实？DeepSeek开启首次外部融资",
@@ -44,11 +45,12 @@
             8,
             6,
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时31分 ~ 20时59分]"
+          "appearance_count": 12,
+          "time_info": "[10时31分 ~ 22时02分]"
         },
         {
           "title": "DeepSeek被曝启动融资",
@@ -105,11 +107,12 @@
           "url": "https://www.zhihu.com/question/2029139595183367444",
           "source": "知乎",
           "ranks": [
-            15
+            15,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时59分 ~ 22时02分]"
         },
         {
           "title": "DeepSeek百亿融资背后的两张王牌",
@@ -168,7 +171,7 @@
     },
     {
       "keyword_group": "豆包",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "自制“长腿豆包”参加机器人半马",
@@ -182,6 +185,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时36分 ~ 10时32分]"
+        },
+        {
+          "title": "豆包变豆脚了",
+          "url": "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%E5%8F%98%E8%B1%86%E8%84%9A%E4%BA%86&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
         },
         {
           "title": "机器人马拉松 豆包变豆脚了",
