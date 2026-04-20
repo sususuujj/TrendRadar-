@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-21T04:44:33.250055+08:00",
-  "total_titles_processed": 524,
+  "generated_at": "2026-04-21T05:45:04.830614+08:00",
+  "total_titles_processed": 585,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时04分 ~ 04时44分]"
+          "appearance_count": 4,
+          "time_info": "[03时04分 ~ 05时45分]"
         },
         {
           "title": "Kimi K2.6 发布并开源，集群能力全面提升",
@@ -55,8 +55,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时08分 ~ 04时44分]"
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 05时45分]"
         },
         {
           "title": "法国检方传唤马斯克",
