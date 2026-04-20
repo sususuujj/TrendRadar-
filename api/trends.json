@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-20T16:05:00.295999+08:00",
-  "total_titles_processed": 1086,
+  "generated_at": "2026-04-20T18:47:38.543541+08:00",
+  "total_titles_processed": 1265,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "如何看待网传 DeepSeek V4 即将发布并提出「去 CUDA 化」？",
@@ -49,6 +49,17 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时38分 ~ 13时40分]"
+        },
+        {
+          "title": "DeepSeek 被曝融资 20 亿，真实性如何？若属实，估值合理吗？一直说不融资的它，怎么突然松口了？",
+          "url": "https://www.zhihu.com/question/2029232145541980805",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时47分"
         }
       ]
     },
@@ -76,11 +87,12 @@
           "url": "https://www.baidu.com/s?wd=%E5%8D%8A%E9%A9%AC%E7%8E%B0%E5%9C%BA%E6%83%8A%E7%8E%B0%E2%80%9C%E8%B1%86%E5%8C%85%E2%80%9D%E5%8F%98%E2%80%9C%E8%B1%86%E8%84%9A%E2%80%9D",
           "source": "百度热搜",
           "ranks": [
-            22
+            22,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时04分 ~ 16时05分]"
+          "appearance_count": 3,
+          "time_info": "[16时04分 ~ 18时47分]"
         }
       ]
     },
@@ -95,7 +107,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时05分"
         }
