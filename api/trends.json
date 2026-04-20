@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-20T18:47:38.543541+08:00",
-  "total_titles_processed": 1265,
+  "generated_at": "2026-04-20T20:03:32.269045+08:00",
+  "total_titles_processed": 1383,
   "failed_sources": [],
   "trends": [
     {
@@ -55,11 +55,12 @@
           "url": "https://www.zhihu.com/question/2029232145541980805",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时47分 ~ 20时03分]"
         }
       ]
     },
@@ -88,11 +89,29 @@
           "source": "百度热搜",
           "ranks": [
             22,
-            21
+            21,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时04分 ~ 18时47分]"
+          "appearance_count": 4,
+          "time_info": "[16时04分 ~ 20时03分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI最新生图模型有多强",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E6%9C%80%E6%96%B0%E7%94%9F%E5%9B%BE%E6%A8%A1%E5%9E%8B%E6%9C%89%E5%A4%9A%E5%BC%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时03分"
         }
       ]
     },
