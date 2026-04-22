@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-22T07:34:31.498223+08:00",
-  "total_titles_processed": 638,
+  "generated_at": "2026-04-22T10:28:37.771802+08:00",
+  "total_titles_processed": 820,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
         },
@@ -61,6 +61,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "千问",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "阿里巴巴：发布生态级AI助手数字人千问小酒窝",
+          "url": "https://flash.jin10.com/detail/20260422101210708800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
         }
       ]
     }
