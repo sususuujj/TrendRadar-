@@ -1,8 +1,38 @@
 {
-  "generated_at": "2026-04-23T02:03:45.383283+08:00",
-  "total_titles_processed": 393,
+  "generated_at": "2026-04-23T04:04:13.072416+08:00",
+  "total_titles_processed": 471,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "如何评价 Deepseek 于 2026 年 4 月 22 日上线的新模型 api？",
+          "url": "https://www.zhihu.com/question/2030308965683291022",
+          "source": "知乎",
+          "ranks": [
+            8,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 04时04分]"
+        },
+        {
+          "title": "阿里等巨头洽谈投资DeepSeek",
+          "url": "https://www.baidu.com/s?wd=%E9%98%BF%E9%87%8C%E7%AD%89%E5%B7%A8%E5%A4%B4%E6%B4%BD%E8%B0%88%E6%8A%95%E8%B5%84DeepSeek",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时03分 ~ 04时04分]"
+        }
+      ]
+    },
     {
       "keyword_group": "gemini",
       "match_count": 2,
@@ -42,7 +72,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
         },
@@ -60,24 +90,6 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "如何评价 Deepseek 于 2026 年 4 月 22 日上线的新模型 api？",
-          "url": "https://www.zhihu.com/question/2030308965683291022",
-          "source": "知乎",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 02时03分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "马斯克",
       "match_count": 1,
       "titles": [
@@ -89,8 +101,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 02时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 04时04分]"
         }
       ]
     }
