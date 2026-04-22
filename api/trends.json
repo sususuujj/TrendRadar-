@@ -1,160 +1,33 @@
 {
-  "generated_at": "2026-04-22T23:12:58.067557+08:00",
-  "total_titles_processed": 1677,
+  "generated_at": "2026-04-23T00:58:47.831182+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "openai",
-      "match_count": 9,
+      "keyword_group": "gemini",
+      "match_count": 2,
       "titles": [
         {
-          "title": "金十数据整理：每日科技要闻速递（4月22日）】<br/>人工智能：<br/><span class=\"section-news\">1. Anthropic旗下Mythos模型遭未授权用户入侵访问。</span><br/><span class=\"section-news\">2. 我国自主量子计算机“本源悟空”形成搭载人工智能运算能力。</span><br/><span class=\"section-news\">3. 特斯拉车机语音大模型服务完成备案。</span><br/><span class=\"section-news\">4. SpaceX：有权以600亿美元收购人工智能编程助手Cursor。</span><br/><span class=\"section-news\">5. OpenAI：ChatGPT Images 2.0即日起向所有ChatGPT和Codex用户开放。</span><br/>其他：<br/><span class=\"section-news\">1. 一季度工业机器人产量同比增长33.2%。</span><br/><span class=\"section-news\">2. 打击“囤积居奇” 工信部将引导存储器企业加强渠道管理。</span><br/><span class=\"section-news\">3. 亚马逊推出GLP-1减重项目 承诺\"快速、便捷\"获取药物。</span><br/><span class=\"section-news\">4. 工信部：万兆光网试点项目建设有序推进 试点目标完成情况良好。</span><br/><span class=\"section-news\">5. 宁德时代发布第三代神行超充电池，宁德时代钠电池年内将实现大规模量产。 </span>",
-          "url": "https://flash.jin10.com/detail/20260422070939953800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时34分"
-        },
-        {
-          "title": "谷歌发布一系列新AI工具 挑战OpenAI和Anthropic",
-          "url": "https://wallstreetcn.com/livenews/3092631",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时24分"
-        },
-        {
-          "title": "OpenAI因杀手使用ChatGPT而在美国佛罗里达州面临刑事调查。",
-          "url": "https://wallstreetcn.com/livenews/3092028",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时09分"
-        },
-        {
-          "title": "OpenAI：ChatGPT Images 2.0即日起向所有ChatGPT和Codex用户开放。",
-          "url": "https://flash.jin10.com/detail/20260422032455495800",
+          "title": "谷歌(GOOG.O)：Gemini Embedding 2现已全面上线。",
+          "url": "https://flash.jin10.com/detail/20260423003105353800",
           "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时03分"
+          "time_info": "00时58分"
         },
         {
-          "title": "OpenAI推出ChatGPT Images2.0图像模型。",
-          "url": "https://flash.jin10.com/detail/20260422032424290800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时03分"
-        },
-        {
-          "title": "OpenAI向美国政府及五眼联盟盟友简报新型网络产品。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3092463",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时19分"
-        },
-        {
-          "title": "OpenAI推出ChatGPT Images2.0图像模型。",
-          "url": "https://wallstreetcn.com/livenews/3092057",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时03分"
-        },
-        {
-          "title": "据AXIOS：OpenAI已就一款新的网络安全产品向美国联邦政府及“五眼联盟”进行了简报。",
-          "url": "https://flash.jin10.com/detail/20260422170328232800",
+          "title": "谷歌云CEO：Gemini将帮助苹果在2026年推出个性化Siri。",
+          "url": "https://flash.jin10.com/detail/20260423001719737800",
           "source": "金十数据",
           "ranks": [
             17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时19分"
-        },
-        {
-          "title": "Robinhood Ventures向OpenAI投资7500万美元。（纽约时报）",
-          "url": "https://wallstreetcn.com/livenews/3092600",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "gemini",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "谷歌公司：Drive Now现在普遍可以使用Gemini和AI概览。",
-          "url": "https://wallstreetcn.com/livenews/3092705",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时12分"
-        },
-        {
-          "title": "谷歌：Google Drive中的Gemini现已全面上线。",
-          "url": "https://flash.jin10.com/detail/20260422224338586800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时12分"
-        },
-        {
-          "title": "谷歌：Gemini Enterprise第一季度付费月活跃用户数环比增长40%。 目前谷歌所有新代码中，75%由人工智能生成。",
-          "url": "https://wallstreetcn.com/livenews/3092613",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时24分"
-        },
-        {
-          "title": "埃森哲与谷歌云扩大合作，借助Gemini Enterprise推动全球企业的代理型转型规模化。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3092612",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时24分"
+          "time_info": "00时58分"
         }
       ]
     },
@@ -163,15 +36,32 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "阿里等巨头洽谈投资DeepSeek",
-          "url": "https://www.baidu.com/s?wd=%E9%98%BF%E9%87%8C%E7%AD%89%E5%B7%A8%E5%A4%B4%E6%B4%BD%E8%B0%88%E6%8A%95%E8%B5%84DeepSeek",
-          "source": "百度热搜",
+          "title": "如何评价 Deepseek 于 2026 年 4 月 22 日上线的新模型 api？",
+          "url": "https://www.zhihu.com/question/2030308965683291022",
+          "source": "知乎",
           "ranks": [
-            20
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时23分 ~ 21时24分]"
+          "appearance_count": 1,
+          "time_info": "00时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI发布隐私过滤器模型以编辑个人数据",
+          "url": "https://wallstreetcn.com/livenews/3092726",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时58分"
         }
       ]
     },
@@ -184,64 +74,11 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353556&amp;topic_name=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%AE%97%E6%B3%95%E6%92%95%E5%BC%80%E6%97%A5%E6%9C%AC%E9%81%AE%E7%BE%9E%E5%B8%83",
           "source": "贴吧",
           "ranks": [
-            7,
-            9,
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时08分 ~ 23时12分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "千问",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "阿里巴巴：发布生态级AI助手数字人千问小酒窝",
-          "url": "https://flash.jin10.com/detail/20260422101210708800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "豆包",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "林子烨 5600不如和豆包聊",
-          "url": "https://s.weibo.com/weibo?q=%E6%9E%97%E5%AD%90%E7%83%A8%205600%E4%B8%8D%E5%A6%82%E5%92%8C%E8%B1%86%E5%8C%85%E8%81%8A&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "具身智能",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "广东：推动脑机接口和具身智能等人工智能前沿技术的融合",
-          "url": "https://wallstreetcn.com/livenews/3092456",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时19分"
+          "time_info": "00时58分"
         }
       ]
     }
