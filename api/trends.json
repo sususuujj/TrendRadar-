@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-23T17:27:22.403815+08:00",
-  "total_titles_processed": 1329,
+  "generated_at": "2026-04-23T19:07:48.002674+08:00",
+  "total_titles_processed": 1460,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             12,
             15,
             20,
-            18
+            18,
+            21
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时58分 ~ 17时27分]"
+          "appearance_count": 15,
+          "time_info": "[00时58分 ~ 19时07分]"
         },
         {
           "title": "特斯拉Q1营收创近三年最高增速，盈利大超预期，现金流翻倍，马斯克预告支出大增丨财报见闻",
@@ -31,8 +32,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时30分 ~ 17时27分]"
+          "appearance_count": 6,
+          "time_info": "[10时30分 ~ 19时07分]"
         },
         {
           "title": "特斯拉CEO埃隆·马斯克：长期来看，唯一的人类驾驶汽车将是新款Roadster。",
@@ -346,19 +347,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时29分 ~ 17时27分]"
+          "appearance_count": 4,
+          "time_info": "[13时29分 ~ 19时07分]"
         },
         {
           "title": "特斯拉电话会：超预期上调2026年资本开支，AI5芯片提前流片，“Optimus将是史上最大的产品”",
           "url": "https://wallstreetcn.com/articles/3770653",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时27分 ~ 19时07分]"
         },
         {
           "title": "特斯拉(TSLA.O)：Optimus第一代生产线设计年产100万台机器人，将取代位于弗里蒙特的Model S和Model X生产线。",
