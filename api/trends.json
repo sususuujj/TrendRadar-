@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-26T01:37:25.687051+08:00",
-  "total_titles_processed": 366,
+  "generated_at": "2026-04-26T02:52:06.189626+08:00",
+  "total_titles_processed": 401,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "DeepSeek v4 全面支持百万上下文 token，这意味着什么？到底有多厉害？",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 01时37分]"
+          "appearance_count": 5,
+          "time_info": "[00时39分 ~ 02时52分]"
         },
         {
           "title": "沐曦股份携手FlagOS、上海人工智能实验室，完成DeepSeek-V4 Day 0适配",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 01时37分]"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 02时52分]"
         },
         {
           "title": "DeepSeek V4换芯片的背后",
@@ -38,8 +38,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 01时37分]"
+          "appearance_count": 5,
+          "time_info": "[00时39分 ~ 02时52分]"
         },
         {
           "title": "DeepSeek-V4和GPT-5.5实测对决",
@@ -51,6 +51,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时39分 ~ 00时40分]"
+        },
+        {
+          "title": "DeepSeek如何适配国产芯片",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%A6%82%E4%BD%95%E9%80%82%E9%85%8D%E5%9B%BD%E4%BA%A7%E8%8A%AF%E7%89%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时51分 ~ 02时52分]"
         }
       ]
     },
@@ -63,11 +74,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33050625",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 01时37分]"
+          "appearance_count": 5,
+          "time_info": "[00时39分 ~ 02时52分]"
         }
       ]
     }
