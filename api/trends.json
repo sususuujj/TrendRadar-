@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-26T19:40:09.191627+08:00",
-  "total_titles_processed": 1163,
+  "generated_at": "2026-04-26T21:03:59.642652+08:00",
+  "total_titles_processed": 1279,
   "failed_sources": [],
   "trends": [
     {
@@ -32,8 +32,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时35分 ~ 19时40分]"
+          "appearance_count": 11,
+          "time_info": "[10时35分 ~ 21时03分]"
         },
         {
           "title": "高盛：DeepSeek V4对中国AI意味着什么？",
@@ -42,11 +42,25 @@
           "ranks": [
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时27分 ~ 19时40分]"
+          "appearance_count": 9,
+          "time_info": "[15时27分 ~ 21时03分]"
+        },
+        {
+          "title": "沉默的DeepSeek，和不被定义的中国大模型",
+          "url": "https://wallstreetcn.com/articles/3770908",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时38分 ~ 21时03分]"
         },
         {
           "title": "沐曦股份携手FlagOS、上海人工智能实验室，完成DeepSeek-V4 Day 0适配",
@@ -67,11 +81,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             3,
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时59分 ~ 19时40分]"
+          "appearance_count": 7,
+          "time_info": "[17时59分 ~ 21时03分]"
         },
         {
           "title": "DeepSeekV4脱离英伟达了吗",
@@ -103,18 +118,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时39分 ~ 15时27分]"
-        },
-        {
-          "title": "沉默的DeepSeek，和不被定义的中国大模型",
-          "url": "https://wallstreetcn.com/articles/3770908",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时38分 ~ 19时40分]"
         },
         {
           "title": "DeepSeek V4成OpenClaw默认模型",
@@ -184,6 +187,17 @@
           "time_info": "[00时39分 ~ 00时40分]"
         },
         {
+          "title": "DeepSeek多位核心骨干离职去大厂",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E5%A4%9A%E4%BD%8D%E6%A0%B8%E5%BF%83%E9%AA%A8%E5%B9%B2%E7%A6%BB%E8%81%8C%E5%8E%BB%E5%A4%A7%E5%8E%82%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时40分 ~ 21时03分]"
+        },
+        {
           "title": "DeepSeek如何适配国产芯片",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%A6%82%E4%BD%95%E9%80%82%E9%85%8D%E5%9B%BD%E4%BA%A7%E8%8A%AF%E7%89%87",
           "source": "bilibili 热搜",
@@ -193,17 +207,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时51分 ~ 02时52分]"
-        },
-        {
-          "title": "DeepSeek多位核心骨干离职去大厂",
-          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E5%A4%9A%E4%BD%8D%E6%A0%B8%E5%BF%83%E9%AA%A8%E5%B9%B2%E7%A6%BB%E8%81%8C%E5%8E%BB%E5%A4%A7%E5%8E%82%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时40分"
         },
         {
           "title": "DeepSeek在等一个更大的爆点",
@@ -255,8 +258,25 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时37分 ~ 16时59分]"
+          "appearance_count": 6,
+          "time_info": "[07时37分 ~ 21时03分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "马斯克把方向盘删了",
+          "url": "https://s.weibo.com/weibo?q=%E9%A9%AC%E6%96%AF%E5%85%8B%E6%8A%8A%E6%96%B9%E5%90%91%E7%9B%98%E5%88%A0%E4%BA%86&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
         }
       ]
     }
