@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-27T03:45:45.221873+08:00",
-  "total_titles_processed": 397,
+  "generated_at": "2026-04-27T04:37:20.664661+08:00",
+  "total_titles_processed": 413,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时40分 ~ 03时45分]"
+          "appearance_count": 6,
+          "time_info": "[00时40分 ~ 04时37分]"
         },
         {
           "title": "一条视频看懂DeepSeek V4",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时40分 ~ 03时45分]"
+          "appearance_count": 6,
+          "time_info": "[00时40分 ~ 04时37分]"
         },
         {
           "title": "高盛：DeepSeek V4对中国AI意味着什么？",
@@ -38,8 +38,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时40分 ~ 03时45分]"
+          "appearance_count": 6,
+          "time_info": "[00时40分 ~ 04时37分]"
         },
         {
           "title": "DeepSeek输入缓存降价",
@@ -50,8 +50,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时41分 ~ 03时45分]"
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 04时37分]"
         },
         {
           "title": "沉默的DeepSeek，和不被定义的中国大模型",
@@ -62,8 +62,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时40分 ~ 03时45分]"
+          "appearance_count": 6,
+          "time_info": "[00时40分 ~ 04时37分]"
         },
         {
           "title": "DeepSeek V4发布意味着什么",
@@ -75,8 +75,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时40分 ~ 03时45分]"
+          "appearance_count": 6,
+          "time_info": "[00时40分 ~ 04时37分]"
         },
         {
           "title": "DeepSeek V4全面评测",
@@ -89,8 +89,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时40分 ~ 03时45分]"
+          "appearance_count": 6,
+          "time_info": "[00时40分 ~ 04时37分]"
         },
         {
           "title": "DeepSeek输入缓存降价",
@@ -100,8 +100,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时40分 ~ 03时45分]"
+          "appearance_count": 6,
+          "time_info": "[00时40分 ~ 04时37分]"
         },
         {
           "title": "DeepSeek V4成OpenClaw默认模型",
@@ -149,8 +149,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时40分 ~ 03时45分]"
+          "appearance_count": 6,
+          "time_info": "[00时40分 ~ 04时37分]"
         }
       ]
     }
