@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-27T10:37:48.866130+08:00",
-  "total_titles_processed": 675,
+  "generated_at": "2026-04-27T13:53:30.761401+08:00",
+  "total_titles_processed": 866,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "高盛：DeepSeek V4对中国AI意味着什么？",
@@ -40,8 +40,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时40分 ~ 10时37分]"
+          "appearance_count": 12,
+          "time_info": "[00时40分 ~ 13时53分]"
         },
         {
           "title": "沉默的DeepSeek，和不被定义的中国大模型",
@@ -115,20 +115,32 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时37分 ~ 13时53分]"
         },
         {
           "title": "DeepSeek V4“寄予厚望”！国产算力“进攻的矛”--超节点",
           "url": "https://wallstreetcn.com/articles/3770923",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时37分 ~ 13时53分]"
+        },
+        {
+          "title": "手机厂商加速接入DeepSeek-V4，荣耀打响第一枪",
+          "url": "https://wallstreetcn.com/livenews/3094744",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时37分"
+          "time_info": "13时53分"
         },
         {
           "title": "DeepSeekV4脱离英伟达了吗",
@@ -162,11 +174,23 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33057893",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时37分 ~ 13时53分]"
+        },
+        {
+          "title": "“价格屠夫”DeepSeek再度出手 国产算力核心标的有望直接受益",
+          "url": "https://www.cls.cn/detail/2356166",
+          "source": "财联社热门",
+          "ranks": [
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时37分"
+          "time_info": "13时53分"
         },
         {
           "title": "深入解读DeepSeek V1-V4",
@@ -175,9 +199,26 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "郭明錤：OpenAI进军手机，正与联发科、高通合作开发处理器",
+          "url": "https://wallstreetcn.com/livenews/3094729",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
         }
       ]
     },
