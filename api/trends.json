@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-28T03:18:54.021140+08:00",
-  "total_titles_processed": 403,
+  "generated_at": "2026-04-28T05:01:40.740593+08:00",
+  "total_titles_processed": 474,
   "failed_sources": [],
   "trends": [
     {
@@ -13,22 +13,24 @@
           "source": "知乎",
           "ranks": [
             18,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 03时18分]"
+          "appearance_count": 3,
+          "time_info": "[01时21分 ~ 05时01分]"
         },
         {
           "title": "国芯+国模！DeepSeek适配国产芯片 AI算力底座迈向多样化",
           "url": "https://www.cls.cn/detail/2357012",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 03时18分]"
+          "appearance_count": 3,
+          "time_info": "[01时21分 ~ 05时01分]"
         }
       ]
     },
@@ -45,8 +47,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 03时18分]"
+          "appearance_count": 3,
+          "time_info": "[01时21分 ~ 05时01分]"
         }
       ]
     }
