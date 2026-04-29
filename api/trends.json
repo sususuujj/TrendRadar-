@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-29T18:56:18.066672+08:00",
-  "total_titles_processed": 1325,
+  "generated_at": "2026-04-29T20:17:19.779350+08:00",
+  "total_titles_processed": 1441,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "openai",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股美债齐跌，半导体回调，WTI破百，金银大跌",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时56分 ~ 18时56分]"
+          "appearance_count": 6,
+          "time_info": "[07时56分 ~ 20时17分]"
         },
         {
           "title": "美伊悬而未决，OpenAI“鬼故事”扰动，纳指盘初跌1.2%，半导体集体回调，WTI涨破百元大关，金银下挫",
@@ -64,8 +64,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时57分 ~ 18时56分]"
+          "appearance_count": 7,
+          "time_info": "[06时57分 ~ 20时17分]"
         },
         {
           "title": "美股收盘：OpenAI相关股票承压 三大指数集体下跌",
@@ -124,8 +124,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时54分 ~ 18时56分]"
+          "appearance_count": 4,
+          "time_info": "[13时54分 ~ 20时17分]"
         },
         {
           "title": "报道：OpenAI预计用户将大规模转向更廉价的ChatGPT订阅层级",
@@ -243,6 +243,17 @@
           "time_info": "04时15分"
         },
         {
+          "title": "美股芯片股跳水，OpenAI 用户和营收不及预期，CFO 担心付不起数据中心账单，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2032593268840600541",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时17分"
+        },
+        {
           "title": "亚马逊云服务(AWS)与OpenAI宣布扩大合作伙伴关系。",
           "url": "https://flash.jin10.com/detail/20260429010529383800",
           "source": "金十数据",
@@ -279,7 +290,7 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "DeepSeek 为什么选择在内蒙古自建数据中心，而不是租用阿里云、腾讯云等大厂的算力资源？",
@@ -299,11 +310,12 @@
           "ranks": [
             9,
             2,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时54分 ~ 18时56分]"
+          "appearance_count": 4,
+          "time_info": "[13时54分 ~ 20时17分]"
         },
         {
           "title": "6家券商抢先部署DeepSeek V4，2小时接入、24小时上线，新一轮竞速开始",
@@ -311,11 +323,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时14分 ~ 18时56分]"
+          "appearance_count": 3,
+          "time_info": "[16时14分 ~ 20时17分]"
         },
         {
           "title": "如何评价 DeepSeek V4 降价的事？",
@@ -329,6 +342,17 @@
           "time_info": "00时50分"
         },
         {
+          "title": "DeepSeek上线识图模式",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E4%B8%8A%E7%BA%BF%E8%AF%86%E5%9B%BE%E6%A8%A1%E5%BC%8F",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时17分"
+        },
+        {
           "title": "DeepSeekV4Pro优惠延期",
           "url": "https://search.bilibili.com/all?keyword=DeepSeekV4Pro%E4%BC%98%E6%83%A0%E5%BB%B6%E6%9C%9F",
           "source": "bilibili 热搜",
@@ -338,6 +362,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时44分"
+        },
+        {
+          "title": "华为终端：华为小艺Claw上线自进化能力，同时接入DeepSeek V4实现逻辑推理跃迁。",
+          "url": "https://flash.jin10.com/detail/20260429192700676800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "谷歌(GOOG.O)：Gemini在英国推出新的个性化功能。",
+          "url": "https://flash.jin10.com/detail/20260429194814328800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时17分"
+        },
+        {
+          "title": "据CNBC记者：美国国防部的人工智能负责人确认，该部门正在扩大对谷歌Gemini人工智能模型的使用。",
+          "url": "https://flash.jin10.com/detail/20260429054900131800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时57分"
         }
       ]
     },
@@ -350,11 +413,12 @@
           "url": "https://www.cls.cn/detail/2359146",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时56分 ~ 20时17分]"
         },
         {
           "title": "马斯克天价薪酬方案曝光了",
@@ -363,26 +427,9 @@
           "ranks": [
             17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "据CNBC记者：美国国防部的人工智能负责人确认，该部门正在扩大对谷歌Gemini人工智能模型的使用。",
-          "url": "https://flash.jin10.com/detail/20260429054900131800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时57分"
+          "time_info": "18时56分"
         }
       ]
     }
