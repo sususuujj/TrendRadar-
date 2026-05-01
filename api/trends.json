@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-01T22:55:08.391067+08:00",
-  "total_titles_processed": 1569,
+  "generated_at": "2026-05-01T23:57:06.813916+08:00",
+  "total_titles_processed": 1646,
   "failed_sources": [],
   "trends": [
     {
@@ -19,11 +19,12 @@
             10,
             11,
             14,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[01时19分 ~ 22时55分]"
+          "appearance_count": 21,
+          "time_info": "[01时19分 ~ 23时57分]"
         },
         {
           "title": "从硅谷视角看DeepSeekV4",
@@ -186,8 +187,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时58分 ~ 22时55分]"
+          "appearance_count": 7,
+          "time_info": "[19时58分 ~ 23时57分]"
         },
         {
           "title": "美国证交会：特斯拉CEO马斯克2025年总薪酬为1583.6亿美元，全部为股票奖励。",
