@@ -1,9 +1,7 @@
 {
-  "generated_at": "2026-05-01T17:01:51.154811+08:00",
-  "total_titles_processed": 1089,
-  "failed_sources": [
-    "tieba"
-  ],
+  "generated_at": "2026-05-01T18:40:18.898458+08:00",
+  "total_titles_processed": 1218,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek",
@@ -17,11 +15,12 @@
             2,
             3,
             7,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时19分 ~ 17时00分]"
+          "appearance_count": 14,
+          "time_info": "[01时19分 ~ 18时40分]"
         },
         {
           "title": "从硅谷视角看DeepSeekV4",
@@ -48,6 +47,19 @@
           "time_info": "[01时19分 ~ 07时02分]"
         },
         {
+          "title": "DeepSeek多模态正式发布",
+          "url": "https://www.douyin.com/hot/2485029",
+          "source": "抖音",
+          "ranks": [
+            6,
+            7,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时15分 ~ 18时40分]"
+        },
+        {
           "title": "Deepseek-V4 究竟在编程上和 Claude-Opus-4.7 差距有多大？",
           "url": "https://www.zhihu.com/question/2031352480852915686",
           "source": "知乎",
@@ -59,18 +71,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时19分 ~ 04时59分]"
-        },
-        {
-          "title": "DeepSeek多模态正式发布",
-          "url": "https://www.douyin.com/hot/2485029",
-          "source": "抖音",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时15分 ~ 17时01分]"
         },
         {
           "title": "DeepSeek梦话大赏",
