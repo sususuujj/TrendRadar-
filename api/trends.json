@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-01T21:38:49.360433+08:00",
-  "total_titles_processed": 1454,
+  "generated_at": "2026-05-01T22:55:08.391067+08:00",
+  "total_titles_processed": 1569,
   "failed_sources": [],
   "trends": [
     {
@@ -18,11 +18,12 @@
             9,
             10,
             11,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时19分 ~ 21时38分]"
+          "appearance_count": 19,
+          "time_info": "[01时19分 ~ 22时55分]"
         },
         {
           "title": "从硅谷视角看DeepSeekV4",
@@ -176,6 +177,19 @@
           "time_info": "[01时19分 ~ 07时02分]"
         },
         {
+          "title": "马斯克去年总薪酬：1583.6亿美元？实际到手：0美元！",
+          "url": "https://www.cls.cn/detail/2361824",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时58分 ~ 22时55分]"
+        },
+        {
           "title": "美国证交会：特斯拉CEO马斯克2025年总薪酬为1583.6亿美元，全部为股票奖励。",
           "url": "https://flash.jin10.com/detail/20260501052231391800",
           "source": "金十数据",
@@ -186,18 +200,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时01分 ~ 07时02分]"
-        },
-        {
-          "title": "马斯克去年总薪酬：1583.6亿美元？实际到手：0美元！",
-          "url": "https://www.cls.cn/detail/2361824",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时58分 ~ 21时38分]"
         },
         {
           "title": "马斯克：将于5月5日发布经过重建的平台。",
