@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-01T18:40:18.898458+08:00",
-  "total_titles_processed": 1218,
+  "generated_at": "2026-05-01T19:59:14.849646+08:00",
+  "total_titles_processed": 1323,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             3,
             7,
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时19分 ~ 18时40分]"
+          "appearance_count": 16,
+          "time_info": "[01时19分 ~ 19时59分]"
         },
         {
           "title": "从硅谷视角看DeepSeekV4",
@@ -87,7 +88,7 @@
     },
     {
       "keyword_group": "openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "OpenAI 被曝联手联发科、高通开发手机芯片，高通涨逾 10%，这对 AI 手机市场来说意味着什么？",
@@ -143,12 +144,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时19分"
+        },
+        {
+          "title": "美国五角大楼宣布达成网络人工智能相关协议，已与SpaceX、OpenAI、谷歌(GOOG.O)和英伟达(NVDA.O)签署协议。",
+          "url": "https://flash.jin10.com/detail/20260501193320957800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时59分"
         }
       ]
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "马斯克庭审交叉询问环节多次失控",
@@ -173,6 +185,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时01分 ~ 07时02分]"
+        },
+        {
+          "title": "马斯克去年总薪酬：1583.6亿美元？实际到手：0美元！",
+          "url": "https://www.cls.cn/detail/2361824",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时58分 ~ 19时59分]"
         },
         {
           "title": "马斯克：将于5月5日发布经过重建的平台。",
