@@ -1,72 +1,11 @@
 {
-  "generated_at": "2026-05-01T10:53:15.534619+08:00",
-  "total_titles_processed": 750,
+  "generated_at": "2026-05-01T14:16:15.509668+08:00",
+  "total_titles_processed": 932,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "openai",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "OpenAI 被曝联手联发科、高通开发手机芯片，高通涨逾 10%，这对 AI 手机市场来说意味着什么？",
-          "url": "https://www.zhihu.com/question/2032183066840360184",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时19分 ~ 01时20分]"
-        },
-        {
-          "title": "OpenAI CFO回应未达目标质疑：需求依然强劲",
-          "url": "https://flash.jin10.com/detail/20260501100005491800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时53分"
-        },
-        {
-          "title": "4月30日，马斯克重返证人席，接受OpenAI律师反询问。",
-          "url": "https://wallstreetcn.com/livenews/3097631",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
-        },
-        {
-          "title": "OpenAI为用户提供新安全措施，可抛弃密码登录",
-          "url": "https://wallstreetcn.com/livenews/3097661",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时19分"
-        },
-        {
-          "title": "Yubico与OpenAI达成合作协议，前者用户可以通过OpenAI的安全项目购买Yubikeys。",
-          "url": "https://wallstreetcn.com/livenews/3097659",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时19分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "DeepSeek破底价,友商瑟瑟发抖",
@@ -74,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             2,
-            3
+            3,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时19分 ~ 10时53分]"
+          "appearance_count": 12,
+          "time_info": "[01时19分 ~ 14时16分]"
         },
         {
           "title": "从硅谷视角看DeepSeekV4",
@@ -116,6 +56,78 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时19分 ~ 04时59分]"
+        },
+        {
+          "title": "DeepSeek多模态正式发布",
+          "url": "https://www.douyin.com/hot/2485029",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时15分 ~ 14时16分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "openai",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "OpenAI 被曝联手联发科、高通开发手机芯片，高通涨逾 10%，这对 AI 手机市场来说意味着什么？",
+          "url": "https://www.zhihu.com/question/2032183066840360184",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时19分 ~ 01时20分]"
+        },
+        {
+          "title": "OpenAI CFO回应未达目标质疑：需求依然强劲",
+          "url": "https://flash.jin10.com/detail/20260501100005491800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时53分"
+        },
+        {
+          "title": "4月30日，马斯克重返证人席，接受OpenAI律师反询问。",
+          "url": "https://wallstreetcn.com/livenews/3097631",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时20分"
+        },
+        {
+          "title": "OpenAI为用户提供新安全措施，可抛弃密码登录",
+          "url": "https://wallstreetcn.com/livenews/3097661",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时19分"
+        },
+        {
+          "title": "Yubico与OpenAI达成合作协议，前者用户可以通过OpenAI的安全项目购买Yubikeys。",
+          "url": "https://wallstreetcn.com/livenews/3097659",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时19分"
         }
       ]
     },
@@ -165,9 +177,37 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "具身智能",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "今起施行，杭州为具身智能机器人立法",
+          "url": "https://wallstreetcn.com/livenews/3097800",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时16分"
+        },
+        {
+          "title": "杭州为具身智能机器人立法 5月1日正式施行",
+          "url": "https://flash.jin10.com/detail/20260501134243619800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时16分"
         }
       ]
     },
@@ -185,6 +225,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "豆包",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "豆包挑榴莲",
+          "url": "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%E6%8C%91%E6%A6%B4%E8%8E%B2&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时15分 ~ 14时16分]"
         }
       ]
     }
