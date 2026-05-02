@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-02T21:07:33.403931+08:00",
-  "total_titles_processed": 1349,
+  "generated_at": "2026-05-02T22:45:10.354145+08:00",
+  "total_titles_processed": 1446,
   "failed_sources": [],
   "trends": [
     {
@@ -76,6 +76,17 @@
           "time_info": "[13时36分 ~ 19时44分]"
         },
         {
+          "title": "“我真是个傻瓜”，马斯克大战OpenAI索赔1500亿美元",
+          "url": "https://news.ifeng.com/c/8snnwdxDs8v",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时43分 ~ 22时45分]"
+        },
+        {
           "title": "OpenAI 称 GPT-5.5 中「哥布林」泛滥是奖励机制所致，这反映了大模型训练的哪些难题？",
           "url": "https://www.zhihu.com/question/2033267772931749457",
           "source": "知乎",
@@ -86,17 +97,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时36分 ~ 18时51分]"
-        },
-        {
-          "title": "“我真是个傻瓜”，马斯克大战OpenAI索赔1500亿美元",
-          "url": "https://news.ifeng.com/c/8snnwdxDs8v",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时43分 ~ 21时07分]"
         },
         {
           "title": "OpenAI：人工智能在一个月内从编写20%的代码提升至80%。",
@@ -123,11 +123,12 @@
           "ranks": [
             7,
             8,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时57分 ~ 21时07分]"
+          "appearance_count": 22,
+          "time_info": "[00时57分 ~ 22时45分]"
         },
         {
           "title": "马斯克承认蒸馏ChatGPT",
