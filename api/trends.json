@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-03T00:44:25.867962+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-05-03T01:43:06.581601+08:00",
+  "total_titles_processed": 356,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时44分"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 01时43分]"
         },
         {
           "title": "马斯克手撕OpenAI为哪般",
@@ -43,19 +43,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时44分"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 01时43分]"
         },
         {
           "title": "马斯克 2025 年总薪酬 1583.6 亿美元，全部为股票奖励，因考核没过，实际薪酬为零，如何看待此事？",
           "url": "https://www.zhihu.com/question/2033597739573965448",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时44分"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 01时43分]"
         }
       ]
     },
@@ -68,11 +69,12 @@
           "url": "https://www.zhihu.com/question/2032857350361626424",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时44分"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 01时43分]"
         }
       ]
     }
