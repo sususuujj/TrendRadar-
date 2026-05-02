@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-02T19:44:07.523374+08:00",
-  "total_titles_processed": 1242,
+  "generated_at": "2026-05-02T21:07:33.403931+08:00",
+  "total_titles_processed": 1349,
   "failed_sources": [],
   "trends": [
     {
@@ -95,8 +95,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时43分 ~ 19时44分]"
+          "appearance_count": 3,
+          "time_info": "[19时43分 ~ 21时07分]"
         },
         {
           "title": "OpenAI：人工智能在一个月内从编写20%的代码提升至80%。",
@@ -126,8 +126,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时57分 ~ 19时44分]"
+          "appearance_count": 20,
+          "time_info": "[00时57分 ~ 21时07分]"
         },
         {
           "title": "马斯克承认蒸馏ChatGPT",
