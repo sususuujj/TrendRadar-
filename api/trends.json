@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-02T22:45:10.354145+08:00",
-  "total_titles_processed": 1446,
+  "generated_at": "2026-05-02T23:44:39.255918+08:00",
+  "total_titles_processed": 1496,
   "failed_sources": [],
   "trends": [
     {
@@ -83,8 +83,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时43分 ~ 22时45分]"
+          "appearance_count": 6,
+          "time_info": "[19时43分 ~ 23时44分]"
         },
         {
           "title": "OpenAI 称 GPT-5.5 中「哥布林」泛滥是奖励机制所致，这反映了大模型训练的哪些难题？",
@@ -127,8 +127,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时57分 ~ 22时45分]"
+          "appearance_count": 23,
+          "time_info": "[00时57分 ~ 23时44分]"
         },
         {
           "title": "马斯克承认蒸馏ChatGPT",
