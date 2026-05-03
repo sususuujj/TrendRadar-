@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-03T21:06:39.843828+08:00",
-  "total_titles_processed": 1169,
+  "generated_at": "2026-05-03T22:47:31.364279+08:00",
+  "total_titles_processed": 1284,
   "failed_sources": [],
   "trends": [
     {
@@ -38,6 +38,21 @@
           "time_info": "[00时44分 ~ 10时44分]"
         },
         {
+          "title": "马斯克去年薪酬实发金额为0",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%8E%BB%E5%B9%B4%E8%96%AA%E9%85%AC%E5%AE%9E%E5%8F%91%E9%87%91%E9%A2%9D%E4%B8%BA0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            5,
+            2,
+            28,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时04分 ~ 22时47分]"
+        },
+        {
           "title": "马斯克去年在特斯拉挣了0美元",
           "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%8E%BB%E5%B9%B4%E5%9C%A8%E7%89%B9%E6%96%AF%E6%8B%89%E6%8C%A3%E4%BA%860%E7%BE%8E%E5%85%83",
           "source": "百度热搜",
@@ -52,20 +67,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时57分 ~ 07时41分]"
-        },
-        {
-          "title": "马斯克去年薪酬实发金额为0",
-          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%8E%BB%E5%B9%B4%E8%96%AA%E9%85%AC%E5%AE%9E%E5%8F%91%E9%87%91%E9%A2%9D%E4%B8%BA0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            5,
-            2,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时04分 ~ 21时06分]"
         },
         {
           "title": "马斯克1583亿美元薪酬实际为0",
