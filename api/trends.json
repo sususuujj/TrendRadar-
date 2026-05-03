@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-03T19:41:58.949682+08:00",
-  "total_titles_processed": 1089,
+  "generated_at": "2026-05-03T21:06:39.843828+08:00",
+  "total_titles_processed": 1169,
   "failed_sources": [],
   "trends": [
     {
@@ -60,11 +60,12 @@
           "ranks": [
             6,
             5,
-            2
+            2,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时04分 ~ 19时41分]"
+          "appearance_count": 4,
+          "time_info": "[16时04分 ~ 21时06分]"
         },
         {
           "title": "马斯克1583亿美元薪酬实际为0",
