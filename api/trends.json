@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-03T22:47:31.364279+08:00",
-  "total_titles_processed": 1284,
+  "generated_at": "2026-05-03T23:45:58.759082+08:00",
+  "total_titles_processed": 1341,
   "failed_sources": [],
   "trends": [
     {
@@ -46,11 +46,12 @@
             5,
             2,
             28,
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时04分 ~ 22时47分]"
+          "appearance_count": 6,
+          "time_info": "[16时04分 ~ 23时45分]"
         },
         {
           "title": "马斯克去年在特斯拉挣了0美元",
