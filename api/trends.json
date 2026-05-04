@@ -1,8 +1,81 @@
 {
-  "generated_at": "2026-05-04T14:12:26.021116+08:00",
-  "total_titles_processed": 878,
+  "generated_at": "2026-05-04T17:17:32.848597+08:00",
+  "total_titles_processed": 1043,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "豆包",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "豆包 付费",
+          "url": "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%20%E4%BB%98%E8%B4%B9&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时12分 ~ 17时17分]"
+        },
+        {
+          "title": "豆包错误率",
+          "url": "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%E9%94%99%E8%AF%AF%E7%8E%87&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
+        },
+        {
+          "title": "豆包 笨还收费",
+          "url": "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%20%E7%AC%A8%E8%BF%98%E6%94%B6%E8%B4%B9&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
+        },
+        {
+          "title": "豆包付费版本曝光，每月 68-500 元三档，你愿意付费吗？国产 AI 推付费服务是一种趋势吗？",
+          "url": "https://www.zhihu.com/question/2034643547668862086",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
+        },
+        {
+          "title": "豆包将上线付费服务",
+          "url": "https://www.baidu.com/s?wd=%E8%B1%86%E5%8C%85%E5%B0%86%E4%B8%8A%E7%BA%BF%E4%BB%98%E8%B4%B9%E6%9C%8D%E5%8A%A1",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
+        },
+        {
+          "title": "豆包把付费说的如此清新脱俗",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B1%86%E5%8C%85%E6%8A%8A%E4%BB%98%E8%B4%B9%E8%AF%B4%E7%9A%84%E5%A6%82%E6%AD%A4%E6%B8%85%E6%96%B0%E8%84%B1%E4%BF%97%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
+        }
+      ]
+    },
     {
       "keyword_group": "DeepSeek",
       "match_count": 1,
@@ -16,8 +89,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时42分 ~ 14时12分]"
+          "appearance_count": 3,
+          "time_info": "[10时42分 ~ 17时17分]"
         }
       ]
     },
@@ -40,23 +113,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时48分 ~ 10时42分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "豆包",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "豆包 付费",
-          "url": "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%20%E4%BB%98%E8%B4%B9&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时12分"
         }
       ]
     }
