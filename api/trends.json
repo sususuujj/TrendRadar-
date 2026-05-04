@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-04T10:42:23.775916+08:00",
-  "total_titles_processed": 697,
+  "generated_at": "2026-05-04T14:12:26.021116+08:00",
+  "total_titles_processed": 878,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%91%98%E5%B7%A5%E4%B8%BA%E4%BD%95%E4%B8%8D%E5%8A%A0%E7%8F%AD",
           "source": "bilibili 热搜",
           "ranks": [
-            21
+            21,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时42分 ~ 14时12分]"
         }
       ]
     },
@@ -39,6 +40,23 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时48分 ~ 10时42分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "豆包",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "豆包 付费",
+          "url": "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%20%E4%BB%98%E8%B4%B9&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
         }
       ]
     }
