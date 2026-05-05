@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-06T06:01:39.445185+08:00",
-  "total_titles_processed": 543,
+  "generated_at": "2026-05-06T07:04:12.776538+08:00",
+  "total_titles_processed": 588,
   "failed_sources": [],
   "trends": [
     {
@@ -62,22 +62,24 @@
           "url": "https://www.cls.cn/detail/2362843",
           "source": "财联社热门",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 06时01分]"
+          "appearance_count": 6,
+          "time_info": "[00时40分 ~ 07时04分]"
         },
         {
           "title": "小K快评：豆包试水付费版 意味着什么？",
           "url": "https://www.cls.cn/detail/2362623",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 06时01分]"
+          "appearance_count": 6,
+          "time_info": "[00时40分 ~ 07时04分]"
         },
         {
           "title": "【早报】伊朗称“击中了一艘美军舰”，美军否认；豆包将推出付费订阅版本",
@@ -88,8 +90,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 06时01分]"
+          "appearance_count": 6,
+          "time_info": "[00时40分 ~ 07时04分]"
         },
         {
           "title": "豆包开始收钱,智商够用吗",
@@ -99,8 +101,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 06时01分]"
+          "appearance_count": 6,
+          "time_info": "[00时40分 ~ 07时04分]"
         }
       ]
     },
@@ -119,8 +121,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 06时01分]"
+          "appearance_count": 6,
+          "time_info": "[00时40分 ~ 07时04分]"
         }
       ]
     },
