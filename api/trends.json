@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-05T20:02:45.197116+08:00",
-  "total_titles_processed": 1306,
+  "generated_at": "2026-05-05T22:18:50.552470+08:00",
+  "total_titles_processed": 1449,
   "failed_sources": [],
   "trends": [
     {
@@ -43,11 +43,12 @@
             11,
             15,
             17,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时02分 ~ 20时02分]"
+          "appearance_count": 14,
+          "time_info": "[00时02分 ~ 22时18分]"
         },
         {
           "title": "小K快评：豆包试水付费版 意味着什么？",
@@ -57,11 +58,12 @@
             13,
             11,
             10,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[05时59分 ~ 20时02分]"
+          "appearance_count": 11,
+          "time_info": "[05时59分 ~ 22时18分]"
         },
         {
           "title": "豆包回应推出付费订阅",
@@ -115,8 +117,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时02分 ~ 20时02分]"
+          "appearance_count": 3,
+          "time_info": "[18时02分 ~ 22时18分]"
         },
         {
           "title": "【早报】伊朗称“击中了一艘美军舰”，美军否认；豆包将推出付费订阅版本",
@@ -124,11 +126,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时24分 ~ 20时02分]"
+          "appearance_count": 4,
+          "time_info": "[15时24分 ~ 22时18分]"
         },
         {
           "title": "怎样看待豆包将要上线的付费服务，你认为什么价格比较合适？",
@@ -166,11 +169,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             5,
-            3
+            3,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时02分 ~ 20时02分]"
+          "appearance_count": 3,
+          "time_info": "[18时02分 ~ 22时18分]"
         },
         {
           "title": "DeepSeek员工为何不加班",
