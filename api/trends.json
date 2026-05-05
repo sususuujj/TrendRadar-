@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-05-05T08:03:03.413037+08:00",
-  "total_titles_processed": 679,
+  "generated_at": "2026-05-05T12:16:17.227647+08:00",
+  "total_titles_processed": 868,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "豆包",
       "match_count": 8,
       "titles": [
-        {
-          "title": "豆包开始收钱,智商够用吗",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353993&amp;topic_name=%E8%B1%86%E5%8C%85%E5%BC%80%E5%A7%8B%E6%94%B6%E9%92%B1%2C%E6%99%BA%E5%95%86%E5%A4%9F%E7%94%A8%E5%90%97",
-          "source": "贴吧",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 08时03分]"
-        },
         {
           "title": "豆包付费版本曝光，每月 68-500 元三档，你愿意付费吗？国产 AI 推付费服务是一种趋势吗？",
           "url": "https://www.zhihu.com/question/2034643547668862086",
@@ -28,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 08时03分]"
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 12时16分]"
         },
         {
           "title": "豆包测试付费版本，三档订阅曝光，AI进入“分层收费”时代",
@@ -41,8 +30,36 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 08时03分]"
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 12时16分]"
+        },
+        {
+          "title": "豆包开始收钱,智商够用吗",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353993&amp;topic_name=%E8%B1%86%E5%8C%85%E5%BC%80%E5%A7%8B%E6%94%B6%E9%92%B1%2C%E6%99%BA%E5%95%86%E5%A4%9F%E7%94%A8%E5%90%97",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 12时16分]"
+        },
+        {
+          "title": "豆包回应推出付费订阅",
+          "url": "https://www.douyin.com/hot/2488412",
+          "source": "抖音",
+          "ranks": [
+            12,
+            16,
+            28,
+            29,
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 12时16分]"
         },
         {
           "title": "大模型免费时代结束？豆包官宣新增付费订阅，主打生产力场景",
@@ -72,21 +89,6 @@
           "time_info": "[00时02分 ~ 08时03分]"
         },
         {
-          "title": "豆包回应推出付费订阅",
-          "url": "https://www.douyin.com/hot/2488412",
-          "source": "抖音",
-          "ranks": [
-            12,
-            16,
-            28,
-            29,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 08时03分]"
-        },
-        {
           "title": "小K快评：豆包试水付费版 意味着什么？",
           "url": "https://www.cls.cn/detail/2362623",
           "source": "财联社热门",
@@ -95,8 +97,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时59分 ~ 08时03分]"
+          "appearance_count": 7,
+          "time_info": "[05时59分 ~ 12时16分]"
         },
         {
           "title": "怎样看待豆包将要上线的付费服务，你认为什么价格比较合适？",
@@ -140,11 +142,12 @@
           "url": "https://wallstreetcn.com/articles/3771533",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 12时16分]"
         }
       ]
     },
