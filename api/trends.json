@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-07T00:34:19.574956+08:00",
-  "total_titles_processed": 304,
+  "generated_at": "2026-05-07T02:51:43.575340+08:00",
+  "total_titles_processed": 397,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
+          "appearance_count": 2,
+          "time_info": "[00时34分 ~ 02时51分]"
         }
       ]
     },
@@ -29,11 +29,12 @@
           "url": "https://www.zhihu.com/question/2035283954274493764",
           "source": "知乎",
           "ranks": [
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
+          "appearance_count": 2,
+          "time_info": "[00时34分 ~ 02时51分]"
         }
       ]
     },
@@ -63,11 +64,12 @@
           "url": "https://www.toutiao.com/trending/7636609753482756142/",
           "source": "今日头条",
           "ranks": [
-            27
+            27,
+            17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
+          "appearance_count": 2,
+          "time_info": "[00时34分 ~ 02时51分]"
         }
       ]
     },
