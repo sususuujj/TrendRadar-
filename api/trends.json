@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-07T04:26:44.935131+08:00",
-  "total_titles_processed": 468,
+  "generated_at": "2026-05-07T05:56:15.501528+08:00",
+  "total_titles_processed": 538,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             15,
-            18
+            18,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 04时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时34分 ~ 05时56分]"
         },
         {
           "title": "OpenAI推出B2B Signals，称是OpenAI Signals的商业扩展版。",
@@ -26,7 +27,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
         }
@@ -54,7 +55,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
         }
@@ -70,11 +71,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             15,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 04时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时34分 ~ 05时56分]"
         }
       ]
     },
