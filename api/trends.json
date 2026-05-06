@@ -1,149 +1,8 @@
 {
-  "generated_at": "2026-05-06T22:06:03.408319+08:00",
-  "total_titles_processed": 1350,
+  "generated_at": "2026-05-07T00:34:19.574956+08:00",
+  "total_titles_processed": 304,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "openai",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "OpenAI推出GPT-5.5 Instant",
-          "url": "https://www.baidu.com/s?wd=OpenAI%E6%8E%A8%E5%87%BAGPT-5.5+Instant",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时40分 ~ 13时56分]"
-        },
-        {
-          "title": "OpenAI：GPT-5.5 Instant已开始在ChatGPT中推出",
-          "url": "https://wallstreetcn.com/livenews/3098871",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时11分"
-        },
-        {
-          "title": "OpenAI总裁：预计今年将在算力上花费500亿美元",
-          "url": "https://wallstreetcn.com/livenews/3098909",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时07分"
-        },
-        {
-          "title": "OpenAI更新ChatGPT默认模型 提升准确性与个性化",
-          "url": "https://flash.jin10.com/detail/20260506012340306800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时11分"
-        },
-        {
-          "title": "公司高管称，OpenAI向美国政府提前开放了GPT-5.5的访问权限以进行安全测试。",
-          "url": "https://wallstreetcn.com/livenews/3098899",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时07分"
-        },
-        {
-          "title": "OpenAI或加速手机开发",
-          "url": "https://s.weibo.com/weibo?q=%23OpenAI%E6%88%96%E5%8A%A0%E9%80%9F%E6%89%8B%E6%9C%BA%E5%BC%80%E5%8F%91%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "豆包",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "假期要闻汇总：林园投资被查，事出违规打新；豆包将推出付费订阅版本",
-          "url": "https://www.cls.cn/detail/2362843",
-          "source": "财联社热门",
-          "ranks": [
-            1,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时40分 ~ 10时40分]"
-        },
-        {
-          "title": "豆包开始收钱,智商够用吗",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353993&amp;topic_name=%E8%B1%86%E5%8C%85%E5%BC%80%E5%A7%8B%E6%94%B6%E9%92%B1%2C%E6%99%BA%E5%95%86%E5%A4%9F%E7%94%A8%E5%90%97",
-          "source": "贴吧",
-          "ranks": [
-            20,
-            21,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 13时56分]"
-        },
-        {
-          "title": "小K快评：豆包试水付费版 意味着什么？",
-          "url": "https://www.cls.cn/detail/2362623",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时40分 ~ 07时04分]"
-        },
-        {
-          "title": "【早报】伊朗称“击中了一艘美军舰”，美军否认；豆包将推出付费订阅版本",
-          "url": "https://www.cls.cn/detail/2362714",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时40分 ~ 07时04分]"
-        },
-        {
-          "title": "你们怎么看待豆包收费？",
-          "url": "https://www.zhihu.com/question/2034661407694778699",
-          "source": "知乎",
-          "ranks": [
-            18,
-            7,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时40分 ~ 22时06分]"
-        }
-      ]
-    },
     {
       "keyword_group": "DeepSeek",
       "match_count": 1,
@@ -153,33 +12,28 @@
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E4%BC%98%E5%8C%96DeepSeek%20V4",
           "source": "bilibili 热搜",
           "ranks": [
-            12,
-            16,
-            11,
-            19,
-            14,
-            29
+            15
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 22时06分]"
+          "appearance_count": 1,
+          "time_info": "00时34分"
         }
       ]
     },
     {
-      "keyword_group": "gemini",
+      "keyword_group": "openai",
       "match_count": 1,
       "titles": [
         {
-          "title": "知情人士透露，谷歌(GOOG.O)正在为Gemini打造一个7x24小时全天候运行的人工智能“个人代理”。",
-          "url": "https://flash.jin10.com/detail/20260506014918064800",
-          "source": "金十数据",
+          "title": "OpenAI 推出 GPT-5.5 Instant，有哪些值得关注的技术亮点？使用感受如何？",
+          "url": "https://www.zhihu.com/question/2035283954274493764",
+          "source": "知乎",
           "ranks": [
-            2
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时11分"
+          "time_info": "00时34分"
         }
       ]
     },
@@ -188,15 +42,49 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "伊朗外交部批评马斯克的社交媒体平台取消伊方账号认证",
-          "url": "https://wallstreetcn.com/livenews/3098877",
+          "title": "马斯克旗下SpaceX与Anthropic合作，后者可访问Colossus1、月内获得超300兆瓦新增电力容量",
+          "url": "https://wallstreetcn.com/livenews/3099490",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时11分"
+          "time_info": "00时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Kimi",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Kimi估值冲破200亿美元",
+          "url": "https://www.toutiao.com/trending/7636609753482756142/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "豆包",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "你们怎么看待豆包收费？",
+          "url": "https://www.zhihu.com/question/2034661407694778699",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时34分"
         }
       ]
     }
