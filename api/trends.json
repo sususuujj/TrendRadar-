@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-07T14:19:44.004671+08:00",
-  "total_titles_processed": 992,
+  "generated_at": "2026-05-07T17:32:17.088295+08:00",
+  "total_titles_processed": 1170,
   "failed_sources": [],
   "trends": [
     {
@@ -25,7 +25,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
         },
@@ -117,11 +117,12 @@
           "url": "https://wallstreetcn.com/articles/3771667",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时42分 ~ 14时19分]"
+          "appearance_count": 4,
+          "time_info": "[10时42分 ~ 17时32分]"
         }
       ]
     },
@@ -160,6 +161,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时34分 ~ 06时53分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "具身智能",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "探访最神秘“杭州六小龙”强脑科技：业务已延伸至具身智能，估值突破120亿元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33105217",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时31分 ~ 17时32分]"
         }
       ]
     }
