@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-08T12:16:08.472780+08:00",
-  "total_titles_processed": 845,
+  "generated_at": "2026-05-08T14:52:31.721747+08:00",
+  "total_titles_processed": 991,
   "failed_sources": [],
   "trends": [
     {
@@ -15,22 +15,24 @@
             10,
             9,
             8,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时28分 ~ 12时16分]"
+          "appearance_count": 8,
+          "time_info": "[02时28分 ~ 14时52分]"
         },
         {
           "title": "存储超级周期重塑韩国婚恋市场 OpenAI芯片项目据传陷入融资困境 | 环球市场",
           "url": "https://www.cls.cn/detail/2365554",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时15分 ~ 12时16分]"
+          "appearance_count": 3,
+          "time_info": "[12时15分 ~ 14时52分]"
         },
         {
           "title": "Anthropic将筹集百亿剑指算力 估值或近万亿超OpenAI",
@@ -39,7 +41,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时16分"
         },
@@ -109,11 +111,12 @@
           "url": "https://www.zhihu.com/question/2035662942067225907",
           "source": "知乎",
           "ranks": [
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时15分 ~ 12时16分]"
+          "appearance_count": 3,
+          "time_info": "[12时15分 ~ 14时52分]"
         },
         {
           "title": "马斯克被曝主动向女下属提出捐精",
@@ -137,11 +140,12 @@
           "url": "https://www.toutiao.com/trending/7637338304165187078/",
           "source": "今日头条",
           "ranks": [
-            27
+            27,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时15分 ~ 12时16分]"
+          "appearance_count": 3,
+          "time_info": "[12时15分 ~ 14时52分]"
         }
       ]
     },
