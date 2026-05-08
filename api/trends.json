@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-08T14:52:31.721747+08:00",
-  "total_titles_processed": 991,
+  "generated_at": "2026-05-08T16:22:01.789404+08:00",
+  "total_titles_processed": 1126,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时28分 ~ 14时52分]"
+          "appearance_count": 10,
+          "time_info": "[02时28分 ~ 16时22分]"
         },
         {
           "title": "存储超级周期重塑韩国婚恋市场 OpenAI芯片项目据传陷入融资困境 | 环球市场",
@@ -28,11 +28,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时15分 ~ 14时52分]"
+          "appearance_count": 5,
+          "time_info": "[12时15分 ~ 16时22分]"
         },
         {
           "title": "Anthropic将筹集百亿剑指算力 估值或近万亿超OpenAI",
