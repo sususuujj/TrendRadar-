@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-08T20:15:31.399642+08:00",
-  "total_titles_processed": 1410,
+  "generated_at": "2026-05-08T22:51:03.264616+08:00",
+  "total_titles_processed": 1588,
   "failed_sources": [],
   "trends": [
     {
@@ -159,7 +159,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时15分"
         }
@@ -188,7 +188,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时15分"
         },
@@ -230,9 +230,26 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "豆包",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "央媒评“豆包”推出付费模式：探索商业化路径无可厚非，但应兼顾用户消费能力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33120286",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时50分 ~ 22时51分]"
         }
       ]
     }
