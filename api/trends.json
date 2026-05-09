@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-09T22:49:51.588173+08:00",
-  "total_titles_processed": 1487,
+  "generated_at": "2026-05-09T23:51:48.220886+08:00",
+  "total_titles_processed": 1534,
   "failed_sources": [],
   "trends": [
     {
@@ -47,8 +47,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时18分 ~ 22时49分]"
+          "appearance_count": 6,
+          "time_info": "[17时18分 ~ 23时51分]"
         },
         {
           "title": "阿里未参与DeepSeek融资谈判，市场人士否认“谈崩”传闻",
@@ -115,8 +115,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时18分 ~ 22时49分]"
+          "appearance_count": 6,
+          "time_info": "[17时18分 ~ 23时51分]"
         },
         {
           "title": "彻底撕破脸了！OpenAI官司法庭辩论上演“人身攻击”：马斯克“不懂AI且暴躁”，Altman“人品低劣又虚伪”",
@@ -127,8 +127,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时18分 ~ 22时49分]"
+          "appearance_count": 5,
+          "time_info": "[17时18分 ~ 23时51分]"
         }
       ]
     },
