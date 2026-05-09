@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-09T19:51:49.716472+08:00",
-  "total_titles_processed": 1324,
+  "generated_at": "2026-05-09T21:14:37.505297+08:00",
+  "total_titles_processed": 1411,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时22分 ~ 19时51分]"
+          "appearance_count": 7,
+          "time_info": "[12时22分 ~ 21时14分]"
         },
         {
           "title": "DeepSeek识图模式大范围开放",
@@ -32,8 +32,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时22分 ~ 19时51分]"
+          "appearance_count": 7,
+          "time_info": "[12时22分 ~ 21时14分]"
         },
         {
           "title": "DeepSeek睁眼,开放识图模式",
@@ -42,11 +42,12 @@
           "ranks": [
             5,
             6,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时18分 ~ 19时51分]"
+          "appearance_count": 4,
+          "time_info": "[17时18分 ~ 21时14分]"
         },
         {
           "title": "阿里未参与DeepSeek融资谈判，市场人士否认“谈崩”传闻",
@@ -54,11 +55,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            16
+            16,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时56分 ~ 19时51分]"
+          "appearance_count": 3,
+          "time_info": "[18时56分 ~ 21时14分]"
         },
         {
           "title": "DeepSeek正式跨入图文交互时代",
@@ -107,11 +109,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时18分 ~ 19时51分]"
+          "appearance_count": 4,
+          "time_info": "[17时18分 ~ 21时14分]"
         },
         {
           "title": "彻底撕破脸了！OpenAI官司法庭辩论上演“人身攻击”：马斯克“不懂AI且暴躁”，Altman“人品低劣又虚伪”",
@@ -121,8 +124,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时18分 ~ 19时51分]"
+          "appearance_count": 3,
+          "time_info": "[17时18分 ~ 21时14分]"
         }
       ]
     },
