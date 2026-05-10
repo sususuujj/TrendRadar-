@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-10T16:53:19.977613+08:00",
-  "total_titles_processed": 939,
+  "generated_at": "2026-05-10T18:13:53.914129+08:00",
+  "total_titles_processed": 1026,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时53分 ~ 16时53分]"
+          "appearance_count": 17,
+          "time_info": "[00时53分 ~ 18时13分]"
         },
         {
           "title": "deepseek 首轮融资估值近 450 亿美元，将对 AI 领域产生哪些影响？",
@@ -28,11 +28,25 @@
           "ranks": [
             5,
             4,
-            6
+            6,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时46分 ~ 16时53分]"
+          "appearance_count": 6,
+          "time_info": "[10时46分 ~ 18时13分]"
+        },
+        {
+          "title": "DeepSeek被曝融资500亿",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E8%A2%AB%E6%9B%9D%E8%9E%8D%E8%B5%84500%E4%BA%BF%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时10分 ~ 18时13分]"
         },
         {
           "title": "Deepseek和阿里谈崩了？市场人士回应",
@@ -45,18 +59,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时46分 ~ 10时47分]"
-        },
-        {
-          "title": "DeepSeek被曝融资500亿",
-          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E8%A2%AB%E6%9B%9D%E8%9E%8D%E8%B5%84500%E4%BA%BF%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时10分 ~ 16时53分]"
         }
       ]
     },
@@ -114,11 +116,12 @@
           "ranks": [
             2,
             7,
-            17
+            17,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时47分 ~ 16时53分]"
+          "appearance_count": 4,
+          "time_info": "[10时47分 ~ 18时13分]"
         }
       ]
     }
