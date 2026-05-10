@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-10T18:13:53.914129+08:00",
-  "total_titles_processed": 1026,
+  "generated_at": "2026-05-10T19:51:23.202795+08:00",
+  "total_titles_processed": 1128,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "DeepSeek睁眼,开放识图模式",
@@ -15,11 +15,12 @@
             11,
             13,
             16,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时53分 ~ 18时13分]"
+          "appearance_count": 18,
+          "time_info": "[00时53分 ~ 19时51分]"
         },
         {
           "title": "deepseek 首轮融资估值近 450 亿美元，将对 AI 领域产生哪些影响？",
@@ -59,6 +60,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时46分 ~ 10时47分]"
+        },
+        {
+          "title": "DeepSeek 被曝融资 500 亿美元，将对 AI 领域产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2035400318624733173",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时51分"
         }
       ]
     },
@@ -117,11 +129,12 @@
             2,
             7,
             17,
-            22
+            22,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时47分 ~ 18时13分]"
+          "appearance_count": 5,
+          "time_info": "[10时47分 ~ 19时51分]"
         }
       ]
     }
