@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-10T22:52:15.229336+08:00",
-  "total_titles_processed": 1293,
+  "generated_at": "2026-05-10T23:53:30.867883+08:00",
+  "total_titles_processed": 1354,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             16,
             17,
             18,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时53分 ~ 22时52分]"
+          "appearance_count": 22,
+          "time_info": "[00时53分 ~ 23时53分]"
         },
         {
           "title": "deepseek 首轮融资估值近 450 亿美元，将对 AI 领域产生哪些影响？",
@@ -51,6 +52,18 @@
           "time_info": "[14时10分 ~ 18时13分]"
         },
         {
+          "title": "DeepSeek 大范围开放识图模式，你能用了吗？体验感如何？",
+          "url": "https://www.zhihu.com/question/2036432998422115875",
+          "source": "知乎",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时51分 ~ 23时53分]"
+        },
+        {
           "title": "Deepseek和阿里谈崩了？市场人士回应",
           "url": "https://www.baidu.com/s?wd=Deepseek%E5%92%8C%E9%98%BF%E9%87%8C%E8%B0%88%E5%B4%A9%E4%BA%86%EF%BC%9F%E5%B8%82%E5%9C%BA%E4%BA%BA%E5%A3%AB%E5%9B%9E%E5%BA%94",
           "source": "百度热搜",
@@ -61,17 +74,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时46分 ~ 10时47分]"
-        },
-        {
-          "title": "DeepSeek 大范围开放识图模式，你能用了吗？体验感如何？",
-          "url": "https://www.zhihu.com/question/2036432998422115875",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时51分 ~ 22时52分]"
         },
         {
           "title": "DeepSeek 被曝融资 500 亿美元，将对 AI 领域产生哪些影响？",
@@ -124,8 +126,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时15分 ~ 22时52分]"
+          "appearance_count": 4,
+          "time_info": "[21时15分 ~ 23时53分]"
         }
       ]
     },
