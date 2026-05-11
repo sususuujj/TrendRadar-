@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-11T10:56:29.929396+08:00",
-  "total_titles_processed": 783,
+  "generated_at": "2026-05-11T14:41:25.420904+08:00",
+  "total_titles_processed": 972,
   "failed_sources": [],
   "trends": [
     {
@@ -87,7 +87,35 @@
           "ranks": [
             30
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "千问",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "阿里或将整合千问与淘宝，打造 AI 对话式购物，你会把购物交给 AI 吗？",
+          "url": "https://www.zhihu.com/question/2037110129963661155",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
+        },
+        {
+          "title": "阿里千问与淘宝全面打通",
+          "url": "https://flash.jin10.com/detail/20260511101758778800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
         }
@@ -102,28 +130,12 @@
           "url": "https://www.cls.cn/detail/2367387",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "千问",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "阿里千问与淘宝全面打通",
-          "url": "https://flash.jin10.com/detail/20260511101758778800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时56分 ~ 14时41分]"
         }
       ]
     }
