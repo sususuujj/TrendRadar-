@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-11T14:41:25.420904+08:00",
-  "total_titles_processed": 972,
+  "generated_at": "2026-05-11T18:38:23.867935+08:00",
+  "total_titles_processed": 1186,
   "failed_sources": [],
   "trends": [
     {
@@ -104,7 +104,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
         },
@@ -136,6 +136,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时56分 ~ 14时41分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "豆包",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "人民日报：豆包试水收费值不值",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%EF%BC%9A%E8%B1%86%E5%8C%85%E8%AF%95%E6%B0%B4%E6%94%B6%E8%B4%B9%E5%80%BC%E4%B8%8D%E5%80%BC",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
         }
       ]
     }
