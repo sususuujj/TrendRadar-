@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-11T07:53:18.951378+08:00",
-  "total_titles_processed": 588,
+  "generated_at": "2026-05-11T10:56:29.929396+08:00",
+  "total_titles_processed": 783,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             5,
             4,
             3,
-            2
+            2,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 07时53分]"
+          "appearance_count": 8,
+          "time_info": "[00时54分 ~ 10时56分]"
         },
         {
           "title": "周末要闻汇总：DeepSeek据悉拟募资最高500亿元人民币；证监会查处2起财务造假案件",
@@ -29,11 +30,12 @@
           "ranks": [
             13,
             11,
-            12
+            12,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 07时53分]"
+          "appearance_count": 8,
+          "time_info": "[00时54分 ~ 10时56分]"
         },
         {
           "title": "DeepSeek睁眼,开放识图模式",
@@ -41,11 +43,12 @@
           "source": "贴吧",
           "ranks": [
             23,
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 07时53分]"
+          "appearance_count": 8,
+          "time_info": "[00时54分 ~ 10时56分]"
         },
         {
           "title": "Kimi与DeepSeek到底谁更值钱",
@@ -64,7 +67,7 @@
     },
     {
       "keyword_group": "openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "当OpenAI和Anthropic下场“抢生意”，Palantir的真对手来了",
@@ -76,6 +79,51 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时54分"
+        },
+        {
+          "title": "OpenAI允许员工出售价值至多3000万美元的股票。去年10月，超过600名OpenAI员工出售了股票，总共获利66亿美元。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3101246",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Kimi",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "月之暗面Kimi创始人在人民日报刊文：让中国大模型成为全球创新的基座",
+          "url": "https://www.cls.cn/detail/2367387",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "千问",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "阿里千问与淘宝全面打通",
+          "url": "https://flash.jin10.com/detail/20260511101758778800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时56分"
         }
       ]
     }
