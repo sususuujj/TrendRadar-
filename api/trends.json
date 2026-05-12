@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-13T03:49:16.281094+08:00",
-  "total_titles_processed": 395,
+  "generated_at": "2026-05-13T05:19:04.217888+08:00",
+  "total_titles_processed": 459,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时15分 ~ 03时49分]"
+          "appearance_count": 6,
+          "time_info": "[01时15分 ~ 05时19分]"
         },
         {
           "title": "报道称马斯克、库克、贝莱德、美光CEO等将随特朗普访华，黄仁勋缺席",
@@ -26,8 +26,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时48分 ~ 03时49分]"
+          "appearance_count": 4,
+          "time_info": "[03时48分 ~ 05时19分]"
         }
       ]
     },
@@ -42,7 +42,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时49分"
         }
