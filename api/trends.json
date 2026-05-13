@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-13T12:51:37.308118+08:00",
-  "total_titles_processed": 856,
+  "generated_at": "2026-05-13T16:09:57.636830+08:00",
+  "total_titles_processed": 1036,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时07分 ~ 12时51分]"
+          "appearance_count": 3,
+          "time_info": "[08时07分 ~ 16时09分]"
         },
         {
           "title": "报道称马斯克、库克、贝莱德、美光CEO等将随特朗普访华，黄仁勋缺席",
@@ -45,24 +45,25 @@
           "time_info": "[03时48分 ~ 08时07分]"
         },
         {
+          "title": "马斯克点赞宇树载人机甲：很酷",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%82%B9%E8%B5%9E%E5%AE%87%E6%A0%91%E8%BD%BD%E4%BA%BA%E6%9C%BA%E7%94%B2%EF%BC%9A%E5%BE%88%E9%85%B7",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时51分 ~ 16时09分]"
+        },
+        {
           "title": "马斯克点赞宇树载人机甲",
           "url": "https://www.toutiao.com/trending/7638867621416386614/",
           "source": "今日头条",
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时51分"
-        },
-        {
-          "title": "马斯克点赞宇树载人机甲：很酷",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%82%B9%E8%B5%9E%E5%AE%87%E6%A0%91%E8%BD%BD%E4%BA%BA%E6%9C%BA%E7%94%B2%EF%BC%9A%E5%BE%88%E9%85%B7",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时51分"
         }
@@ -108,6 +109,45 @@
       ]
     },
     {
+      "keyword_group": "豆包",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "豆包 机票退款",
+          "url": "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%20%E6%9C%BA%E7%A5%A8%E9%80%80%E6%AC%BE&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时09分"
+        },
+        {
+          "title": "豆包收费 大模型将告别免费时代",
+          "url": "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%E6%94%B6%E8%B4%B9%20%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%B0%86%E5%91%8A%E5%88%AB%E5%85%8D%E8%B4%B9%E6%97%B6%E4%BB%A3&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时09分"
+        },
+        {
+          "title": "豆包收费 大模型将告别免费时代",
+          "url": "https://www.baidu.com/s?wd=%E8%B1%86%E5%8C%85%E6%94%B6%E8%B4%B9+%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%B0%86%E5%91%8A%E5%88%AB%E5%85%8D%E8%B4%B9%E6%97%B6%E4%BB%A3",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时51分 ~ 16时09分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek",
       "match_count": 1,
       "titles": [
@@ -118,24 +158,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时51分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "豆包",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "豆包收费 大模型将告别免费时代",
-          "url": "https://www.baidu.com/s?wd=%E8%B1%86%E5%8C%85%E6%94%B6%E8%B4%B9+%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%B0%86%E5%91%8A%E5%88%AB%E5%85%8D%E8%B4%B9%E6%97%B6%E4%BB%A3",
-          "source": "百度热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时51分"
         }
