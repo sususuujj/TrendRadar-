@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-14T06:10:51.037619+08:00",
-  "total_titles_processed": 536,
+  "generated_at": "2026-05-14T07:56:53.328523+08:00",
+  "total_titles_processed": 622,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马斯克",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "马斯克：SpaceX要求星链（Starlink）不能存在那种令人烦躁的门户页面。Starlink WiFi必须每次都能毫不费力地直接使用，就像在家里联网一样。",
@@ -14,9 +14,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时10分"
+        },
+        {
+          "title": "马斯克第四个走下特朗普专机",
+          "url": "https://www.toutiao.com/trending/7639291790960590889/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时56分"
         },
         {
           "title": "美国负责马斯克与证券交易委员会（SEC）关于推特（Twitter）和解案的联邦法官表示，该案中表现出的“暗道沟通”（back channel communications）是一个“危险信号”。",
@@ -42,6 +53,17 @@
           "time_info": "02时56分"
         },
         {
+          "title": "马斯克第4个下机 黄仁勋换西装",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%AC%AC4%E4%B8%AA%E4%B8%8B%E6%9C%BA+%E9%BB%84%E4%BB%81%E5%8B%8B%E6%8D%A2%E8%A5%BF%E8%A3%85",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时56分"
+        },
+        {
           "title": "市场消息：马斯克的xAI正加紧推动华尔街公司使用Grok聊天机器人，阿波罗与摩根士丹利已开始在内部使用Grok，并与其他人工智能模型制造商的软件一起使用。",
           "url": "https://flash.jin10.com/detail/20260514034444194800",
           "source": "金十数据",
@@ -51,6 +73,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时45分"
+        },
+        {
+          "title": "马斯克：只有我和黄仁勋坐上空军一号",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9A%E5%8F%AA%E6%9C%89%E6%88%91%E5%92%8C%E9%BB%84%E4%BB%81%E5%8B%8B%E5%9D%90%E4%B8%8A%E7%A9%BA%E5%86%9B%E4%B8%80%E5%8F%B7",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时56分"
         },
         {
           "title": "谷歌公司、微软、马斯克旗下X（原名推特）、Anthropic、Perplexity因大语言模型（LLM）问题而被美国议员们质询。（PunchBowl）",
@@ -99,7 +132,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时10分"
         },
@@ -110,7 +143,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时10分"
         }
@@ -128,8 +161,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 06时10分]"
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 07时56分]"
         },
         {
           "title": "豆包 我不敢动饶雪漫这四个字",
