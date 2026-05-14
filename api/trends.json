@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-15T06:10:15.289701+08:00",
-  "total_titles_processed": 520,
+  "generated_at": "2026-05-15T07:57:26.303818+08:00",
+  "total_titles_processed": 632,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马斯克",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "马斯克回复360度转圈拍摄人民大会堂",
@@ -17,19 +17,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时00分 ~ 06时10分]"
+          "appearance_count": 7,
+          "time_info": "[01时00分 ~ 07时57分]"
         },
         {
           "title": "马斯克回复360度转圈拍人民大会堂",
           "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%9B%9E%E5%A4%8D360%E5%BA%A6%E8%BD%AC%E5%9C%88%E6%8B%8D%E4%BA%BA%E6%B0%91%E5%A4%A7%E4%BC%9A%E5%A0%82%23&t=31&band_rank=12&Refer=top",
           "source": "微博",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时00分 ~ 06时10分]"
+          "appearance_count": 7,
+          "time_info": "[01时00分 ~ 07时57分]"
         },
         {
           "title": "马斯克：我的儿子正在学习普通话",
@@ -39,11 +40,12 @@
             28,
             18,
             13,
-            14
+            14,
+            24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时00分 ~ 06时10分]"
+          "appearance_count": 7,
+          "time_info": "[01时00分 ~ 07时57分]"
         },
         {
           "title": "马斯克携幼子现身人民大会堂",
@@ -54,8 +56,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时00分 ~ 06时10分]"
+          "appearance_count": 7,
+          "time_info": "[01时00分 ~ 07时57分]"
         },
         {
           "title": "马斯克：对此次会晤感觉不错",
@@ -66,8 +68,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时00分 ~ 06时10分]"
+          "appearance_count": 7,
+          "time_info": "[01时00分 ~ 07时57分]"
         },
         {
           "title": "马斯克儿子新中式服装虎头包走红",
@@ -75,11 +77,12 @@
           "source": "抖音",
           "ranks": [
             24,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时00分 ~ 06时10分]"
+          "appearance_count": 7,
+          "time_info": "[01时00分 ~ 07时57分]"
         },
         {
           "title": "马斯克小儿子穿新中式现身大会堂",
@@ -87,11 +90,12 @@
           "source": "百度热搜",
           "ranks": [
             12,
-            24
+            24,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时00分 ~ 02时59分]"
+          "appearance_count": 4,
+          "time_info": "[01时00分 ~ 07时57分]"
         },
         {
           "title": "马斯克：我对此次会晤感觉不错",
@@ -106,6 +110,19 @@
           "time_info": "[01时00分 ~ 04时40分]"
         },
         {
+          "title": "马斯克谈会晤感受",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E8%B0%88%E4%BC%9A%E6%99%A4%E6%84%9F%E5%8F%97%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29,
+            27,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时59分 ~ 07时57分]"
+        },
+        {
           "title": "马斯克360度转圈拍摄人民大会堂",
           "url": "https://www.toutiao.com/trending/7639626639860780553/",
           "source": "今日头条",
@@ -117,16 +134,15 @@
           "time_info": "[01时00分 ~ 01时02分]"
         },
         {
-          "title": "马斯克谈会晤感受",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E8%B0%88%E4%BC%9A%E6%99%A4%E6%84%9F%E5%8F%97%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
+          "title": "马斯克中文发帖：儿子正学普通话",
+          "url": "https://www.toutiao.com/trending/7639883822296829478/",
+          "source": "今日头条",
           "ranks": [
-            29,
-            27
+            12
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时59分 ~ 04时40分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时57分"
         }
       ]
     },
@@ -193,11 +209,12 @@
             5,
             7,
             16,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时00分 ~ 06时10分]"
+          "appearance_count": 7,
+          "time_info": "[01时00分 ~ 07时57分]"
         },
         {
           "title": "豆包闯祸,画饼退钱被起诉",
@@ -207,8 +224,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时00分 ~ 06时10分]"
+          "appearance_count": 7,
+          "time_info": "[01时00分 ~ 07时57分]"
         }
       ]
     },
@@ -223,7 +240,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时10分"
         }
