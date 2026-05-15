@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-15T07:57:26.303818+08:00",
-  "total_titles_processed": 632,
+  "generated_at": "2026-05-15T11:31:44.629046+08:00",
+  "total_titles_processed": 820,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             15,
             13,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时00分 ~ 07时57分]"
+          "appearance_count": 8,
+          "time_info": "[01时00分 ~ 11时31分]"
         },
         {
           "title": "马斯克回复360度转圈拍人民大会堂",
@@ -26,11 +27,24 @@
           "source": "微博",
           "ranks": [
             12,
-            13
+            13,
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时00分 ~ 07时57分]"
+          "appearance_count": 8,
+          "time_info": "[01时00分 ~ 11时31分]"
+        },
+        {
+          "title": "马斯克：对此次会晤感觉不错",
+          "url": "https://www.douyin.com/hot/2499190",
+          "source": "抖音",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时00分 ~ 11时31分]"
         },
         {
           "title": "马斯克：我的儿子正在学习普通话",
@@ -54,18 +68,6 @@
           "ranks": [
             15,
             14
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时00分 ~ 07时57分]"
-        },
-        {
-          "title": "马斯克：对此次会晤感觉不错",
-          "url": "https://www.douyin.com/hot/2499190",
-          "source": "抖音",
-          "ranks": [
-            18,
-            17
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -140,7 +142,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
         }
@@ -202,6 +204,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "豆包闯祸,画饼退钱被起诉",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354255&amp;topic_name=%E8%B1%86%E5%8C%85%E9%97%AF%E7%A5%B8%2C%E7%94%BB%E9%A5%BC%E9%80%80%E9%92%B1%E8%A2%AB%E8%B5%B7%E8%AF%89",
+          "source": "贴吧",
+          "ranks": [
+            22,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时00分 ~ 11时31分]"
+        },
+        {
           "title": "网友相信豆包「机票退票只扣 5% 手续费」，退票后发现与实际不符遂起诉字节，AI 该为传达错误信息担责吗？",
           "url": "https://www.zhihu.com/question/2037926535315677917",
           "source": "知乎",
@@ -211,17 +225,6 @@
             16,
             18,
             19
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时00分 ~ 07时57分]"
-        },
-        {
-          "title": "豆包闯祸,画饼退钱被起诉",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354255&amp;topic_name=%E8%B1%86%E5%8C%85%E9%97%AF%E7%A5%B8%2C%E7%94%BB%E9%A5%BC%E9%80%80%E9%92%B1%E8%A2%AB%E8%B5%B7%E8%AF%89",
-          "source": "贴吧",
-          "ranks": [
-            22
           ],
           "is_new": false,
           "appearance_count": 7,
