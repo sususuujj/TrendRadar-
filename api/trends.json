@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-18T05:54:24.758728+08:00",
-  "total_titles_processed": 438,
+  "generated_at": "2026-05-18T06:53:06.368707+08:00",
+  "total_titles_processed": 466,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             10,
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 05时54分]"
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 06时53分]"
         },
         {
           "title": "AI全员娘化,豆包变呆瓜",
@@ -28,8 +29,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 05时54分]"
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 06时53分]"
         }
       ]
     }
