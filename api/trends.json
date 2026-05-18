@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-19T06:02:02.347983+08:00",
-  "total_titles_processed": 541,
+  "generated_at": "2026-05-19T07:15:36.318885+08:00",
+  "total_titles_processed": 622,
   "failed_sources": [],
   "trends": [
     {
@@ -36,7 +36,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
         },
@@ -47,7 +47,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
         },
@@ -58,7 +58,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
         },
@@ -69,7 +69,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
         }
@@ -79,6 +79,19 @@
       "keyword_group": "马斯克",
       "match_count": 5,
       "titles": [
+        {
+          "title": "马斯克发视频点赞重庆东站",
+          "url": "https://www.toutiao.com/trending/7641179836287877146/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            21,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 07时15分]"
+        },
         {
           "title": "马斯克：星舰（Starship）生产线已经满负荷运转。 今年将完成大约10艘飞船和大约5套助推器（的生产）。",
           "url": "https://wallstreetcn.com/livenews/3105513",
@@ -102,18 +115,6 @@
           "time_info": "00时21分"
         },
         {
-          "title": "马斯克发视频点赞重庆东站",
-          "url": "https://www.toutiao.com/trending/7641179836287877146/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 06时02分]"
-        },
-        {
           "title": "马斯克爆料：正着手推进SpaceX IPO事宜，自动驾驶汽车今年将实现更广泛部署",
           "url": "https://www.cls.cn/detail/2374520",
           "source": "财联社热门",
@@ -131,7 +132,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
         }
@@ -152,8 +153,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 06时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 07时15分]"
         },
         {
           "title": "豆包预约饭店遭店员阴阳",
@@ -163,8 +164,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 06时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 07时15分]"
         }
       ]
     }
