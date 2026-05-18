@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-18T20:28:29.326650+08:00",
-  "total_titles_processed": 1159,
+  "generated_at": "2026-05-19T00:21:57.879171+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
     {
@@ -8,100 +8,65 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "马斯克：希望SpaceX的首次公开募股（IPO）尽快启动。 希望到今年年底前，让无人驾驶汽车在美国广泛普及。 认为Neuralink技术能帮助部分失明者重见光明。 计划今年进行首例针对失明症的Neuralink植入手术。",
-          "url": "https://wallstreetcn.com/livenews/3105193",
+          "title": "马斯克：星舰（Starship）生产线已经满负荷运转。 今年将完成大约10艘飞船和大约5套助推器（的生产）。",
+          "url": "https://wallstreetcn.com/livenews/3105513",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时02分"
+          "time_info": "00时21分"
         },
         {
-          "title": "马斯克：年内计划完成首例针对失明病症的脑机接口植入手术。",
-          "url": "https://flash.jin10.com/detail/20260518152506927800",
+          "title": "马斯克：星舰生产线已满负荷运转。今年将完成大约10艘飞船和约一半数量的助推器。",
+          "url": "https://flash.jin10.com/detail/20260518234502260800",
           "source": "金十数据",
           "ranks": [
-            25
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时02分"
+          "time_info": "00时21分"
         },
         {
-          "title": "马斯克：一旦全面高效可重复使用的火箭技术开发成功，我们就能承载太空文明了。",
-          "url": "https://flash.jin10.com/detail/20260518152441405800",
-          "source": "金十数据",
+          "title": "马斯克发视频点赞重庆东站",
+          "url": "https://www.toutiao.com/trending/7641179836287877146/",
+          "source": "今日头条",
           "ranks": [
-            27
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时02分"
+          "time_info": "00时21分"
         }
       ]
     },
     {
       "keyword_group": "豆包",
-      "match_count": 3,
+      "match_count": 2,
       "titles": [
         {
-          "title": "“豆包说你那里卖野猪”",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E8%B1%86%E5%8C%85%E8%AF%B4%E4%BD%A0%E9%82%A3%E9%87%8C%E5%8D%96%E9%87%8E%E7%8C%AA%E2%80%9D",
-          "source": "百度热搜",
+          "title": "真有人在豆包预约餐厅",
+          "url": "https://s.weibo.com/weibo?q=%E7%9C%9F%E6%9C%89%E4%BA%BA%E5%9C%A8%E8%B1%86%E5%8C%85%E9%A2%84%E7%BA%A6%E9%A4%90%E5%8E%85&t=31&band_rank=6&Refer=top",
+          "source": "微博",
           "ranks": [
-            10,
-            9,
-            7,
-            8,
-            26
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时01分 ~ 11时32分]"
-        },
-        {
-          "title": "AI全员娘化,豆包变呆瓜",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354319&amp;topic_name=AI%E5%85%A8%E5%91%98%E5%A8%98%E5%8C%96%2C%E8%B1%86%E5%8C%85%E5%8F%98%E5%91%86%E7%93%9C",
-          "source": "贴吧",
-          "ranks": [
-            25,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时01分 ~ 11时32分]"
+          "appearance_count": 1,
+          "time_info": "00时21分"
         },
         {
           "title": "豆包预约饭店遭店员阴阳",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354369&amp;topic_name=%E8%B1%86%E5%8C%85%E9%A2%84%E7%BA%A6%E9%A5%AD%E5%BA%97%E9%81%AD%E5%BA%97%E5%91%98%E9%98%B4%E9%98%B3",
           "source": "贴吧",
           "ranks": [
-            4,
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时32分 ~ 20时28分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "具身智能",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "机器人有了国家级训练场 这一具身智能应用中试基地揭牌",
-          "url": "https://www.cls.cn/detail/2373468",
-          "source": "财联社热门",
-          "ranks": [
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时32分 ~ 16时02分]"
+          "appearance_count": 1,
+          "time_info": "00时21分"
         }
       ]
     }
