@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-19T18:36:57.848226+08:00",
-  "total_titles_processed": 1195,
+  "generated_at": "2026-05-19T21:55:14.448226+08:00",
+  "total_titles_processed": 1360,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马斯克",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "马斯克发视频点赞重庆东站",
@@ -66,6 +66,17 @@
           "time_info": "[06时01分 ~ 06时02分]"
         },
         {
+          "title": "马斯克预测：10年后，自己开车将是一种非常小众的行为",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33197981",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时54分 ~ 21时55分]"
+        },
+        {
           "title": "重庆东站为何能让马斯克点赞",
           "url": "https://www.toutiao.com/trending/7641444363007970852/",
           "source": "今日头条",
@@ -105,7 +116,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时36分"
         }
@@ -196,7 +207,7 @@
     },
     {
       "keyword_group": "豆包",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "豆包预约饭店遭店员阴阳",
@@ -226,6 +237,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时21分 ~ 10时59分]"
+        },
+        {
+          "title": "豆包崩了",
+          "url": "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%E5%B4%A9%E4%BA%86&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时54分 ~ 21时55分]"
         }
       ]
     }
