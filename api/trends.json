@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-05-20T06:15:25.095388+08:00",
-  "total_titles_processed": 520,
+  "generated_at": "2026-05-20T08:04:02.549977+08:00",
+  "total_titles_processed": 637,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "gemini",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "谷歌I/O大会All in AI：Gemini模型上新，搜索框25年来最大改版，AI眼镜回归，Spark智能体首秀",
+          "url": "https://wallstreetcn.com/articles/3772658",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时03分 ~ 08时04分]"
+        },
         {
           "title": "谷歌Gemini：新的语音功能和 Gemini Spark 将于今夏在 macOS 的 Gemini 应用上推出。",
           "url": "https://flash.jin10.com/detail/20260520022605113800",
@@ -23,11 +34,23 @@
           "url": "https://wallstreetcn.com/articles/3772609",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时59分 ~ 08时04分]"
+        },
+        {
+          "title": "万斯称美伊谈判取得“很大进展”谷歌推出Gemini 3.5系列模型 | 环球市场",
+          "url": "https://www.cls.cn/detail/2376118",
+          "source": "财联社热门",
+          "ranks": [
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时59分 ~ 04时48分]"
+          "time_info": "[08时03分 ~ 08时04分]"
         },
         {
           "title": "谷歌Gemini：上个月我们发布了适用于macOS的Gemini应用。在接下来的几周里，我们将把 Gemini Spar 引入Gemini 桌面应用，以帮助处理本地文件整理或将PDF数据直接提取到Google Sheets中。",
@@ -124,28 +147,30 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "DeepSeek最新回应",
-          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E6%9C%80%E6%96%B0%E5%9B%9E%E5%BA%94%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时59分 ~ 04时48分]"
-        },
-        {
           "title": "DeepSeek：特殊字符引发模型幻觉，不涉及安全问题或隐私泄露",
           "url": "https://www.cls.cn/detail/2375756",
           "source": "财联社热门",
           "ranks": [
             11,
-            12
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时50分 ~ 08时04分]"
+        },
+        {
+          "title": "DeepSeek最新回应",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E6%9C%80%E6%96%B0%E5%9B%9E%E5%BA%94%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5,
+            16,
+            13
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时50分 ~ 06时15分]"
+          "time_info": "[02时59分 ~ 08时04分]"
         }
       ]
     },
@@ -190,8 +215,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时50分 ~ 06时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时50分 ~ 08时04分]"
         }
       ]
     },
@@ -205,11 +230,12 @@
           "source": "百度热搜",
           "ranks": [
             17,
-            28
+            28,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 02时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时50分 ~ 08时04分]"
         }
       ]
     }
