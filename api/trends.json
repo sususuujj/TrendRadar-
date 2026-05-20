@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-20T17:29:23.981578+08:00",
-  "total_titles_processed": 1073,
+  "generated_at": "2026-05-20T20:23:35.019450+08:00",
+  "total_titles_processed": 1247,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时03分 ~ 17时29分]"
+          "appearance_count": 5,
+          "time_info": "[08时03分 ~ 20时23分]"
         },
         {
           "title": "谷歌Gemini：新的语音功能和 Gemini Spark 将于今夏在 macOS 的 Gemini 应用上推出。",
@@ -84,7 +84,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
         },
@@ -200,7 +200,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
         },
@@ -294,6 +294,23 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时50分 ~ 08时04分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "豆包",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "豆包没有身份证说话就是狠",
+          "url": "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%E6%B2%A1%E6%9C%89%E8%BA%AB%E4%BB%BD%E8%AF%81%E8%AF%B4%E8%AF%9D%E5%B0%B1%E6%98%AF%E7%8B%A0&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
         }
       ]
     }
