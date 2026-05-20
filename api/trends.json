@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-20T13:03:52.088215+08:00",
-  "total_titles_processed": 862,
+  "generated_at": "2026-05-20T17:29:23.981578+08:00",
+  "total_titles_processed": 1073,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "gemini",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "谷歌I/O大会All in AI：Gemini模型上新，搜索框25年来最大改版，AI眼镜回归，Spark智能体首秀",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时03分 ~ 13时03分]"
+          "appearance_count": 4,
+          "time_info": "[08时03分 ~ 17时29分]"
         },
         {
           "title": "谷歌Gemini：新的语音功能和 Gemini Spark 将于今夏在 macOS 的 Gemini 应用上推出。",
@@ -78,6 +78,17 @@
           "time_info": "02时59分"
         },
         {
+          "title": "Gemini 3.5 Flash 正式发布，你怎么评价这款模型?",
+          "url": "https://www.zhihu.com/question/2040251136867815469",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时29分"
+        },
+        {
           "title": "谷歌(GOOG.O)：Gemini Omni 今天将上线 Gemini应用，面向付费用户。用户可以通过任意组合的文本、图片和视频输入来实现创意。只需打开 Gemini，从相册中附加一个视频，然后进行修改。就是这么简单。",
           "url": "https://flash.jin10.com/detail/20260520021523065800",
           "source": "金十数据",
@@ -106,7 +117,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时03分"
         },
@@ -158,7 +169,7 @@
     },
     {
       "keyword_group": "openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "OpenAI创始成员Karpathy宣布，跳槽至Anthropic。",
@@ -183,13 +194,24 @@
           "time_info": "04时48分"
         },
         {
+          "title": "知情人士：软银CEO孙正义曾表示相信OpenAI创始人Sam Altman正引领着本世纪最重要的技术变革。",
+          "url": "https://flash.jin10.com/detail/20260520165930678800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时29分"
+        },
+        {
           "title": "OpenAI投2.34亿美元在新加坡设立新AI实验室",
           "url": "https://flash.jin10.com/detail/20260520115552905800",
           "source": "金十数据",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时03分"
         }
@@ -251,7 +273,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时03分"
         }
