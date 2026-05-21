@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-22T05:27:02.644174+08:00",
-  "total_titles_processed": 468,
+  "generated_at": "2026-05-22T07:02:28.924701+08:00",
+  "total_titles_processed": 522,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "如何评价 OpenAI 称推翻困扰数学界近 80 年的「平面单位距离猜想」？这一结果的可信度如何？",
@@ -15,8 +15,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时56分 ~ 05时27分]"
+          "appearance_count": 5,
+          "time_info": "[01时56分 ~ 07时02分]"
+        },
+        {
+          "title": "据The Information：OpenAI创始人奥尔特曼周三暗示，即使公司提交了IPO申请，也可能会推迟实际上市时间。",
+          "url": "https://flash.jin10.com/detail/20260522061919828800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
         },
         {
           "title": "据The Information：Anthropic的年化收入近期达到接近450亿美元水平，超过了OpenAI的250亿美元。",
@@ -66,18 +77,30 @@
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "SpaceX招股书揭秘：Starlink是印钞机，xAI是吞金兽，马斯克用卫星养AI",
           "url": "https://wallstreetcn.com/articles/3772765",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时56分 ~ 05时27分]"
+          "appearance_count": 5,
+          "time_info": "[01时56分 ~ 07时02分]"
+        },
+        {
+          "title": "马斯克：今天（星舰发射若）失败，不会对进度造成超过一个月左右的影响。",
+          "url": "https://flash.jin10.com/detail/20260522062806430800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
         },
         {
           "title": "170次要变1万次，马斯克“太空壮志”遭美国监管机构泼冷水",
@@ -87,8 +110,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时56分 ~ 05时27分]"
+          "appearance_count": 5,
+          "time_info": "[01时56分 ~ 07时02分]"
         },
         {
           "title": "史上最大IPO！SpaceX招股书公布：一季度亏43亿美元，马斯克掌握绝对控制权",
@@ -98,8 +121,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时56分 ~ 05时27分]"
+          "appearance_count": 5,
+          "time_info": "[01时56分 ~ 07时02分]"
         }
       ]
     },
@@ -117,8 +140,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时56分 ~ 05时27分]"
+          "appearance_count": 5,
+          "time_info": "[01时56分 ~ 07时02分]"
         },
         {
           "title": "闲鱼遇神人,用豆包鉴内存真伪",
@@ -128,8 +151,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时56分 ~ 05时27分]"
+          "appearance_count": 5,
+          "time_info": "[01时56分 ~ 07时02分]"
         }
       ]
     },
@@ -143,11 +166,12 @@
           "source": "微博",
           "ranks": [
             6,
-            24
+            24,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时56分 ~ 05时27分]"
+          "appearance_count": 5,
+          "time_info": "[01时56分 ~ 07时02分]"
         }
       ]
     }
