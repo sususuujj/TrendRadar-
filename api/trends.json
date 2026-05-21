@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-22T03:52:26.671985+08:00",
-  "total_titles_processed": 388,
+  "generated_at": "2026-05-22T05:27:02.644174+08:00",
+  "total_titles_processed": 468,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时56分 ~ 03时52分]"
+          "appearance_count": 4,
+          "time_info": "[01时56分 ~ 05时27分]"
         },
         {
           "title": "据The Information：Anthropic的年化收入近期达到接近450亿美元水平，超过了OpenAI的250亿美元。",
@@ -25,7 +25,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时52分"
         },
@@ -47,7 +47,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时52分"
         },
@@ -58,7 +58,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时52分"
         }
@@ -76,8 +76,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时56分 ~ 03时52分]"
+          "appearance_count": 4,
+          "time_info": "[01时56分 ~ 05时27分]"
         },
         {
           "title": "170次要变1万次，马斯克“太空壮志”遭美国监管机构泼冷水",
@@ -87,8 +87,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时56分 ~ 03时52分]"
+          "appearance_count": 4,
+          "time_info": "[01时56分 ~ 05时27分]"
         },
         {
           "title": "史上最大IPO！SpaceX招股书公布：一季度亏43亿美元，马斯克掌握绝对控制权",
@@ -98,8 +98,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时56分 ~ 03时52分]"
+          "appearance_count": 4,
+          "time_info": "[01时56分 ~ 05时27分]"
         }
       ]
     },
@@ -113,11 +113,12 @@
           "source": "微博",
           "ranks": [
             10,
-            5
+            5,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时56分 ~ 03时52分]"
+          "appearance_count": 4,
+          "time_info": "[01时56分 ~ 05时27分]"
         },
         {
           "title": "闲鱼遇神人,用豆包鉴内存真伪",
@@ -127,8 +128,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时56分 ~ 03时52分]"
+          "appearance_count": 4,
+          "time_info": "[01时56分 ~ 05时27分]"
         }
       ]
     },
@@ -141,11 +142,12 @@
           "url": "https://s.weibo.com/weibo?q=%E4%B8%8D%E5%B0%8F%E5%BF%83%E6%8A%8ADeepSeek%E5%8F%AB%E6%88%90%E8%B1%86%E5%8C%85&t=31&band_rank=6&Refer=top",
           "source": "微博",
           "ranks": [
-            6
+            6,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时56分 ~ 03时52分]"
+          "appearance_count": 4,
+          "time_info": "[01时56分 ~ 05时27分]"
         }
       ]
     }
