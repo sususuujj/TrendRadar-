@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-05-21T15:50:02.383646+08:00",
-  "total_titles_processed": 974,
+  "generated_at": "2026-05-21T19:22:06.795064+08:00",
+  "total_titles_processed": 1166,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马斯克",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
-        {
-          "title": "马斯克用18年换来史上最大IPO",
-          "url": "https://www.toutiao.com/trending/7642221736754155044/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时49分 ~ 15时50分]"
-        },
         {
           "title": "SpaceX招股书揭秘：Starlink是印钞机，xAI是吞金兽，马斯克用卫星养AI",
           "url": "https://wallstreetcn.com/articles/3772765",
           "source": "华尔街见闻",
           "ranks": [
             4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时49分 ~ 19时22分]"
+        },
+        {
+          "title": "马斯克用18年换来史上最大IPO",
+          "url": "https://www.toutiao.com/trending/7642221736754155044/",
+          "source": "今日头条",
+          "ranks": [
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -50,6 +50,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时49分 ~ 15时50分]"
+        },
+        {
+          "title": "170次要变1万次，马斯克“太空壮志”遭美国监管机构泼冷水",
+          "url": "https://news.ifeng.com/c/8tJGUCBF9B8",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时21分 ~ 19时22分]"
+        },
+        {
+          "title": "马斯克离全球首位万亿美元富翁又近了一步",
+          "url": "https://www.cls.cn/detail/2377533",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时21分 ~ 19时22分]"
         },
         {
           "title": "SpaceX招股书揭秘：巨亏49亿、马斯克掌控85%投票权",
@@ -143,8 +165,19 @@
     },
     {
       "keyword_group": "openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "如何评价 OpenAI 称推翻困扰数学界近 80 年的「平面单位距离猜想」？这一结果的可信度如何？",
+          "url": "https://www.zhihu.com/question/2040738759281473391",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时21分 ~ 19时22分]"
+        },
         {
           "title": "据The Information：白宫周二向Anthropic、OpenAI及其他公司简要介绍了一项自愿性的“模型发布前评估”计划。",
           "url": "https://flash.jin10.com/detail/20260521030904258800",
@@ -182,8 +215,19 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "不小心把DeepSeek叫成豆包",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%8D%E5%B0%8F%E5%BF%83%E6%8A%8ADeepSeek%E5%8F%AB%E6%88%90%E8%B1%86%E5%8C%85&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时21分 ~ 19时22分]"
+        },
         {
           "title": "如何看待 DeepSeek 组建 Harness 团队对标 Claude Code？",
           "url": "https://www.zhihu.com/question/2040450519303288568",
@@ -251,11 +295,12 @@
           "source": "贴吧",
           "ranks": [
             2,
-            4
+            4,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时31分 ~ 15时50分]"
+          "appearance_count": 5,
+          "time_info": "[11时31分 ~ 19时22分]"
         },
         {
           "title": "全世界第二信任豆包的人出现了",
@@ -282,7 +327,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时50分"
         }
