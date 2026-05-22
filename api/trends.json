@@ -1,231 +1,56 @@
 {
-  "generated_at": "2026-05-22T21:32:20.079632+08:00",
-  "total_titles_processed": 1278,
+  "generated_at": "2026-05-23T00:25:02.157510+08:00",
+  "total_titles_processed": 305,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "openai",
-      "match_count": 6,
+      "keyword_group": "DeepSeek",
+      "match_count": 1,
       "titles": [
         {
-          "title": "如何评价 OpenAI 称推翻困扰数学界近 80 年的「平面单位距离猜想」？这一结果的可信度如何？",
-          "url": "https://www.zhihu.com/question/2040738759281473391",
+          "title": "如何看待 DeepSeek V4 Pro 模型价格于 5 月 31 日结束 2.5 折优惠，调整为原定价的 1/4？",
+          "url": "https://www.zhihu.com/question/2041260640740927118",
           "source": "知乎",
           "ranks": [
-            1
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时56分 ~ 07时02分]"
-        },
-        {
-          "title": "据The Information：OpenAI创始人奥尔特曼周三暗示，即使公司提交了IPO申请，也可能会推迟实际上市时间。",
-          "url": "https://flash.jin10.com/detail/20260522061919828800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时02分"
-        },
-        {
-          "title": "据The Information：Anthropic的年化收入近期达到接近450亿美元水平，超过了OpenAI的250亿美元。",
-          "url": "https://flash.jin10.com/detail/20260522022949905800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时52分"
-        },
-        {
-          "title": "OpenAI：AdventHealth正在部署Chatgpt以减轻行政负担，并优化其系统内的临床工作流程。",
-          "url": "https://flash.jin10.com/detail/20260522010324377800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时56分"
-        },
-        {
-          "title": "据The Information：OpenAI在第一季度创造了57亿美元的收入，领先竞争对手Anthropic 10亿美元",
-          "url": "https://flash.jin10.com/detail/20260522022849271800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时52分"
-        },
-        {
-          "title": "报道：OpenAI在第一季度创造57亿美元收入",
-          "url": "https://wallstreetcn.com/livenews/3107589",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时52分"
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 00时25分]"
         }
       ]
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
         {
-          "title": "SpaceX招股书揭秘：Starlink是印钞机，xAI是吞金兽，马斯克用卫星养AI",
-          "url": "https://wallstreetcn.com/articles/3772765",
-          "source": "华尔街见闻",
+          "title": "马斯克重建xAI组织图曝光",
+          "url": "https://www.toutiao.com/trending/7642709273591418394/",
+          "source": "今日头条",
           "ranks": [
-            2,
-            1
+            27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时56分 ~ 11时29分]"
-        },
-        {
-          "title": "史上最大IPO！SpaceX招股书公布：一季度亏43亿美元，马斯克掌握绝对控制权",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33204831",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时56分 ~ 11时29分]"
-        },
-        {
-          "title": "马斯克：今天（星舰发射若）失败，不会对进度造成超过一个月左右的影响。",
-          "url": "https://flash.jin10.com/detail/20260522062806430800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时02分"
-        },
-        {
-          "title": "170次要变1万次，马斯克“太空壮志”遭美国监管机构泼冷水",
-          "url": "https://news.ifeng.com/c/8tJGUCBF9B8",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时56分 ~ 07时02分]"
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 00时25分]"
         }
       ]
     },
     {
       "keyword_group": "豆包",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
         {
           "title": "闲鱼遇神人,用豆包鉴内存真伪",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354467&amp;topic_name=%E9%97%B2%E9%B1%BC%E9%81%87%E7%A5%9E%E4%BA%BA%2C%E7%94%A8%E8%B1%86%E5%8C%85%E9%89%B4%E5%86%85%E5%AD%98%E7%9C%9F%E4%BC%AA",
           "source": "贴吧",
           "ranks": [
-            10,
-            16,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时56分 ~ 21时32分]"
-        },
-        {
-          "title": "豆包炒股建议",
-          "url": "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%E7%82%92%E8%82%A1%E5%BB%BA%E8%AE%AE&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10,
-            5,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时56分 ~ 07时02分]"
-        },
-        {
-          "title": "豆包 古偶女主",
-          "url": "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%20%E5%8F%A4%E5%81%B6%E5%A5%B3%E4%B8%BB&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "不小心把DeepSeek叫成豆包",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%8D%E5%B0%8F%E5%BF%83%E6%8A%8ADeepSeek%E5%8F%AB%E6%88%90%E8%B1%86%E5%8C%85&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6,
-            24,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时56分 ~ 07时02分]"
-        },
-        {
-          "title": "DeepSeek引入API并发限制",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%BC%95%E5%85%A5API%E5%B9%B6%E5%8F%91%E9%99%90%E5%88%B6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "具身智能",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "关于“6张网”、人工智能、具身智能，国家发改委最新回应",
-          "url": "https://www.cls.cn/detail/2378704",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时42分 ~ 18时49分]"
-        },
-        {
-          "title": "国家发改委：加快具身智能训练基础设施建设 更好支撑具身数据采集和“大小脑”模型训练",
-          "url": "https://flash.jin10.com/detail/20260522103943845800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时29分"
+          "time_info": "[00时24分 ~ 00时25分]"
         }
       ]
     }
