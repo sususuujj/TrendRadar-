@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-23T19:10:53.805716+08:00",
-  "total_titles_processed": 1126,
+  "generated_at": "2026-05-23T21:22:11.852402+08:00",
+  "total_titles_processed": 1253,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "如何看待 DeepSeek V4 Pro 模型价格于 5 月 31 日结束 2.5 折优惠，调整为原定价的 1/4？",
@@ -31,8 +31,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时39分 ~ 19时10分]"
+          "appearance_count": 7,
+          "time_info": "[12时39分 ~ 21时22分]"
         },
         {
           "title": "曝 DeepSeek 推进 700 亿元融资，梁文锋称坚持开源 AI 模型，此举意味着什么？",
@@ -40,11 +40,23 @@
           "source": "知乎",
           "ranks": [
             5,
-            7
+            7,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时31分 ~ 19时10分]"
+          "appearance_count": 6,
+          "time_info": "[15时31分 ~ 21时22分]"
+        },
+        {
+          "title": "DeepSeek宣布：永久降价",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%AE%A3%E5%B8%83%EF%BC%9A%E6%B0%B8%E4%B9%85%E9%99%8D%E4%BB%B7",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时21分 ~ 21时22分]"
         },
         {
           "title": "DeepSeek-V4-Pro API价格永久下调至原价25%",
@@ -71,8 +83,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时51分 ~ 19时10分]"
+          "appearance_count": 4,
+          "time_info": "[17时51分 ~ 21时22分]"
         },
         {
           "title": "马斯克SpaceX星舰V3首飞成功",
@@ -111,7 +123,7 @@
     },
     {
       "keyword_group": "openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "OpenAI称攻克80年数学难题",
@@ -125,6 +137,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时39分 ~ 19时10分]"
+        },
+        {
+          "title": "SpaceX、OpenAI、Anthropic“超级IPO”扎堆，美银：这是超级泡沫的重演",
+          "url": "https://wallstreetcn.com/articles/3772963",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时21分 ~ 21时22分]"
         },
         {
           "title": "一周热榜精选：沃什履新之际加息呼声渐高！SpaceX和OpenAI即将IPO",
@@ -154,8 +177,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时24分 ~ 19时10分]"
+          "appearance_count": 16,
+          "time_info": "[00时24分 ~ 21时22分]"
         }
       ]
     }
