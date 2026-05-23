@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-23T17:51:27.534131+08:00",
-  "total_titles_processed": 1052,
+  "generated_at": "2026-05-23T19:10:53.805716+08:00",
+  "total_titles_processed": 1126,
   "failed_sources": [],
   "trends": [
     {
@@ -27,22 +27,24 @@
           "source": "贴吧",
           "ranks": [
             2,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时39分 ~ 17时51分]"
+          "appearance_count": 5,
+          "time_info": "[12时39分 ~ 19时10分]"
         },
         {
           "title": "曝 DeepSeek 推进 700 亿元融资，梁文锋称坚持开源 AI 模型，此举意味着什么？",
           "url": "https://www.zhihu.com/question/2041154123677126717",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时31分 ~ 17时51分]"
+          "appearance_count": 4,
+          "time_info": "[15时31分 ~ 19时10分]"
         },
         {
           "title": "DeepSeek-V4-Pro API价格永久下调至原价25%",
@@ -51,7 +53,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时51分"
         }
@@ -61,6 +63,17 @@
       "keyword_group": "马斯克",
       "match_count": 4,
       "titles": [
+        {
+          "title": "莫迪多次邀特斯拉来印设厂，马斯克为何最终拒绝？",
+          "url": "https://news.ifeng.com/c/8tM7SvgZdOf",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时51分 ~ 19时10分]"
+        },
         {
           "title": "马斯克SpaceX星舰V3首飞成功",
           "url": "https://s.weibo.com/weibo?q=%E9%A9%AC%E6%96%AF%E5%85%8BSpaceX%E6%98%9F%E8%88%B0V3%E9%A6%96%E9%A3%9E%E6%88%90%E5%8A%9F&t=31&band_rank=18&Refer=top",
@@ -82,17 +95,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时24分 ~ 00时25分]"
-        },
-        {
-          "title": "莫迪多次邀特斯拉来印设厂，马斯克为何最终拒绝？",
-          "url": "https://news.ifeng.com/c/8tM7SvgZdOf",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时51分"
         },
         {
           "title": "SpaceX成功发射星舰，马斯克IPO帝国版图迎来关键大考",
@@ -121,8 +123,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时39分 ~ 17时51分]"
+          "appearance_count": 5,
+          "time_info": "[12时39分 ~ 19时10分]"
         },
         {
           "title": "一周热榜精选：沃什履新之际加息呼声渐高！SpaceX和OpenAI即将IPO",
@@ -148,11 +150,12 @@
           "ranks": [
             22,
             25,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时24分 ~ 17时51分]"
+          "appearance_count": 14,
+          "time_info": "[00时24分 ~ 19时10分]"
         }
       ]
     }
