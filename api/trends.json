@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-25T06:57:22.980450+08:00",
-  "total_titles_processed": 490,
+  "generated_at": "2026-05-25T08:00:39.844082+08:00",
+  "total_titles_processed": 548,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2380075",
           "source": "财联社热门",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时59分 ~ 06时57分]"
+          "appearance_count": 8,
+          "time_info": "[00时59分 ~ 08时00分]"
         },
         {
           "title": "【早报】国家数据局将把推动词元经济发展纳入工作体系；DeepSeek宣布永久降价",
@@ -27,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时59分 ~ 06时57分]"
+          "appearance_count": 8,
+          "time_info": "[00时59分 ~ 08时00分]"
         },
         {
           "title": "梁文锋与DeepSeek的十万亿美元棋盘",
@@ -38,8 +39,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时59分 ~ 06时57分]"
+          "appearance_count": 8,
+          "time_info": "[00时59分 ~ 08时00分]"
         },
         {
           "title": "deepseek狂降价,友商被卷哭",
@@ -49,8 +50,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时59分 ~ 06时57分]"
+          "appearance_count": 8,
+          "time_info": "[00时59分 ~ 08时00分]"
         }
       ]
     }
