@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-25T08:00:39.844082+08:00",
-  "total_titles_processed": 548,
+  "generated_at": "2026-05-25T12:40:55.629128+08:00",
+  "total_titles_processed": 768,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时59分 ~ 08时00分]"
+          "appearance_count": 9,
+          "time_info": "[00时59分 ~ 12时40分]"
         },
         {
           "title": "【早报】国家数据局将把推动词元经济发展纳入工作体系；DeepSeek宣布永久降价",
@@ -36,22 +36,24 @@
           "url": "https://wallstreetcn.com/articles/3772995",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时59分 ~ 08时00分]"
+          "appearance_count": 9,
+          "time_info": "[00时59分 ~ 12时40分]"
         },
         {
           "title": "deepseek狂降价,友商被卷哭",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354527&amp;topic_name=deepseek%E7%8B%82%E9%99%8D%E4%BB%B7%2C%E5%8F%8B%E5%95%86%E8%A2%AB%E5%8D%B7%E5%93%AD",
           "source": "贴吧",
           "ranks": [
-            12
+            12,
+            17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时59分 ~ 08时00分]"
+          "appearance_count": 9,
+          "time_info": "[00时59分 ~ 12时40分]"
         }
       ]
     }
