@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-27T16:02:45.570385+08:00",
-  "total_titles_processed": 966,
+  "generated_at": "2026-05-27T20:18:54.300219+08:00",
+  "total_titles_processed": 1177,
   "failed_sources": [],
   "trends": [
     {
@@ -101,11 +101,12 @@
           "ranks": [
             2,
             5,
-            13
+            13,
+            19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时41分 ~ 16时02分]"
+          "appearance_count": 10,
+          "time_info": "[00时41分 ~ 20时18分]"
         },
         {
           "title": "高考期间AI工具被禁用或功能被限制？豆包客服：暂未接到相关通知",
@@ -114,7 +115,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         }
