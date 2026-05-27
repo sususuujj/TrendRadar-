@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-27T07:09:17.800361+08:00",
-  "total_titles_processed": 541,
+  "generated_at": "2026-05-27T11:37:52.681162+08:00",
+  "total_titles_processed": 757,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马斯克",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "知情人士：马斯克曾与同事讨论将SpaceX与特斯拉合并",
@@ -53,6 +53,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时42分"
+        },
+        {
+          "title": "市场传闻将成真？马斯克被曝曾探讨合并SpaceX与特斯拉",
+          "url": "https://www.cls.cn/detail/2382367",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时37分"
         },
         {
           "title": "马斯克：自杀式无人机制造商错误地利用了星链。",
@@ -105,11 +116,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354598&amp;topic_name=%E7%A0%8D%E4%BB%B7%E7%94%A8%E8%B1%86%E5%8C%85%E9%81%AD%E8%83%B6%E5%8F%8B%E7%BE%A4%E5%98%B2",
           "source": "贴吧",
           "ranks": [
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时41分 ~ 07时09分]"
+          "appearance_count": 8,
+          "time_info": "[00时41分 ~ 11时37分]"
         }
       ]
     }
