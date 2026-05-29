@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-29T15:01:23.622848+08:00",
-  "total_titles_processed": 864,
+  "generated_at": "2026-05-29T18:52:45.077316+08:00",
+  "total_titles_processed": 1049,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "国家大基金领投DeepSeek，投前估值450亿美元",
@@ -18,6 +18,45 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时11分 ~ 10时59分]"
+        },
+        {
+          "title": "华为发表韬 (τ) 定律，实现晶体管密度与系统性能突破，是芯片制造领域另一个 deepseek 时刻吗？",
+          "url": "https://www.zhihu.com/question/2042260682780009473",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "18倍PS？Anthropic最新估值达9650亿美元，首超OpenAI！",
+          "url": "https://wallstreetcn.com/articles/3773389",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
+        },
+        {
+          "title": "OpenAI启动生物防御计划",
+          "url": "https://flash.jin10.com/detail/20260529181828076800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
         }
       ]
     },
