@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-30T12:52:59.394448+08:00",
-  "total_titles_processed": 708,
+  "generated_at": "2026-05-30T15:41:46.088885+08:00",
+  "total_titles_processed": 840,
   "failed_sources": [],
   "trends": [
     {
@@ -14,9 +14,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时52分 ~ 15时41分]"
         },
         {
           "title": "马斯克也拥抱C语言了",
