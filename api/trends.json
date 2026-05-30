@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-05-31T01:02:44.537644+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-05-31T03:11:27.510511+08:00",
+  "total_titles_processed": 368,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "为什么无论是 chatgpt 还是 deepseek 都会在 24 点游戏上表现的这么差？",
+          "url": "https://www.zhihu.com/question/2040472846393161206",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时11分"
+        }
+      ]
+    },
     {
       "keyword_group": "openai",
       "match_count": 1,
@@ -15,8 +32,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
+          "appearance_count": 2,
+          "time_info": "[01时02分 ~ 03时11分]"
         }
       ]
     },
@@ -29,11 +46,12 @@
           "url": "https://wallstreetcn.com/articles/3773436",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
+          "appearance_count": 2,
+          "time_info": "[01时02分 ~ 03时11分]"
         }
       ]
     }
