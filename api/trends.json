@@ -1,9 +1,7 @@
 {
-  "generated_at": "2026-05-30T18:00:58.838472+08:00",
-  "total_titles_processed": 994,
-  "failed_sources": [
-    "tieba"
-  ],
+  "generated_at": "2026-05-30T19:28:03.326257+08:00",
+  "total_titles_processed": 1102,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马斯克",
@@ -18,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时52分 ~ 18时00分]"
+          "appearance_count": 6,
+          "time_info": "[12时52分 ~ 19时28分]"
         },
         {
           "title": "马斯克也拥抱C语言了",
@@ -42,6 +40,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "华为发表韬 (τ) 定律，实现晶体管密度与系统性能突破，是芯片制造领域另一个 deepseek 时刻吗？",
+          "url": "https://www.zhihu.com/question/2042260682780009473",
+          "source": "知乎",
+          "ranks": [
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时37分 ~ 08时09分]"
+        },
+        {
+          "title": "为什么无论是 chatgpt 还是 deepseek 都会在 24 点游戏上表现的这么差？",
+          "url": "https://www.zhihu.com/question/2040472846393161206",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时27分 ~ 19时28分]"
         }
       ]
     },
@@ -76,24 +103,6 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "华为发表韬 (τ) 定律，实现晶体管密度与系统性能突破，是芯片制造领域另一个 deepseek 时刻吗？",
-          "url": "https://www.zhihu.com/question/2042260682780009473",
-          "source": "知乎",
-          "ranks": [
-            16,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时37分 ~ 08时09分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "豆包",
       "match_count": 1,
       "titles": [
@@ -102,11 +111,12 @@
           "url": "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%E5%8E%8B%E7%BC%A9%E8%AF%81%E4%BB%B6%E7%85%A7%E6%9C%89%E5%A4%9A%E7%A6%BB%E8%B0%B1&t=31&band_rank=17&Refer=top",
           "source": "微博",
           "ranks": [
-            17
+            17,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时59分 ~ 18时00分]"
+          "appearance_count": 4,
+          "time_info": "[17时59分 ~ 19时28分]"
         }
       ]
     }
