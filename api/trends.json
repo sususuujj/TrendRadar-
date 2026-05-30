@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-31T04:54:44.911119+08:00",
-  "total_titles_processed": 407,
+  "generated_at": "2026-05-31T06:01:17.342266+08:00",
+  "total_titles_processed": 435,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/2040472846393161206",
           "source": "知乎",
           "ranks": [
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时11分 ~ 04时54分]"
+          "appearance_count": 4,
+          "time_info": "[03时11分 ~ 06时01分]"
         }
       ]
     },
@@ -53,6 +54,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时02分 ~ 03时11分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "豆包",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "用豆包免费学英语的两个方法",
+          "url": "https://s.weibo.com/weibo?q=%E7%94%A8%E8%B1%86%E5%8C%85%E5%85%8D%E8%B4%B9%E5%AD%A6%E8%8B%B1%E8%AF%AD%E7%9A%84%E4%B8%A4%E4%B8%AA%E6%96%B9%E6%B3%95&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时00分 ~ 06时01分]"
         }
       ]
     }
