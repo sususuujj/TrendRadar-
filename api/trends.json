@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-05-30T08:09:22.064583+08:00",
-  "total_titles_processed": 496,
+  "generated_at": "2026-05-30T12:52:59.394448+08:00",
+  "total_titles_processed": 708,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "马斯克",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "蓝色起源火箭测试中爆炸，贝索斯“太空梦”受挫，马斯克：火箭就是这么难",
+          "url": "https://wallstreetcn.com/articles/3773436",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时52分"
+        },
+        {
+          "title": "马斯克也拥抱C语言了",
+          "url": "https://www.toutiao.com/trending/7645264070668455465/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时23分"
+        },
+        {
+          "title": "马斯克旗下太空探索公司SpaceX很对美国“金穹”反导系统卫星赢得40亿美元合同。",
+          "url": "https://wallstreetcn.com/livenews/3111614",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时23分"
+        }
+      ]
+    },
     {
       "keyword_group": "openai",
       "match_count": 2,
@@ -30,34 +69,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时23分 ~ 08时09分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "马斯克也拥抱C语言了",
-          "url": "https://www.toutiao.com/trending/7645264070668455465/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时23分"
-        },
-        {
-          "title": "马斯克旗下太空探索公司SpaceX很对美国“金穹”反导系统卫星赢得40亿美元合同。",
-          "url": "https://wallstreetcn.com/livenews/3111614",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时23分"
         }
       ]
     },
