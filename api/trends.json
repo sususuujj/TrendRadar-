@@ -1,7 +1,9 @@
 {
-  "generated_at": "2026-05-30T15:41:46.088885+08:00",
-  "total_titles_processed": 840,
-  "failed_sources": [],
+  "generated_at": "2026-05-30T18:00:58.838472+08:00",
+  "total_titles_processed": 994,
+  "failed_sources": [
+    "tieba"
+  ],
   "trends": [
     {
       "keyword_group": "马斯克",
@@ -12,11 +14,12 @@
           "url": "https://wallstreetcn.com/articles/3773436",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时52分 ~ 15时41分]"
+          "appearance_count": 4,
+          "time_info": "[12时52分 ~ 18时00分]"
         },
         {
           "title": "马斯克也拥抱C语言了",
@@ -87,6 +90,23 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时37分 ~ 08时09分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "豆包",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "豆包压缩证件照有多离谱",
+          "url": "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%E5%8E%8B%E7%BC%A9%E8%AF%81%E4%BB%B6%E7%85%A7%E6%9C%89%E5%A4%9A%E7%A6%BB%E8%B0%B1&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时59分 ~ 18时00分]"
         }
       ]
     }
