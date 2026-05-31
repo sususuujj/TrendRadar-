@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-31T18:14:30.865132+08:00",
-  "total_titles_processed": 965,
+  "generated_at": "2026-05-31T20:11:36.792627+08:00",
+  "total_titles_processed": 1070,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/2043802300246915002",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时14分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时14分 ~ 20时11分]"
         },
         {
           "title": "为什么无论是 chatgpt 还是 deepseek 都会在 24 点游戏上表现的这么差？",
