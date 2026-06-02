@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-02T16:28:22.563896+08:00",
-  "total_titles_processed": 912,
+  "generated_at": "2026-06-02T20:40:22.812948+08:00",
+  "total_titles_processed": 1124,
   "failed_sources": [],
   "trends": [
     {
@@ -43,26 +43,27 @@
           "time_info": "[01时35分 ~ 11时44分]"
         },
         {
-          "title": "豆包预计 6 月下旬正式收费，并于 Force 大会上更新相关功能，收费会对用户造成哪些影响？",
-          "url": "https://www.zhihu.com/question/2044897263168616422",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时44分 ~ 16时28分]"
-        },
-        {
           "title": "白嫖结束!豆包AI开始收费",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354786&amp;topic_name=%E7%99%BD%E5%AB%96%E7%BB%93%E6%9D%9F%21%E8%B1%86%E5%8C%85AI%E5%BC%80%E5%A7%8B%E6%94%B6%E8%B4%B9",
           "source": "贴吧",
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时28分 ~ 20时40分]"
+        },
+        {
+          "title": "豆包预计 6 月下旬正式收费，并于 Force 大会上更新相关功能，收费会对用户造成哪些影响？",
+          "url": "https://www.zhihu.com/question/2044897263168616422",
+          "source": "知乎",
+          "ranks": [
+            1,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时44分 ~ 20时40分]"
         },
         {
           "title": "豆包基础功能永久免费",
@@ -88,7 +89,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         },
@@ -118,7 +119,7 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "腾讯云：下调DeepSeek-V4系列模型价格，最高降幅97.5%",
@@ -127,9 +128,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
+        },
+        {
+          "title": "DeepSeek降价",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E9%99%8D%E4%BB%B7&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
         }
       ]
     },
