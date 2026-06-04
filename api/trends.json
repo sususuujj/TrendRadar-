@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-06-04T19:52:20.478461+08:00",
-  "total_titles_processed": 1105,
+  "generated_at": "2026-06-04T22:56:02.134253+08:00",
+  "total_titles_processed": 1268,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "豆包",
       "match_count": 6,
       "titles": [
+        {
+          "title": "网友称豆包误导老人断指泡生理盐水致终生残疾，这种情况下豆包要担责吗？手指受伤正确处理方法应该是怎样？",
+          "url": "https://www.zhihu.com/question/2045517452222493616",
+          "source": "知乎",
+          "ranks": [
+            7,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时19分 ~ 22时56分]"
+        },
         {
           "title": "豆包回应“收费”传闻",
           "url": "https://www.baidu.com/s?wd=%E8%B1%86%E5%8C%85%E5%9B%9E%E5%BA%94%E2%80%9C%E6%94%B6%E8%B4%B9%E2%80%9D%E4%BC%A0%E9%97%BB",
@@ -17,18 +29,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时19分 ~ 16时20分]"
-        },
-        {
-          "title": "网友称豆包误导老人断指泡生理盐水致终生残疾，这种情况下豆包要担责吗？手指受伤正确处理方法应该是怎样？",
-          "url": "https://www.zhihu.com/question/2045517452222493616",
-          "source": "知乎",
-          "ranks": [
-            7,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时19分 ~ 19时52分]"
         },
         {
           "title": "白嫖结束!豆包AI开始收费",
@@ -142,6 +142,23 @@
       ]
     },
     {
+      "keyword_group": "gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Gemini 美国豆包",
+          "url": "https://s.weibo.com/weibo?q=Gemini%20%E7%BE%8E%E5%9B%BD%E8%B1%86%E5%8C%85&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时55分 ~ 22时56分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "马斯克",
       "match_count": 1,
       "titles": [
@@ -154,8 +171,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时49分 ~ 19时52分]"
+          "appearance_count": 6,
+          "time_info": "[11时49分 ~ 22时56分]"
         }
       ]
     },
