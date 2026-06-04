@@ -1,8 +1,50 @@
 {
-  "generated_at": "2026-06-04T07:42:31.011259+08:00",
-  "total_titles_processed": 499,
+  "generated_at": "2026-06-04T11:49:20.270396+08:00",
+  "total_titles_processed": 712,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "豆包",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "白嫖结束!豆包AI开始收费",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354786&amp;topic_name=%E7%99%BD%E5%AB%96%E7%BB%93%E6%9D%9F%21%E8%B1%86%E5%8C%85AI%E5%BC%80%E5%A7%8B%E6%94%B6%E8%B4%B9",
+          "source": "贴吧",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时22分 ~ 11时49分]"
+        },
+        {
+          "title": "最信豆包的人出现了",
+          "url": "https://s.weibo.com/weibo?q=%E6%9C%80%E4%BF%A1%E8%B1%86%E5%8C%85%E7%9A%84%E4%BA%BA%E5%87%BA%E7%8E%B0%E4%BA%86&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26,
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时22分 ~ 07时42分]"
+        },
+        {
+          "title": "豆包全责,断指伤者落下残疾",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354845&amp;topic_name=%E8%B1%86%E5%8C%85%E5%85%A8%E8%B4%A3%2C%E6%96%AD%E6%8C%87%E4%BC%A4%E8%80%85%E8%90%BD%E4%B8%8B%E6%AE%8B%E7%96%BE",
+          "source": "贴吧",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时49分"
+        }
+      ]
+    },
     {
       "keyword_group": "DeepSeek",
       "match_count": 2,
@@ -57,39 +99,26 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
         }
       ]
     },
     {
-      "keyword_group": "豆包",
-      "match_count": 2,
+      "keyword_group": "马斯克",
+      "match_count": 1,
       "titles": [
         {
-          "title": "白嫖结束!豆包AI开始收费",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354786&amp;topic_name=%E7%99%BD%E5%AB%96%E7%BB%93%E6%9D%9F%21%E8%B1%86%E5%8C%85AI%E5%BC%80%E5%A7%8B%E6%94%B6%E8%B4%B9",
-          "source": "贴吧",
+          "title": "定了！6月12日SpaceX上市交易，发行价135美元，马斯克距\"万亿富翁\"只差一步",
+          "url": "https://wallstreetcn.com/articles/3773813",
+          "source": "华尔街见闻",
           "ranks": [
-            19
+            4
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时22分 ~ 07时42分]"
-        },
-        {
-          "title": "最信豆包的人出现了",
-          "url": "https://s.weibo.com/weibo?q=%E6%9C%80%E4%BF%A1%E8%B1%86%E5%8C%85%E7%9A%84%E4%BA%BA%E5%87%BA%E7%8E%B0%E4%BA%86&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26,
-            27,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时22分 ~ 07时42分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时49分"
         }
       ]
     }
