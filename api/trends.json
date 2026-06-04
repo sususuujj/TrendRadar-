@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-04T11:49:20.270396+08:00",
-  "total_titles_processed": 712,
+  "generated_at": "2026-06-04T16:20:29.493936+08:00",
+  "total_titles_processed": 922,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "豆包",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "豆包回应“收费”传闻",
+          "url": "https://www.baidu.com/s?wd=%E8%B1%86%E5%8C%85%E5%9B%9E%E5%BA%94%E2%80%9C%E6%94%B6%E8%B4%B9%E2%80%9D%E4%BC%A0%E9%97%BB",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时19分 ~ 16时20分]"
+        },
         {
           "title": "白嫖结束!豆包AI开始收费",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354786&amp;topic_name=%E7%99%BD%E5%AB%96%E7%BB%93%E6%9D%9F%21%E8%B1%86%E5%8C%85AI%E5%BC%80%E5%A7%8B%E6%94%B6%E8%B4%B9",
@@ -37,11 +48,34 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354845&amp;topic_name=%E8%B1%86%E5%8C%85%E5%85%A8%E8%B4%A3%2C%E6%96%AD%E6%8C%87%E4%BC%A4%E8%80%85%E8%90%BD%E4%B8%8B%E6%AE%8B%E7%96%BE",
           "source": "贴吧",
           "ranks": [
-            30
+            30,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时49分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时49分 ~ 16时20分]"
+        },
+        {
+          "title": "网友称豆包误导老人断指泡生理盐水致终生残疾，这种情况下豆包要担责吗？手指受伤正确处理方法应该是怎样？",
+          "url": "https://www.zhihu.com/question/2045517452222493616",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时19分 ~ 16时20分]"
+        },
+        {
+          "title": "豆包：计划推出专业版，搜索问答等日常功能将保持免费服务",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33301248",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时19分 ~ 16时20分]"
         }
       ]
     },
@@ -116,9 +150,26 @@
           "ranks": [
             4
           ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时49分 ~ 16时20分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "具身智能",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "工信部：面向沉浸式通信、工业制造、低空经济、具身智能、智慧海洋等6G潜在场景 因地制宜开展6G应用场景培育",
+          "url": "https://flash.jin10.com/detail/20260604154056787800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时49分"
+          "time_info": "16时20分"
         }
       ]
     }
