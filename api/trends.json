@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-05T01:45:51.679765+08:00",
-  "total_titles_processed": 307,
+  "generated_at": "2026-06-05T04:04:09.760637+08:00",
+  "total_titles_processed": 395,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时45分"
+          "appearance_count": 3,
+          "time_info": "[01时45分 ~ 04时04分]"
         },
         {
           "title": "豆包发布声明，称日常功能保持免费，将针对专业人群需求推出专业版，如何评价这一商业策略？会带来哪些影响？",
           "url": "https://www.zhihu.com/question/2045590595519735634",
           "source": "知乎",
           "ranks": [
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时45分"
+          "appearance_count": 3,
+          "time_info": "[01时45分 ~ 04时04分]"
         }
       ]
     },
@@ -43,8 +44,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时45分"
+          "appearance_count": 3,
+          "time_info": "[01时45分 ~ 04时04分]"
         }
       ]
     }
