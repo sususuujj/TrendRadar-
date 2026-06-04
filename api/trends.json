@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-04T16:20:29.493936+08:00",
-  "total_titles_processed": 922,
+  "generated_at": "2026-06-04T19:52:20.478461+08:00",
+  "total_titles_processed": 1105,
   "failed_sources": [],
   "trends": [
     {
@@ -17,6 +17,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时19分 ~ 16时20分]"
+        },
+        {
+          "title": "网友称豆包误导老人断指泡生理盐水致终生残疾，这种情况下豆包要担责吗？手指受伤正确处理方法应该是怎样？",
+          "url": "https://www.zhihu.com/question/2045517452222493616",
+          "source": "知乎",
+          "ranks": [
+            7,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时19分 ~ 19时52分]"
         },
         {
           "title": "白嫖结束!豆包AI开始收费",
@@ -56,26 +68,16 @@
           "time_info": "[11时49分 ~ 16时20分]"
         },
         {
-          "title": "网友称豆包误导老人断指泡生理盐水致终生残疾，这种情况下豆包要担责吗？手指受伤正确处理方法应该是怎样？",
-          "url": "https://www.zhihu.com/question/2045517452222493616",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时19分 ~ 16时20分]"
-        },
-        {
           "title": "豆包：计划推出专业版，搜索问答等日常功能将保持免费服务",
           "url": "https://m.thepaper.cn/newsDetail_forward_33301248",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            18,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时19分 ~ 16时20分]"
+          "appearance_count": 3,
+          "time_info": "[16时19分 ~ 19时52分]"
         }
       ]
     },
@@ -148,11 +150,12 @@
           "url": "https://wallstreetcn.com/articles/3773813",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时49分 ~ 16时20分]"
+          "appearance_count": 4,
+          "time_info": "[11时49分 ~ 19时52分]"
         }
       ]
     },
@@ -167,7 +170,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时20分"
         }
