@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-05T17:43:50.295770+08:00",
-  "total_titles_processed": 1042,
+  "generated_at": "2026-06-05T20:36:27.936263+08:00",
+  "total_titles_processed": 1206,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "豆包",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "网友称豆包误导老人断指泡生理盐水致终生残疾，这种情况下豆包要担责吗？手指受伤正确处理方法应该是怎样？",
@@ -21,6 +21,17 @@
           "time_info": "[01时45分 ~ 08时06分]"
         },
         {
+          "title": "高考期间有必要禁豆包吗",
+          "url": "https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E6%9C%9F%E9%97%B4%E6%9C%89%E5%BF%85%E8%A6%81%E7%A6%81%E8%B1%86%E5%8C%85%E5%90%97&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
+        },
+        {
           "title": "豆包发布声明，称日常功能保持免费，将针对专业人群需求推出专业版，如何评价这一商业策略？会带来哪些影响？",
           "url": "https://www.zhihu.com/question/2045590595519735634",
           "source": "知乎",
@@ -32,6 +43,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时45分 ~ 08时06分]"
+        },
+        {
+          "title": "豆包误判蘑菇致用户中毒 高管回应",
+          "url": "https://www.baidu.com/s?wd=%E8%B1%86%E5%8C%85%E8%AF%AF%E5%88%A4%E8%98%91%E8%8F%87%E8%87%B4%E7%94%A8%E6%88%B7%E4%B8%AD%E6%AF%92+%E9%AB%98%E7%AE%A1%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时43分 ~ 20时36分]"
         },
         {
           "title": "豆包首次付费后月活减少610万",
@@ -46,37 +69,28 @@
           "time_info": "[13时15分 ~ 17时43分]"
         },
         {
-          "title": "豆包误判蘑菇致用户中毒 高管回应",
-          "url": "https://www.baidu.com/s?wd=%E8%B1%86%E5%8C%85%E8%AF%AF%E5%88%A4%E8%98%91%E8%8F%87%E8%87%B4%E7%94%A8%E6%88%B7%E4%B8%AD%E6%AF%92+%E9%AB%98%E7%AE%A1%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时43分"
-        },
-        {
           "title": "豆包首次推出订阅选项后，月活跃用户减少近 610 万，怎样看待这一影响？豆包的商业化尝试过早了吗？",
           "url": "https://www.zhihu.com/question/2046216142453040638",
           "source": "知乎",
           "ranks": [
-            16
+            16,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时43分 ~ 20时36分]"
         },
         {
           "title": "抖音副总裁回应豆包误判蘑菇",
           "url": "https://s.weibo.com/weibo?q=%23%E6%8A%96%E9%9F%B3%E5%89%AF%E6%80%BB%E8%A3%81%E5%9B%9E%E5%BA%94%E8%B1%86%E5%8C%85%E8%AF%AF%E5%88%A4%E8%98%91%E8%8F%87%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
           "ranks": [
-            20
+            20,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时43分 ~ 20时36分]"
         },
         {
           "title": "网友模仿豆包火了",
@@ -161,11 +175,12 @@
           "url": "https://wallstreetcn.com/articles/3773921",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时43分 ~ 20时36分]"
         },
         {
           "title": "微软CEO深度访谈：过度依赖OpenAI曾让公司陷入被动，软件“未死”但传统SaaS已到转折点",
@@ -174,9 +189,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时43分 ~ 20时36分]"
         },
         {
           "title": "报道：美国就收购OpenAI等多家人工智能公司股份举行了初步讨论",
