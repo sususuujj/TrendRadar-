@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-06T03:52:37.149695+08:00",
-  "total_titles_processed": 382,
+  "generated_at": "2026-06-06T05:25:15.269975+08:00",
+  "total_titles_processed": 454,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/2046216142453040638",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时53分 ~ 03时52分]"
+          "appearance_count": 4,
+          "time_info": "[01时53分 ~ 05时25分]"
         },
         {
           "title": "豆包误判蘑菇致用户中毒 高管回应",
@@ -43,8 +44,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时53分 ~ 03时52分]"
+          "appearance_count": 4,
+          "time_info": "[01时53分 ~ 05时25分]"
         }
       ]
     }
