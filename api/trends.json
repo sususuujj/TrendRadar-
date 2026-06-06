@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-07T03:20:15.173740+08:00",
-  "total_titles_processed": 375,
+  "generated_at": "2026-06-07T05:03:08.137686+08:00",
+  "total_titles_processed": 416,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时12分 ~ 03时20分]"
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 05时03分]"
         },
         {
           "title": "阿斯麦：马斯克将出席本公司闭门技术研讨会，讨论Terafab项目",
@@ -24,11 +24,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            10
+            10,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 03时20分]"
+          "appearance_count": 3,
+          "time_info": "[01时12分 ~ 05时03分]"
         },
         {
           "title": "阿斯麦(ASML.O)：埃隆·马斯克将在公司虚拟技术会议上发言，马斯克将讨论TERAFAB项目、人工智能愿景及芯片制造。",
@@ -56,8 +57,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时12分 ~ 03时20分]"
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 05时03分]"
         }
       ]
     },
@@ -73,8 +74,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时12分 ~ 03时20分]"
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 05时03分]"
         }
       ]
     }
