@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-06T19:25:21.330389+08:00",
-  "total_titles_processed": 1176,
+  "generated_at": "2026-06-06T21:29:00.475092+08:00",
+  "total_titles_processed": 1300,
   "failed_sources": [],
   "trends": [
     {
@@ -21,6 +21,18 @@
           "time_info": "[01时53分 ~ 07时07分]"
         },
         {
+          "title": "豆包认错蘑菇,高管:仅供参考",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354925&amp;topic_name=%E8%B1%86%E5%8C%85%E8%AE%A4%E9%94%99%E8%98%91%E8%8F%87%2C%E9%AB%98%E7%AE%A1%3A%E4%BB%85%E4%BE%9B%E5%8F%82%E8%80%83",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时25分 ~ 21时29分]"
+        },
+        {
           "title": "抖音副总裁回应豆包误判蘑菇致用户中毒，称 AI 回应仅供参考，如何看待这一回应？这件事豆包该背锅吗？",
           "url": "https://www.zhihu.com/question/2046268823192302620",
           "source": "知乎",
@@ -34,24 +46,13 @@
           "time_info": "[10时55分 ~ 19时25分]"
         },
         {
-          "title": "豆包认错蘑菇,高管:仅供参考",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354925&amp;topic_name=%E8%B1%86%E5%8C%85%E8%AE%A4%E9%94%99%E8%98%91%E8%8F%87%2C%E9%AB%98%E7%AE%A1%3A%E4%BB%85%E4%BE%9B%E5%8F%82%E8%80%83",
-          "source": "贴吧",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时25分"
-        },
-        {
           "title": "李荣浩跟豆包说啥了",
           "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%8D%A3%E6%B5%A9%E8%B7%9F%E8%B1%86%E5%8C%85%E8%AF%B4%E5%95%A5%E4%BA%86%23&t=31&band_rank=23&Refer=top",
           "source": "微博",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
         },
@@ -77,11 +78,12 @@
           "url": "https://news.ifeng.com/c/8tjmsxXSCQI",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时25分 ~ 19时25分]"
+          "appearance_count": 4,
+          "time_info": "[17时25分 ~ 21时29分]"
         },
         {
           "title": "美国总统特朗普：马斯克80%的时候很聪明，20%的时候很糟糕。",
@@ -112,7 +114,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
         }
@@ -123,6 +125,20 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "下一个是OpenAI？特朗普证实：政府考虑入股人工智能公司",
+          "url": "https://www.cls.cn/detail/2392488",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时31分 ~ 21时29分]"
+        },
+        {
           "title": "报道：美国政府拟收购AI公司股份并向全民派息，OpenAI Altman是主要推手",
           "url": "https://wallstreetcn.com/articles/3773921",
           "source": "华尔街见闻",
@@ -132,19 +148,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时53分 ~ 07时07分]"
-        },
-        {
-          "title": "下一个是OpenAI？特朗普证实：政府考虑入股人工智能公司",
-          "url": "https://www.cls.cn/detail/2392488",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时31分 ~ 19时25分]"
         }
       ]
     }
