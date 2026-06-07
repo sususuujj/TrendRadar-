@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-07T18:28:48.480655+08:00",
-  "total_titles_processed": 953,
+  "generated_at": "2026-06-07T20:20:34.131440+08:00",
+  "total_titles_processed": 1079,
   "failed_sources": [],
   "trends": [
     {
@@ -109,8 +109,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时53分 ~ 18时28分]"
+          "appearance_count": 4,
+          "time_info": "[15时53分 ~ 20时20分]"
         },
         {
           "title": "OpenAI计划对ChatGPT进行发布以来最大规模改版",
@@ -118,11 +118,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            14
+            14,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时54分 ~ 18时28分]"
+          "appearance_count": 3,
+          "time_info": "[15时54分 ~ 20时20分]"
         }
       ]
     },
@@ -138,11 +139,12 @@
             4,
             6,
             10,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时12分 ~ 18时28分]"
+          "appearance_count": 12,
+          "time_info": "[01时12分 ~ 20时20分]"
         },
         {
           "title": "高考 豆包",
