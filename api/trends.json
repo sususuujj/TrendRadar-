@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-06-08T00:13:52.713739+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-06-08T02:03:43.174760+08:00",
+  "total_titles_processed": 398,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "openai",
       "match_count": 2,
       "titles": [
+        {
+          "title": "SpaceX 、 OpenAI 、 Anthropic 扎堆天价 IPO，水分有多大？美股牛市是否临近尾声？",
+          "url": "https://www.zhihu.com/question/2046639064917586455",
+          "source": "知乎",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时13分 ~ 02时03分]"
+        },
         {
           "title": "\"聊天已死\"！ChatGPT最大改版来了，OpenAI要造\"超级应用\"",
           "url": "https://wallstreetcn.com/articles/3774032",
@@ -15,19 +27,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时13分"
-        },
-        {
-          "title": "SpaceX 、 OpenAI 、 Anthropic 扎堆天价 IPO，水分有多大？美股牛市是否临近尾声？",
-          "url": "https://www.zhihu.com/question/2046639064917586455",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时13分"
+          "appearance_count": 2,
+          "time_info": "[00时13分 ~ 02时03分]"
         }
       ]
     },
@@ -43,8 +44,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时13分"
+          "appearance_count": 2,
+          "time_info": "[00时13分 ~ 02时03分]"
         }
       ]
     }
