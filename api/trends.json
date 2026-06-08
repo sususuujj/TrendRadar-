@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-08T18:50:25.964373+08:00",
-  "total_titles_processed": 1085,
+  "generated_at": "2026-06-08T22:47:39.138786+08:00",
+  "total_titles_processed": 1286,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "source": "贴吧",
           "ranks": [
             4,
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时30分 ~ 18时50分]"
+          "appearance_count": 4,
+          "time_info": "[13时30分 ~ 22时47分]"
         },
         {
           "title": "Doinb用豆包玩英雄联盟",
@@ -38,7 +39,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时50分"
         }
@@ -64,11 +65,12 @@
           "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%AE%8C%E6%88%90%E9%A6%96%E8%BD%AE%E5%A4%96%E9%83%A8%E8%9E%8D%E8%B5%84&t=31&band_rank=20&Refer=top",
           "source": "微博",
           "ranks": [
-            20
+            20,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时50分 ~ 22时47分]"
         }
       ]
     },
@@ -114,11 +116,12 @@
           "source": "贴吧",
           "ranks": [
             8,
-            16
+            16,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时30分 ~ 18时50分]"
+          "appearance_count": 4,
+          "time_info": "[13时30分 ~ 22时47分]"
         }
       ]
     },
@@ -133,7 +136,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时50分"
         }
