@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-09T08:05:18.108558+08:00",
-  "total_titles_processed": 582,
+  "generated_at": "2026-06-09T13:04:31.462660+08:00",
+  "total_titles_processed": 817,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "openai",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "OpenAI计划在首次公开募股（IPO）之前启动员工/股东股票要约收购案（Tender Sale）。 据知情人士透露，该公司将在未来几周内正式举行该股票要约收购（Tender）。（彭博）",
@@ -40,6 +40,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时26分"
+        },
+        {
+          "title": "OpenAI提交上市申请，“三大超级IPO”考验美股承受力",
+          "url": "https://wallstreetcn.com/articles/3774156",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时04分"
+        },
+        {
+          "title": "OpenAI官宣已递交IPO申请文件 AI巨头资本大战或全面打响",
+          "url": "https://www.cls.cn/detail/2394212",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时04分"
+        },
+        {
+          "title": "以总理确认暂停袭击伊朗 OpenAI递交上市申请文件 | 环球市场",
+          "url": "https://www.cls.cn/detail/2394236",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时04分"
         },
         {
           "title": "OpenAI自曝已秘密提交IPO申请",
@@ -99,6 +132,69 @@
       ]
     },
     {
+      "keyword_group": "马斯克",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "“真正的瓶颈在于芯片制造能力”，马斯克唱多美光：目前产能远不及芯片实际需求",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33333635",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时51分 ~ 13时04分]"
+        },
+        {
+          "title": "马斯克SpaceX拒绝中国投资者",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354956&amp;topic_name=%E9%A9%AC%E6%96%AF%E5%85%8BSpaceX%E6%8B%92%E7%BB%9D%E4%B8%AD%E5%9B%BD%E6%8A%95%E8%B5%84%E8%80%85",
+          "source": "贴吧",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时51分 ~ 08时05分]"
+        },
+        {
+          "title": "洛杉矶市长选情逆转，特朗普、马斯克发声质疑",
+          "url": "https://news.ifeng.com/c/8toKe0HelhI",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时04分"
+        },
+        {
+          "title": "马斯克展示AI数据中心卫星的更多细节 剑指太空算力网络",
+          "url": "https://wallstreetcn.com/livenews/3116394",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时05分"
+        },
+        {
+          "title": "亲自为SpaceX上市预热！马斯克曝光AI卫星更多细节",
+          "url": "https://www.cls.cn/detail/2394326",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时04分"
+        }
+      ]
+    },
+    {
       "keyword_group": "gemini",
       "match_count": 3,
       "titles": [
@@ -118,11 +214,12 @@
           "url": "https://www.zhihu.com/question/2047324900080051711",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时05分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时05分 ~ 13时04分]"
         },
         {
           "title": "苹果“AI”由谷歌Gemini提供技术，可在云端服务器运行",
@@ -138,46 +235,6 @@
       ]
     },
     {
-      "keyword_group": "马斯克",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "“真正的瓶颈在于芯片制造能力”，马斯克唱多美光：目前产能远不及芯片实际需求",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33333635",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时51分 ~ 08时05分]"
-        },
-        {
-          "title": "马斯克SpaceX拒绝中国投资者",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354956&amp;topic_name=%E9%A9%AC%E6%96%AF%E5%85%8BSpaceX%E6%8B%92%E7%BB%9D%E4%B8%AD%E5%9B%BD%E6%8A%95%E8%B5%84%E8%80%85",
-          "source": "贴吧",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时51分 ~ 08时05分]"
-        },
-        {
-          "title": "马斯克展示AI数据中心卫星的更多细节 剑指太空算力网络",
-          "url": "https://wallstreetcn.com/livenews/3116394",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时05分"
-        }
-      ]
-    },
-    {
       "keyword_group": "豆包",
       "match_count": 1,
       "titles": [
@@ -186,11 +243,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354960&amp;topic_name=%E8%BF%BD%E5%A6%B9%E4%B8%8D%E5%BC%80%E5%8F%A3%2C%E8%B1%86%E5%8C%85%E5%8C%96%E8%BA%AB%E4%BB%A3%E8%81%8A%E4%BE%A0",
           "source": "贴吧",
           "ranks": [
-            15
+            15,
+            23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时51分 ~ 08时05分]"
+          "appearance_count": 7,
+          "time_info": "[01时51分 ~ 13时04分]"
         }
       ]
     }
