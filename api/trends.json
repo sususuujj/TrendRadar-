@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-09T20:36:37.198812+08:00",
-  "total_titles_processed": 1202,
+  "generated_at": "2026-06-09T23:54:17.192294+08:00",
+  "total_titles_processed": 1377,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时04分 ~ 20时36分]"
+          "appearance_count": 6,
+          "time_info": "[13时04分 ~ 23时54分]"
         },
         {
           "title": "OpenAI计划在首次公开募股（IPO）之前启动员工/股东股票要约收购案（Tender Sale）。 据知情人士透露，该公司将在未来几周内正式举行该股票要约收购（Tender）。（彭博）",
