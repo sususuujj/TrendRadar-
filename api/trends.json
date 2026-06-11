@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-11T16:45:43.266347+08:00",
-  "total_titles_processed": 1042,
+  "generated_at": "2026-06-11T20:45:18.006312+08:00",
+  "total_titles_processed": 1230,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时45分"
         },
@@ -78,6 +78,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek为何发力Agent",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E4%B8%BA%E4%BD%95%E5%8F%91%E5%8A%9BAgent%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
         }
       ]
     },
