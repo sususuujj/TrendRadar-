@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-12T13:48:26.760005+08:00",
-  "total_titles_processed": 882,
+  "generated_at": "2026-06-12T18:09:14.761079+08:00",
+  "total_titles_processed": 1100,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马斯克",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "特斯拉 FSD 中国山区挂壁公路实测爆火，马斯克转发，视频播放量破 4700 万，这种场景测试有多大参考意义？",
@@ -21,13 +21,24 @@
           "time_info": "[03时35分 ~ 08时19分]"
         },
         {
+          "title": "比IPO定价高22%！加密市场提前押注SpaceX估值2.2万亿，马斯克概念再现疯狂溢价",
+          "url": "https://wallstreetcn.com/articles/3774465",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时08分 ~ 18时09分]"
+        },
+        {
           "title": "如何评价 SpaceX IPO 创纪录融资 750 亿美元，马斯克成首位万亿富翁？",
           "url": "https://www.zhihu.com/question/2048672745810916944",
           "source": "知乎",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时48分"
         },
@@ -60,7 +71,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时48分"
         }
@@ -112,9 +123,26 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "我们真的需要又一个 DeepSeek V5 吗？",
+          "url": "https://www.zhihu.com/question/2031303606524186735",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时08分 ~ 18时09分]"
         }
       ]
     },
@@ -127,11 +155,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355099&amp;topic_name=%E7%A5%9E%E8%B1%86%E5%8C%85%E9%94%90%E8%AF%84C%E7%BD%97%E6%98%AF%E7%9F%AD%E6%9D%BF",
           "source": "贴吧",
           "ranks": [
-            4
+            4,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时48分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时48分 ~ 18时09分]"
         }
       ]
     },
@@ -146,7 +175,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时48分"
         }
