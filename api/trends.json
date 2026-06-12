@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-13T01:37:30.747403+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-06-13T04:08:42.687368+08:00",
+  "total_titles_processed": 414,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时37分"
+          "appearance_count": 2,
+          "time_info": "[01时37分 ~ 04时08分]"
         },
         {
           "title": "美国参议院民主党成员Warren要求实施财富税，此前SpaceX美国IPO让马斯克成为人类第一位万亿美元富豪。",
@@ -60,8 +60,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时37分"
+          "appearance_count": 2,
+          "time_info": "[01时37分 ~ 04时08分]"
         }
       ]
     }
