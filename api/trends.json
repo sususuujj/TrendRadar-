@@ -1,142 +1,33 @@
 {
-  "generated_at": "2026-06-12T22:10:13.499940+08:00",
-  "total_titles_processed": 1285,
+  "generated_at": "2026-06-13T01:37:30.747403+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马斯克",
-      "match_count": 7,
+      "match_count": 2,
       "titles": [
         {
-          "title": "特斯拉 FSD 中国山区挂壁公路实测爆火，马斯克转发，视频播放量破 4700 万，这种场景测试有多大参考意义？",
-          "url": "https://www.zhihu.com/question/2048159787817375467",
-          "source": "知乎",
-          "ranks": [
-            10,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时35分 ~ 08时19分]"
-        },
-        {
-          "title": "比IPO定价高22%！加密市场提前押注SpaceX估值2.2万亿，马斯克概念再现疯狂溢价",
-          "url": "https://wallstreetcn.com/articles/3774465",
+          "title": "今晚，SpaceX历史性IPO：马斯克“信仰溢价”迎来资本公投！",
+          "url": "https://wallstreetcn.com/articles/3774523",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时08分 ~ 18时09分]"
-        },
-        {
-          "title": "吴晓波：马斯克“造神运动”背后",
-          "url": "https://www.toutiao.com/trending/7649371811609002025/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时09分 ~ 22时10分]"
-        },
-        {
-          "title": "如何评价 SpaceX IPO 创纪录融资 750 亿美元，马斯克成首位万亿富翁？",
-          "url": "https://www.zhihu.com/question/2048672745810916944",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时48分"
+          "time_info": "01时37分"
         },
         {
-          "title": "Founders Fund（马斯克长期伙伴Peter Thiel主导的风投公司）与Andreessen Horowitz有望从SpaceX美国IPO获得创历史纪录的回报。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3118397",
+          "title": "美国参议院民主党成员Warren要求实施财富税，此前SpaceX美国IPO让马斯克成为人类第一位万亿美元富豪。",
+          "url": "https://wallstreetcn.com/livenews/3118995",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
-          "title": "伊朗正在评估将马斯克旗下企业纳入军事目标清单，其中包括SpaceX",
-          "url": "https://wallstreetcn.com/livenews/3118294",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
-        },
-        {
-          "title": "SpaceX IPO前夕，马斯克向阿斯麦员工发表演讲，推进芯片制造计划",
-          "url": "https://wallstreetcn.com/livenews/3118590",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时48分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "openai",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "补贴→Token计费→降价！OpenAI打响价格战，Token经济学拐点将至？",
-          "url": "https://wallstreetcn.com/articles/3774400",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 13时48分]"
-        },
-        {
-          "title": "OpenAI将收购Ona 强化Codex代理能力",
-          "url": "https://flash.jin10.com/detail/20260612003612955800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
-        },
-        {
-          "title": "据CNBC：OpenAI将收购Ona，以增强其人工智能编程助手Codex的能力。",
-          "url": "https://flash.jin10.com/detail/20260612003327546800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
-        },
-        {
-          "title": "瞄准AI代理赛道 OpenAI收购云端平台强化Codex竞争力",
-          "url": "https://www.cls.cn/detail/2397742",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时48分"
+          "time_info": "01时37分"
         }
       ]
     },
@@ -152,25 +43,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时08分 ~ 22时10分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "千问",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "世界杯揭幕赛前记者实测多家 AI，多数倾向墨西哥胜，千问将红牌都预测中，如何评价 AI 在赛事预测中表现？",
-          "url": "https://www.zhihu.com/question/2048790626066510507",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时09分 ~ 22时10分]"
+          "appearance_count": 1,
+          "time_info": "01时37分"
         }
       ]
     },
@@ -183,30 +57,11 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355099&amp;topic_name=%E7%A5%9E%E8%B1%86%E5%8C%85%E9%94%90%E8%AF%84C%E7%BD%97%E6%98%AF%E7%9F%AD%E6%9D%BF",
           "source": "贴吧",
           "ranks": [
-            4,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时48分 ~ 22时10分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "具身智能",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "优必选携手沐曦股份共研具身智能端侧芯片",
-          "url": "https://wallstreetcn.com/livenews/3118567",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时48分"
+          "time_info": "01时37分"
         }
       ]
     }
