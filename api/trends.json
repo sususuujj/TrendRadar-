@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-14T01:21:44.443945+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-14T03:23:25.889425+08:00",
+  "total_titles_processed": 351,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时21分"
+          "appearance_count": 2,
+          "time_info": "[01时21分 ~ 03时23分]"
         },
         {
           "title": "全球首位万亿美元级别富豪，马斯克=7个巴菲特！美民主党呼吁征收富人税",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时21分"
+          "appearance_count": 2,
+          "time_info": "[01时21分 ~ 03时23分]"
         },
         {
           "title": "【早报】5月金融数据出炉；马斯克成万亿美元富豪",
@@ -37,8 +37,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时21分"
+          "appearance_count": 2,
+          "time_info": "[01时21分 ~ 03时23分]"
         },
         {
           "title": "联手打造太空算力？SpaceX刚上市，马斯克就喊话黄仁勋：合作升级！",
@@ -48,30 +48,32 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时21分"
-        },
-        {
-          "title": "马斯克成万亿富豪不值得庆祝？美议员抨击税制不公要求对富人征税",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33374147",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时21分"
+          "appearance_count": 2,
+          "time_info": "[01时21分 ~ 03时23分]"
         },
         {
           "title": "万亿富豪马斯克的“冰与火”：AI卫星要上天 地面算力却“卡了壳”",
           "url": "https://www.cls.cn/detail/2399065",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时21分"
+          "appearance_count": 2,
+          "time_info": "[01时21分 ~ 03时23分]"
+        },
+        {
+          "title": "马斯克成万亿富豪不值得庆祝？美议员抨击税制不公要求对富人征税",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33374147",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时21分 ~ 03时23分]"
         }
       ]
     },
@@ -84,11 +86,12 @@
           "url": "https://wallstreetcn.com/articles/3774577",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时21分"
+          "appearance_count": 2,
+          "time_info": "[01时21分 ~ 03时23分]"
         }
       ]
     },
@@ -104,8 +107,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时21分"
+          "appearance_count": 2,
+          "time_info": "[01时21分 ~ 03时23分]"
         }
       ]
     }
