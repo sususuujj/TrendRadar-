@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-14T05:14:46.807716+08:00",
-  "total_titles_processed": 392,
+  "generated_at": "2026-06-14T07:03:42.124129+08:00",
+  "total_titles_processed": 430,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33333532",
           "source": "澎湃新闻",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 05时14分]"
+          "appearance_count": 4,
+          "time_info": "[01时21分 ~ 07时03分]"
         },
         {
           "title": "全球首位万亿美元级别富豪，马斯克=7个巴菲特！美民主党呼吁征收富人税",
@@ -37,8 +38,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 05时14分]"
+          "appearance_count": 4,
+          "time_info": "[01时21分 ~ 07时03分]"
         },
         {
           "title": "联手打造太空算力？SpaceX刚上市，马斯克就喊话黄仁勋：合作升级！",
@@ -49,8 +50,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 05时14分]"
+          "appearance_count": 4,
+          "time_info": "[01时21分 ~ 07时03分]"
         },
         {
           "title": "万亿富豪马斯克的“冰与火”：AI卫星要上天 地面算力却“卡了壳”",
@@ -58,11 +59,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 05时14分]"
+          "appearance_count": 4,
+          "time_info": "[01时21分 ~ 07时03分]"
         },
         {
           "title": "马斯克成万亿富豪不值得庆祝？美议员抨击税制不公要求对富人征税",
@@ -73,8 +75,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 05时14分]"
+          "appearance_count": 4,
+          "time_info": "[01时21分 ~ 07时03分]"
         },
         {
           "title": "很难赌马斯克会输！散户一边骂贵一边疯抢SpaceX，但绝大多数不打算长期持股",
@@ -83,7 +85,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
         }
@@ -103,8 +105,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 05时14分]"
+          "appearance_count": 4,
+          "time_info": "[01时21分 ~ 07时03分]"
         }
       ]
     },
@@ -117,11 +119,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355099&amp;topic_name=%E7%A5%9E%E8%B1%86%E5%8C%85%E9%94%90%E8%AF%84C%E7%BD%97%E6%98%AF%E7%9F%AD%E6%9D%BF",
           "source": "贴吧",
           "ranks": [
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 05时14分]"
+          "appearance_count": 4,
+          "time_info": "[01时21分 ~ 07时03分]"
         }
       ]
     }
