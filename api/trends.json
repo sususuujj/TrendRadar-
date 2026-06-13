@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-14T03:23:25.889425+08:00",
-  "total_titles_processed": 351,
+  "generated_at": "2026-06-14T05:14:46.807716+08:00",
+  "total_titles_processed": 392,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马斯克",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "70年首富榜背后的财富密码：为什么首位万亿富豪是马斯克",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 03时23分]"
+          "appearance_count": 3,
+          "time_info": "[01时21分 ~ 05时14分]"
         },
         {
           "title": "全球首位万亿美元级别富豪，马斯克=7个巴菲特！美民主党呼吁征收富人税",
@@ -37,19 +37,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 03时23分]"
+          "appearance_count": 3,
+          "time_info": "[01时21分 ~ 05时14分]"
         },
         {
           "title": "联手打造太空算力？SpaceX刚上市，马斯克就喊话黄仁勋：合作升级！",
           "url": "https://wallstreetcn.com/articles/3774568",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 03时23分]"
+          "appearance_count": 3,
+          "time_info": "[01时21分 ~ 05时14分]"
         },
         {
           "title": "万亿富豪马斯克的“冰与火”：AI卫星要上天 地面算力却“卡了壳”",
@@ -60,8 +61,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 03时23分]"
+          "appearance_count": 3,
+          "time_info": "[01时21分 ~ 05时14分]"
         },
         {
           "title": "马斯克成万亿富豪不值得庆祝？美议员抨击税制不公要求对富人征税",
@@ -72,8 +73,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 03时23分]"
+          "appearance_count": 3,
+          "time_info": "[01时21分 ~ 05时14分]"
+        },
+        {
+          "title": "很难赌马斯克会输！散户一边骂贵一边疯抢SpaceX，但绝大多数不打算长期持股",
+          "url": "https://wallstreetcn.com/articles/3774560",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
         }
       ]
     },
@@ -87,11 +99,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 03时23分]"
+          "appearance_count": 3,
+          "time_info": "[01时21分 ~ 05时14分]"
         }
       ]
     },
@@ -107,8 +120,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 03时23分]"
+          "appearance_count": 3,
+          "time_info": "[01时21分 ~ 05时14分]"
         }
       ]
     }
