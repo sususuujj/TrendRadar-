@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-13T08:19:40.034378+08:00",
-  "total_titles_processed": 574,
+  "generated_at": "2026-06-13T13:20:37.211976+08:00",
+  "total_titles_processed": 781,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马斯克",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "今晚，SpaceX历史性IPO：马斯克“信仰溢价”迎来资本公投！",
@@ -14,11 +14,23 @@
           "ranks": [
             10,
             8,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时37分 ~ 08时19分]"
+          "appearance_count": 5,
+          "time_info": "[01时37分 ~ 13时20分]"
+        },
+        {
+          "title": "【早报】5月金融数据出炉；马斯克成万亿美元富豪",
+          "url": "https://www.cls.cn/detail/2398924",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
         },
         {
           "title": "SpaceX美国IPO要点总结：马斯克的财富相当于七个巴菲特",
@@ -37,11 +49,34 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33369933",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时19分 ~ 13时20分]"
+        },
+        {
+          "title": "70年首富榜背后的财富密码：为什么首位万亿富豪是马斯克",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33333532",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时19分"
+          "time_info": "13时20分"
+        },
+        {
+          "title": "一周热榜精选：美伊达成和平协议文本？SPCX涨19%马斯克成万亿富豪",
+          "url": "https://flash.jin10.com/detail/20260613090819670800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
         },
         {
           "title": "美国参议院民主党成员Warren要求实施财富税，此前SpaceX美国IPO让马斯克成为人类第一位万亿美元富豪。",
@@ -61,7 +96,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时19分"
         }
@@ -93,11 +128,12 @@
           "url": "https://wallstreetcn.com/livenews/3119103",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时19分 ~ 13时20分]"
         }
       ]
     },
@@ -111,11 +147,29 @@
           "source": "贴吧",
           "ranks": [
             13,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时37分 ~ 08时19分]"
+          "appearance_count": 5,
+          "time_info": "[01时37分 ~ 13时20分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "具身智能",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "具身智能行业5月融资额环比降近六成",
+          "url": "https://wallstreetcn.com/livenews/3119108",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
         }
       ]
     }
