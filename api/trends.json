@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-14T19:29:51.882567+08:00",
-  "total_titles_processed": 930,
+  "generated_at": "2026-06-14T21:59:39.987261+08:00",
+  "total_titles_processed": 1083,
   "failed_sources": [],
   "trends": [
     {
@@ -18,6 +18,21 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时21分 ~ 07时03分]"
+        },
+        {
+          "title": "万亿富豪马斯克的“冰与火”：AI卫星要上天 地面算力却“卡了壳”",
+          "url": "https://www.cls.cn/detail/2399065",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            9,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时21分 ~ 21时59分]"
         },
         {
           "title": "马斯克成万亿富豪不值得庆祝？美议员抨击税制不公要求对富人征税",
@@ -41,20 +56,6 @@
             9,
             11,
             12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时21分 ~ 19时29分]"
-        },
-        {
-          "title": "万亿富豪马斯克的“冰与火”：AI卫星要上天 地面算力却“卡了壳”",
-          "url": "https://www.cls.cn/detail/2399065",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10,
-            9,
-            11
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -116,11 +117,12 @@
           "url": "https://www.cls.cn/detail/2399163",
           "source": "财联社热门",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时52分 ~ 19时29分]"
+          "appearance_count": 4,
+          "time_info": "[11时52分 ~ 21时59分]"
         },
         {
           "title": "SpaceX上市幕后大戏：抢跑OpenAI、疯狂并购装资产，华尔街全程被牵着鼻子走",
