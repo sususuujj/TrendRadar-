@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-14T16:15:32.799484+08:00",
-  "total_titles_processed": 786,
+  "generated_at": "2026-06-14T19:29:51.882567+08:00",
+  "total_titles_processed": 930,
   "failed_sources": [],
   "trends": [
     {
@@ -33,6 +33,34 @@
           "time_info": "[01时21分 ~ 16时15分]"
         },
         {
+          "title": "【早报】5月金融数据出炉；马斯克成万亿美元富豪",
+          "url": "https://www.cls.cn/detail/2398924",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            9,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时21分 ~ 19时29分]"
+        },
+        {
+          "title": "万亿富豪马斯克的“冰与火”：AI卫星要上天 地面算力却“卡了壳”",
+          "url": "https://www.cls.cn/detail/2399065",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时21分 ~ 19时29分]"
+        },
+        {
           "title": "全球首位万亿美元级别富豪，马斯克=7个巴菲特！美民主党呼吁征收富人税",
           "url": "https://wallstreetcn.com/articles/3774553",
           "source": "华尔街见闻",
@@ -42,32 +70,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时21分 ~ 03时23分]"
-        },
-        {
-          "title": "【早报】5月金融数据出炉；马斯克成万亿美元富豪",
-          "url": "https://www.cls.cn/detail/2398924",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时21分 ~ 16时15分]"
-        },
-        {
-          "title": "万亿富豪马斯克的“冰与火”：AI卫星要上天 地面算力却“卡了壳”",
-          "url": "https://www.cls.cn/detail/2399065",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时21分 ~ 16时15分]"
         },
         {
           "title": "联手打造太空算力？SpaceX刚上市，马斯克就喊话黄仁勋：合作升级！",
@@ -110,6 +112,17 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "【早报】美将部分中企列入“中国军事企业清单”，商务部回应；OpenAI被查",
+          "url": "https://www.cls.cn/detail/2399163",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时52分 ~ 19时29分]"
+        },
+        {
           "title": "SpaceX上市幕后大戏：抢跑OpenAI、疯狂并购装资产，华尔街全程被牵着鼻子走",
           "url": "https://wallstreetcn.com/articles/3774577",
           "source": "华尔街见闻",
@@ -122,17 +135,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时21分 ~ 11时52分]"
-        },
-        {
-          "title": "【早报】美将部分中企列入“中国军事企业清单”，商务部回应；OpenAI被查",
-          "url": "https://www.cls.cn/detail/2399163",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时52分 ~ 16时15分]"
         }
       ]
     },
