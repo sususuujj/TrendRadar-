@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-06-14T21:59:39.987261+08:00",
-  "total_titles_processed": 1083,
+  "generated_at": "2026-06-14T23:51:30.130947+08:00",
+  "total_titles_processed": 1203,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马斯克",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
-        {
-          "title": "70年首富榜背后的财富密码：为什么首位万亿富豪是马斯克",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33333532",
-          "source": "澎湃新闻",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时21分 ~ 07时03分]"
-        },
         {
           "title": "万亿富豪马斯克的“冰与火”：AI卫星要上天 地面算力却“卡了壳”",
           "url": "https://www.cls.cn/detail/2399065",
@@ -31,8 +19,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时21分 ~ 21时59分]"
+          "appearance_count": 9,
+          "time_info": "[01时21分 ~ 23时51分]"
+        },
+        {
+          "title": "70年首富榜背后的财富密码：为什么首位万亿富豪是马斯克",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33333532",
+          "source": "澎湃新闻",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时21分 ~ 07时03分]"
         },
         {
           "title": "马斯克成万亿富豪不值得庆祝？美议员抨击税制不公要求对富人征税",
@@ -96,6 +96,17 @@
           "time_info": "05时14分"
         },
         {
+          "title": "马斯克“锁死”SpaceX背后",
+          "url": "https://www.toutiao.com/trending/7651237008341208595/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时51分"
+        },
+        {
           "title": "马斯克的“太空生意”为何越飞越贵",
           "url": "https://www.toutiao.com/trending/7651046276699524627/",
           "source": "今日头条",
@@ -121,8 +132,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时52分 ~ 21时59分]"
+          "appearance_count": 5,
+          "time_info": "[11时52分 ~ 23时51分]"
         },
         {
           "title": "SpaceX上市幕后大戏：抢跑OpenAI、疯狂并购装资产，华尔街全程被牵着鼻子走",
