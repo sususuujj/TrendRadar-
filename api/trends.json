@@ -1,8 +1,61 @@
 {
-  "generated_at": "2026-06-17T08:15:20.149810+08:00",
-  "total_titles_processed": 542,
+  "generated_at": "2026-06-17T14:09:27.830382+08:00",
+  "total_titles_processed": 777,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "DeepSeek 完成 500 亿融资，估值超 3300 亿，如何解读背后的估值逻辑？将对 AI 领域产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2050261467174101567",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
+        },
+        {
+          "title": "为什么DeepSeek是AI泡沫斩杀线",
+          "url": "https://www.toutiao.com/trending/7651979830128283145/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            23,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时33分 ~ 08时15分]"
+        },
+        {
+          "title": "曝DeepSeek首轮融资梁文锋出资200亿",
+          "url": "https://www.toutiao.com/trending/7651579346738855979/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时33分 ~ 08时15分]"
+        },
+        {
+          "title": "Redis 之父为 DeepSeek 抱不平，美国 AI 圈为何再为「蒸馏」开吵？",
+          "url": "https://www.zhihu.com/question/2050271442697188542",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
+        }
+      ]
+    },
     {
       "keyword_group": "openai",
       "match_count": 3,
@@ -25,7 +78,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时15分"
         },
@@ -36,7 +89,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时15分"
         }
@@ -83,33 +136,19 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek",
-      "match_count": 2,
+      "keyword_group": "gemini",
+      "match_count": 1,
       "titles": [
         {
-          "title": "为什么DeepSeek是AI泡沫斩杀线",
-          "url": "https://www.toutiao.com/trending/7651979830128283145/",
-          "source": "今日头条",
+          "title": "XREAL联手谷歌发布空间计算眼镜，深度集成Gemini",
+          "url": "https://wallstreetcn.com/livenews/3120751",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
-            23,
-            19
+            12
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时33分 ~ 08时15分]"
-        },
-        {
-          "title": "曝DeepSeek首轮融资梁文锋出资200亿",
-          "url": "https://www.toutiao.com/trending/7651579346738855979/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时33分 ~ 08时15分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
         }
       ]
     }
