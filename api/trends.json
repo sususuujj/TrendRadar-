@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-18T02:14:25.481572+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-06-18T05:04:15.438608+08:00",
+  "total_titles_processed": 430,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "豆包",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "HR 吐槽面试遇到豆包味很浓的应届生，全程依赖豆包 AI 作答，如何看待这一现象？暴露出哪些问题？",
@@ -15,19 +15,31 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时14分"
+          "appearance_count": 3,
+          "time_info": "[02时14分 ~ 05时04分]"
         },
         {
           "title": "豆包每天消耗数千万 收入不足百万",
           "url": "https://www.baidu.com/s?wd=%E8%B1%86%E5%8C%85%E6%AF%8F%E5%A4%A9%E6%B6%88%E8%80%97%E6%95%B0%E5%8D%83%E4%B8%87+%E6%94%B6%E5%85%A5%E4%B8%8D%E8%B6%B3%E7%99%BE%E4%B8%87",
           "source": "百度热搜",
           "ranks": [
-            9
+            9,
+            29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时14分"
+          "appearance_count": 3,
+          "time_info": "[02时14分 ~ 05时04分]"
+        },
+        {
+          "title": "「邪恶豆包」是什么梗？你有被「邪恶豆包」戏耍的经历吗？",
+          "url": "https://www.zhihu.com/question/2046233209512228749",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时03分 ~ 05时04分]"
         },
         {
           "title": "豆包每天收入不足百万",
@@ -56,6 +68,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "一天涨出一个巴菲特！AI加持，马斯克身家涨到飞起",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33333525",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时03分 ~ 05时04分]"
         }
       ]
     }
