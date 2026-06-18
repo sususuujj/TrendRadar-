@@ -1,152 +1,56 @@
 {
-  "generated_at": "2026-06-18T20:24:39.719936+08:00",
-  "total_titles_processed": 1147,
+  "generated_at": "2026-06-19T00:44:31.966871+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "DeepSeek",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek正式上线识图模式",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF%E8%AF%86%E5%9B%BE%E6%A8%A1%E5%BC%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "马斯克旗下SpaceX跌幅扩大至10%，最近两天迄今累跌14%。",
+          "url": "https://wallstreetcn.com/livenews/3121821",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时44分"
+        }
+      ]
+    },
+    {
       "keyword_group": "豆包",
-      "match_count": 5,
+      "match_count": 1,
       "titles": [
         {
           "title": "亏麻,豆包日收入不足百万",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355251&amp;topic_name=%E4%BA%8F%E9%BA%BB%2C%E8%B1%86%E5%8C%85%E6%97%A5%E6%94%B6%E5%85%A5%E4%B8%8D%E8%B6%B3%E7%99%BE%E4%B8%87",
           "source": "贴吧",
           "ranks": [
-            2,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时43分 ~ 20时24分]"
-        },
-        {
-          "title": "HR 吐槽面试遇到豆包味很浓的应届生，全程依赖豆包 AI 作答，如何看待这一现象？暴露出哪些问题？",
-          "url": "https://www.zhihu.com/question/2050618204980863708",
-          "source": "知乎",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时14分 ~ 07时23分]"
-        },
-        {
-          "title": "豆包每天消耗数千万 收入不足百万",
-          "url": "https://www.baidu.com/s?wd=%E8%B1%86%E5%8C%85%E6%AF%8F%E5%A4%A9%E6%B6%88%E8%80%97%E6%95%B0%E5%8D%83%E4%B8%87+%E6%94%B6%E5%85%A5%E4%B8%8D%E8%B6%B3%E7%99%BE%E4%B8%87",
-          "source": "百度热搜",
-          "ranks": [
-            9,
-            29,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时14分 ~ 07时23分]"
-        },
-        {
-          "title": "「邪恶豆包」是什么梗？你有被「邪恶豆包」戏耍的经历吗？",
-          "url": "https://www.zhihu.com/question/2046233209512228749",
-          "source": "知乎",
-          "ranks": [
-            19,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时03分 ~ 07时23分]"
-        },
-        {
-          "title": "豆包每天收入不足百万",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%B1%86%E5%8C%85%E6%AF%8F%E5%A4%A9%E6%94%B6%E5%85%A5%E4%B8%8D%E8%B6%B3%E7%99%BE%E4%B8%87%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时14分 ~ 07时23分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "如何看待 6 月 16 日 DeepSeek 网页端 /App 中的「快速模式」思维链发生明显变化？",
-          "url": "https://www.zhihu.com/question/2050272536898835791",
-          "source": "知乎",
-          "ranks": [
-            5,
-            7,
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时43分 ~ 20时24分]"
-        },
-        {
-          "title": "融资消息曝光后DeepSeek上线识图模式，但认不出梁文锋",
-          "url": "https://wallstreetcn.com/livenews/3121655",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "一天涨出一个巴菲特！AI加持，马斯克身家涨到飞起",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33333525",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            11,
-            6,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时03分 ~ 20时24分]"
-        },
-        {
-          "title": "智谱等中国大模型何时赶上Fable水平？马斯克：或在2027年一季度",
-          "url": "https://flash.jin10.com/detail/20260618200949951800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI的CEO Altman、谷歌公司高管Hassabis、Anthropic的CEO Amodei、Meta高管Wang、Mistral AI高管Mensch、Cohere高管Gomez、Salesforce高管Benioff出席（美国）AI会议。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3121165",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时14分"
+          "time_info": "00时44分"
         }
       ]
     }
