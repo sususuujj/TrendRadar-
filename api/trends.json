@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-20T05:09:07.847127+08:00",
-  "total_titles_processed": 423,
+  "generated_at": "2026-06-20T06:56:05.276549+08:00",
+  "total_titles_processed": 454,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时55分 ~ 05时09分]"
+          "appearance_count": 6,
+          "time_info": "[01时55分 ~ 06时56分]"
         },
         {
           "title": "网友提问“中国大模型何时达到Fable级别？”，马斯克“可能明年Q1”，智谱CEO唐杰“不需要那么久”",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时55分 ~ 05时09分]"
+          "appearance_count": 6,
+          "time_info": "[01时55分 ~ 06时56分]"
         },
         {
           "title": "中国大模型何时达「fable 级别」？马斯克与智谱 CEO 预测不同，你更认同谁？",
@@ -39,8 +39,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时55分 ~ 05时09分]"
+          "appearance_count": 6,
+          "time_info": "[01时55分 ~ 06时56分]"
         },
         {
           "title": "马斯克：到那时，衡量事物的标准将不再是美元，而是质量与能量。",
@@ -51,8 +51,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时47分 ~ 05时09分]"
+          "appearance_count": 3,
+          "time_info": "[03时47分 ~ 06时56分]"
         },
         {
           "title": "马斯克称，未来，人类将投入难以想象的巨额资金来制造反物质，以实现前往其他恒星系的星际旅行。",
@@ -76,11 +76,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355251&amp;topic_name=%E4%BA%8F%E9%BA%BB%2C%E8%B1%86%E5%8C%85%E6%97%A5%E6%94%B6%E5%85%A5%E4%B8%8D%E8%B6%B3%E7%99%BE%E4%B8%87",
           "source": "贴吧",
           "ranks": [
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时55分 ~ 05时09分]"
+          "appearance_count": 6,
+          "time_info": "[01时55分 ~ 06时56分]"
         }
       ]
     }
