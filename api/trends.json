@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-19T14:17:42.229029+08:00",
-  "total_titles_processed": 870,
+  "generated_at": "2026-06-19T19:21:10.643337+08:00",
+  "total_titles_processed": 1073,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             6,
             2,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时31分 ~ 14时17分]"
+          "appearance_count": 5,
+          "time_info": "[06时31分 ~ 19时21分]"
         },
         {
           "title": "马斯克旗下SpaceX跌幅扩大至10%，最近两天迄今累跌14%。",
@@ -32,6 +33,30 @@
           "time_info": "00时44分"
         },
         {
+          "title": "网友提问“中国大模型何时达到Fable级别？”，马斯克“可能明年Q1”，智谱CEO唐杰“不需要那么久”",
+          "url": "https://wallstreetcn.com/articles/3775064",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时17分 ~ 19时21分]"
+        },
+        {
+          "title": "中国大模型何时能达Fable级别？马斯克预计明年Q1 唐杰称不用那么久",
+          "url": "https://www.cls.cn/detail/2404332",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时17分 ~ 19时21分]"
+        },
+        {
           "title": "“AI教父”杨立昆：马斯克的xAI已成失败案例 行业或面临巨大泡沫破裂",
           "url": "https://www.cls.cn/detail/2404033",
           "source": "财联社热门",
@@ -40,30 +65,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时34分 ~ 08时25分]"
-        },
-        {
-          "title": "网友提问“中国大模型何时达到Fable级别？”，马斯克“可能明年Q1”，智谱CEO唐杰“不需要那么久”",
-          "url": "https://wallstreetcn.com/articles/3775064",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时17分"
-        },
-        {
-          "title": "中国大模型何时能达Fable级别？马斯克预计明年Q1 唐杰称不用那么久",
-          "url": "https://www.cls.cn/detail/2404332",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时17分"
+          "appearance_count": 5,
+          "time_info": "[03时34分 ~ 19时21分]"
         }
       ]
     },
@@ -77,22 +80,24 @@
           "source": "澎湃新闻",
           "ranks": [
             16,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时25分 ~ 14时17分]"
+          "appearance_count": 4,
+          "time_info": "[08时25分 ~ 19时21分]"
         },
         {
           "title": "如何评价 DeepSeek 的识图模式？",
           "url": "https://www.zhihu.com/question/2032903059739767247",
           "source": "知乎",
           "ranks": [
-            18
+            18,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时17分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时17分 ~ 19时21分]"
         },
         {
           "title": "DeepSeek正式上线识图模式",
@@ -130,11 +135,12 @@
             6,
             7,
             8,
-            18
+            18,
+            22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 14时17分]"
+          "appearance_count": 7,
+          "time_info": "[00时44分 ~ 19时21分]"
         },
         {
           "title": "如何看待「豆包日活超 2 亿，日收入却不足百万」？免费 AI 市场下，付费模式该如何落地？",
