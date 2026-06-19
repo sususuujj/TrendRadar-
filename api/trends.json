@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-06-20T01:55:44.128763+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-06-20T03:47:52.013733+08:00",
+  "total_titles_processed": 371,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马斯克",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "中国大模型何时能达Fable级别？马斯克预计明年Q1 唐杰称不用那么久",
           "url": "https://www.cls.cn/detail/2404332",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时55分"
+          "appearance_count": 2,
+          "time_info": "[01时55分 ~ 03时47分]"
         },
         {
           "title": "网友提问“中国大模型何时达到Fable级别？”，马斯克“可能明年Q1”，智谱CEO唐杰“不需要那么久”",
@@ -26,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时55分"
+          "appearance_count": 2,
+          "time_info": "[01时55分 ~ 03时47分]"
         },
         {
           "title": "中国大模型何时达「fable 级别」？马斯克与智谱 CEO 预测不同，你更认同谁？",
@@ -37,8 +38,30 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时55分 ~ 03时47分]"
+        },
+        {
+          "title": "马斯克：到那时，衡量事物的标准将不再是美元，而是质量与能量。",
+          "url": "https://flash.jin10.com/detail/20260620024815870800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时55分"
+          "time_info": "03时47分"
+        },
+        {
+          "title": "马斯克称，未来，人类将投入难以想象的巨额资金来制造反物质，以实现前往其他恒星系的星际旅行。",
+          "url": "https://flash.jin10.com/detail/20260620024753024800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时47分"
         }
       ]
     },
@@ -54,8 +77,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时55分"
+          "appearance_count": 2,
+          "time_info": "[01时55分 ~ 03时47分]"
         }
       ]
     }
