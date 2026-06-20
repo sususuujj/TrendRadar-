@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-21T05:17:27.648596+08:00",
-  "total_titles_processed": 406,
+  "generated_at": "2026-06-21T07:07:10.243553+08:00",
+  "total_titles_processed": 447,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时25分 ~ 05时17分]"
+          "appearance_count": 5,
+          "time_info": "[01时25分 ~ 07时07分]"
         },
         {
           "title": "马斯克暴赚7800亿",
@@ -24,11 +24,12 @@
           "source": "微博",
           "ranks": [
             19,
-            27
+            27,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时25分 ~ 05时17分]"
+          "appearance_count": 5,
+          "time_info": "[01时25分 ~ 07时07分]"
         },
         {
           "title": "智谱唐杰“呛声”马斯克：中国模型达到Fable水平用不了那么久",
