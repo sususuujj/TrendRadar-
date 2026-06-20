@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-20T06:56:05.276549+08:00",
-  "total_titles_processed": 454,
+  "generated_at": "2026-06-20T08:09:06.958150+08:00",
+  "total_titles_processed": 523,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时55分 ~ 06时56分]"
+          "appearance_count": 8,
+          "time_info": "[01时55分 ~ 08时09分]"
         },
         {
           "title": "网友提问“中国大模型何时达到Fable级别？”，马斯克“可能明年Q1”，智谱CEO唐杰“不需要那么久”",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时55分 ~ 06时56分]"
+          "appearance_count": 8,
+          "time_info": "[01时55分 ~ 08时09分]"
         },
         {
           "title": "中国大模型何时达「fable 级别」？马斯克与智谱 CEO 预测不同，你更认同谁？",
@@ -36,11 +36,12 @@
           "source": "知乎",
           "ranks": [
             8,
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时55分 ~ 06时56分]"
+          "appearance_count": 8,
+          "time_info": "[01时55分 ~ 08时09分]"
         },
         {
           "title": "马斯克：到那时，衡量事物的标准将不再是美元，而是质量与能量。",
@@ -80,8 +81,25 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时55分 ~ 06时56分]"
+          "appearance_count": 8,
+          "time_info": "[01时55分 ~ 08时09分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "具身智能",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "为什么机器人领域都在弄具身智能了，感觉中间跳了一大步?",
+          "url": "https://www.zhihu.com/question/13457479779",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时08分 ~ 08时09分]"
         }
       ]
     }
