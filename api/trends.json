@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-21T03:23:40.483971+08:00",
-  "total_titles_processed": 365,
+  "generated_at": "2026-06-21T05:17:27.648596+08:00",
+  "total_titles_processed": 406,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时25分 ~ 03时23分]"
+          "appearance_count": 3,
+          "time_info": "[01时25分 ~ 05时17分]"
+        },
+        {
+          "title": "马斯克暴赚7800亿",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E6%9A%B4%E8%B5%9A7800%E4%BA%BF%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时25分 ~ 05时17分]"
         },
         {
           "title": "智谱唐杰“呛声”马斯克：中国模型达到Fable水平用不了那么久",
@@ -25,17 +37,6 @@
           "ranks": [
             19,
             20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时25分 ~ 03时23分]"
-        },
-        {
-          "title": "马斯克暴赚7800亿",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E6%9A%B4%E8%B5%9A7800%E4%BA%BF%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
           ],
           "is_new": false,
           "appearance_count": 2,
