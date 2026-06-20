@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-20T13:12:17.945546+08:00",
-  "total_titles_processed": 733,
+  "generated_at": "2026-06-20T16:53:29.992492+08:00",
+  "total_titles_processed": 901,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时55分 ~ 13时12分]"
+          "appearance_count": 11,
+          "time_info": "[01时55分 ~ 16时53分]"
         },
         {
           "title": "网友提问“中国大模型何时达到Fable级别？”，马斯克“可能明年Q1”，智谱CEO唐杰“不需要那么久”",
@@ -80,7 +80,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时12分"
         }
