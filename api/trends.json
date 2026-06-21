@@ -1,62 +1,8 @@
 {
-  "generated_at": "2026-06-21T22:06:19.118897+08:00",
-  "total_titles_processed": 1140,
+  "generated_at": "2026-06-22T00:44:50.383572+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "马斯克",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "中国大模型何时能达Fable级别？马斯克预计明年Q1 唐杰称不用那么久",
-          "url": "https://www.cls.cn/detail/2404332",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时25分 ~ 16时39分]"
-        },
-        {
-          "title": "马斯克暴赚7800亿",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E6%9A%B4%E8%B5%9A7800%E4%BA%BF%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19,
-            27,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时25分 ~ 07时07分]"
-        },
-        {
-          "title": "智谱唐杰“呛声”马斯克：中国模型达到Fable水平用不了那么久",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33418162",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时25分 ~ 03时23分]"
-        },
-        {
-          "title": "马斯克拿下7800亿元天价薪酬",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E6%8B%BF%E4%B8%8B7800%E4%BA%BF%E5%85%83%E5%A4%A9%E4%BB%B7%E8%96%AA%E9%85%AC",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时00分 ~ 12时02分]"
-        }
-      ]
-    },
     {
       "keyword_group": "openai",
       "match_count": 1,
@@ -66,13 +12,11 @@
           "url": "https://wallstreetcn.com/articles/3775117",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            8,
-            4
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时00分 ~ 22时06分]"
+          "appearance_count": 1,
+          "time_info": "00时44分"
         }
       ]
     }
