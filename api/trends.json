@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-06-23T01:39:43.766277+08:00",
-  "total_titles_processed": 294,
+  "generated_at": "2026-06-23T04:45:40.951284+08:00",
+  "total_titles_processed": 418,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "IBM(IBM.N)与OpenAI扩大网络安全合作，推出前沿人工智能能力，帮助企业抵御机器速度的网络威胁。",
+          "url": "https://flash.jin10.com/detail/20260623043203412800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时45分"
+        },
+        {
+          "title": "OpenAI：推出“Patch the Planet”项目，这是“Daybreak”倡议的一部分，旨在支持开源软件维护者。",
+          "url": "https://flash.jin10.com/detail/20260623010428902800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时39分"
+        }
+      ]
+    },
     {
       "keyword_group": "DeepSeek",
       "match_count": 1,
@@ -15,25 +43,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI：推出“Patch the Planet”项目，这是“Daybreak”倡议的一部分，旨在支持开源软件维护者。",
-          "url": "https://flash.jin10.com/detail/20260623010428902800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时39分"
+          "appearance_count": 2,
+          "time_info": "[01时39分 ~ 04时45分]"
         }
       ]
     }
