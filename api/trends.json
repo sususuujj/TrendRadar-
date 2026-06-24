@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-24T11:24:48.081090+08:00",
-  "total_titles_processed": 784,
+  "generated_at": "2026-06-24T15:38:57.524912+08:00",
+  "total_titles_processed": 974,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "豆包",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "豆包专业版发布",
@@ -14,9 +14,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
+        },
+        {
+          "title": "特斯拉 豆包",
+          "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%96%AF%E6%8B%89%20%E8%B1%86%E5%8C%85&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
         },
         {
           "title": "如何评价字节发布的豆包 Seed 2.1 Pro Preview？",
@@ -25,7 +36,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
         },
@@ -36,7 +47,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
         },
@@ -47,7 +58,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
         },
@@ -58,7 +69,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
         }
@@ -75,7 +86,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
         },
@@ -89,6 +100,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "马斯克已不是万亿富豪",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%B7%B2%E4%B8%8D%E6%98%AF%E4%B8%87%E4%BA%BF%E5%AF%8C%E8%B1%AA%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
         }
       ]
     }
