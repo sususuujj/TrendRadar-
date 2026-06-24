@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-24T15:38:57.524912+08:00",
-  "total_titles_processed": 974,
+  "generated_at": "2026-06-24T18:47:37.912128+08:00",
+  "total_titles_processed": 1165,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "豆包",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "豆包正式推出收费版，三档定价、最高一年6000元，贵不贵？",
+          "url": "https://wallstreetcn.com/articles/3775360",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时47分"
+        },
         {
           "title": "豆包专业版发布",
           "url": "https://s.weibo.com/weibo?q=%23%E8%B1%86%E5%8C%85%E4%B8%93%E4%B8%9A%E7%89%88%E5%8F%91%E5%B8%83%23&t=31&band_rank=10&Refer=top",
@@ -25,9 +36,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时38分"
+        },
+        {
+          "title": "为什么豆包 AI 老是会被调侃成糖包？取这个名字，是不是从一开始就没打算走专业 AI 路线？",
+          "url": "https://www.zhihu.com/question/2035742574737143093",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时47分"
         },
         {
           "title": "如何评价字节发布的豆包 Seed 2.1 Pro Preview？",
@@ -84,11 +106,12 @@
           "url": "https://wallstreetcn.com/articles/3775315",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时24分"
+          "appearance_count": 2,
+          "time_info": "[11时24分 ~ 18时47分]"
         },
         {
           "title": "DeepseekV4.1 即将发布，网友期待「降价、打爆国外 AI」，它将如何改变 AI 市场格局？",
@@ -105,8 +128,19 @@
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "孙正义说马斯克太空数据中心没价值",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%AD%A3%E4%B9%89%E8%AF%B4%E9%A9%AC%E6%96%AF%E5%85%8B%E5%A4%AA%E7%A9%BA%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E6%B2%A1%E4%BB%B7%E5%80%BC%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时47分"
+        },
         {
           "title": "马斯克已不是万亿富豪",
           "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%B7%B2%E4%B8%8D%E6%98%AF%E4%B8%87%E4%BA%BF%E5%AF%8C%E8%B1%AA%23&t=31&band_rank=25&Refer=top",
@@ -114,7 +148,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时38分"
         }
