@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-25T16:59:12.086081+08:00",
-  "total_titles_processed": 1137,
+  "generated_at": "2026-06-25T19:43:10.707334+08:00",
+  "total_titles_processed": 1311,
   "failed_sources": [],
   "trends": [
     {
@@ -72,6 +72,17 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "亚洲首富孙正义向世界首富马斯克「泼冷水」，称太空数据中心太鸡肋，节省电力但硬件成本高，到底谁算错了账？",
+          "url": "https://www.zhihu.com/question/2053101121611289066",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时04分 ~ 19时43分]"
+        },
+        {
           "title": "中国企业家回了马斯克一句话，西方媒体不淡定了",
           "url": "https://news.ifeng.com/c/8uE6Ferc62C",
           "source": "凤凰网",
@@ -82,17 +93,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时10分 ~ 16时59分]"
-        },
-        {
-          "title": "亚洲首富孙正义向世界首富马斯克「泼冷水」，称太空数据中心太鸡肋，节省电力但硬件成本高，到底谁算错了账？",
-          "url": "https://www.zhihu.com/question/2053101121611289066",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时04分 ~ 16时59分]"
         },
         {
           "title": "马斯克“被迫”陪母亲走红毯",
@@ -118,7 +118,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时59分"
         },
