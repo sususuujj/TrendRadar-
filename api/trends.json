@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-25T08:10:56.838646+08:00",
-  "total_titles_processed": 707,
+  "generated_at": "2026-06-25T13:04:59.528597+08:00",
+  "total_titles_processed": 948,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "豆包",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "豆包正式推出收费版，三档定价、最高一年6000元，贵不贵？",
@@ -21,32 +21,55 @@
           "time_info": "[00时19分 ~ 08时10分]"
         },
         {
-          "title": "豆包收费功能",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%B1%86%E5%8C%85%E6%94%B6%E8%B4%B9%E5%8A%9F%E8%83%BD%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
+          "title": "字节跳动申请注册豆包云商标",
+          "url": "https://flash.jin10.com/detail/20260625124510951800",
+          "source": "金十数据",
           "ranks": [
-            9
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时10分"
+          "time_info": "13时04分"
         },
         {
           "title": "财晓得丨豆包正式开始收费，AI公司都有哪些赚钱途径？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33359576",
           "source": "澎湃新闻",
           "ranks": [
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时10分 ~ 13时04分]"
+        },
+        {
+          "title": "豆包收费功能",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B1%86%E5%8C%85%E6%94%B6%E8%B4%B9%E5%8A%9F%E8%83%BD%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时10分"
+        },
+        {
+          "title": "豆包价格",
+          "url": "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%E4%BB%B7%E6%A0%BC&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时10分"
+          "time_info": "13时04分"
         }
       ]
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "马斯克“被迫”陪母亲走红毯",
@@ -66,9 +89,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
+        },
+        {
+          "title": "亚洲首富孙正义向世界首富马斯克「泼冷水」，称太空数据中心太鸡肋，节省电力但硬件成本高，到底谁算错了账？",
+          "url": "https://www.zhihu.com/question/2053101121611289066",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时04分"
         }
       ]
     },
