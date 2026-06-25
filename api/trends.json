@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-06-26T01:11:51.961288+08:00",
-  "total_titles_processed": 307,
+  "generated_at": "2026-06-26T03:58:32.251131+08:00",
+  "total_titles_processed": 407,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "马斯克",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中期选举将近 美媒曝光马斯克向共和党大手笔捐款",
+          "url": "https://flash.jin10.com/detail/20260626032630006800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时58分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://github.com/sususuujj/img/news.jpg"
 }
