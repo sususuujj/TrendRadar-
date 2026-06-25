@@ -1,8 +1,77 @@
 {
-  "generated_at": "2026-06-25T06:16:39.342114+08:00",
-  "total_titles_processed": 585,
+  "generated_at": "2026-06-25T08:10:56.838646+08:00",
+  "total_titles_processed": 707,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "豆包",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "豆包正式推出收费版，三档定价、最高一年6000元，贵不贵？",
+          "url": "https://wallstreetcn.com/articles/3775360",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 08时10分]"
+        },
+        {
+          "title": "豆包收费功能",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B1%86%E5%8C%85%E6%94%B6%E8%B4%B9%E5%8A%9F%E8%83%BD%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时10分"
+        },
+        {
+          "title": "财晓得丨豆包正式开始收费，AI公司都有哪些赚钱途径？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33359576",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "马斯克“被迫”陪母亲走红毯",
+          "url": "https://www.toutiao.com/trending/7654560134204604422/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 00时20分]"
+        },
+        {
+          "title": "中国企业家回了马斯克一句话，西方媒体不淡定了",
+          "url": "https://news.ifeng.com/c/8uE6Ferc62C",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时10分"
+        }
+      ]
+    },
     {
       "keyword_group": "gemini",
       "match_count": 1,
@@ -34,41 +103,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时51分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "马斯克“被迫”陪母亲走红毯",
-          "url": "https://www.toutiao.com/trending/7654560134204604422/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 00时20分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "豆包",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "豆包正式推出收费版，三档定价、最高一年6000元，贵不贵？",
-          "url": "https://wallstreetcn.com/articles/3775360",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 06时16分]"
         }
       ]
     }
