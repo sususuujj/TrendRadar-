@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-26T18:50:23.868867+08:00",
-  "total_titles_processed": 1177,
+  "generated_at": "2026-06-26T21:10:51.877915+08:00",
+  "total_titles_processed": 1343,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "openai",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "SpaceX股价回落敲响警钟 OpenAI或等到明年再IPO",
@@ -53,6 +53,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
+        },
+        {
+          "title": "曝 OpenAI GPT-5.6 系列即将登场，可能带来哪些技术突破和影响？",
+          "url": "https://www.zhihu.com/question/2051692980243894309",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
         },
         {
           "title": "据The Information：特朗普政府要求OpenAI出于安全考虑分批发布新模型。",
@@ -122,11 +133,12 @@
           "ranks": [
             10,
             7,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时32分 ~ 18时50分]"
+          "appearance_count": 4,
+          "time_info": "[11时32分 ~ 21时10分]"
         },
         {
           "title": "DeepSeek大规模招聘",
@@ -185,11 +197,12 @@
           "url": "https://www.zhihu.com/question/2053058575203656580",
           "source": "知乎",
           "ranks": [
-            20
+            20,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时50分 ~ 21时10分]"
         }
       ]
     },
