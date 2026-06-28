@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-29T01:08:50.174194+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-29T03:17:39.593770+08:00",
+  "total_titles_processed": 367,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2411046",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时08分"
+          "appearance_count": 2,
+          "time_info": "[01时08分 ~ 03时17分]"
         },
         {
           "title": "豆包和DeepSeek的博弈",
@@ -43,8 +44,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时08分"
+          "appearance_count": 2,
+          "time_info": "[01时08分 ~ 03时17分]"
         }
       ]
     },
@@ -60,8 +61,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时08分"
+          "appearance_count": 2,
+          "time_info": "[01时08分 ~ 03时17分]"
         }
       ]
     },
@@ -74,11 +75,12 @@
           "url": "https://wallstreetcn.com/livenews/3125681",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            17,
+            23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时08分"
+          "appearance_count": 2,
+          "time_info": "[01时08分 ~ 03时17分]"
         }
       ]
     }
