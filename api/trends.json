@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-28T08:02:21.760085+08:00",
-  "total_titles_processed": 534,
+  "generated_at": "2026-06-28T12:45:11.226153+08:00",
+  "total_titles_processed": 750,
   "failed_sources": [],
   "trends": [
     {
@@ -8,24 +8,25 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "刚刚，DeepSeek V4更新DSpark，推理速度提升80%",
+          "url": "https://wallstreetcn.com/articles/3775676",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时04分 ~ 12时45分]"
+        },
+        {
           "title": "如何评价 DeepSeek 发布 DSpark？哪些亮点值得关注？",
           "url": "https://www.zhihu.com/question/2054255700407055156",
           "source": "知乎",
           "ranks": [
             3,
             2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时04分 ~ 08时02分]"
-        },
-        {
-          "title": "刚刚，DeepSeek V4更新DSpark，推理速度提升80%",
-          "url": "https://wallstreetcn.com/articles/3775676",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -73,6 +74,40 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时04分 ~ 08时02分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "据英国金融时报：谷歌限制Meta对Gemini的使用，因AI需求挤压算力容量。",
+          "url": "https://flash.jin10.com/detail/20260628120732763800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "豆包",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "海外研究员眼中的中国AI：智谱是“中国Palantir”，MiniMax对标Character AI，豆包是“中国ChatGPT”",
+          "url": "https://wallstreetcn.com/articles/3775673",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时44分 ~ 12时45分]"
         }
       ]
     }
