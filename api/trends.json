@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-30T05:25:53.949307+08:00",
-  "total_titles_processed": 471,
+  "generated_at": "2026-06-30T06:55:31.931503+08:00",
+  "total_titles_processed": 531,
   "failed_sources": [],
   "trends": [
     {
@@ -31,6 +31,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时35分 ~ 03时55分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "分析师：OpenAI或于今年启动IPO 无需等到2027年",
+          "url": "https://flash.jin10.com/detail/20260630055543411800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时55分"
         }
       ]
     },
