@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-29T08:07:45.682516+08:00",
-  "total_titles_processed": 559,
+  "generated_at": "2026-06-29T13:49:14.407843+08:00",
+  "total_titles_processed": 792,
   "failed_sources": [],
   "trends": [
     {
@@ -43,11 +43,29 @@
           "url": "https://wallstreetcn.com/articles/3775694",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时08分 ~ 08时07分]"
+          "appearance_count": 8,
+          "time_info": "[01时08分 ~ 13时49分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "马斯克：Grok 4.5内测已比肩Opus，今年每月都发布一个全新大模型！",
+          "url": "https://www.cls.cn/detail/2411430",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时48分 ~ 13时49分]"
         }
       ]
     },
@@ -60,11 +78,29 @@
           "url": "https://wallstreetcn.com/articles/3775696",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时08分 ~ 08时07分]"
+          "appearance_count": 8,
+          "time_info": "[01时08分 ~ 13时49分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "豆包",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "豆包收费了，你还会用吗？",
+          "url": "https://www.zhihu.com/question/2035081304824352955",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时48分 ~ 13时49分]"
         }
       ]
     },
