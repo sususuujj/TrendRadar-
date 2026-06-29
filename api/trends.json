@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-30T03:55:14.714889+08:00",
-  "total_titles_processed": 408,
+  "generated_at": "2026-06-30T05:25:53.949307+08:00",
+  "total_titles_processed": 471,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时35分 ~ 03时55分]"
+          "appearance_count": 4,
+          "time_info": "[01时35分 ~ 05时25分]"
         },
         {
           "title": "DeepSeek启动成立来最大规模招聘",
