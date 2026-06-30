@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-30T13:03:20.579583+08:00",
-  "total_titles_processed": 860,
+  "generated_at": "2026-06-30T17:32:50.208570+08:00",
+  "total_titles_processed": 1061,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "DeepSeek V4 正式版官宣 7 月中旬上线，引入峰谷定价机制，你怎么看？",
@@ -19,6 +19,29 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时35分 ~ 05时25分]"
+        },
+        {
+          "title": "如何评价 deepseek2026 年 6 月 29 日再次调整收费标准？",
+          "url": "https://www.zhihu.com/question/2055040930516824522",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
+        },
+        {
+          "title": "DeepSeek V4定档7月中旬，峰谷API定价同步落地",
+          "url": "https://wallstreetcn.com/articles/3775761",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时02分 ~ 17时32分]"
         },
         {
           "title": "AI账单越来越高 企业开始转向更便宜的模型 DeepSeek等中国AI有望受益",
@@ -43,17 +66,35 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时35分 ~ 03时55分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "豆包",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "豆包被曝有后台审核人员，这是真的吗？若属实，这属于侵犯用户隐私吗？",
+          "url": "https://www.zhihu.com/question/2055211544191791678",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
         },
         {
-          "title": "DeepSeek V4定档7月中旬，峰谷API定价同步落地",
-          "url": "https://wallstreetcn.com/articles/3775761",
-          "source": "华尔街见闻",
+          "title": "当我知道豆包有后台审核人员",
+          "url": "https://s.weibo.com/weibo?q=%E5%BD%93%E6%88%91%E7%9F%A5%E9%81%93%E8%B1%86%E5%8C%85%E6%9C%89%E5%90%8E%E5%8F%B0%E5%AE%A1%E6%A0%B8%E4%BA%BA%E5%91%98&t=31&band_rank=18&Refer=top",
+          "source": "微博",
           "ranks": [
-            10
+            18,
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时02分 ~ 13时03分]"
+          "time_info": "[01时35分 ~ 08时03分]"
         }
       ]
     },
@@ -71,24 +112,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "豆包",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "当我知道豆包有后台审核人员",
-          "url": "https://s.weibo.com/weibo?q=%E5%BD%93%E6%88%91%E7%9F%A5%E9%81%93%E8%B1%86%E5%8C%85%E6%9C%89%E5%90%8E%E5%8F%B0%E5%AE%A1%E6%A0%B8%E4%BA%BA%E5%91%98&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时35分 ~ 08时03分]"
         }
       ]
     }
