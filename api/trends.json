@@ -1,8 +1,38 @@
 {
-  "generated_at": "2026-07-01T20:04:06.929098+08:00",
-  "total_titles_processed": 1186,
+  "generated_at": "2026-07-01T23:41:16.575057+08:00",
+  "total_titles_processed": 1367,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "如何评价 deepseek2026 年 6 月 29 日再次调整收费标准？",
+          "url": "https://www.zhihu.com/question/2055040930516824522",
+          "source": "知乎",
+          "ranks": [
+            1,
+            2,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时51分 ~ 07时10分]"
+        },
+        {
+          "title": "如何看待 DeepSeek 招聘多处点名要求 Rust？",
+          "url": "https://www.zhihu.com/question/2054320593491715458",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时40分 ~ 23时41分]"
+        }
+      ]
+    },
     {
       "keyword_group": "openai",
       "match_count": 2,
@@ -28,25 +58,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "如何评价 deepseek2026 年 6 月 29 日再次调整收费标准？",
-          "url": "https://www.zhihu.com/question/2055040930516824522",
-          "source": "知乎",
-          "ranks": [
-            1,
-            2,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时51分 ~ 07时10分]"
         }
       ]
     },
@@ -78,7 +89,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时04分"
         }
