@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-02T15:31:02.759037+08:00",
-  "total_titles_processed": 948,
+  "generated_at": "2026-07-02T18:37:05.556612+08:00",
+  "total_titles_processed": 1141,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2415009",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时29分 ~ 15时31分]"
+          "appearance_count": 4,
+          "time_info": "[15时29分 ~ 18时37分]"
         },
         {
           "title": "SpaceX“造AI手机”传闻带飞高通 马斯克火速否认浇灭市场热情",
@@ -106,7 +107,7 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "如何看待 DeepSeek 招聘多处点名要求 Rust？",
@@ -121,6 +122,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时53分 ~ 07时13分]"
+        },
+        {
+          "title": "DeepSeek崩了",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B4%A9%E4%BA%86&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时36分 ~ 18时37分]"
         }
       ]
     },
