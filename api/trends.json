@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-07-03T07:04:49.751891+08:00",
-  "total_titles_processed": 486,
+  "generated_at": "2026-07-03T10:46:23.442063+08:00",
+  "total_titles_processed": 698,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马斯克",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "马斯克晒Optimus量产团队合照，承认生产初期“极其缓慢”：这不像造车",
+          "url": "https://wallstreetcn.com/articles/3776054",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
+        },
         {
           "title": "美国总统特朗普：马斯克对我在电动汽车强制令上的决定“并不高兴”。",
           "url": "https://flash.jin10.com/detail/20260703055441954800",
@@ -14,7 +25,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时04分"
         },
@@ -25,7 +36,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时04分"
         },
@@ -36,7 +47,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时04分"
         },
@@ -47,7 +58,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时04分"
         },
@@ -58,9 +69,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时04分"
+        },
+        {
+          "title": "特朗普公开“劝捐”：看好马斯克捐赠SpaceX股权",
+          "url": "https://flash.jin10.com/detail/20260703100626191800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
         }
       ]
     },
@@ -119,7 +141,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时04分"
         },
