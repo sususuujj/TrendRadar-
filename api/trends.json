@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-05T01:02:57.199754+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-07-05T03:09:36.059911+08:00",
+  "total_titles_processed": 380,
   "failed_sources": [],
   "trends": [
     {
@@ -15,30 +15,32 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
+          "appearance_count": 2,
+          "time_info": "[01时02分 ~ 03时09分]"
         },
         {
           "title": "智能体新变化！ 豆包、千问即将下线智能体功能！",
           "url": "https://www.cls.cn/detail/2417079",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
+          "appearance_count": 2,
+          "time_info": "[01时02分 ~ 03时09分]"
         },
         {
           "title": "豆包、千问将于7月15日下线智能体功能：建议用户提前备份数据",
           "url": "https://m.thepaper.cn/newsDetail_forward_33517511",
           "source": "澎湃新闻",
           "ranks": [
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
+          "appearance_count": 2,
+          "time_info": "[01时02分 ~ 03时09分]"
         }
       ]
     },
@@ -71,8 +73,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
+          "appearance_count": 2,
+          "time_info": "[01时02分 ~ 03时09分]"
         }
       ]
     }
