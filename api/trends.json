@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-04T19:25:53.312245+08:00",
-  "total_titles_processed": 1090,
+  "generated_at": "2026-07-04T21:21:12.873658+08:00",
+  "total_titles_processed": 1192,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "千问",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "豆包、千问：将下线智能体功能",
@@ -14,11 +14,12 @@
           "ranks": [
             6,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时17分 ~ 19时25分]"
+          "appearance_count": 5,
+          "time_info": "[14时17分 ~ 21时21分]"
         },
         {
           "title": "智能体新变化！ 豆包、千问即将下线智能体功能！",
@@ -29,8 +30,19 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时21分 ~ 21时21分]"
+        },
+        {
+          "title": "豆包千问建议提前备份重要内容",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B1%86%E5%8C%85%E5%8D%83%E9%97%AE%E5%BB%BA%E8%AE%AE%E6%8F%90%E5%89%8D%E5%A4%87%E4%BB%BD%E9%87%8D%E8%A6%81%E5%86%85%E5%AE%B9%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时21分 ~ 19时25分]"
+          "time_info": "[21时20分 ~ 21时21分]"
         },
         {
           "title": "千问：拟人化互动类智能体及用户自建智能体功能将于7月10日正式下线",
@@ -119,11 +131,12 @@
           "ranks": [
             10,
             7,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时41分 ~ 19时25分]"
+          "appearance_count": 7,
+          "time_info": "[10时41分 ~ 21时21分]"
         }
       ]
     },
