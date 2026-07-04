@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-04T21:21:12.873658+08:00",
-  "total_titles_processed": 1192,
+  "generated_at": "2026-07-04T23:04:16.613047+08:00",
+  "total_titles_processed": 1278,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时17分 ~ 21时21分]"
+          "appearance_count": 7,
+          "time_info": "[14时17分 ~ 23时04分]"
         },
         {
           "title": "智能体新变化！ 豆包、千问即将下线智能体功能！",
@@ -30,8 +30,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时21分 ~ 21时21分]"
+          "appearance_count": 6,
+          "time_info": "[17时21分 ~ 23时04分]"
         },
         {
           "title": "豆包千问建议提前备份重要内容",
