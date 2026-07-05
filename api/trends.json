@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-05T18:11:35.100380+08:00",
-  "total_titles_processed": 991,
+  "generated_at": "2026-07-05T20:15:32.954412+08:00",
+  "total_titles_processed": 1101,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时02分 ~ 18时11分]"
+          "appearance_count": 14,
+          "time_info": "[01时02分 ~ 20时15分]"
+        },
+        {
+          "title": "【早报】华为发布V2版“韬定律”论文；豆包、千问：智能体功能将下线",
+          "url": "https://www.cls.cn/detail/2417200",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时55分 ~ 20时15分]"
         },
         {
           "title": "豆包、千问将于7月15日下线智能体功能：建议用户提前备份数据",
@@ -41,18 +53,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时02分 ~ 12时56分]"
-        },
-        {
-          "title": "【早报】华为发布V2版“韬定律”论文；豆包、千问：智能体功能将下线",
-          "url": "https://www.cls.cn/detail/2417200",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时55分 ~ 18时11分]"
         }
       ]
     },
@@ -66,11 +66,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时56分 ~ 18时11分]"
+          "appearance_count": 3,
+          "time_info": "[15时56分 ~ 20时15分]"
         },
         {
           "title": "Anthropic已启动自研AI芯片的前期研发工作，并与三星电子洽谈，计划将其作为潜在芯片代工合作方。此举效仿OpenAI，目的是加强对支撑自身大模型、成本高昂的算力硬件体系的自主掌控。",
