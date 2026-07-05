@@ -1,77 +1,57 @@
 {
-  "generated_at": "2026-07-05T22:42:14.437670+08:00",
-  "total_titles_processed": 1210,
+  "generated_at": "2026-07-06T00:07:21.141387+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "千问",
-      "match_count": 4,
+      "match_count": 2,
       "titles": [
         {
-          "title": "豆包、千问：将下线智能体功能",
-          "url": "https://wallstreetcn.com/articles/3776193",
-          "source": "华尔街见闻",
+          "title": "【早报】华为发布V2版“韬定律”论文；豆包、千问：智能体功能将下线",
+          "url": "https://www.cls.cn/detail/2417200",
+          "source": "财联社热门",
           "ranks": [
-            1
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时02分 ~ 08时08分]"
+          "appearance_count": 1,
+          "time_info": "00时07分"
         },
         {
           "title": "智能体新变化！ 豆包、千问即将下线智能体功能！",
           "url": "https://www.cls.cn/detail/2417079",
           "source": "财联社热门",
           "ranks": [
-            5,
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时02分 ~ 22时42分]"
-        },
+          "appearance_count": 1,
+          "time_info": "00时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "openai",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "【早报】华为发布V2版“韬定律”论文；豆包、千问：智能体功能将下线",
-          "url": "https://www.cls.cn/detail/2417200",
-          "source": "财联社热门",
+          "title": "OpenAI塌房！Scaling law原作曝bug，万亿算力全白烧",
+          "url": "https://wallstreetcn.com/articles/3776218",
+          "source": "华尔街见闻",
           "ranks": [
-            4,
-            3
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时55分 ~ 22时42分]"
-        },
-        {
-          "title": "豆包、千问将于7月15日下线智能体功能：建议用户提前备份数据",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33517511",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时02分 ~ 12时56分]"
+          "appearance_count": 1,
+          "time_info": "00时07分"
         }
       ]
     },
     {
       "keyword_group": "具身智能",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "经纬度：具身智能进入“从1到100”的爆发期",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33511330",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时02分 ~ 08时08分]"
-        },
         {
           "title": "2026 中国（南京）具身智能机器人产业展将于7月10-12日举行",
           "url": "https://wallstreetcn.com/livenews/3129014",
@@ -79,69 +59,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时42分"
-        },
-        {
-          "title": "2026 中国（南京）具身智能机器人产业展将于7月10-12日举行",
-          "url": "https://flash.jin10.com/detail/20260705213605078800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "OpenAI塌房！Scaling law原作曝bug，万亿算力全白烧",
-          "url": "https://wallstreetcn.com/articles/3776218",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时56分 ~ 22时42分]"
-        },
-        {
-          "title": "Anthropic已启动自研AI芯片的前期研发工作，并与三星电子洽谈，计划将其作为潜在芯片代工合作方。此举效仿OpenAI，目的是加强对支撑自身大模型、成本高昂的算力硬件体系的自主掌控。",
-          "url": "https://flash.jin10.com/detail/20260705000623395800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "为什么现在 DeepSeek 快速模式豆包化？",
-          "url": "https://www.zhihu.com/question/2050992107284964141",
-          "source": "知乎",
-          "ranks": [
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时01分 ~ 08时08分]"
+          "time_info": "00时07分"
         }
       ]
     }
