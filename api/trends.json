@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-05T08:08:17.075416+08:00",
-  "total_titles_processed": 537,
+  "generated_at": "2026-07-05T12:56:02.110605+08:00",
+  "total_titles_processed": 720,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "千问",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "豆包、千问：将下线智能体功能",
@@ -27,8 +27,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时02分 ~ 08时08分]"
+          "appearance_count": 11,
+          "time_info": "[01时02分 ~ 12时56分]"
         },
         {
           "title": "豆包、千问将于7月15日下线智能体功能：建议用户提前备份数据",
@@ -39,8 +39,19 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时02分 ~ 07时01分]"
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 12时56分]"
+        },
+        {
+          "title": "【早报】华为发布V2版“韬定律”论文；豆包、千问：智能体功能将下线",
+          "url": "https://www.cls.cn/detail/2417200",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时55分 ~ 12时56分]"
         }
       ]
     },
