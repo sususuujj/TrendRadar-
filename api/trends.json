@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-06T06:01:30.219424+08:00",
-  "total_titles_processed": 453,
+  "generated_at": "2026-07-06T07:11:48.493571+08:00",
+  "total_titles_processed": 525,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时07分 ~ 06时01分]"
+          "appearance_count": 6,
+          "time_info": "[00时07分 ~ 07时11分]"
         },
         {
           "title": "智能体新变化！ 豆包、千问即将下线智能体功能！",
@@ -26,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时07分 ~ 06时01分]"
+          "appearance_count": 6,
+          "time_info": "[00时07分 ~ 07时11分]"
         }
       ]
     },
@@ -44,8 +44,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时07分 ~ 06时01分]"
+          "appearance_count": 6,
+          "time_info": "[00时07分 ~ 07时11分]"
         }
       ]
     },
@@ -58,11 +58,12 @@
           "url": "https://wallstreetcn.com/livenews/3129014",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时07分 ~ 06时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时07分 ~ 07时11分]"
         }
       ]
     }
