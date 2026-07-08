@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-08T20:20:23.323966+08:00",
-  "total_titles_processed": 1344,
+  "generated_at": "2026-07-08T23:21:39.375293+08:00",
+  "total_titles_processed": 1506,
   "failed_sources": [],
   "trends": [
     {
@@ -56,6 +56,17 @@
           "time_info": "[06时59分 ~ 08时05分]"
         },
         {
+          "title": "吐槽 DeepSeek 面试的华为天才少年李博杰被投资人控诉诈骗，李博杰称始终履行职责，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2058168270499176758",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时20分 ~ 23时21分]"
+        },
+        {
           "title": "吐槽 DeepSeek 面试的华为天才少年李博杰被投资人控诉诈骗跑路，哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2058168270499176758",
           "source": "知乎",
@@ -65,17 +76,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时15分"
-        },
-        {
-          "title": "吐槽 DeepSeek 面试的华为天才少年李博杰被投资人控诉诈骗，李博杰称始终履行职责，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2058168270499176758",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时20分"
         },
         {
           "title": "前华为天才少年吐槽DeepSeek面试",
@@ -92,7 +92,7 @@
     },
     {
       "keyword_group": "openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "微软部分应用改用自研AI 替代OpenAI和Anthropic",
@@ -148,6 +148,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时13分"
+        },
+        {
+          "title": "OpenAI 官宣 GPT-5.6 本周四全面开放，哪些亮点值得期待？",
+          "url": "https://www.zhihu.com/question/2058166406420460573",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         }
       ]
     },
