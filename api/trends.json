@@ -1,51 +1,23 @@
 {
-  "generated_at": "2026-07-10T02:49:52.924903+08:00",
-  "total_titles_processed": 406,
+  "generated_at": "2026-07-10T04:47:08.726317+08:00",
+  "total_titles_processed": 487,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "马斯克",
-      "match_count": 3,
+      "keyword_group": "openai",
+      "match_count": 4,
       "titles": [
         {
-          "title": "马斯克点评Anthropic：该公司目前是AI领域的领跑者。",
-          "url": "https://wallstreetcn.com/livenews/3131501",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时49分"
-        },
-        {
-          "title": "马斯克：承认此前低估Anthropic，称其目前无疑是AI行业领先者",
-          "url": "https://flash.jin10.com/detail/20260710020628223800",
+          "title": "OpenAI：GPT‑5.6现已成为微软365 Copilot的首选模型。",
+          "url": "https://flash.jin10.com/detail/20260710040649835800",
           "source": "金十数据",
           "ranks": [
-            18
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时49分"
+          "time_info": "04时47分"
         },
-        {
-          "title": "马斯克的野心正在考验太空极限",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%9A%84%E9%87%8E%E5%BF%83%E6%AD%A3%E5%9C%A8%E8%80%83%E9%AA%8C%E5%A4%AA%E7%A9%BA%E6%9E%81%E9%99%90",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "openai",
-      "match_count": 2,
-      "titles": [
         {
           "title": "OpenAI：在与特朗普政府磋商后对GPT-5.6做出多项调整",
           "url": "https://flash.jin10.com/detail/20260709233707293800",
@@ -58,13 +30,64 @@
           "time_info": "00时27分"
         },
         {
+          "title": "OpenAI：微软将通过API调用其模型，向Microsoft 365客户推出GPT-5.6服务。",
+          "url": "https://flash.jin10.com/detail/20260710040229258800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
           "title": "OpenAI推出ChatGPT Work智能体，可连续数小时处理任务",
           "url": "https://wallstreetcn.com/livenews/3131490",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时49分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "马斯克的野心正在考验太空极限",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%9A%84%E9%87%8E%E5%BF%83%E6%AD%A3%E5%9C%A8%E8%80%83%E9%AA%8C%E5%A4%AA%E7%A9%BA%E6%9E%81%E9%99%90",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时49分 ~ 04时47分]"
+        },
+        {
+          "title": "马斯克点评Anthropic：该公司目前是AI领域的领跑者。",
+          "url": "https://wallstreetcn.com/livenews/3131501",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时49分"
+        },
+        {
+          "title": "马斯克：承认此前低估Anthropic，称其目前无疑是AI行业领先者",
+          "url": "https://flash.jin10.com/detail/20260710020628223800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时49分"
         }
