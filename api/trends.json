@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-10T04:47:08.726317+08:00",
-  "total_titles_processed": 487,
+  "generated_at": "2026-07-10T06:21:06.345805+08:00",
+  "total_titles_processed": 558,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时47分"
         },
@@ -36,7 +36,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时47分"
         },
@@ -66,8 +66,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时49分 ~ 04时47分]"
+          "appearance_count": 5,
+          "time_info": "[02时49分 ~ 06时21分]"
         },
         {
           "title": "马斯克点评Anthropic：该公司目前是AI领域的领跑者。",
