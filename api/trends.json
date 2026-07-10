@@ -1,168 +1,22 @@
 {
-  "generated_at": "2026-07-10T22:21:45.799535+08:00",
-  "total_titles_processed": 1425,
+  "generated_at": "2026-07-11T00:55:27.439884+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "openai",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "OpenAI高管Fidji Simo将卸任",
-          "url": "https://flash.jin10.com/detail/20260710070918440800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时03分"
-        },
-        {
-          "title": "OpenAI高管Fidji Simo将离职，未来将成为该公司兼职顾问。 Simo周四向OpenAI的员工们表达了辞职意愿。 此前，Simo接受的医学治疗时间已经被延长。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3131583",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时03分"
-        },
-        {
-          "title": "据华尔街日报：OpenAI高管Fidji Simo将辞职，未来将成为该公司兼职顾问。",
-          "url": "https://flash.jin10.com/detail/20260710070247898800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时03分"
-        },
-        {
-          "title": "OpenAI：GPT‑5.6现已成为微软365 Copilot的首选模型。",
-          "url": "https://flash.jin10.com/detail/20260710040649835800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时47分"
-        },
-        {
-          "title": "OpenAI：在与特朗普政府磋商后对GPT-5.6做出多项调整",
-          "url": "https://flash.jin10.com/detail/20260709233707293800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
-        },
-        {
-          "title": "OpenAI：微软将通过API调用其模型，向Microsoft 365客户推出GPT-5.6服务。",
-          "url": "https://flash.jin10.com/detail/20260710040229258800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时47分"
-        },
-        {
-          "title": "OpenAI推出ChatGPT Work智能体，可连续数小时处理任务",
-          "url": "https://wallstreetcn.com/livenews/3131490",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时49分"
-        }
-      ]
-    },
-    {
       "keyword_group": "马斯克",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "马斯克的野心正在考验太空极限",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%9A%84%E9%87%8E%E5%BF%83%E6%AD%A3%E5%9C%A8%E8%80%83%E9%AA%8C%E5%A4%AA%E7%A9%BA%E6%9E%81%E9%99%90",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            21,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时49分 ~ 08时03分]"
-        },
-        {
-          "title": "马斯克“画饼”，宇树填坑？全球首例人形机器人手术登上Nature",
-          "url": "https://www.cls.cn/detail/2422471",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时50分"
-        },
-        {
-          "title": "马斯克“抄了”智谱",
-          "url": "https://wallstreetcn.com/articles/3776533",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时03分"
-        },
-        {
-          "title": "马斯克点评Anthropic：该公司目前是AI领域的领跑者。",
-          "url": "https://wallstreetcn.com/livenews/3131501",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时49分"
-        },
-        {
-          "title": "马斯克：承认此前低估Anthropic，称其目前无疑是AI行业领先者",
-          "url": "https://flash.jin10.com/detail/20260710020628223800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "具身智能",
       "match_count": 1,
       "titles": [
         {
-          "title": "上纬新材：公司消费级具身智能机器人业务目前处于研发及应用场景验证阶段",
-          "url": "https://flash.jin10.com/detail/20260710191554076800",
-          "source": "金十数据",
+          "title": "SpaceX投资纠纷落幕，马斯克盟友Kahlon胜诉。（彭博法律Blaw）",
+          "url": "https://wallstreetcn.com/livenews/3132194",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时50分"
+          "time_info": "00时55分"
         }
       ]
     }
