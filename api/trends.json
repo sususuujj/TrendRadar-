@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T05:47:32.578783+08:00",
-  "total_titles_processed": 398,
+  "generated_at": "2026-07-12T06:45:04.599097+08:00",
+  "total_titles_processed": 422,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             1,
             7,
             9,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时55分 ~ 05时47分]"
+          "appearance_count": 5,
+          "time_info": "[01时55分 ~ 06时45分]"
         },
         {
           "title": "美国FCC批准“太空反射镜”试点 马斯克要求员工使用自家AI | 环球市场",
@@ -48,8 +49,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时59分 ~ 05时47分]"
+          "appearance_count": 6,
+          "time_info": "[02时59分 ~ 06时45分]"
         }
       ]
     },
@@ -62,11 +63,12 @@
           "url": "https://flash.jin10.com/detail/20260712043502920800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时47分 ~ 06时45分]"
         }
       ]
     },
@@ -86,8 +88,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时55分 ~ 05时47分]"
+          "appearance_count": 10,
+          "time_info": "[00时55分 ~ 06时45分]"
         }
       ]
     }
