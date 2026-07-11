@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T04:09:50.625491+08:00",
-  "total_titles_processed": 374,
+  "generated_at": "2026-07-12T05:47:32.578783+08:00",
+  "total_titles_processed": 398,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             1,
             7,
-            9
+            9,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时55分 ~ 04时09分]"
+          "appearance_count": 4,
+          "time_info": "[01时55分 ~ 05时47分]"
         },
         {
           "title": "美国FCC批准“太空反射镜”试点 马斯克要求员工使用自家AI | 环球市场",
@@ -27,9 +28,9 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时09分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时09分 ~ 05时47分]"
         }
       ]
     },
@@ -43,11 +44,29 @@
           "source": "知乎",
           "ranks": [
             13,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时59分 ~ 04时09分]"
+          "appearance_count": 4,
+          "time_info": "[02时59分 ~ 05时47分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI创始人奥尔特曼：至少到目前为止，我相当确信，AI总体上是在创造就业岗位，而不是减少就业。这与我此前的预期并不一致。虽然我没有其他人那么悲观，但我原本认为，当AI发展到如今这样的能力水平时，应该已经对就业市场产生一定影响了。当然，这一趋势可能会继续下去。",
+          "url": "https://flash.jin10.com/detail/20260712043502920800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时47分"
         }
       ]
     },
@@ -63,11 +82,12 @@
             19,
             29,
             24,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时55分 ~ 04时09分]"
+          "appearance_count": 8,
+          "time_info": "[00时55分 ~ 05时47分]"
         }
       ]
     }
