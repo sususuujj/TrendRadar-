@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T22:54:54.862088+08:00",
-  "total_titles_processed": 1302,
+  "generated_at": "2026-07-12T23:58:28.021697+08:00",
+  "total_titles_processed": 1351,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时26分 ~ 22时54分]"
+          "appearance_count": 5,
+          "time_info": "[18时26分 ~ 23时58分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：至少到目前为止，我相当确信，AI总体上是在创造就业岗位，而不是减少就业。这与我此前的预期并不一致。虽然我没有其他人那么悲观，但我原本认为，当AI发展到如今这样的能力水平时，应该已经对就业市场产生一定影响了。当然，这一趋势可能会继续下去。",
