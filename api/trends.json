@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-13T10:35:39.016438+08:00",
-  "total_titles_processed": 701,
+  "generated_at": "2026-07-13T14:15:37.178543+08:00",
+  "total_titles_processed": 887,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3776720",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 10时35分]"
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 14时15分]"
         },
         {
           "title": "OpenAI宣称攻克CDC猜想",
@@ -36,7 +37,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
         },
@@ -47,7 +48,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
         }
