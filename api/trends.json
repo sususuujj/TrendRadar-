@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-14T18:08:28.296792+08:00",
-  "total_titles_processed": 1324,
+  "generated_at": "2026-07-14T20:10:25.148458+08:00",
+  "total_titles_processed": 1476,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             8,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时03分 ~ 18时08分]"
+          "appearance_count": 3,
+          "time_info": "[16时03分 ~ 20时10分]"
         },
         {
           "title": "亚马逊云服务(AWS)：OpenAI GPT-5.6 SOL、TERRA 和 LUNA 现已在亚马逊基础设施上全面上线。",
@@ -42,11 +43,12 @@
           "source": "澎湃新闻",
           "ranks": [
             15,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时28分 ~ 18时08分]"
+          "appearance_count": 5,
+          "time_info": "[13时28分 ~ 20时10分]"
         }
       ]
     },
