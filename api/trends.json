@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-15T02:02:28.606521+08:00",
-  "total_titles_processed": 414,
+  "generated_at": "2026-07-15T03:40:15.557626+08:00",
+  "total_titles_processed": 487,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时12分 ~ 02时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时12分 ~ 03时40分]"
         },
         {
           "title": "DeepSeek估值或达4814亿",
@@ -42,11 +42,29 @@
           "source": "知乎",
           "ranks": [
             13,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时12分 ~ 02时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时12分 ~ 03时40分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "马斯克说十年内要在月球上建造一座城市、配备生活资料并移民几万人上去长期居住，这个计划可行吗？",
+          "url": "https://www.zhihu.com/question/2060166037149054543",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时39分 ~ 03时40分]"
         }
       ]
     }
