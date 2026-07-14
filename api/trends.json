@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-15T00:13:15.810010+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-07-15T02:02:28.606521+08:00",
+  "total_titles_processed": 414,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33570712",
           "source": "澎湃新闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 00时13分]"
+          "appearance_count": 3,
+          "time_info": "[00时12分 ~ 02时02分]"
         },
         {
           "title": "DeepSeek估值或达4814亿",
@@ -40,11 +41,12 @@
           "url": "https://www.zhihu.com/question/2059349642496710015",
           "source": "知乎",
           "ranks": [
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 00时13分]"
+          "appearance_count": 3,
+          "time_info": "[00时12分 ~ 02时02分]"
         }
       ]
     }
