@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-15T10:12:21.745509+08:00",
-  "total_titles_processed": 919,
+  "generated_at": "2026-07-15T13:30:18.739081+08:00",
+  "total_titles_processed": 1097,
   "failed_sources": [],
   "trends": [
     {
@@ -93,7 +93,7 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "AI时代需要什么样的人：从DeepSeek招聘清单说起",
@@ -117,6 +117,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时12分 ~ 00时13分]"
+        },
+        {
+          "title": "曝DeepSeek计划明年上市",
+          "url": "https://www.baidu.com/s?wd=%E6%9B%9DDeepSeek%E8%AE%A1%E5%88%92%E6%98%8E%E5%B9%B4%E4%B8%8A%E5%B8%82",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时29分 ~ 13时30分]"
         }
       ]
     },
