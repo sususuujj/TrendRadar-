@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-16T18:07:32.849735+08:00",
-  "total_titles_processed": 1335,
+  "generated_at": "2026-07-16T20:20:27.876891+08:00",
+  "total_titles_processed": 1494,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             3,
-            4
+            4,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时07分 ~ 15时22分]"
+          "appearance_count": 4,
+          "time_info": "[12时07分 ~ 20时20分]"
         },
         {
           "title": "DeepSeek工资待遇太恐怖了",
@@ -62,7 +63,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时07分"
         }
