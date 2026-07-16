@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-16T08:06:25.036067+08:00",
-  "total_titles_processed": 766,
+  "generated_at": "2026-07-16T12:08:07.245041+08:00",
+  "total_titles_processed": 979,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "DeepSeek工资待遇太恐怖了",
@@ -19,6 +19,34 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时20分 ~ 08时06分]"
+        },
+        {
+          "title": "如何看待网传 DeepSeek 实习日薪突破 5500 元？这反映了 AI 行业与求职市场哪些现状？",
+          "url": "https://www.zhihu.com/question/2060769193977280048",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时07分 ~ 12时08分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国新闻业与OpenAI对簿公堂",
+          "url": "https://www.toutiao.com/trending/7662658984817950758/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时07分 ~ 12时08分]"
         }
       ]
     },
@@ -33,7 +61,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
         }
