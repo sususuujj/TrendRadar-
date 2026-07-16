@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-17T06:03:14.072789+08:00",
-  "total_titles_processed": 547,
+  "generated_at": "2026-07-17T07:58:14.340553+08:00",
+  "total_titles_processed": 674,
   "failed_sources": [],
   "trends": [
     {
@@ -77,8 +77,30 @@
     },
     {
       "keyword_group": "Kimi",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "全球最大规模开源模型Kimi K3发布",
+          "url": "https://www.toutiao.com/trending/7663270788073524782/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时57分 ~ 07时58分]"
+        },
+        {
+          "title": "如何评价 7 月 16 日正式上线的 KIMI K3 模型？",
+          "url": "https://www.zhihu.com/question/2061204677446964906",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时57分 ~ 07时58分]"
+        },
         {
           "title": "如何评价月之暗面于 7 月 15 日开始灰度测试的 Kimi-K3？",
           "url": "https://www.zhihu.com/question/2060635206651065501",
@@ -104,6 +126,17 @@
           "time_info": "02时05分"
         },
         {
+          "title": "中国企业发布全球最大规模的开源模型Kimi K3",
+          "url": "https://flash.jin10.com/detail/20260717070628504800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
+        {
           "title": "韩国监管组合拳去杠杆，月之暗面Kimi K3已开放测试| Plus日报",
           "url": "https://flash.jin10.com/detail/20260716233306527800",
           "source": "金十数据",
@@ -118,7 +151,7 @@
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "马斯克评Kimi K3模型跑分情况：厉害。",
@@ -127,9 +160,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时03分"
+        },
+        {
+          "title": "马斯克：SpaceX有望在未来数日再次尝试发射火箭。 部分发动机未能点火，触发了自动中止发射程序。",
+          "url": "https://wallstreetcn.com/livenews/3135316",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
         },
         {
           "title": "DeepMind提设国际AI模型审查机构 马斯克和奥尔特曼表支持",
@@ -138,7 +182,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时03分"
         }
