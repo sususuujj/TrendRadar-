@@ -1,363 +1,61 @@
 {
-  "generated_at": "2026-07-17T22:43:24.176299+08:00",
-  "total_titles_processed": 1622,
+  "generated_at": "2026-07-18T00:14:26.411112+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "Kimi",
-      "match_count": 12,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "如何评价 7 月 16 日 Kimi 发布的 2.8 万亿级开源模型 K3？",
-          "url": "https://www.zhihu.com/question/2061204677446964906",
-          "source": "知乎",
-          "ranks": [
-            10,
-            1,
-            2,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时45分 ~ 18时46分]"
-        },
-        {
-          "title": "全球最大规模开源模型Kimi K3发布",
-          "url": "https://www.toutiao.com/trending/7663270788073524782/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时57分 ~ 10时45分]"
-        },
         {
           "title": "全球第三强，“Fable级体感”！2.8万亿参数Kimi K3刷新开源记录",
           "url": "https://wallstreetcn.com/articles/3777138",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            8,
-            6,
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时41分 ~ 22时43分]"
-        },
-        {
-          "title": "如何评价 7 月 16 日正式上线的 KIMI K3 模型？",
-          "url": "https://www.zhihu.com/question/2061204677446964906",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时57分 ~ 07时58分]"
-        },
-        {
-          "title": "如何评价月之暗面于 7 月 15 日开始灰度测试的 Kimi-K3？",
-          "url": "https://www.zhihu.com/question/2060635206651065501",
-          "source": "知乎",
-          "ranks": [
-            7,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 06时03分]"
-        },
-        {
-          "title": "月之暗面Kimi K3上线！系全球最大规模开源模型 支持视觉理解、100万token上下文",
-          "url": "https://www.cls.cn/detail/2429127",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时41分 ~ 16时07分]"
-        },
-        {
-          "title": "Kimi K3参数达2.8万亿",
-          "url": "https://s.weibo.com/weibo?q=Kimi%20K3%E5%8F%82%E6%95%B0%E8%BE%BE2.8%E4%B8%87%E4%BA%BF&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时45分"
-        },
-        {
-          "title": "中国企业发布全球最大规模的开源模型Kimi K3",
-          "url": "https://wallstreetcn.com/livenews/3135204",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时05分"
+          "time_info": "00时14分"
         },
         {
           "title": "2.8万亿！全球参数最大开源模型Kimi K3发布",
           "url": "https://m.thepaper.cn/newsDetail_forward_33603681",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时43分"
+          "time_info": "00时14分"
         },
         {
-          "title": "中国企业发布全球最大规模的开源模型Kimi K3",
-          "url": "https://flash.jin10.com/detail/20260717070628504800",
-          "source": "金十数据",
+          "title": "如何看待 Kimi K3 模型价格较上一代翻 5 倍，达到输出 100 元，输入 20 元，缓存命中 1 元？",
+          "url": "https://www.zhihu.com/question/2061233239566685346",
+          "source": "知乎",
           "ranks": [
-            19
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时58分"
-        },
-        {
-          "title": "韩国监管组合拳去杠杆，月之暗面Kimi K3已开放测试| Plus日报",
-          "url": "https://flash.jin10.com/detail/20260716233306527800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
-        },
-        {
-          "title": "UP主实测解读Kimi K3",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%B5%8B%E8%A7%A3%E8%AF%BBKimi%20K3",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "gemini",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "谷歌(GOOG.O)：Google Vids上线Gemini Omni和个人数字形象功能，面向Google AI Pro、AI Ultra订阅用户及Workspace企业客户开放。",
-          "url": "https://flash.jin10.com/detail/20260717001020905800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
-        },
-        {
-          "title": "谷歌(GOOG.O)推出Gemini Omni，并更新Google Vids个人数字形象功能。",
-          "url": "https://flash.jin10.com/detail/20260717000925338800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
-        },
-        {
-          "title": "谷歌Gemini模型发布延期传闻引发担忧 股价盘中跳水逾3%",
-          "url": "https://www.cls.cn/detail/2428944",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时45分 ~ 13时41分]"
-        },
-        {
-          "title": "谷歌盘中跌超4%，有报道称Gemini 3.5 Pro延迟发布",
-          "url": "https://flash.jin10.com/detail/20260717032122881800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时02分"
-        },
-        {
-          "title": "市场消息：英特尔(INTC.O)将整合先进的Gemini驱动的生成式人工智能，覆盖其全球员工。",
-          "url": "https://flash.jin10.com/detail/20260717000518313800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
-        },
-        {
-          "title": "谷歌母公司Alphabet（谷歌A）重挫5%刷新日低，报道称谷歌Gemini模型将推迟发布。",
-          "url": "https://wallstreetcn.com/livenews/3135246",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时02分"
-        },
-        {
-          "title": "谷歌(GOOG.O)日内跌近3%，有消息称谷歌Gemini 3.5 Pro推迟发布。",
-          "url": "https://flash.jin10.com/detail/20260717022948795800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时02分"
+          "time_info": "00时14分"
         }
       ]
     },
     {
       "keyword_group": "openai",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
         {
           "title": "“雷曼时刻”在逼近？大空头1.5万字长文起底：OpenAI必将崩溃，全球股市恐遭清算",
           "url": "https://wallstreetcn.com/articles/3777152",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时45分 ~ 22时43分]"
-        },
-        {
-          "title": "何为AI泡沫？分析师：OpenAI就是“业界雷曼兄弟”，一倒全市场将崩盘！",
-          "url": "https://www.cls.cn/detail/2429226",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时45分 ~ 18时46分]"
-        },
-        {
-          "title": "一些现就职于OpenAI的前苹果员工收到了法律信函。（英国《金融时报》）",
-          "url": "https://wallstreetcn.com/livenews/3135650",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时46分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "马斯克评Kimi K3模型跑分情况：厉害。",
-          "url": "https://flash.jin10.com/detail/20260717051020541800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时03分"
-        },
-        {
-          "title": "马斯克：SpaceX有望在未来数日再次尝试发射火箭。 部分发动机未能点火，触发了自动中止发射程序。",
-          "url": "https://wallstreetcn.com/livenews/3135316",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时58分"
-        },
-        {
-          "title": "DeepMind提设国际AI模型审查机构 马斯克和奥尔特曼表支持",
-          "url": "https://flash.jin10.com/detail/20260717045325097800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时03分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "豆包",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "报道：新豆包手机备货数十万台，AI不再硬操作头部应用",
-          "url": "https://wallstreetcn.com/livenews/3135779",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时43分"
-        },
-        {
-          "title": "新豆包手机备货数十万台，AI不再硬操作头部应用",
-          "url": "https://flash.jin10.com/detail/20260717220855243800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "千问",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "千问AI眼镜将升级为智能体眼镜",
-          "url": "https://wallstreetcn.com/livenews/3135623",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时46分"
+          "time_info": "00时14分"
         }
       ]
     },
@@ -366,15 +64,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "银河通用机器人创始人王鹤：具身智能的ChatGPT时刻2028年有望到来",
-          "url": "https://flash.jin10.com/detail/20260717154748058800",
-          "source": "金十数据",
+          "title": "蔚来芯片子公司神玑亮相WAIC并发布具身智能开发平台",
+          "url": "https://wallstreetcn.com/livenews/3135819",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            22
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时07分"
+          "time_info": "00时14分"
         }
       ]
     }
