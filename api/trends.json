@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-18T05:52:07.425880+08:00",
-  "total_titles_processed": 565,
+  "generated_at": "2026-07-18T06:47:57.219963+08:00",
+  "total_titles_processed": 587,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "Kimi",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "如何看待 Kimi K3 模型价格较上一代翻 5 倍，达到输出 100 元，输入 20 元，缓存命中 1 元？",
@@ -18,8 +18,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时14分 ~ 05时52分]"
+          "appearance_count": 7,
+          "time_info": "[00时14分 ~ 06时47分]"
         },
         {
           "title": "2.8万亿！全球参数最大开源模型Kimi K3发布",
@@ -27,11 +27,23 @@
           "source": "澎湃新闻",
           "ranks": [
             16,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时14分 ~ 05时52分]"
+          "appearance_count": 7,
+          "time_info": "[00时14分 ~ 06时47分]"
+        },
+        {
+          "title": "Kimi冲击美科技股，纳指再跌1%，芯片股跌入熊市，美伊冲突升级油价大涨",
+          "url": "https://wallstreetcn.com/articles/3777186",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时47分"
         },
         {
           "title": "全球第三强，“Fable级体感”！2.8万亿参数Kimi K3刷新开源记录",
@@ -68,7 +80,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时52分"
         }
@@ -87,8 +99,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时14分 ~ 05时52分]"
+          "appearance_count": 7,
+          "time_info": "[00时14分 ~ 06时47分]"
         }
       ]
     },
