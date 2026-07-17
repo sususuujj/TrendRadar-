@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-18T00:14:26.411112+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-07-18T02:05:01.225732+08:00",
+  "total_titles_processed": 415,
   "failed_sources": [],
   "trends": [
     {
@@ -15,30 +15,32 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时14分"
+          "appearance_count": 3,
+          "time_info": "[00时14分 ~ 02时05分]"
         },
         {
           "title": "2.8万亿！全球参数最大开源模型Kimi K3发布",
           "url": "https://m.thepaper.cn/newsDetail_forward_33603681",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时14分"
+          "appearance_count": 3,
+          "time_info": "[00时14分 ~ 02时05分]"
         },
         {
           "title": "如何看待 Kimi K3 模型价格较上一代翻 5 倍，达到输出 100 元，输入 20 元，缓存命中 1 元？",
           "url": "https://www.zhihu.com/question/2061233239566685346",
           "source": "知乎",
           "ranks": [
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时14分"
+          "appearance_count": 3,
+          "time_info": "[00时14分 ~ 02时05分]"
         }
       ]
     },
@@ -54,8 +56,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时14分"
+          "appearance_count": 3,
+          "time_info": "[00时14分 ~ 02时05分]"
         }
       ]
     },
