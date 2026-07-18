@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-19T05:49:51.096832+08:00",
-  "total_titles_processed": 463,
+  "generated_at": "2026-07-19T06:47:15.485129+08:00",
+  "total_titles_processed": 492,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时56分 ~ 05时49分]"
+          "appearance_count": 9,
+          "time_info": "[00时56分 ~ 06时47分]"
         },
         {
           "title": "费城半导体指数入熊之际：“Kimi时刻”刷屏华尔街！",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时56分 ~ 05时49分]"
+          "appearance_count": 9,
+          "time_info": "[00时56分 ~ 06时47分]"
         },
         {
           "title": "高盛点评Kimi K3：中国开源模型“智能”达到全球普及关键点，高端模型竞争激烈",
@@ -38,8 +38,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时56分 ~ 05时49分]"
+          "appearance_count": 9,
+          "time_info": "[00时56分 ~ 06时47分]"
         },
         {
           "title": "Kimi K3测评报告",
@@ -51,8 +51,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时56分 ~ 05时49分]"
+          "appearance_count": 9,
+          "time_info": "[00时56分 ~ 06时47分]"
         },
         {
           "title": "性能强悍,Kimi新模型引爆外网",
@@ -62,8 +62,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时56分 ~ 05时49分]"
+          "appearance_count": 9,
+          "time_info": "[00时56分 ~ 06时47分]"
         },
         {
           "title": "曝Kimi最快6个月内完成港股上市",
@@ -90,11 +90,29 @@
             17,
             16,
             15,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时56分 ~ 05时49分]"
+          "appearance_count": 9,
+          "time_info": "[00时56分 ~ 06时47分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "白宫前AI政策官员、 OpenAI战略未来主管迪恩·鲍尔：Kimi K3是一个非常优秀的模型！我不认为它的表现可以简单归因于蒸馏或类似技术。在智能体编程场景中，它的表现似乎基本可以与2026年第一季度最优秀的公开模型相媲美。",
+          "url": "https://flash.jin10.com/detail/20260719055403527800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时47分"
         }
       ]
     },
@@ -111,8 +129,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时56分 ~ 05时49分]"
+          "appearance_count": 9,
+          "time_info": "[00时56分 ~ 06时47分]"
         }
       ]
     }
