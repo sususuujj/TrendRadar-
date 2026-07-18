@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-19T04:08:39.679312+08:00",
-  "total_titles_processed": 419,
+  "generated_at": "2026-07-19T05:49:51.096832+08:00",
+  "total_titles_processed": 463,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 04时08分]"
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 05时49分]"
         },
         {
           "title": "费城半导体指数入熊之际：“Kimi时刻”刷屏华尔街！",
@@ -26,19 +26,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 04时08分]"
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 05时49分]"
         },
         {
           "title": "高盛点评Kimi K3：中国开源模型“智能”达到全球普及关键点，高端模型竞争激烈",
           "url": "https://wallstreetcn.com/articles/3777291",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 04时08分]"
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 05时49分]"
         },
         {
           "title": "Kimi K3测评报告",
@@ -46,11 +47,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             9,
-            6
+            6,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 04时08分]"
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 05时49分]"
         },
         {
           "title": "性能强悍,Kimi新模型引爆外网",
@@ -60,8 +62,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 04时08分]"
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 05时49分]"
         },
         {
           "title": "曝Kimi最快6个月内完成港股上市",
@@ -87,11 +89,12 @@
           "ranks": [
             17,
             16,
-            15
+            15,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 04时08分]"
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 05时49分]"
         }
       ]
     },
@@ -108,8 +111,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 04时08分]"
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 05时49分]"
         }
       ]
     }
