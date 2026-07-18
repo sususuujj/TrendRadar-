@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-19T03:02:16.007228+08:00",
-  "total_titles_processed": 393,
+  "generated_at": "2026-07-19T04:08:39.679312+08:00",
+  "total_titles_processed": 419,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 03时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时56分 ~ 04时08分]"
         },
         {
           "title": "费城半导体指数入熊之际：“Kimi时刻”刷屏华尔街！",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 03时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时56分 ~ 04时08分]"
         },
         {
           "title": "高盛点评Kimi K3：中国开源模型“智能”达到全球普及关键点，高端模型竞争激烈",
@@ -37,19 +37,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 03时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时56分 ~ 04时08分]"
         },
         {
           "title": "Kimi K3测评报告",
           "url": "https://search.bilibili.com/all?keyword=Kimi%20K3%E6%B5%8B%E8%AF%84%E6%8A%A5%E5%91%8A",
           "source": "bilibili 热搜",
           "ranks": [
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 03时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时56分 ~ 04时08分]"
         },
         {
           "title": "性能强悍,Kimi新模型引爆外网",
@@ -59,8 +60,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 03时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时56分 ~ 04时08分]"
         },
         {
           "title": "曝Kimi最快6个月内完成港股上市",
@@ -85,11 +86,12 @@
           "source": "知乎",
           "ranks": [
             17,
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 03时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时56分 ~ 04时08分]"
         }
       ]
     },
@@ -102,11 +104,12 @@
           "url": "https://www.cls.cn/detail/2430120",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 03时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时56分 ~ 04时08分]"
         }
       ]
     }
