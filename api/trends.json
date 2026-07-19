@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-19T16:13:41.425939+08:00",
-  "total_titles_processed": 1027,
+  "generated_at": "2026-07-19T18:26:49.268434+08:00",
+  "total_titles_processed": 1185,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时56分 ~ 16时13分]"
+          "appearance_count": 16,
+          "time_info": "[00时56分 ~ 18时26分]"
         },
         {
           "title": "Kimi冲击美科技股，纳指100一度跌2.7%、收盘跌幅收窄，芯片股进入熊市，油价大涨",
@@ -67,11 +67,24 @@
             13,
             15,
             22,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时56分 ~ 16时13分]"
+          "appearance_count": 16,
+          "time_info": "[00时56分 ~ 18时26分]"
+        },
+        {
+          "title": "SemiAnalysis：Kimi K3的KDA机制提高注意力效率，但将需要更多的GPU、HBM、DRAM和网络，而非更少！",
+          "url": "https://wallstreetcn.com/articles/3777348",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时13分 ~ 18时26分]"
         },
         {
           "title": "Kimi K3把美股半导体干崩了",
@@ -82,8 +95,20 @@
             22
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时50分 ~ 18时26分]"
+        },
+        {
+          "title": "月之暗面 Kimi 最新发布的大模型 K3 有哪些局限性？",
+          "url": "https://www.zhihu.com/question/2061509036919316967",
+          "source": "知乎",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时50分 ~ 16时13分]"
+          "time_info": "[16时13分 ~ 18时26分]"
         },
         {
           "title": "曝Kimi最快6个月内完成港股上市",
@@ -97,35 +122,13 @@
           "time_info": "[01时55分 ~ 01时56分]"
         },
         {
-          "title": "SemiAnalysis：Kimi K3的KDA机制提高注意力效率，但将需要更多的GPU、HBM、DRAM和网络，而非更少！",
-          "url": "https://wallstreetcn.com/articles/3777348",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时13分"
-        },
-        {
-          "title": "月之暗面 Kimi 最新发布的大模型 K3 有哪些局限性？",
-          "url": "https://www.zhihu.com/question/2061509036919316967",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时13分"
-        },
-        {
           "title": "电子斗蛐蛐 实测kimi k3",
           "url": "https://search.bilibili.com/all?keyword=%E7%94%B5%E5%AD%90%E6%96%97%E8%9B%90%E8%9B%90%20%E5%AE%9E%E6%B5%8Bkimi%20k3",
           "source": "bilibili 热搜",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时13分"
         },
@@ -136,7 +139,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时13分"
         }
@@ -169,11 +172,40 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时50分 ~ 16时13分]"
+          "appearance_count": 3,
+          "time_info": "[13时50分 ~ 18时26分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "马斯克称看中国机器人格斗赛看乐了",
+          "url": "https://www.toutiao.com/trending/7663919447194845220/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时50分"
+        },
+        {
+          "title": "马斯克宣称要赶超Kimi",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%AE%A3%E7%A7%B0%E8%A6%81%E8%B5%B6%E8%B6%85Kimi%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
         }
       ]
     },
@@ -191,8 +223,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时56分 ~ 16时13分]"
+          "appearance_count": 16,
+          "time_info": "[00时56分 ~ 18时26分]"
         },
         {
           "title": "沪光股份携手启元机器人，加速消费级具身智能规模化落地",
@@ -201,7 +233,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时13分"
         }
@@ -222,23 +254,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时47分 ~ 10时31分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "马斯克称看中国机器人格斗赛看乐了",
-          "url": "https://www.toutiao.com/trending/7663919447194845220/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时50分"
         }
       ]
     }
