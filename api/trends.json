@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-19T21:15:14.722322+08:00",
-  "total_titles_processed": 1418,
+  "generated_at": "2026-07-19T22:54:11.528897+08:00",
+  "total_titles_processed": 1528,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "Kimi",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "高盛点评Kimi K3：中国开源模型“智能”达到全球普及关键点，高端模型竞争激烈",
@@ -59,6 +59,19 @@
           "time_info": "[00时56分 ~ 07时53分]"
         },
         {
+          "title": "SemiAnalysis：Kimi K3的KDA机制提高注意力效率，但将需要更多的GPU、HBM、DRAM和网络，而非更少！",
+          "url": "https://wallstreetcn.com/articles/3777348",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时13分 ~ 22时54分]"
+        },
+        {
           "title": "性能强悍,Kimi新模型引爆外网",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356296&amp;topic_name=%E6%80%A7%E8%83%BD%E5%BC%BA%E6%82%8D%2CKimi%E6%96%B0%E6%A8%A1%E5%9E%8B%E5%BC%95%E7%88%86%E5%A4%96%E7%BD%91",
           "source": "贴吧",
@@ -70,35 +83,36 @@
             24,
             26,
             27,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时56分 ~ 21时15分]"
-        },
-        {
-          "title": "SemiAnalysis：Kimi K3的KDA机制提高注意力效率，但将需要更多的GPU、HBM、DRAM和网络，而非更少！",
-          "url": "https://wallstreetcn.com/articles/3777348",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时13分 ~ 21时15分]"
+          "appearance_count": 21,
+          "time_info": "[00时56分 ~ 22时54分]"
         },
         {
           "title": "月之暗面将推出新模型 KimiK3，将给 AI 市场带来哪些新冲击？",
           "url": "https://www.zhihu.com/question/2061156114658485568",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时56分 ~ 21时15分]"
+          "appearance_count": 5,
+          "time_info": "[19时56分 ~ 22时54分]"
+        },
+        {
+          "title": "Kimi K3让全球AI圈炸锅了",
+          "url": "https://www.toutiao.com/trending/7664192249667784198/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时14分 ~ 22时54分]"
         },
         {
           "title": "Kimi K3把美股半导体干崩了",
@@ -113,17 +127,6 @@
           "time_info": "[13时50分 ~ 18时26分]"
         },
         {
-          "title": "Kimi K3让全球AI圈炸锅了",
-          "url": "https://www.toutiao.com/trending/7664192249667784198/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时14分 ~ 21时15分]"
-        },
-        {
           "title": "月之暗面 Kimi 最新发布的大模型 K3 有哪些局限性？",
           "url": "https://www.zhihu.com/question/2061509036919316967",
           "source": "知乎",
@@ -134,6 +137,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时13分 ~ 18时26分]"
+        },
+        {
+          "title": "Kimi K3让美国AI巨头慌了",
+          "url": "https://www.baidu.com/s?wd=Kimi+K3%E8%AE%A9%E7%BE%8E%E5%9B%BDAI%E5%B7%A8%E5%A4%B4%E6%85%8C%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时53分 ~ 22时54分]"
         },
         {
           "title": "曝Kimi最快6个月内完成港股上市",
@@ -203,11 +217,12 @@
           "url": "https://wallstreetcn.com/livenews/3136277",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时15分 ~ 22时54分]"
         },
         {
           "title": "沪光股份携手启元机器人，加速消费级具身智能规模化落地",
@@ -227,6 +242,19 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "DeepSeek V4「满血版」曝光了！最快明天发布",
+          "url": "https://wallstreetcn.com/articles/3777339",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时50分 ~ 22时54分]"
+        },
+        {
           "title": "DeepSeek V4 正式版即将发布，有哪些值得关注的亮点？",
           "url": "https://www.zhihu.com/question/2061407401308152796",
           "source": "知乎",
@@ -242,19 +270,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时56分 ~ 10时31分]"
-        },
-        {
-          "title": "DeepSeek V4「满血版」曝光了！最快明天发布",
-          "url": "https://wallstreetcn.com/articles/3777339",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时50分 ~ 21时15分]"
         }
       ]
     },
@@ -262,6 +277,20 @@
       "keyword_group": "马斯克",
       "match_count": 2,
       "titles": [
+        {
+          "title": "马斯克宣称要赶超Kimi",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%AE%A3%E7%A7%B0%E8%A6%81%E8%B5%B6%E8%B6%85Kimi%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17,
+            20,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时26分 ~ 22时54分]"
+        },
         {
           "title": "马斯克称看中国机器人格斗赛看乐了",
           "url": "https://www.toutiao.com/trending/7663919447194845220/",
@@ -272,19 +301,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
-        },
-        {
-          "title": "马斯克宣称要赶超Kimi",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%AE%A3%E7%A7%B0%E8%A6%81%E8%B5%B6%E8%B6%85Kimi%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17,
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时26分 ~ 21时15分]"
         }
       ]
     },
