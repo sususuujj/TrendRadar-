@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-20T05:51:18.536844+08:00",
-  "total_titles_processed": 511,
+  "generated_at": "2026-07-20T06:50:50.808261+08:00",
+  "total_titles_processed": 569,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时57分 ~ 05时51分]"
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 06时50分]"
         },
         {
           "title": "Kimi K3让全球AI圈炸锅了",
@@ -27,11 +27,12 @@
             20,
             21,
             13,
-            28
+            28,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时57分 ~ 05时51分]"
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 06时50分]"
         },
         {
           "title": "月之暗面将推出新模型 KimiK3，将给 AI 市场带来哪些新冲击？",
@@ -72,8 +73,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时57分 ~ 05时51分]"
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 06时50分]"
         },
         {
           "title": "如何看待部分社区认为 DeepSeek-V4 的灰度测试是路由 Claude Fable 、 Opus 等模型？",
@@ -102,11 +103,12 @@
             9,
             8,
             5,
-            13
+            13,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时57分 ~ 05时51分]"
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 06时50分]"
         }
       ]
     },
