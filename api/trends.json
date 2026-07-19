@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-19T07:53:14.832206+08:00",
-  "total_titles_processed": 557,
+  "generated_at": "2026-07-19T10:31:21.788672+08:00",
+  "total_titles_processed": 708,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             5,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时56分 ~ 07时53分]"
+          "appearance_count": 13,
+          "time_info": "[00时56分 ~ 10时31分]"
         },
         {
           "title": "费城半导体指数入熊之际：“Kimi时刻”刷屏华尔街！",
@@ -28,8 +29,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时56分 ~ 07时53分]"
+          "appearance_count": 13,
+          "time_info": "[00时56分 ~ 10时31分]"
         },
         {
           "title": "Kimi冲击美科技股，纳指100一度跌2.7%、收盘跌幅收窄，芯片股进入熊市，油价大涨",
@@ -62,11 +63,12 @@
           "source": "贴吧",
           "ranks": [
             12,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时56分 ~ 07时53分]"
+          "appearance_count": 13,
+          "time_info": "[00时56分 ~ 10时31分]"
         },
         {
           "title": "曝Kimi最快6个月内完成港股上市",
@@ -95,11 +97,12 @@
             15,
             10,
             9,
-            6
+            6,
+            18
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时56分 ~ 07时53分]"
+          "appearance_count": 13,
+          "time_info": "[00时56分 ~ 10时31分]"
         }
       ]
     },
@@ -112,11 +115,12 @@
           "url": "https://flash.jin10.com/detail/20260719055403527800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时47分 ~ 07时53分]"
+          "appearance_count": 3,
+          "time_info": "[06时47分 ~ 10时31分]"
         }
       ]
     },
@@ -133,8 +137,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时56分 ~ 07时53分]"
+          "appearance_count": 13,
+          "time_info": "[00时56分 ~ 10时31分]"
         }
       ]
     }
