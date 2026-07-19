@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-20T01:58:35.715374+08:00",
-  "total_titles_processed": 355,
+  "generated_at": "2026-07-20T03:09:52.762157+08:00",
+  "total_titles_processed": 386,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3777348",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 01时58分]"
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 03时09分]"
         },
         {
           "title": "月之暗面将推出新模型 KimiK3，将给 AI 市场带来哪些新冲击？",
@@ -24,11 +25,12 @@
           "source": "知乎",
           "ranks": [
             16,
-            17
+            17,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 01时58分]"
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 03时09分]"
         },
         {
           "title": "Kimi K3让全球AI圈炸锅了",
@@ -36,11 +38,12 @@
           "source": "今日头条",
           "ranks": [
             20,
-            21
+            21,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 01时58分]"
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 03时09分]"
         }
       ]
     },
@@ -56,19 +59,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 01时58分]"
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 03时09分]"
         },
         {
           "title": "如何看待部分社区认为 DeepSeek-V4 的灰度测试是路由 Claude Fable 、 Opus 等模型？",
           "url": "https://www.zhihu.com/question/2062188301013071138",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 01时58分]"
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 03时09分]"
         }
       ]
     },
@@ -82,11 +86,12 @@
           "source": "知乎",
           "ranks": [
             9,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 01时58分]"
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 03时09分]"
         }
       ]
     },
