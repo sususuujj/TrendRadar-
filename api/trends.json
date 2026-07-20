@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-07-21T05:11:24.247405+08:00",
-  "total_titles_processed": 437,
+  "generated_at": "2026-07-21T06:59:18.554940+08:00",
+  "total_titles_processed": 514,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "为什么豆包没有被 DeepSeek「斩杀」？",
+          "url": "https://www.zhihu.com/question/2061575313973416591",
+          "source": "知乎",
+          "ranks": [
+            15,
+            13,
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时01分 ~ 06时59分]"
+        },
         {
           "title": "如何看待最近网传的 DeepSeek v4 正式版灰测？",
           "url": "https://www.zhihu.com/question/2059057378591613636",
@@ -19,17 +33,15 @@
           "time_info": "02时01分"
         },
         {
-          "title": "为什么豆包没有被 DeepSeek「斩杀」？",
-          "url": "https://www.zhihu.com/question/2061575313973416591",
+          "title": "如何看待追光总裁称《三国第一部：争洛阳》以曹操为主角，是参考了 DeepSeek 的建议?",
+          "url": "https://www.zhihu.com/question/2061868472049652679",
           "source": "知乎",
           "ranks": [
-            15,
-            13,
-            8
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时01分 ~ 05时11分]"
+          "appearance_count": 2,
+          "time_info": "[06时58分 ~ 06时59分]"
         }
       ]
     },
@@ -42,11 +54,12 @@
           "url": "https://wallstreetcn.com/articles/3777376",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时01分 ~ 05时11分]"
+          "appearance_count": 5,
+          "time_info": "[02时01分 ~ 06时59分]"
         },
         {
           "title": "更多Token、更多芯片！Kimi K3体现“杰文斯悖论”，效率提升反而增加资源消耗",
@@ -56,8 +69,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时01分 ~ 05时11分]"
+          "appearance_count": 5,
+          "time_info": "[02时01分 ~ 06时59分]"
         }
       ]
     },
@@ -74,8 +87,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时01分 ~ 05时11分]"
+          "appearance_count": 5,
+          "time_info": "[02时01分 ~ 06时59分]"
         }
       ]
     }
