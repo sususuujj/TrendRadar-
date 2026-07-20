@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-21T03:53:20.630683+08:00",
-  "total_titles_processed": 376,
+  "generated_at": "2026-07-21T05:11:24.247405+08:00",
+  "total_titles_processed": 437,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "source": "知乎",
           "ranks": [
             15,
-            13
+            13,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时01分 ~ 03时53分]"
+          "appearance_count": 3,
+          "time_info": "[02时01分 ~ 05时11分]"
         }
       ]
     },
@@ -44,8 +45,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时01分 ~ 03时53分]"
+          "appearance_count": 3,
+          "time_info": "[02时01分 ~ 05时11分]"
         },
         {
           "title": "更多Token、更多芯片！Kimi K3体现“杰文斯悖论”，效率提升反而增加资源消耗",
@@ -55,8 +56,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时01分 ~ 03时53分]"
+          "appearance_count": 3,
+          "time_info": "[02时01分 ~ 05时11分]"
         }
       ]
     },
@@ -73,8 +74,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时01分 ~ 03时53分]"
+          "appearance_count": 3,
+          "time_info": "[02时01分 ~ 05时11分]"
         }
       ]
     }
