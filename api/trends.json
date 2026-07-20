@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-20T07:56:06.921889+08:00",
-  "total_titles_processed": 658,
+  "generated_at": "2026-07-20T10:46:11.436238+08:00",
+  "total_titles_processed": 844,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "Kimi",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "SemiAnalysis：Kimi K3的KDA机制提高注意力效率，但将需要更多的GPU、HBM、DRAM和网络，而非更少！",
@@ -16,8 +16,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时57分 ~ 07时56分]"
+          "appearance_count": 10,
+          "time_info": "[00时57分 ~ 10时46分]"
         },
         {
           "title": "Kimi K3让全球AI圈炸锅了",
@@ -36,6 +36,17 @@
           "time_info": "[00时57分 ~ 07时56分]"
         },
         {
+          "title": "如何看待月之暗面 kimi 在 2026 年 7 月 19 日宣布算力紧张，暂停会员开放？",
+          "url": "https://www.zhihu.com/question/2062310754481656074",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时55分 ~ 10时46分]"
+        },
+        {
           "title": "月之暗面将推出新模型 KimiK3，将给 AI 市场带来哪些新冲击？",
           "url": "https://www.zhihu.com/question/2061156114658485568",
           "source": "知乎",
@@ -49,15 +60,15 @@
           "time_info": "[00时57分 ~ 03时09分]"
         },
         {
-          "title": "如何看待月之暗面 kimi 在 2026 年 7 月 19 日宣布算力紧张，暂停会员开放？",
-          "url": "https://www.zhihu.com/question/2062310754481656074",
-          "source": "知乎",
+          "title": "Kimi K3引发算力逻辑讨论",
+          "url": "https://s.weibo.com/weibo?q=Kimi%20K3%E5%BC%95%E5%8F%91%E7%AE%97%E5%8A%9B%E9%80%BB%E8%BE%91%E8%AE%A8%E8%AE%BA&t=31&band_rank=10&Refer=top",
+          "source": "微博",
           "ranks": [
-            7
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时55分 ~ 07时56分]"
+          "time_info": "[10时45分 ~ 10时46分]"
         },
         {
           "title": "Kimi：即日起暂停C端新用户订阅，将已有算力全部投入于服务已订阅用户，已在全速推进算力扩容",
@@ -93,11 +104,12 @@
           "url": "https://wallstreetcn.com/articles/3777339",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时57分 ~ 07时56分]"
+          "appearance_count": 10,
+          "time_info": "[00时57分 ~ 10时46分]"
         },
         {
           "title": "如何看待部分社区认为 DeepSeek-V4 的灰度测试是路由 Claude Fable 、 Opus 等模型？",
@@ -111,6 +123,34 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时57分 ~ 05时51分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "具身智能",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "2026 WAIC深度观察：具身智能告别“秀场时代”",
+          "url": "https://www.cls.cn/detail/2430678",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时45分 ~ 10时46分]"
+        },
+        {
+          "title": "创通联达具身智能产品TurboX IRB10全球首发落地",
+          "url": "https://wallstreetcn.com/livenews/3136277",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时57分 ~ 01时58分]"
         }
       ]
     },
@@ -132,23 +172,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时57分 ~ 07时56分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "具身智能",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "创通联达具身智能产品TurboX IRB10全球首发落地",
-          "url": "https://wallstreetcn.com/livenews/3136277",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 01时58分]"
         }
       ]
     }
