@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-22T06:55:12.399089+08:00",
-  "total_titles_processed": 542,
+  "generated_at": "2026-07-22T07:55:58.298272+08:00",
+  "total_titles_processed": 626,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时16分 ~ 06时55分]"
+          "appearance_count": 8,
+          "time_info": "[01时16分 ~ 07时55分]"
         },
         {
           "title": "AI逃离沙盒 OpenAI认下Hugging Face被黑事件",
@@ -80,7 +80,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时55分"
         },
@@ -172,8 +172,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时06分 ~ 06时55分]"
+          "appearance_count": 5,
+          "time_info": "[05时06分 ~ 07时55分]"
+        },
+        {
+          "title": "Kimi 新模型 K3 跑分力压 ClaudeFable5 登顶，这将对大模型市场格局产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2061356466783642903",
+          "source": "知乎",
+          "ranks": [
+            14,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时54分 ~ 07时55分]"
         },
         {
           "title": "实探月之暗面Kimi：K3之后，算力、开源与商业化怎么走？",
@@ -185,17 +197,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时06分 ~ 05时07分]"
-        },
-        {
-          "title": "Kimi 新模型 K3 跑分力压 ClaudeFable5 登顶，这将对大模型市场格局产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2061356466783642903",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时54分 ~ 06时55分]"
         }
       ]
     },
@@ -213,8 +214,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时16分 ~ 06时55分]"
+          "appearance_count": 8,
+          "time_info": "[01时16分 ~ 07时55分]"
         },
         {
           "title": "不要用豆包解决人际关系矛盾",
@@ -227,8 +228,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时16分 ~ 06时55分]"
+          "appearance_count": 8,
+          "time_info": "[01时16分 ~ 07时55分]"
         }
       ]
     },
@@ -245,8 +246,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时16分 ~ 06时55分]"
+          "appearance_count": 8,
+          "time_info": "[01时16分 ~ 07时55分]"
         }
       ]
     },
