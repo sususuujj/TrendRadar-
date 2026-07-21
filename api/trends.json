@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-21T06:59:18.554940+08:00",
-  "total_titles_processed": 514,
+  "generated_at": "2026-07-21T08:01:58.936938+08:00",
+  "total_titles_processed": 589,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             15,
             13,
             8,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时01分 ~ 06时59分]"
+          "appearance_count": 6,
+          "time_info": "[02时01分 ~ 08时01分]"
         },
         {
           "title": "如何看待最近网传的 DeepSeek v4 正式版灰测？",
@@ -37,11 +38,12 @@
           "url": "https://www.zhihu.com/question/2061868472049652679",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时58分 ~ 06时59分]"
+          "appearance_count": 3,
+          "time_info": "[06时58分 ~ 08时01分]"
         }
       ]
     },
@@ -58,19 +60,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时01分 ~ 06时59分]"
+          "appearance_count": 6,
+          "time_info": "[02时01分 ~ 08时01分]"
         },
         {
           "title": "更多Token、更多芯片！Kimi K3体现“杰文斯悖论”，效率提升反而增加资源消耗",
           "url": "https://wallstreetcn.com/articles/3777389",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时01分 ~ 06时59分]"
+          "appearance_count": 6,
+          "time_info": "[02时01分 ~ 08时01分]"
         }
       ]
     },
@@ -87,8 +90,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时01分 ~ 06时59分]"
+          "appearance_count": 6,
+          "time_info": "[02时01分 ~ 08时01分]"
         }
       ]
     }
