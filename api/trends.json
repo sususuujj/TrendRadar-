@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-22T10:28:05.063988+08:00",
-  "total_titles_processed": 800,
+  "generated_at": "2026-07-22T13:48:57.769263+08:00",
+  "total_titles_processed": 981,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "openai",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "OpenAI负责人抨击Kimi开源",
@@ -13,11 +13,23 @@
           "source": "贴吧",
           "ranks": [
             22,
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时16分 ~ 10时28分]"
+          "appearance_count": 11,
+          "time_info": "[01时16分 ~ 13时48分]"
+        },
+        {
+          "title": "Kimi 员工震惊和 OpenAI 算力的差距，为什么在这么大差距下 Kimi 还能做出来 K3 ？",
+          "url": "https://www.zhihu.com/question/2062943431668789795",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
         },
         {
           "title": "AI逃离沙盒 OpenAI认下Hugging Face被黑事件",
@@ -112,8 +124,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[05时06分 ~ 10时28分]"
+          "appearance_count": 8,
+          "time_info": "[05时06分 ~ 13时48分]"
         },
         {
           "title": "Kimi 新模型 K3 跑分力压 ClaudeFable5 登顶，这将对大模型市场格局产生哪些影响？",
@@ -129,6 +141,30 @@
           "time_info": "[06时54分 ~ 10时28分]"
         },
         {
+          "title": "美股存储概念全线爆发！华尔街喊话坚守AI硬件股：Kimi K3将催生新需求",
+          "url": "https://www.cls.cn/detail/2433303",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时27分 ~ 13时48分]"
+        },
+        {
+          "title": "Kimi 创始人杨植麟回国创业引热议，怎样看待他的选择？",
+          "url": "https://www.zhihu.com/question/2062858490343953648",
+          "source": "知乎",
+          "ranks": [
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时27分 ~ 13时48分]"
+        },
+        {
           "title": "实探月之暗面Kimi：K3之后，算力、开源与商业化怎么走？",
           "url": "https://www.cls.cn/detail/2432968",
           "source": "财联社热门",
@@ -138,28 +174,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时06分 ~ 05时07分]"
-        },
-        {
-          "title": "美股存储概念全线爆发！华尔街喊话坚守AI硬件股：Kimi K3将催生新需求",
-          "url": "https://www.cls.cn/detail/2433303",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时27分 ~ 10时28分]"
-        },
-        {
-          "title": "Kimi 创始人杨植麟回国创业引热议，怎样看待他的选择？",
-          "url": "https://www.zhihu.com/question/2062858490343953648",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时27分 ~ 10时28分]"
         },
         {
           "title": "Kimi新模型登顶多个榜单第一",
@@ -248,6 +262,34 @@
       ]
     },
     {
+      "keyword_group": "马斯克",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "马斯克母亲吐槽纽约脏乱差",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356390&amp;topic_name=%E9%A9%AC%E6%96%AF%E5%85%8B%E6%AF%8D%E4%BA%B2%E5%90%90%E6%A7%BD%E7%BA%BD%E7%BA%A6%E8%84%8F%E4%B9%B1%E5%B7%AE",
+          "source": "贴吧",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
+        },
+        {
+          "title": "马斯克旗下太空探索公司SpaceX收涨3.1%，结束此前连续七个交易日下跌的趋势。",
+          "url": "https://wallstreetcn.com/livenews/3137741",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时07分"
+        }
+      ]
+    },
+    {
       "keyword_group": "豆包",
       "match_count": 2,
       "titles": [
@@ -259,11 +301,12 @@
             7,
             5,
             9,
-            2
+            2,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时16分 ~ 10时28分]"
+          "appearance_count": 11,
+          "time_info": "[01时16分 ~ 13时48分]"
         },
         {
           "title": "不要用豆包解决人际关系矛盾",
@@ -297,23 +340,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时16分 ~ 07时55分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "马斯克旗下太空探索公司SpaceX收涨3.1%，结束此前连续七个交易日下跌的趋势。",
-          "url": "https://wallstreetcn.com/livenews/3137741",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时07分"
         }
       ]
     }
