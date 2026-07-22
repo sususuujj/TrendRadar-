@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-22T19:08:13.287463+08:00",
-  "total_titles_processed": 1317,
+  "generated_at": "2026-07-22T21:47:45.859848+08:00",
+  "total_titles_processed": 1480,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "openai",
-      "match_count": 11,
+      "match_count": 20,
       "titles": [
         {
           "title": "OpenAI负责人抨击Kimi开源",
@@ -33,15 +33,49 @@
           "time_info": "[13时48分 ~ 19时08分]"
         },
         {
+          "title": "OpenAI推出工作流程AI智能体部署产品 面向企业客户",
+          "url": "https://wallstreetcn.com/livenews/3138239",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时47分"
+        },
+        {
           "title": "震惊硅谷！OpenAI模型“失控越狱”，入侵HuggingFace“抄答案”，智谱GLM 5.2临危救场",
           "url": "https://wallstreetcn.com/articles/3777627",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时07分 ~ 19时08分]"
+          "appearance_count": 3,
+          "time_info": "[19时07分 ~ 21时47分]"
+        },
+        {
+          "title": "OpenAI将云支出预期上调至7500亿美元。OpenAI聘请xAI资深人士Brent Mayo。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3138238",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时47分"
+        },
+        {
+          "title": "OpenAI上调云服务支出预测至7000亿美元 斥资300亿美元建数据中心",
+          "url": "https://flash.jin10.com/detail/20260722211006292800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时47分"
         },
         {
           "title": "AI逃离沙盒 OpenAI认下Hugging Face被黑事件",
@@ -53,6 +87,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时07分"
+        },
+        {
+          "title": "据报道，OpenAI计划斥资超过300亿美元建设新的数据中心。",
+          "url": "https://wallstreetcn.com/livenews/3138236",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时47分"
         },
         {
           "title": "史无前例！OpenAI模型“失控”攻入全球最大AI开源社区 中国开源模型参与取证",
@@ -77,6 +122,28 @@
           "time_info": "05时07分"
         },
         {
+          "title": "OpenAI推出OpenAI Presence，现已通过有限通用可用性计划，作为已部署产品向符合条件的企业客户提供，目前尚未提供自助服务。",
+          "url": "https://flash.jin10.com/detail/20260722210623732800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时47分"
+        },
+        {
+          "title": "市场消息：OpenAI计划斥资超过300亿美元建设新的数据中心。",
+          "url": "https://flash.jin10.com/detail/20260722210234527800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时47分"
+        },
+        {
           "title": "OpenAI产品负责人Tibo表示，Codex和 ChatGPT Work每周活跃用户已突破1000万人。",
           "url": "https://wallstreetcn.com/livenews/3137702",
           "source": "华尔街见闻-快讯",
@@ -86,6 +153,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时18分"
+        },
+        {
+          "title": "据华尔街日报：消息人士透露，OpenAI重新启动内部工作，以加强对数据中心的控制。",
+          "url": "https://flash.jin10.com/detail/20260722210111320800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时47分"
+        },
+        {
+          "title": "据华尔街日报：消息人士透露，OpenAI 聘请了xAI资深人士布伦特·梅奥，以帮助确保数据中心项目按计划推进。",
+          "url": "https://flash.jin10.com/detail/20260722210100321800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时47分"
+        },
+        {
+          "title": "据华尔街日报：消息人士透露，OpenAI将预计的云服务支出从6000亿美元提高至7500亿美元。",
+          "url": "https://flash.jin10.com/detail/20260722210044155800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时47分"
         },
         {
           "title": "OpenAI的CEO Altman将向美国官员们介绍下一波AI模型。",
@@ -164,6 +264,19 @@
           "time_info": "[10时27分 ~ 16时25分]"
         },
         {
+          "title": "Kimi 创始人杨植麟回国创业引热议，怎样看待他的选择？",
+          "url": "https://www.zhihu.com/question/2062858490343953648",
+          "source": "知乎",
+          "ranks": [
+            19,
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时27分 ~ 21时47分]"
+        },
+        {
           "title": "Kimi 新模型 K3 跑分力压 ClaudeFable5 登顶，这将对大模型市场格局产生哪些影响？",
           "url": "https://www.zhihu.com/question/2061356466783642903",
           "source": "知乎",
@@ -175,19 +288,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[06时54分 ~ 10时28分]"
-        },
-        {
-          "title": "Kimi 创始人杨植麟回国创业引热议，怎样看待他的选择？",
-          "url": "https://www.zhihu.com/question/2062858490343953648",
-          "source": "知乎",
-          "ranks": [
-            19,
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时27分 ~ 19时08分]"
         },
         {
           "title": "实探月之暗面Kimi：K3之后，算力、开源与商业化怎么走？",
@@ -297,11 +397,12 @@
           "ranks": [
             7,
             15,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时48分 ~ 19时08分]"
+          "appearance_count": 5,
+          "time_info": "[13时48分 ~ 21时47分]"
         },
         {
           "title": "SpaceX做空比例飙至32% 马斯克警告空头：几无存活可能！",
@@ -349,11 +450,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356411&amp;topic_name=%E5%90%A7%E5%8F%8B%E5%81%9A%E6%A2%97%E5%9B%BE%E5%82%AC%E6%9B%B4DeepSeekV4",
           "source": "贴吧",
           "ranks": [
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时07分 ~ 19时08分]"
+          "appearance_count": 3,
+          "time_info": "[19时07分 ~ 21时47分]"
         }
       ]
     },
