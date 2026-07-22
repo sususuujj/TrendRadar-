@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-22T07:55:58.298272+08:00",
-  "total_titles_processed": 626,
+  "generated_at": "2026-07-22T10:28:05.063988+08:00",
+  "total_titles_processed": 800,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356366&amp;topic_name=OpenAI%E8%B4%9F%E8%B4%A3%E4%BA%BA%E6%8A%A8%E5%87%BBKimi%E5%BC%80%E6%BA%90",
           "source": "贴吧",
           "ranks": [
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时16分 ~ 07时55分]"
+          "appearance_count": 10,
+          "time_info": "[01时16分 ~ 10时28分]"
         },
         {
           "title": "AI逃离沙盒 OpenAI认下Hugging Face被黑事件",
@@ -98,6 +99,93 @@
       ]
     },
     {
+      "keyword_group": "Kimi",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "AI“斯普特尼克时刻”！Kimi K3震动硅谷，Stability AI联合创始人：推理成本还有10至50倍下降空间",
+          "url": "https://wallstreetcn.com/articles/3777546",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[05时06分 ~ 10时28分]"
+        },
+        {
+          "title": "Kimi 新模型 K3 跑分力压 ClaudeFable5 登顶，这将对大模型市场格局产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2061356466783642903",
+          "source": "知乎",
+          "ranks": [
+            14,
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时54分 ~ 10时28分]"
+        },
+        {
+          "title": "实探月之暗面Kimi：K3之后，算力、开源与商业化怎么走？",
+          "url": "https://www.cls.cn/detail/2432968",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时06分 ~ 05时07分]"
+        },
+        {
+          "title": "美股存储概念全线爆发！华尔街喊话坚守AI硬件股：Kimi K3将催生新需求",
+          "url": "https://www.cls.cn/detail/2433303",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时27分 ~ 10时28分]"
+        },
+        {
+          "title": "Kimi 创始人杨植麟回国创业引热议，怎样看待他的选择？",
+          "url": "https://www.zhihu.com/question/2062858490343953648",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时27分 ~ 10时28分]"
+        },
+        {
+          "title": "Kimi新模型登顶多个榜单第一",
+          "url": "https://www.toutiao.com/trending/7664497154267168831/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时27分 ~ 10时28分]"
+        },
+        {
+          "title": "微软计划用中国Kimi K3算法替换GPT",
+          "url": "https://www.toutiao.com/trending/7665023703121399306/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时27分 ~ 10时28分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "gemini",
       "match_count": 5,
       "titles": [
@@ -160,47 +248,6 @@
       ]
     },
     {
-      "keyword_group": "Kimi",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "AI“斯普特尼克时刻”！Kimi K3震动硅谷，Stability AI联合创始人：推理成本还有10至50倍下降空间",
-          "url": "https://wallstreetcn.com/articles/3777546",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时06分 ~ 07时55分]"
-        },
-        {
-          "title": "Kimi 新模型 K3 跑分力压 ClaudeFable5 登顶，这将对大模型市场格局产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2061356466783642903",
-          "source": "知乎",
-          "ranks": [
-            14,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时54分 ~ 07时55分]"
-        },
-        {
-          "title": "实探月之暗面Kimi：K3之后，算力、开源与商业化怎么走？",
-          "url": "https://www.cls.cn/detail/2432968",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时06分 ~ 05时07分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "豆包",
       "match_count": 2,
       "titles": [
@@ -211,11 +258,12 @@
           "ranks": [
             7,
             5,
-            9
+            9,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时16分 ~ 07时55分]"
+          "appearance_count": 10,
+          "time_info": "[01时16分 ~ 10时28分]"
         },
         {
           "title": "不要用豆包解决人际关系矛盾",
@@ -225,11 +273,12 @@
             9,
             23,
             26,
-            27
+            27,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时16分 ~ 07时55分]"
+          "appearance_count": 10,
+          "time_info": "[01时16分 ~ 10时28分]"
         }
       ]
     },
