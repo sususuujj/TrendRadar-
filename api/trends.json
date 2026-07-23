@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-24T06:55:21.544463+08:00",
-  "total_titles_processed": 529,
+  "generated_at": "2026-07-24T07:59:12.181998+08:00",
+  "total_titles_processed": 602,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "openai",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "OpenAI：预计将大规模部署AMD的Helios。",
@@ -30,6 +30,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时37分 ~ 03时14分]"
+        },
+        {
+          "title": "OpenAI总裁布罗克曼表示，目标始终是为用户需要完成的一切任务提供最便宜模型。",
+          "url": "https://flash.jin10.com/detail/20260724072353724800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时59分"
         },
         {
           "title": "OpenAI基础设施负责人：OpenAI计划与AMD合作开发MI500系列AI芯片及后续产品。",
@@ -114,8 +125,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时36分 ~ 06时55分]"
+          "appearance_count": 8,
+          "time_info": "[01时36分 ~ 07时59分]"
+        },
+        {
+          "title": "特斯拉电话会：马斯克称正进行“二战以来美国最快的工业规模扩张”，获美光存储芯片“超级配额”",
+          "url": "https://wallstreetcn.com/articles/3777724",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时36分 ~ 07时59分]"
         },
         {
           "title": "马斯克第三次喊“奇点已至”",
@@ -129,17 +152,35 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时36分 ~ 06时55分]"
-        },
+        }
+      ]
+    },
+    {
+      "keyword_group": "gemini",
+      "match_count": 2,
+      "titles": [
         {
-          "title": "特斯拉电话会：马斯克称正进行“二战以来美国最快的工业规模扩张”，获美光存储芯片“超级配额”",
-          "url": "https://wallstreetcn.com/articles/3777724",
+          "title": "谷歌电话会：警告现金流压力将持续，但\"需求仍超过投资增速\"，Gemini 4已启动训练",
+          "url": "https://wallstreetcn.com/articles/3777723",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时36分 ~ 06时55分]"
+          "appearance_count": 8,
+          "time_info": "[01时36分 ~ 07时59分]"
+        },
+        {
+          "title": "训练Gemini 4太烧钱！巴克莱测算：谷歌将连续两年自由现金流为负",
+          "url": "https://wallstreetcn.com/articles/3777753",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时58分 ~ 07时59分]"
         }
       ]
     },
@@ -157,23 +198,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时37分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "谷歌电话会：警告现金流压力将持续，但\"需求仍超过投资增速\"，Gemini 4已启动训练",
-          "url": "https://wallstreetcn.com/articles/3777723",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时36分 ~ 06时55分]"
         }
       ]
     }
