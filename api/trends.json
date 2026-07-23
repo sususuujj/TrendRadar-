@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-23T12:14:54.362104+08:00",
-  "total_titles_processed": 857,
+  "generated_at": "2026-07-23T15:32:38.327102+08:00",
+  "total_titles_processed": 1029,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马斯克",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "马斯克母亲吐槽纽约脏乱差",
@@ -48,9 +48,9 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时14分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 15时32分]"
         },
         {
           "title": "特斯拉(TSLA.O)CEO马斯克：特斯拉与SpaceX之间的重叠之处正日益增多。无法在财报电话会议上谈论潜在合并特斯拉与SpaceX的事宜。",
@@ -62,6 +62,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
+        },
+        {
+          "title": "从震动硅谷到喊话马斯克“欢迎掰手腕”，Kimi做对了哪些",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33637839",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时32分"
         },
         {
           "title": "特斯拉(TSLA.O)CEO马斯克：预计无人驾驶出租车不会面临任何需求挑战。",
@@ -235,19 +246,6 @@
       "match_count": 9,
       "titles": [
         {
-          "title": "6000亿美元→7500亿美元 OpenAI被曝大幅提高算力支出预测",
-          "url": "https://www.cls.cn/detail/2434359",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时16分 ~ 12时14分]"
-        },
-        {
           "title": "云支出目标狂飙至7500亿美元！OpenAI豪掷超300亿美元建数据中心，推出Presence平台进军企业软件市场",
           "url": "https://wallstreetcn.com/articles/3777699",
           "source": "华尔街见闻",
@@ -255,6 +253,19 @@
             5,
             3,
             2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时16分 ~ 15时32分]"
+        },
+        {
+          "title": "6000亿美元→7500亿美元 OpenAI被曝大幅提高算力支出预测",
+          "url": "https://www.cls.cn/detail/2434359",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            4,
+            3
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -355,9 +366,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时14分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 15时32分]"
         },
         {
           "title": "谷歌母公司Alphabet：Gemini APP月活用户数（MAUs）达到9.5亿。 （一系列）AI功能正驱动搜索增长。 （众多）Gemini模型现在每分钟处理220亿API Tokens。",
@@ -396,7 +407,7 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "吧友做梗图催更DeepSeekV4",
@@ -404,11 +415,12 @@
           "source": "贴吧",
           "ranks": [
             15,
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时16分 ~ 12时14分]"
+          "appearance_count": 8,
+          "time_info": "[01时16分 ~ 15时32分]"
         },
         {
           "title": "如何看待 7 月 22 日 DeepSeek 客户端联网搜索近 4 小时不可用？",
@@ -422,13 +434,35 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时16分 ~ 07时01分]"
+        },
+        {
+          "title": "DeepSeek首轮融资500亿，梁文锋4小时回应一切：越不贪婪，越容易成功",
+          "url": "https://www.cls.cn/detail/2434965",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时32分"
         }
       ]
     },
     {
       "keyword_group": "Kimi",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "月之暗面 Kimi K3 发布后，Anthropic 为何成外网主要吐槽对象？",
+          "url": "https://www.zhihu.com/question/2062640157015249755",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时32分"
+        },
         {
           "title": "月之暗面 KimiK3 发布后，Anthropic 为何成外网主要吐槽对象？",
           "url": "https://www.zhihu.com/question/2062640157015249755",
@@ -436,7 +470,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
         }
