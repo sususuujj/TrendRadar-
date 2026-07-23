@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-23T18:22:49.604553+08:00",
-  "total_titles_processed": 1204,
+  "generated_at": "2026-07-23T20:23:57.382625+08:00",
+  "total_titles_processed": 1351,
   "failed_sources": [],
   "trends": [
     {
@@ -30,6 +30,30 @@
           "time_info": "07时01分"
         },
         {
+          "title": "特斯拉电话会：马斯克称正进行“二战以来美国最快的工业规模扩张”，获美光存储芯片“超级配额”",
+          "url": "https://wallstreetcn.com/articles/3777724",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时14分 ~ 20时23分]"
+        },
+        {
+          "title": "从震动硅谷到喊话马斯克“欢迎掰手腕”，Kimi做对了哪些",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33637839",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时32分 ~ 20时23分]"
+        },
+        {
           "title": "马斯克：特斯拉正在进行二战以来美国最快的工业规模扩张。 我们试图在美国生产大量光伏产品。",
           "url": "https://wallstreetcn.com/livenews/3138455",
           "source": "华尔街见闻-快讯",
@@ -40,29 +64,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时01分 ~ 08时10分]"
-        },
-        {
-          "title": "特斯拉电话会：马斯克称正进行“二战以来美国最快的工业规模扩张”，获美光存储芯片“超级配额”",
-          "url": "https://wallstreetcn.com/articles/3777724",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时14分 ~ 18时22分]"
-        },
-        {
-          "title": "从震动硅谷到喊话马斯克“欢迎掰手腕”，Kimi做对了哪些",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33637839",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时32分 ~ 18时22分]"
         },
         {
           "title": "特斯拉(TSLA.O)CEO马斯克：特斯拉与SpaceX之间的重叠之处正日益增多。无法在财报电话会议上谈论潜在合并特斯拉与SpaceX的事宜。",
@@ -93,7 +94,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
@@ -267,8 +268,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时16分 ~ 18时22分]"
+          "appearance_count": 10,
+          "time_info": "[01时16分 ~ 20时23分]"
         },
         {
           "title": "6000亿美元→7500亿美元 OpenAI被曝大幅提高算力支出预测",
@@ -369,7 +370,7 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "吧友做梗图催更DeepSeekV4",
@@ -391,7 +392,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
@@ -418,6 +419,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
+        },
+        {
+          "title": "DeepSeek华为合作",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E5%8D%8E%E4%B8%BA%E5%90%88%E4%BD%9C%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
         }
       ]
     },
@@ -434,8 +446,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时14分 ~ 18时22分]"
+          "appearance_count": 4,
+          "time_info": "[12时14分 ~ 20时23分]"
         },
         {
           "title": "谷歌母公司Alphabet：Gemini APP月活用户数（MAUs）达到9.5亿。 （一系列）AI功能正驱动搜索增长。 （众多）Gemini模型现在每分钟处理220亿API Tokens。",
@@ -474,7 +486,7 @@
     },
     {
       "keyword_group": "Kimi",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "月之暗面 Kimi K3 发布后，Anthropic 为何成外网主要吐槽对象？",
@@ -482,11 +494,12 @@
           "source": "知乎",
           "ranks": [
             9,
-            7
+            7,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时32分 ~ 18时22分]"
+          "appearance_count": 3,
+          "time_info": "[15时32分 ~ 20时23分]"
         },
         {
           "title": "月之暗面 KimiK3 发布后，Anthropic 为何成外网主要吐槽对象？",
@@ -498,6 +511,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
+        },
+        {
+          "title": "Kimi K3发布影响几何",
+          "url": "https://www.toutiao.com/trending/7665546779378585129/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
         }
       ]
     },
