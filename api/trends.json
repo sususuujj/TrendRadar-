@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-24T05:02:05.644541+08:00",
-  "total_titles_processed": 455,
+  "generated_at": "2026-07-24T06:55:21.544463+08:00",
+  "total_titles_processed": 529,
   "failed_sources": [],
   "trends": [
     {
@@ -93,7 +93,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
         }
@@ -114,8 +114,21 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时36分 ~ 05时02分]"
+          "appearance_count": 6,
+          "time_info": "[01时36分 ~ 06时55分]"
+        },
+        {
+          "title": "马斯克第三次喊“奇点已至”",
+          "url": "https://www.toutiao.com/trending/7665693109317013033/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            15,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时36分 ~ 06时55分]"
         },
         {
           "title": "特斯拉电话会：马斯克称正进行“二战以来美国最快的工业规模扩张”，获美光存储芯片“超级配额”",
@@ -125,20 +138,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时36分 ~ 05时02分]"
-        },
-        {
-          "title": "马斯克第三次喊“奇点已至”",
-          "url": "https://www.toutiao.com/trending/7665693109317013033/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时36分 ~ 05时02分]"
+          "appearance_count": 6,
+          "time_info": "[01时36分 ~ 06时55分]"
         }
       ]
     },
@@ -171,8 +172,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时36分 ~ 05时02分]"
+          "appearance_count": 6,
+          "time_info": "[01时36分 ~ 06时55分]"
         }
       ]
     }
