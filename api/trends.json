@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-07-25T03:22:46.982374+08:00",
-  "total_titles_processed": 388,
+  "generated_at": "2026-07-25T05:01:47.151675+08:00",
+  "total_titles_processed": 456,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "马斯克",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "马斯克：打算让特斯拉Model S与Model X软件开源。",
+          "url": "https://wallstreetcn.com/livenews/3139651",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        },
+        {
+          "title": "马斯克的艰难一周：特斯拉遭遇2022年以来最大跌幅，星舰试飞前夕SpaceX股价下挫",
+          "url": "https://wallstreetcn.com/livenews/3139647",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        },
+        {
+          "title": "马斯克最新访谈：AI可能灭绝人类，但就像一枚20%概率会爆炸的火箭，我还是会坐上去享受旅程！",
+          "url": "https://wallstreetcn.com/articles/3777836",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时28分 ~ 05时01分]"
+        },
+        {
+          "title": "马斯克：Grok 4.6将在未来两周发布，Grok 4.7将在未来四周。",
+          "url": "https://wallstreetcn.com/livenews/3139611",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "马斯克：所有涉及X系统的代码都将开源",
+          "url": "https://wallstreetcn.com/livenews/3139610",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "马斯克：Grok4.6将于两周后推出，Grok4.7将于四周后推出。",
+          "url": "https://flash.jin10.com/detail/20260725024036042800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        }
+      ]
+    },
     {
       "keyword_group": "openai",
       "match_count": 4,
@@ -26,8 +98,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时28分 ~ 03时22分]"
+          "appearance_count": 3,
+          "time_info": "[01时28分 ~ 05时01分]"
         },
         {
           "title": "OpenAI的CEO Altman：希望美国在开源AI领域胜出，也希望在专有AI模型领域也取得胜利。 “乐见”英伟达CEO在社交媒体上（针对20多家美国科技公司联合发表公开信）的表态。",
@@ -47,57 +119,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "马斯克最新访谈：AI可能灭绝人类，但就像一枚20%概率会爆炸的火箭，我还是会坐上去享受旅程！",
-          "url": "https://wallstreetcn.com/articles/3777836",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时28分 ~ 03时22分]"
-        },
-        {
-          "title": "马斯克：Grok 4.6将在未来两周发布，Grok 4.7将在未来四周。",
-          "url": "https://wallstreetcn.com/livenews/3139611",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时22分"
-        },
-        {
-          "title": "马斯克：所有涉及X系统的代码都将开源",
-          "url": "https://wallstreetcn.com/livenews/3139610",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时22分"
-        },
-        {
-          "title": "马斯克：Grok4.6将于两周后推出，Grok4.7将于四周后推出。",
-          "url": "https://flash.jin10.com/detail/20260725024036042800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "03时22分"
         }
@@ -116,8 +138,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时28分 ~ 03时22分]"
+          "appearance_count": 3,
+          "time_info": "[01时28分 ~ 05时01分]"
         },
         {
           "title": "把豆包逼出来幸福者退让了",
@@ -125,11 +147,12 @@
           "source": "微博",
           "ranks": [
             30,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时28分 ~ 03时22分]"
+          "appearance_count": 3,
+          "time_info": "[01时28分 ~ 05时01分]"
         }
       ]
     }
