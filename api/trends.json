@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-24T17:20:53.125643+08:00",
-  "total_titles_processed": 1162,
+  "generated_at": "2026-07-24T19:40:57.182789+08:00",
+  "total_titles_processed": 1317,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/2063832242242184073",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 19时40分]"
         },
         {
           "title": "新晋菲尔兹奖得主当天宣布加入OpenAI",
@@ -52,6 +53,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时37分 ~ 03时14分]"
+        },
+        {
+          "title": "新闻蒸馏器｜OpenAI模型失控事件后，美国两党议员推动“AI终止开关法案”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33650370",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 19时40分]"
         },
         {
           "title": "OpenAI总裁布罗克曼表示，目标始终是为用户需要完成的一切任务提供最便宜模型。",
@@ -93,7 +106,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
         },
@@ -137,18 +150,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时20分"
-        },
-        {
-          "title": "新闻蒸馏器｜OpenAI模型失控事件后，美国两党议员推动“AI终止开关法案”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33650370",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
         },
@@ -226,9 +228,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 19时40分]"
         }
       ]
     },
@@ -241,11 +243,12 @@
           "url": "https://s.weibo.com/weibo?q=DeepSeek%E7%BA%A0%E7%BB%93%E4%BA%8610%E7%A7%92%E8%BF%98%E6%98%AF%E5%86%B3%E5%AE%9A%E8%B0%84%E5%AA%9A&t=31&band_rank=20&Refer=top",
           "source": "微博",
           "ranks": [
-            20
+            20,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 19时40分]"
         },
         {
           "title": "黄仁勋力挺中国AI模型：DeepSeek、Kimi这样优秀的大模型得到广泛应用",
@@ -317,9 +320,9 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 19时40分]"
         }
       ]
     }
