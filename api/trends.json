@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-25T19:08:34.854610+08:00",
-  "total_titles_processed": 1120,
+  "generated_at": "2026-07-25T21:21:17.958371+08:00",
+  "total_titles_processed": 1229,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马斯克",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "马斯克最新访谈：AI可能灭绝人类，但就像一枚20%概率会爆炸的火箭，我还是会坐上去享受旅程！",
@@ -19,6 +19,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时28分 ~ 08时04分]"
+        },
+        {
+          "title": "SpaceX星舰第13次试飞成功，发动机重启、溅落精准，马斯克：星舰完好无损",
+          "url": "https://wallstreetcn.com/articles/3777914",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时45分 ~ 21时21分]"
         },
         {
           "title": "马斯克：打算让特斯拉Model S与Model X软件开源。",
@@ -59,6 +72,18 @@
           "time_info": "[06时13分 ~ 08时04分]"
         },
         {
+          "title": "马斯克：中国很有可能成AI领导者",
+          "url": "https://www.toutiao.com/trending/7666381434109578761/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时08分 ~ 21时21分]"
+        },
+        {
           "title": "马斯克：开源获得压倒性支持。",
           "url": "https://flash.jin10.com/detail/20260725050156911800",
           "source": "金十数据",
@@ -71,16 +96,15 @@
           "time_info": "[06时14分 ~ 08时04分]"
         },
         {
-          "title": "SpaceX星舰第13次试飞成功，发动机重启、溅落精准，马斯克：星舰完好无损",
-          "url": "https://wallstreetcn.com/articles/3777914",
+          "title": "黄仁勋首推支持开源AI模型，奥特曼意外呼应，马斯克称所有涉及X系统的代码将开源",
+          "url": "https://wallstreetcn.com/articles/3777898",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            8
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时45分 ~ 19时08分]"
+          "time_info": "[21时20分 ~ 21时21分]"
         },
         {
           "title": "马斯克：特斯拉计划开源Model S和Model X的软件。",
@@ -151,17 +175,6 @@
           "time_info": "15时14分"
         },
         {
-          "title": "马斯克：中国很有可能成AI领导者",
-          "url": "https://www.toutiao.com/trending/7666381434109578761/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时08分"
-        },
-        {
           "title": "马斯克：Grok4.6将于两周后推出，Grok4.7将于四周后推出。",
           "url": "https://flash.jin10.com/detail/20260725024036042800",
           "source": "金十数据",
@@ -208,11 +221,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            5
+            5,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时45分 ~ 19时08分]"
+          "appearance_count": 3,
+          "time_info": "[17时45分 ~ 21时21分]"
         },
         {
           "title": "如何看待新晋菲尔兹奖得主 Jacob Tsimerman 颁奖当天宣布加入 OpenAI？",
