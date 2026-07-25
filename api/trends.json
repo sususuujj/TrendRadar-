@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-26T01:58:12.723675+08:00",
-  "total_titles_processed": 364,
+  "generated_at": "2026-07-26T03:08:18.306402+08:00",
+  "total_titles_processed": 398,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时10分 ~ 01时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时10分 ~ 03时08分]"
         },
         {
           "title": "黄仁勋首推支持开源AI模型，奥特曼意外呼应，马斯克称所有涉及X系统的代码将开源",
@@ -28,8 +28,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时10分 ~ 01时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时10分 ~ 03时08分]"
         },
         {
           "title": "马斯克：中国很有可能成AI领导者",
@@ -37,11 +37,12 @@
           "source": "今日头条",
           "ranks": [
             24,
-            22
+            22,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时10分 ~ 01时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时10分 ~ 03时08分]"
         }
       ]
     },
@@ -55,11 +56,12 @@
           "source": "知乎",
           "ranks": [
             20,
-            17
+            17,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时10分 ~ 01时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时10分 ~ 03时08分]"
         }
       ]
     }
