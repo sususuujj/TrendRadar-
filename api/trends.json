@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-26T06:54:26.978314+08:00",
-  "total_titles_processed": 471,
+  "generated_at": "2026-07-26T07:59:53.268328+08:00",
+  "total_titles_processed": 514,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时10分 ~ 06时54分]"
+          "appearance_count": 10,
+          "time_info": "[00时10分 ~ 07时59分]"
         },
         {
           "title": "马斯克：中国很有可能成AI领导者",
@@ -58,11 +58,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时55分 ~ 06时54分]"
+          "appearance_count": 3,
+          "time_info": "[05时55分 ~ 07时59分]"
         },
         {
           "title": "OpenAI Codex产品负责人Tibo：我们已经为所有Codex和ChatGPT Work用户重置了使用额度。昨夜凌晨2点至4点左右，我们遭遇了一次几乎全球范围的服务中断。目前所有服务均已恢复正常。",
@@ -71,11 +72,12 @@
           "ranks": [
             9,
             16,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时50分 ~ 06时54分]"
+          "appearance_count": 4,
+          "time_info": "[04时50分 ~ 07时59分]"
         }
       ]
     },
@@ -96,8 +98,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时10分 ~ 06时54分]"
+          "appearance_count": 10,
+          "time_info": "[00时10分 ~ 07时59分]"
         }
       ]
     }
