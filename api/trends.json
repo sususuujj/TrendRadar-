@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-26T14:35:01.578312+08:00",
-  "total_titles_processed": 836,
+  "generated_at": "2026-07-26T17:11:50.796223+08:00",
+  "total_titles_processed": 970,
   "failed_sources": [],
   "trends": [
     {
@@ -54,8 +54,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时34分 ~ 14时35分]"
+          "appearance_count": 3,
+          "time_info": "[14时34分 ~ 17时11分]"
         },
         {
           "title": "马斯克说未来中国极可能成为AI领导者",
@@ -64,7 +64,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         }
@@ -108,7 +108,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         },
@@ -119,7 +119,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         }
@@ -127,7 +127,7 @@
     },
     {
       "keyword_group": "Kimi",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "如何看待月之暗面发布 kimi K3-256K 大模型，能力和 K3 一样，不能看视频，上下文只有 256K？",
@@ -151,11 +151,23 @@
           "source": "澎湃新闻",
           "ranks": [
             12,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时32分 ~ 14时35分]"
+          "appearance_count": 4,
+          "time_info": "[11时32分 ~ 17时11分]"
+        },
+        {
+          "title": "如何评价 Kimi？",
+          "url": "https://www.zhihu.com/question/664640254",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时11分"
         }
       ]
     },
@@ -169,11 +181,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时32分 ~ 14时35分]"
+          "appearance_count": 3,
+          "time_info": "[11时32分 ~ 17时11分]"
         }
       ]
     }
