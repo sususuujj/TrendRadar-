@@ -1,351 +1,84 @@
 {
-  "generated_at": "2026-07-27T23:42:08.920857+08:00",
-  "total_titles_processed": 1351,
+  "generated_at": "2026-07-28T01:41:42.167871+08:00",
+  "total_titles_processed": 306,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "DeepSeek",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "真逗,DeepSeek说要去吃饭",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356554&amp;topic_name=%E7%9C%9F%E9%80%97%2CDeepSeek%E8%AF%B4%E8%A6%81%E5%8E%BB%E5%90%83%E9%A5%AD",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时41分"
+        },
+        {
+          "title": "DeepSeek说他先去吃饭了",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E8%AF%B4%E4%BB%96%E5%85%88%E5%8E%BB%E5%90%83%E9%A5%AD%E4%BA%86&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时41分"
+        }
+      ]
+    },
+    {
       "keyword_group": "openai",
-      "match_count": 13,
+      "match_count": 1,
       "titles": [
         {
           "title": "OpenAI失控入侵,遭索赔1亿算力",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356534&amp;topic_name=OpenAI%E5%A4%B1%E6%8E%A7%E5%85%A5%E4%BE%B5%2C%E9%81%AD%E7%B4%A2%E8%B5%941%E4%BA%BF%E7%AE%97%E5%8A%9B",
           "source": "贴吧",
           "ranks": [
-            4,
-            9,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时35分 ~ 23时42分]"
-        },
-        {
-          "title": "OpenAI模型失控始末曝光，Hugging Face“索赔”1亿美元算力",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33662817",
-          "source": "澎湃新闻",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时35分 ~ 16时29分]"
-        },
-        {
-          "title": "OpenAI：出现影响ChatGPT的较高错误率，已实施缓解措施，并在监控ChatGPT的恢复情况。",
-          "url": "https://wallstreetcn.com/livenews/3140016",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时36分"
-        },
-        {
-          "title": "英伟达在OpenAI联合创始人伊利亚·苏茨克沃的安全超级智能项目中投资达数十亿美元。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3140408",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时42分"
-        },
-        {
-          "title": "OpenAI失控AI内幕曝光：越狱一周才被发现 还有智能体曾留下“逃脱秘籍”",
-          "url": "https://www.cls.cn/detail/2437261",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时35分 ~ 16时29分]"
-        },
-        {
-          "title": "据The Information：英伟达在OpenAI联合创始人伊利亚·苏茨克沃的安全超级智能项目中投资达数十亿美元。",
-          "url": "https://flash.jin10.com/detail/20260727230812803800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时42分"
-        },
-        {
-          "title": "OpenAI、Anthropic被曝游说封堵开源模型 硅谷上演“开源保卫战”",
-          "url": "https://www.cls.cn/detail/2437206",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时35分 ~ 12时36分]"
-        },
-        {
-          "title": "知情人士称，英伟达正就为OpenAI俄亥俄州数据中心项目提供约2500亿美元财务担保进行谈判。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3139891",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时08分"
-        },
-        {
-          "title": "OpenAI：出现影响ChatGPT的较高错误率。已实施缓解措施，并在监控ChatGPT的恢复情况。",
-          "url": "https://flash.jin10.com/detail/20260727121032306800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时36分"
-        },
-        {
-          "title": "英伟达拟为OpenAI数据中心项目提供2500亿美元财务担保",
-          "url": "https://flash.jin10.com/detail/20260727072716929800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时08分"
-        },
-        {
-          "title": "据华尔街日报：知情人士称，英伟达(NVDA.O)正就为OpenAI俄亥俄州数据中心项目提供约2500亿美元财务担保进行谈判。",
-          "url": "https://flash.jin10.com/detail/20260727072121648800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时08分"
-        },
-        {
-          "title": "OpenAI的CEO Altman将与美国高级官员们预览众多新款模型。（CNBC）",
-          "url": "https://wallstreetcn.com/livenews/3140389",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时42分"
-        },
-        {
-          "title": "OpenAI宣布在爱尔兰扩张，预计新增250个新岗位",
-          "url": "https://flash.jin10.com/detail/20260727192930998800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Kimi",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "Kimi K3再引关注，瑞银：中国模型的结构性成本优势有望长期保持",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33660556",
-          "source": "澎湃新闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 08时08分]"
-        },
-        {
-          "title": "外媒丑化Kimi创始人惹众怒",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356529&amp;topic_name=%E5%A4%96%E5%AA%92%E4%B8%91%E5%8C%96Kimi%E5%88%9B%E5%A7%8B%E4%BA%BA%E6%83%B9%E4%BC%97%E6%80%92",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            6,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时35分 ~ 23时42分]"
-        },
-        {
-          "title": "Kimi AI：发布 Kimi K3的模型权重和技术报告。Kimi K3是我们目前能力最强的模型，这款模型拥有2.8万亿参数的 MoE（混合专家）模型，具备原生视觉理解能力，并支持100万 Token上下文窗口。",
-          "url": "https://flash.jin10.com/detail/20260727231719610800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时42分"
-        },
-        {
-          "title": "林志颖回应Kimi网上照片",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%BF%97%E9%A2%96%E5%9B%9E%E5%BA%94Kimi%E7%BD%91%E4%B8%8A%E7%85%A7%E7%89%87%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24,
-            13,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时29分 ~ 23时42分]"
-        },
-        {
-          "title": "月之暗面Kimi K3庆功照流出，张予彤疑现身，喊出“冲上月球”口号",
-          "url": "https://wallstreetcn.com/articles/3777956",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时35分 ~ 12时36分]"
-        },
-        {
-          "title": "月之暗面Kimi K3庆功画面曝光",
-          "url": "https://www.baidu.com/s?wd=%E6%9C%88%E4%B9%8B%E6%9A%97%E9%9D%A2Kimi+K3%E5%BA%86%E5%8A%9F%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时35分 ~ 12时36分]"
-        },
-        {
-          "title": "林志颖kimi车内合照",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%BF%97%E9%A2%96kimi%E8%BD%A6%E5%86%85%E5%90%88%E7%85%A7%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时29分"
+          "time_info": "01时41分"
         }
       ]
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "黄仁勋、马斯克同日发声：中国的人工智能注定卓越 将成为全球领导者",
-          "url": "https://www.cls.cn/detail/2437146",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 08时08分]"
-        },
-        {
-          "title": "黄仁勋、马斯克，最新涉华表态",
-          "url": "https://news.ifeng.com/c/8v4WWlgloDu",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 08时08分]"
-        },
-        {
-          "title": "马斯克身价7天蒸发8803亿",
-          "url": "https://www.douyin.com/hot/2586765",
-          "source": "抖音",
-          "ranks": [
-            2,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时35分 ~ 16时29分]"
-        },
-        {
-          "title": "马斯克、黄仁勋最新涉华表态：中国注定会产出卓越的AI技术，美国就算禁用也挡不住",
-          "url": "https://wallstreetcn.com/livenews/3139836",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时58分 ~ 04时08分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek",
       "match_count": 1,
       "titles": [
         {
-          "title": "DeepSeek说他先去吃饭了",
-          "url": "https://s.weibo.com/weibo?q=DeepSeek%E8%AF%B4%E4%BB%96%E5%85%88%E5%8E%BB%E5%90%83%E9%A5%AD%E4%BA%86&t=31&band_rank=7&Refer=top",
-          "source": "微博",
+          "title": "饭店老板撞脸马斯克爆火",
+          "url": "https://www.baidu.com/s?wd=%E9%A5%AD%E5%BA%97%E8%80%81%E6%9D%BF%E6%92%9E%E8%84%B8%E9%A9%AC%E6%96%AF%E5%85%8B%E7%88%86%E7%81%AB",
+          "source": "百度热搜",
           "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时41分 ~ 23时42分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "豆包",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "考公人发现豆包的神奇用法",
-          "url": "https://s.weibo.com/weibo?q=%E8%80%83%E5%85%AC%E4%BA%BA%E5%8F%91%E7%8E%B0%E8%B1%86%E5%8C%85%E7%9A%84%E7%A5%9E%E5%A5%87%E7%94%A8%E6%B3%95&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时03分"
+          "time_info": "01时41分"
         }
       ]
     },
     {
-      "keyword_group": "Optimus",
+      "keyword_group": "Kimi",
       "match_count": 1,
       "titles": [
         {
-          "title": "特斯拉Optimus项目遭“泼冷水” 知名投资人：短期不会产生收入",
-          "url": "https://www.cls.cn/detail/2437832",
-          "source": "财联社热门",
+          "title": "外媒丑化Kimi创始人惹众怒",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356529&amp;topic_name=%E5%A4%96%E5%AA%92%E4%B8%91%E5%8C%96Kimi%E5%88%9B%E5%A7%8B%E4%BA%BA%E6%83%B9%E4%BC%97%E6%80%92",
+          "source": "贴吧",
           "ranks": [
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时20分 ~ 20时21分]"
+          "appearance_count": 1,
+          "time_info": "01时41分"
         }
       ]
     }
