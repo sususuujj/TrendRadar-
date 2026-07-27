@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-28T03:25:02.976177+08:00",
-  "total_titles_processed": 362,
+  "generated_at": "2026-07-28T05:09:38.964694+08:00",
+  "total_titles_processed": 443,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时41分 ~ 03时25分]"
+          "appearance_count": 4,
+          "time_info": "[01时41分 ~ 05时09分]"
         },
         {
           "title": "DeepSeek说他先去吃饭了",
@@ -44,8 +44,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时41分 ~ 03时25分]"
+          "appearance_count": 4,
+          "time_info": "[01时41分 ~ 05时09分]"
         }
       ]
     },
@@ -59,11 +59,12 @@
           "source": "百度热搜",
           "ranks": [
             16,
-            18
+            18,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时41分 ~ 03时25分]"
+          "appearance_count": 4,
+          "time_info": "[01时41分 ~ 05时09分]"
         }
       ]
     },
@@ -79,8 +80,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时41分 ~ 03时25分]"
+          "appearance_count": 4,
+          "time_info": "[01时41分 ~ 05时09分]"
         }
       ]
     },
@@ -96,8 +97,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时24分 ~ 03时25分]"
+          "appearance_count": 3,
+          "time_info": "[03时24分 ~ 05时09分]"
         }
       ]
     }
