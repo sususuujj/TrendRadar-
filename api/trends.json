@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-28T19:57:21.084660+08:00",
-  "total_titles_processed": 1249,
+  "generated_at": "2026-07-28T22:04:56.512630+08:00",
+  "total_titles_processed": 1406,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "Kimi",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "外媒丑化Kimi创始人惹众怒",
@@ -15,11 +15,12 @@
             12,
             18,
             26,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时41分 ~ 19时57分]"
+          "appearance_count": 11,
+          "time_info": "[01时41分 ~ 22时04分]"
         },
         {
           "title": "如何评价 KIMI K3 正式开源，以及同步发布出技术报告？",
@@ -41,9 +42,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时57分"
+        },
+        {
+          "title": "对话Kimi领投人叶奇意",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AF%B9%E8%AF%9DKimi%E9%A2%86%E6%8A%95%E4%BA%BA%E5%8F%B6%E5%A5%87%E6%84%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
         },
         {
           "title": "刚刚Kimi K3开源！2.8万亿参数全面开放，海外开发者称其为“本地版Fable 5”",
@@ -55,8 +67,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时33分 ~ 19时57分]"
+          "appearance_count": 4,
+          "time_info": "[14时33分 ~ 22时04分]"
         },
         {
           "title": "月之暗面全面开源Kimi K3！30分钟登顶开源社区趋势榜 国内外云厂商集体宣布Day0适配",
@@ -70,6 +82,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时59分 ~ 17时36分]"
+        },
+        {
+          "title": "高难度真实项目实测Kimi K3",
+          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E9%9A%BE%E5%BA%A6%E7%9C%9F%E5%AE%9E%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%B5%8BKimi%20K3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
         },
         {
           "title": "Kimi K3技术报告发布",
@@ -212,11 +235,12 @@
             1,
             7,
             15,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时41分 ~ 19时57分]"
+          "appearance_count": 11,
+          "time_info": "[01时41分 ~ 22时04分]"
         },
         {
           "title": "DeepSeek说他先去吃饭了",
@@ -243,7 +267,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时57分"
         }
