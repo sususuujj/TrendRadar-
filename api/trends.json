@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-30T06:00:31.432463+08:00",
-  "total_titles_processed": 491,
+  "generated_at": "2026-07-30T07:04:32.277602+08:00",
+  "total_titles_processed": 552,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "openai",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "据The Information：思维机器实验室联合创始人温莉莲将重返OpenAI。",
@@ -30,6 +30,17 @@
           "time_info": "02时06分"
         },
         {
+          "title": "Analog Devices Inc.（ADI）：漏洞与OpenAI无关。",
+          "url": "https://wallstreetcn.com/livenews/3141939",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时04分"
+        },
+        {
           "title": "OpenAI首席执行官与美国立法者探讨下一代AI模型",
           "url": "https://wallstreetcn.com/livenews/3141802",
           "source": "华尔街见闻-快讯",
@@ -39,6 +50,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时06分"
+        },
+        {
+          "title": "微软(MSFT.O)首席财务官：第四季度合同积压在不包括OpenAI的情况下增加了25%。",
+          "url": "https://flash.jin10.com/detail/20260730055730100800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时04分"
         }
       ]
     },
@@ -72,8 +94,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 06时00分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 07时04分]"
         }
       ]
     },
