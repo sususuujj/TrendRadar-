@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-31T03:22:43.573825+08:00",
-  "total_titles_processed": 377,
+  "generated_at": "2026-07-31T05:07:52.387070+08:00",
+  "total_titles_processed": 448,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时25分 ~ 03时22分]"
+          "appearance_count": 3,
+          "time_info": "[01时25分 ~ 05时07分]"
         },
         {
           "title": "OpenAI：将GPT-5.6Luna的价格下调80%",
@@ -150,8 +150,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时25分 ~ 03时22分]"
+          "appearance_count": 3,
+          "time_info": "[01时25分 ~ 05时07分]"
         },
         {
           "title": "豆包飞书团队合并",
