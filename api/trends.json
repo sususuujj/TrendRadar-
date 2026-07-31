@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-01T00:45:01.393407+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-08-01T02:19:50.157037+08:00",
+  "total_titles_processed": 397,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 00时45分]"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 02时19分]"
         },
         {
           "title": "DeepSeek V4 正式版发布，使用体验如何？和降价后的 GPT5.6 luna 对比谁更有优势？",
@@ -26,8 +26,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 00时45分]"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 02时19分]"
+        },
+        {
+          "title": "DeepSeek V4 Flash正式版强在哪",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Flash%E6%AD%A3%E5%BC%8F%E7%89%88%E5%BC%BA%E5%9C%A8%E5%93%AA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 02时19分]"
         },
         {
           "title": "DeepSeek-V4-Flash 正式版API上线",
@@ -35,17 +47,6 @@
           "source": "bilibili 热搜",
           "ranks": [
             6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 00时45分]"
-        },
-        {
-          "title": "DeepSeek V4 Flash正式版强在哪",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Flash%E6%AD%A3%E5%BC%8F%E7%89%88%E5%BC%BA%E5%9C%A8%E5%93%AA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -73,11 +74,12 @@
           "url": "https://news.ifeng.com/c/8vDUUMEzPgw",
           "source": "凤凰网",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 00时45分]"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 02时19分]"
         }
       ]
     }
