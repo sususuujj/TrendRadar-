@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02T01:59:36.611360+08:00",
-  "total_titles_processed": 368,
+  "generated_at": "2026-08-02T03:16:09.934456+08:00",
+  "total_titles_processed": 394,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时04分 ~ 01时59分]"
+          "appearance_count": 5,
+          "time_info": "[00时04分 ~ 03时16分]"
         },
         {
           "title": "马斯克关注DeepSeek账号",
@@ -42,9 +42,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时59分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时59分 ~ 03时16分]"
         }
       ]
     }
