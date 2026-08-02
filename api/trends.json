@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02T21:48:45.585192+08:00",
-  "total_titles_processed": 1205,
+  "generated_at": "2026-08-02T23:02:22.384991+08:00",
+  "total_titles_processed": 1287,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "ranks": [
             6,
             23,
-            18
+            18,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时39分 ~ 21时48分]"
+          "appearance_count": 5,
+          "time_info": "[18时39分 ~ 23时02分]"
         },
         {
           "title": "马斯克关注DeepSeek账号",
@@ -83,11 +84,12 @@
             4,
             10,
             12,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时59分 ~ 21时48分]"
+          "appearance_count": 19,
+          "time_info": "[01时59分 ~ 23时02分]"
         },
         {
           "title": "OpenAI总裁兼联合创始人Brockman：ChatGPT是一种非常棒的思维放大器。",
