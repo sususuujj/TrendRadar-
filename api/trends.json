@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-08-05T05:14:29.590626+08:00",
-  "total_titles_processed": 438,
+  "generated_at": "2026-08-05T07:02:03.763176+08:00",
+  "total_titles_processed": 512,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马斯克",
-      "match_count": 10,
+      "match_count": 16,
       "titles": [
-        {
-          "title": "马斯克：SpaceX正打造一个庞大的企业销售团队，从而为星链锁定更多企业合同。",
-          "url": "https://wallstreetcn.com/livenews/3144961",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时14分"
-        },
         {
           "title": "马斯克又悄悄做出一个独角兽",
           "url": "https://www.toutiao.com/trending/7670012720964239402/",
@@ -25,11 +14,24 @@
           "ranks": [
             19,
             6,
-            16
+            16,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时47分 ~ 05时14分]"
+          "appearance_count": 5,
+          "time_info": "[01时47分 ~ 07时02分]"
+        },
+        {
+          "title": "马斯克：SpaceX正打造一个庞大的企业销售团队，从而为星链锁定更多企业合同。",
+          "url": "https://wallstreetcn.com/livenews/3144961",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时14分 ~ 07时02分]"
         },
         {
           "title": "马斯克：SpaceX承诺将只使用英伟达GPU，因为它们性能最佳。",
@@ -38,7 +40,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
         },
@@ -49,7 +51,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
         },
@@ -60,9 +62,42 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
+        },
+        {
+          "title": "英伟达美股盘后涨2%，马斯克此前在电话会上谈及SpaceX算力计划。",
+          "url": "https://wallstreetcn.com/livenews/3144976",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "马斯克：预计到明年第二季度至少发射1000颗STARLINK V3卫星。",
+          "url": "https://flash.jin10.com/detail/20260805053156645800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "马斯克：星舰预计到2027年底可安全载人。",
+          "url": "https://flash.jin10.com/detail/20260805053022430800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
         },
         {
           "title": "马斯克：今年将尝试回收星舰V3的第一级和第二级，可能在下一次飞行中实现。 公司将在下一次星舰飞行中，将首批V3版星链卫星送入轨道。 SpaceX今年迄今又迎来一个里程碑年份。 星舰目标是每年向轨道输送100万吨以上载荷，目标上限或可达1000万吨。 星链V3卫星的能力比V2高出一个数量级。 SpaceX预计发射的V3卫星数量将比V2多一个数量级。 星链在10年内为全球大部分地区提供互联网服务“并非不可能”。",
@@ -71,7 +106,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
         },
@@ -82,9 +117,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
+        },
+        {
+          "title": "马斯克预计，星舰到明年底将具备足够的安全性，可实现载人飞行。 星舰飞船大概率会在2027年底前满足载人安全要求。",
+          "url": "https://wallstreetcn.com/livenews/3144973",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
         },
         {
           "title": "马斯克：Starmind AI卫星将针对Vera Rubin计算机进行优化。",
@@ -93,7 +139,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
         },
@@ -104,9 +150,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
+        },
+        {
+          "title": "马斯克：SpaceX可能会提前实现“1万亿美元收入”目标",
+          "url": "https://wallstreetcn.com/livenews/3144965",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
         },
         {
           "title": "金融博客零对冲此前发贴表示：“SpaceX财报前出现大规模卖空：可借出的SpaceX股票中有95%已被借出，占流通股比例的空头仓位达到34%。”马斯克回复该帖称：“我试图提醒他们，但他们只是进一步加码押注。”（SpaceX(SPCX.O)将于今日美股盘后公布Q2业绩）",
@@ -118,6 +175,78 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时29分"
+        },
+        {
+          "title": "马斯克：SpaceX(SPCX.O)现在目标是2030年实现1万亿美元收入，而不是2031年。",
+          "url": "https://flash.jin10.com/detail/20260805051012522800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "openai",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "OpenAI：第三方网络评估涉及本公司的诸多模型。",
+          "url": "https://wallstreetcn.com/livenews/3144962",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时14分"
+        },
+        {
+          "title": "OpenAI降价,老日高喊中国万岁",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356750&amp;topic_name=OpenAI%E9%99%8D%E4%BB%B7%2C%E8%80%81%E6%97%A5%E9%AB%98%E5%96%8A%E4%B8%AD%E5%9B%BD%E4%B8%87%E5%B2%81",
+          "source": "贴吧",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时47分 ~ 07时02分]"
+        },
+        {
+          "title": "英国机构报告AI安全事件 涉Anthropic和OpenAI模型",
+          "url": "https://flash.jin10.com/detail/20260805052416082800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "OpenAI模型在第三方网络测试中突破安全边界",
+          "url": "https://wallstreetcn.com/livenews/3144962",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "苹果公司请求法官即刻禁止OpenAI使用其商业秘密",
+          "url": "https://wallstreetcn.com/livenews/3144861",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时47分"
         }
       ]
     },
@@ -125,6 +254,17 @@
       "keyword_group": "DeepSeek",
       "match_count": 3,
       "titles": [
+        {
+          "title": "DeepSeek斩杀了谁",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%96%A9%E6%9D%80%E4%BA%86%E8%B0%81",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时47分 ~ 07时02分]"
+        },
         {
           "title": "中国版“生物DeepSeek”诞生",
           "url": "https://www.toutiao.com/trending/7670182284162502194/",
@@ -149,56 +289,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时47分 ~ 05时14分]"
-        },
-        {
-          "title": "DeepSeek斩杀了谁",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%96%A9%E6%9D%80%E4%BA%86%E8%B0%81",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时47分 ~ 05时14分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "OpenAI：第三方网络评估涉及本公司的诸多模型。",
-          "url": "https://wallstreetcn.com/livenews/3144962",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时14分"
-        },
-        {
-          "title": "OpenAI降价,老日高喊中国万岁",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356750&amp;topic_name=OpenAI%E9%99%8D%E4%BB%B7%2C%E8%80%81%E6%97%A5%E9%AB%98%E5%96%8A%E4%B8%AD%E5%9B%BD%E4%B8%87%E5%B2%81",
-          "source": "贴吧",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时47分 ~ 05时14分]"
-        },
-        {
-          "title": "苹果公司请求法官即刻禁止OpenAI使用其商业秘密",
-          "url": "https://wallstreetcn.com/livenews/3144861",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时47分"
         }
       ]
     },
@@ -211,11 +301,12 @@
           "url": "https://s.weibo.com/weibo?q=%E4%BA%BA%E4%B8%8D%E5%9C%A8%E5%B7%A5%E4%BD%8D%E4%B8%80%E5%AE%9A%E8%A6%81%E6%8A%8A%E8%B1%86%E5%8C%85%E5%85%B3%E4%BA%86&t=31&band_rank=19&Refer=top",
           "source": "微博",
           "ranks": [
-            19
+            19,
+            30
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时47分"
+          "appearance_count": 2,
+          "time_info": "[01时47分 ~ 07时02分]"
         }
       ]
     }
