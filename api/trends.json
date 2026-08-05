@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-05T19:19:28.565137+08:00",
-  "total_titles_processed": 1240,
+  "generated_at": "2026-08-05T22:04:02.678081+08:00",
+  "total_titles_processed": 1400,
   "failed_sources": [],
   "trends": [
     {
@@ -303,7 +303,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
         },
@@ -322,7 +322,7 @@
     },
     {
       "keyword_group": "openai",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "OpenAI降价,老日高喊中国万岁",
@@ -356,6 +356,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时44分 ~ 16时33分]"
+        },
+        {
+          "title": "怎么看 OpenAI 提到下一代 Harness 将脱离 PC，两三个月后现在的 Codex 工作方式会淘汰？",
+          "url": "https://www.zhihu.com/question/2068265537105302957",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时03分 ~ 22时04分]"
         },
         {
           "title": "英国机构报告AI安全事件 涉Anthropic和OpenAI模型",
