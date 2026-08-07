@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T05:37:15.524343+08:00",
-  "total_titles_processed": 564,
+  "generated_at": "2026-08-08T06:33:04.519735+08:00",
+  "total_titles_processed": 588,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时52分 ~ 05时37分]"
+          "appearance_count": 11,
+          "time_info": "[00时52分 ~ 06时33分]"
         },
         {
           "title": "业绩如何支撑高估值？与DeepSeek如何合作？如何看待股价炒作？王兴兴回应多个热点",
@@ -26,8 +26,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时52分 ~ 05时37分]"
+          "appearance_count": 6,
+          "time_info": "[03时52分 ~ 06时33分]"
         }
       ]
     },
@@ -73,8 +73,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时52分 ~ 05时37分]"
+          "appearance_count": 11,
+          "time_info": "[00时52分 ~ 06时33分]"
         }
       ]
     }
