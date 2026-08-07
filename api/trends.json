@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-07T22:14:31.201636+08:00",
-  "total_titles_processed": 1396,
+  "generated_at": "2026-08-07T23:55:15.485656+08:00",
+  "total_titles_processed": 1530,
   "failed_sources": [],
   "trends": [
     {
@@ -44,8 +44,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时58分 ~ 22时14分]"
+          "appearance_count": 8,
+          "time_info": "[16时58分 ~ 23时55分]"
         },
         {
           "title": "王兴兴回应DeepSeek参与宇树科技IPO战略配售",
@@ -215,11 +215,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356949&amp;topic_name=%E6%A0%B8%E5%BF%83%E5%9B%A2%E9%98%9F%E8%B7%91%E8%B7%AF%2CGemini%E9%99%B7%E5%A4%A7%E5%8D%B1%E6%9C%BA",
           "source": "贴吧",
           "ranks": [
-            15
+            15,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时14分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时14分 ~ 23时55分]"
         }
       ]
     },
@@ -237,8 +238,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时58分 ~ 22时14分]"
+          "appearance_count": 8,
+          "time_info": "[16时58分 ~ 23时55分]"
         }
       ]
     }
