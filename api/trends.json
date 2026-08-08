@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T04:27:18.194967+08:00",
-  "total_titles_processed": 429,
+  "generated_at": "2026-08-09T05:28:27.729462+08:00",
+  "total_titles_processed": 439,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3778992",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时28分 ~ 04时27分]"
+          "appearance_count": 3,
+          "time_info": "[03时28分 ~ 05时28分]"
         },
         {
           "title": "苹果AI 千问",
@@ -52,11 +53,12 @@
           "source": "知乎",
           "ranks": [
             15,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时34分 ~ 04时27分]"
+          "appearance_count": 4,
+          "time_info": "[02时34分 ~ 05时28分]"
         }
       ]
     },
@@ -70,11 +72,29 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 04时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 05时28分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "马斯克：在长途航班中接入星链网络，将成为提升生产力的重大变革。",
+          "url": "https://flash.jin10.com/detail/20260809045524710800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时28分"
         }
       ]
     },
@@ -91,8 +111,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 04时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 05时28分]"
         }
       ]
     }
