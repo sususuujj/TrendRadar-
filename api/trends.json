@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-08-08T14:48:26.499613+08:00",
-  "total_titles_processed": 1007,
+  "generated_at": "2026-08-08T15:47:53.315655+08:00",
+  "total_titles_processed": 1064,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek",
       "match_count": 3,
       "titles": [
+        {
+          "title": "网传 DeepSeek V4 Flash 完成任务后写了个游戏玩一上午，是真的吗？为什么会出现这样的现象？",
+          "url": "https://www.zhihu.com/question/2068108635620774765",
+          "source": "知乎",
+          "ranks": [
+            5,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时22分 ~ 15时47分]"
+        },
         {
           "title": "业绩如何支撑高估值？与DeepSeek如何合作？如何看待股价炒作？王兴兴回应多个热点",
           "url": "https://m.thepaper.cn/newsDetail_forward_33739348",
@@ -19,8 +32,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[03时52分 ~ 14时48分]"
+          "appearance_count": 15,
+          "time_info": "[03时52分 ~ 15时47分]"
         },
         {
           "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
@@ -32,18 +45,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时52分 ~ 07时37分]"
-        },
-        {
-          "title": "网传 DeepSeek V4 Flash 完成任务后写了个游戏玩一上午，是真的吗？为什么会出现这样的现象？",
-          "url": "https://www.zhihu.com/question/2068108635620774765",
-          "source": "知乎",
-          "ranks": [
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时22分 ~ 14时48分]"
         }
       ]
     },
@@ -101,11 +102,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            7
+            7,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时55分 ~ 14时48分]"
+          "appearance_count": 4,
+          "time_info": "[12时55分 ~ 15时47分]"
         },
         {
           "title": "消息人士：马斯克拒绝让乌克兰用“星链”打击俄境内目标",
@@ -114,11 +116,12 @@
           "ranks": [
             6,
             12,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时55分 ~ 14时48分]"
+          "appearance_count": 4,
+          "time_info": "[12时55分 ~ 15时47分]"
         }
       ]
     },
@@ -140,8 +143,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时52分 ~ 14时48分]"
+          "appearance_count": 20,
+          "time_info": "[00时52分 ~ 15时47分]"
         }
       ]
     },
@@ -156,11 +159,12 @@
           "ranks": [
             4,
             8,
-            16
+            16,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时54分 ~ 14时48分]"
+          "appearance_count": 5,
+          "time_info": "[12时54分 ~ 15时47分]"
         }
       ]
     }
