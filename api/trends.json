@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T06:27:12.303101+08:00",
-  "total_titles_processed": 458,
+  "generated_at": "2026-08-09T07:27:13.202333+08:00",
+  "total_titles_processed": 479,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时28分 ~ 06时27分]"
+          "appearance_count": 7,
+          "time_info": "[03时28分 ~ 07时27分]"
         },
         {
           "title": "苹果AI 千问",
@@ -66,11 +66,12 @@
           "url": "https://www.zhihu.com/question/2068108635620774765",
           "source": "知乎",
           "ranks": [
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时26分 ~ 06时27分]"
+          "appearance_count": 4,
+          "time_info": "[06时26分 ~ 07时27分]"
         }
       ]
     },
@@ -89,8 +90,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 06时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 07时27分]"
         }
       ]
     },
@@ -107,8 +108,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时28分 ~ 06时27分]"
+          "appearance_count": 3,
+          "time_info": "[05时28分 ~ 07时27分]"
         }
       ]
     },
@@ -125,8 +126,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 06时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 07时27分]"
         }
       ]
     }
