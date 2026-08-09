@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-09T15:53:24.916114+08:00",
-  "total_titles_processed": 949,
+  "generated_at": "2026-08-09T16:40:03.817129+08:00",
+  "total_titles_processed": 991,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "千问",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "苹果终于把千问接进Siri：中国版Apple Intelligence来了",
@@ -21,8 +21,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[03时28分 ~ 15时53分]"
+          "appearance_count": 15,
+          "time_info": "[03时28分 ~ 16时40分]"
         },
         {
           "title": "【早报】Apple智能可配合阿里千问模型工作；江波龙定增大幅溢价",
@@ -34,8 +34,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时27分 ~ 15时53分]"
+          "appearance_count": 8,
+          "time_info": "[09时27分 ~ 16时40分]"
         },
         {
           "title": "苹果官网已删除Apple智能接入阿里千问页面",
@@ -44,11 +44,23 @@
           "ranks": [
             1,
             2,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时03分 ~ 15时53分]"
+          "appearance_count": 4,
+          "time_info": "[13时03分 ~ 16时40分]"
+        },
+        {
+          "title": "苹果回应删除接入千问手册：没收到通知，中国大陆还没推出“Apple智能使用千问”功能",
+          "url": "https://wallstreetcn.com/livenews/3147061",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
         },
         {
           "title": "苹果中国官网删除Apple智能接入阿里千问手册",
@@ -82,7 +94,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时53分"
         },
@@ -135,11 +147,12 @@
             8,
             11,
             12,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时41分 ~ 15时53分]"
+          "appearance_count": 5,
+          "time_info": "[11时41分 ~ 16时40分]"
         },
         {
           "title": "马斯克：第三代星链卫星（V3）综合性能比V2高出一个数量级",
@@ -212,7 +225,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时53分"
         }
@@ -233,8 +246,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时31分 ~ 15时53分]"
+          "appearance_count": 19,
+          "time_info": "[00时31分 ~ 16时40分]"
         }
       ]
     }
