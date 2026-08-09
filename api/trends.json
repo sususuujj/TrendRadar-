@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-10T06:29:28.163498+08:00",
-  "total_titles_processed": 451,
+  "generated_at": "2026-08-10T07:29:35.905080+08:00",
+  "total_titles_processed": 500,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 06时29分]"
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 07时29分]"
+        },
+        {
+          "title": "马斯克凭什么建全球最大的芯片厂",
+          "url": "https://www.toutiao.com/trending/7671960489291382810/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 07时29分]"
         },
         {
           "title": "马斯克或采用FEL技术挑战EUV光刻机",
@@ -25,22 +37,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            16
+            16,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时30分 ~ 06时29分]"
-        },
-        {
-          "title": "马斯克凭什么建全球最大的芯片厂",
-          "url": "https://www.toutiao.com/trending/7671960489291382810/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时29分"
+          "appearance_count": 3,
+          "time_info": "[05时30分 ~ 07时29分]"
         }
       ]
     },
@@ -53,11 +55,12 @@
           "url": "https://www.cls.cn/detail/2449188",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 06时29分]"
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 07时29分]"
         }
       ]
     },
@@ -73,8 +76,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 06时29分]"
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 07时29分]"
         }
       ]
     }
