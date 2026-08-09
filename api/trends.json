@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T21:48:07.240596+08:00",
-  "total_titles_processed": 1338,
+  "generated_at": "2026-08-09T22:33:18.663511+08:00",
+  "total_titles_processed": 1382,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时27分 ~ 21时48分]"
+          "appearance_count": 16,
+          "time_info": "[09时27分 ~ 22时33分]"
         },
         {
           "title": "苹果终于把千问接进Siri：中国版Apple Intelligence来了",
@@ -187,8 +187,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时47分 ~ 21时48分]"
+          "appearance_count": 4,
+          "time_info": "[21时47分 ~ 22时33分]"
         },
         {
           "title": "马斯克突然“唱多”自家公司",
@@ -295,11 +295,12 @@
             10,
             11,
             13,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时31分 ~ 21时48分]"
+          "appearance_count": 27,
+          "time_info": "[00时31分 ~ 22时33分]"
         }
       ]
     }
