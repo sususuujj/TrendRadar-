@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T19:27:29.140271+08:00",
-  "total_titles_processed": 1179,
+  "generated_at": "2026-08-09T20:44:44.285906+08:00",
+  "total_titles_processed": 1264,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时27分 ~ 19时27分]"
+          "appearance_count": 12,
+          "time_info": "[09时27分 ~ 20时44分]"
         },
         {
           "title": "苹果终于把千问接进Siri：中国版Apple Intelligence来了",
@@ -48,11 +48,12 @@
             7,
             8,
             11,
-            18
+            18,
+            28
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时03分 ~ 19时27分]"
+          "appearance_count": 8,
+          "time_info": "[13时03分 ~ 20时44分]"
         },
         {
           "title": "苹果回应删除接入千问手册：没收到通知，中国大陆还没推出“Apple智能使用千问”功能",
@@ -62,11 +63,12 @@
             1,
             2,
             5,
-            12
+            12,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时40分 ~ 19时27分]"
+          "appearance_count": 5,
+          "time_info": "[16时40分 ~ 20时44分]"
         },
         {
           "title": "苹果中国官网删除Apple智能接入阿里千问手册",
@@ -280,11 +282,12 @@
             9,
             10,
             11,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时31分 ~ 19时27分]"
+          "appearance_count": 23,
+          "time_info": "[00时31分 ~ 20时44分]"
         }
       ]
     }
