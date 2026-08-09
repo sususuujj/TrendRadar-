@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T22:33:18.663511+08:00",
-  "total_titles_processed": 1382,
+  "generated_at": "2026-08-09T23:29:16.313134+08:00",
+  "total_titles_processed": 1440,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时27分 ~ 22时33分]"
+          "appearance_count": 18,
+          "time_info": "[09时27分 ~ 23时29分]"
         },
         {
           "title": "苹果终于把千问接进Siri：中国版Apple Intelligence来了",
@@ -167,6 +167,17 @@
           "time_info": "[11时41分 ~ 19时27分]"
         },
         {
+          "title": "马斯克，要颠覆EUV光刻机？",
+          "url": "https://wallstreetcn.com/articles/3779015",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[21时47分 ~ 23时29分]"
+        },
+        {
           "title": "马斯克：在长途航班中接入星链网络，将成为提升生产力的重大变革。",
           "url": "https://flash.jin10.com/detail/20260809045524710800",
           "source": "金十数据",
@@ -178,17 +189,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时28分 ~ 09时28分]"
-        },
-        {
-          "title": "马斯克，要颠覆EUV光刻机？",
-          "url": "https://wallstreetcn.com/articles/3779015",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时47分 ~ 22时33分]"
         },
         {
           "title": "马斯克突然“唱多”自家公司",
@@ -296,11 +296,12 @@
             11,
             13,
             14,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时31分 ~ 22时33分]"
+          "appearance_count": 29,
+          "time_info": "[00时31分 ~ 23时29分]"
         }
       ]
     }
