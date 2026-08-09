@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-10T04:30:11.285712+08:00",
-  "total_titles_processed": 411,
+  "generated_at": "2026-08-10T05:30:57.578951+08:00",
+  "total_titles_processed": 426,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马斯克",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "马斯克，要颠覆EUV光刻机？",
@@ -16,8 +16,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 04时30分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 05时30分]"
+        },
+        {
+          "title": "马斯克或采用FEL技术挑战EUV光刻机",
+          "url": "https://flash.jin10.com/detail/20260810045558184800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时30分"
         }
       ]
     },
@@ -33,8 +44,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 04时30分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 05时30分]"
         }
       ]
     },
@@ -50,8 +61,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 04时30分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 05时30分]"
         }
       ]
     }
