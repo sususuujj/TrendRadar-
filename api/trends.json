@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T18:32:40.690601+08:00",
-  "total_titles_processed": 1113,
+  "generated_at": "2026-08-09T19:27:29.140271+08:00",
+  "total_titles_processed": 1179,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时27分 ~ 18时32分]"
+          "appearance_count": 11,
+          "time_info": "[09时27分 ~ 19时27分]"
         },
         {
           "title": "苹果终于把千问接进Siri：中国版Apple Intelligence来了",
@@ -47,11 +47,12 @@
             6,
             7,
             8,
-            11
+            11,
+            18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时03分 ~ 18时32分]"
+          "appearance_count": 7,
+          "time_info": "[13时03分 ~ 19时27分]"
         },
         {
           "title": "苹果回应删除接入千问手册：没收到通知，中国大陆还没推出“Apple智能使用千问”功能",
@@ -60,11 +61,12 @@
           "ranks": [
             1,
             2,
-            5
+            5,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时40分 ~ 18时32分]"
+          "appearance_count": 4,
+          "time_info": "[16时40分 ~ 19时27分]"
         },
         {
           "title": "苹果中国官网删除Apple智能接入阿里千问手册",
@@ -86,11 +88,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            14
+            14,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时37分 ~ 18时32分]"
+          "appearance_count": 3,
+          "time_info": "[17时37分 ~ 19时27分]"
         },
         {
           "title": "苹果官网删除千问使用手册",
@@ -153,11 +156,12 @@
             16,
             17,
             18,
-            21
+            21,
+            28
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时41分 ~ 18时32分]"
+          "appearance_count": 8,
+          "time_info": "[11时41分 ~ 19时27分]"
         },
         {
           "title": "马斯克：在长途航班中接入星链网络，将成为提升生产力的重大变革。",
@@ -275,11 +279,12 @@
             8,
             9,
             10,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时31分 ~ 18时32分]"
+          "appearance_count": 22,
+          "time_info": "[00时31分 ~ 19时27分]"
         }
       ]
     }
