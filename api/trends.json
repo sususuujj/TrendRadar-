@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T20:44:44.285906+08:00",
-  "total_titles_processed": 1264,
+  "generated_at": "2026-08-09T21:48:07.240596+08:00",
+  "total_titles_processed": 1338,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             8,
             5,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时27分 ~ 20时44分]"
+          "appearance_count": 14,
+          "time_info": "[09时27分 ~ 21时48分]"
         },
         {
           "title": "苹果终于把千问接进Siri：中国版Apple Intelligence来了",
@@ -145,7 +146,7 @@
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "马斯克：即将发射的V3卫星性能将比V2卫星高出一个数量级，该系统今年将实现年收200亿美元",
@@ -177,6 +178,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时28分 ~ 09时28分]"
+        },
+        {
+          "title": "马斯克，要颠覆EUV光刻机？",
+          "url": "https://wallstreetcn.com/articles/3779015",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时47分 ~ 21时48分]"
         },
         {
           "title": "马斯克突然“唱多”自家公司",
@@ -286,8 +298,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时31分 ~ 20时44分]"
+          "appearance_count": 25,
+          "time_info": "[00时31分 ~ 21时48分]"
         }
       ]
     }
