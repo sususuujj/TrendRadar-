@@ -1,196 +1,100 @@
 {
-  "generated_at": "2026-08-10T22:56:41.780005+08:00",
-  "total_titles_processed": 1688,
+  "generated_at": "2026-08-11T00:58:34.896542+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "马斯克",
-      "match_count": 6,
+      "keyword_group": "openai",
+      "match_count": 5,
       "titles": [
         {
-          "title": "马斯克，要颠覆EUV光刻机？",
-          "url": "https://wallstreetcn.com/articles/3779015",
-          "source": "华尔街见闻",
+          "title": "OpenAI：新的高级席位（Premium Seat）使用额度相比标准版提升5倍，无5小时使用限制，并提供可预测的每周使用额度重置。",
+          "url": "https://flash.jin10.com/detail/20260811005217914800",
+          "source": "金十数据",
           "ranks": [
-            10,
-            9,
-            5,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时32分 ~ 17时18分]"
-        },
-        {
-          "title": "马斯克凭什么建全球最大的芯片厂",
-          "url": "https://www.toutiao.com/trending/7671960489291382810/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            2,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时29分 ~ 09时29分]"
-        },
-        {
-          "title": "马斯克的新挑战：给光刻机“换束光”",
-          "url": "https://www.cls.cn/detail/2450318",
-          "source": "财联社热门",
-          "ranks": [
-            8,
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时02分 ~ 22时56分]"
+          "appearance_count": 1,
+          "time_info": "00时58分"
         },
         {
-          "title": "马斯克或采用FEL技术挑战EUV光刻机",
-          "url": "https://flash.jin10.com/detail/20260810045558184800",
+          "title": "OpenAI：限时期间，符合条件的工作区管理员每增加一个高级席位（Premium Seat），将获得价值100美元的额度奖励，最多可为5个席位获得总计500美元的额度。",
+          "url": "https://flash.jin10.com/detail/20260811005211685800",
           "source": "金十数据",
           "ranks": [
-            2,
-            16,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时30分 ~ 07时29分]"
-        },
-        {
-          "title": "如何看待马斯克评价SpaceX和特斯拉",
-          "url": "https://www.toutiao.com/trending/7672238666911059510/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时24分 ~ 13时25分]"
-        },
-        {
-          "title": "马斯克的8000亿芯片梦会是灾难吗",
-          "url": "https://www.toutiao.com/trending/7672219771949026870/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时52分 ~ 11时53分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "豆包",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "作者来整活,豆包成主角DS器灵",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356971&amp;topic_name=%E4%BD%9C%E8%80%85%E6%9D%A5%E6%95%B4%E6%B4%BB%2C%E8%B1%86%E5%8C%85%E6%88%90%E4%B8%BB%E8%A7%92DS%E5%99%A8%E7%81%B5",
-          "source": "贴吧",
-          "ranks": [
-            17,
-            22,
-            25,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时32分 ~ 17时18分]"
-        },
-        {
-          "title": "今日起，豆包推荐酒店将收取佣金：综合扣费12%！",
-          "url": "https://wallstreetcn.com/articles/3779079",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时06分 ~ 22时56分]"
+          "appearance_count": 1,
+          "time_info": "00时58分"
         },
         {
-          "title": "今日起豆包渠道的酒店订单开始执行独立费率，综合扣费12%",
-          "url": "https://wallstreetcn.com/livenews/3147422",
-          "source": "华尔街见闻-快讯",
+          "title": "OpenAI：高级席位（Premium Seats）价格为每位用户每月125美元，按年付费则为每位用户每月100美元。",
+          "url": "https://flash.jin10.com/detail/20260811005131000800",
+          "source": "金十数据",
           "ranks": [
-            29
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "DeepSeek为何重启融资",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E4%B8%BA%E4%BD%95%E9%87%8D%E5%90%AF%E8%9E%8D%E8%B5%84",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时17分 ~ 17时18分]"
+          "time_info": "00时58分"
         },
         {
-          "title": "DeepSeek会偷偷给人取外号",
-          "url": "https://s.weibo.com/weibo?q=DeepSeek%E4%BC%9A%E5%81%B7%E5%81%B7%E7%BB%99%E4%BA%BA%E5%8F%96%E5%A4%96%E5%8F%B7&t=31&band_rank=14&Refer=top",
-          "source": "微博",
+          "title": "OpenAI：为ChatGPT Business推出高级席位（Premium Seats）。",
+          "url": "https://flash.jin10.com/detail/20260811005120672800",
+          "source": "金十数据",
           "ranks": [
-            14
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "openai",
-      "match_count": 1,
-      "titles": [
+          "time_info": "00时58分"
+        },
         {
           "title": "OpenAI曝光GPT-6！传10万亿参数，8月强行发布",
           "url": "https://wallstreetcn.com/articles/3779038",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            9,
-            8,
-            4,
-            3
+            6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时52分 ~ 22时56分]"
+          "appearance_count": 1,
+          "time_info": "00时58分"
         }
       ]
     },
     {
-      "keyword_group": "千问",
+      "keyword_group": "马斯克",
       "match_count": 1,
       "titles": [
         {
-          "title": "【早报】Apple智能可配合阿里千问模型工作；江波龙定增大幅溢价",
-          "url": "https://www.cls.cn/detail/2449188",
+          "title": "马斯克的新挑战：给光刻机“换束光”",
+          "url": "https://www.cls.cn/detail/2450318",
           "source": "财联社热门",
           "ranks": [
-            5,
-            4
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时32分 ~ 09时29分]"
+          "appearance_count": 1,
+          "time_info": "00时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "豆包",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "今日起，豆包推荐酒店将收取佣金：综合扣费12%！",
+          "url": "https://wallstreetcn.com/articles/3779079",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时58分"
         }
       ]
     }
