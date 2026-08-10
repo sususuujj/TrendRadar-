@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-11T03:55:34.385584+08:00",
-  "total_titles_processed": 474,
+  "generated_at": "2026-08-11T04:40:33.392645+08:00",
+  "total_titles_processed": 501,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时58分 ~ 03时55分]"
+          "appearance_count": 7,
+          "time_info": "[00时58分 ~ 04时40分]"
         },
         {
           "title": "OpenAI：我们正在扩展网络安全计划Daybreak，并推出新模型GPT-5.6-Cyber，用于开展先进且经过授权的网络安全工作。",
@@ -196,8 +196,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时58分 ~ 03时55分]"
+          "appearance_count": 7,
+          "time_info": "[00时58分 ~ 04时40分]"
         }
       ]
     },
@@ -213,8 +213,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时58分 ~ 03时55分]"
+          "appearance_count": 7,
+          "time_info": "[00时58分 ~ 04时40分]"
         }
       ]
     }
