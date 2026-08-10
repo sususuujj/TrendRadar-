@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-10T19:07:14.829664+08:00",
-  "total_titles_processed": 1410,
+  "generated_at": "2026-08-10T21:02:46.568976+08:00",
+  "total_titles_processed": 1551,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马斯克",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "马斯克，要颠覆EUV光刻机？",
@@ -69,6 +69,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时52分 ~ 11时53分]"
+        },
+        {
+          "title": "马斯克的新挑战：给光刻机“换束光”",
+          "url": "https://www.cls.cn/detail/2450318",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
         }
       ]
     },
@@ -95,11 +106,12 @@
           "url": "https://wallstreetcn.com/articles/3779079",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时06分 ~ 19时07分]"
+          "appearance_count": 3,
+          "time_info": "[19时06分 ~ 21时02分]"
         },
         {
           "title": "今日起豆包渠道的酒店订单开始执行独立费率，综合扣费12%",
@@ -108,7 +120,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时07分"
         }
@@ -158,8 +170,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时52分 ~ 19时07分]"
+          "appearance_count": 10,
+          "time_info": "[11时52分 ~ 21时02分]"
         }
       ]
     },
