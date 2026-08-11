@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-11T18:53:22.014434+08:00",
-  "total_titles_processed": 1459,
+  "generated_at": "2026-08-11T20:58:52.491052+08:00",
+  "total_titles_processed": 1601,
   "failed_sources": [],
   "trends": [
     {
@@ -241,11 +241,12 @@
           "source": "今日头条",
           "ranks": [
             13,
-            16
+            16,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时59分 ~ 18时53分]"
+          "appearance_count": 3,
+          "time_info": "[17时59分 ~ 20时58分]"
         },
         {
           "title": "马斯克一年赚2.16万亿 平均每天59亿",
@@ -333,8 +334,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时53分 ~ 18时53分]"
+          "appearance_count": 4,
+          "time_info": "[16时53分 ~ 20时58分]"
         },
         {
           "title": "大模型攻入OTA腹地？豆包称酒店推荐“按成交收费” 或挑战“佣金+广告”模式|深度",
@@ -345,8 +346,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时59分 ~ 18时53分]"
+          "appearance_count": 3,
+          "time_info": "[17时59分 ~ 20时58分]"
         },
         {
           "title": "豆包回应“推荐酒店抽取12%佣金”",
@@ -363,7 +364,7 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "如何评价即将发布的 DeepSeek-V4 Pro 正式版，有哪些亮点？",
@@ -386,6 +387,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
+        },
+        {
+          "title": "DeepSeek招土木工程师，科技大厂争锋延伸至传统资源领域",
+          "url": "https://wallstreetcn.com/livenews/3148048",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         }
       ]
     },
