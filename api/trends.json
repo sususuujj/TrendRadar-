@@ -1,8 +1,60 @@
 {
-  "generated_at": "2026-08-12T01:03:38.981752+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-08-12T02:59:22.267028+08:00",
+  "total_titles_processed": 395,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "马斯克",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "马斯克旗下太空探索公司SpaceX跌幅扩大至5%，刷新日低。",
+          "url": "https://wallstreetcn.com/livenews/3148172",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时03分 ~ 02时59分]"
+        },
+        {
+          "title": "马斯克：强烈推荐大家去中国看看",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9A%E5%BC%BA%E7%83%88%E6%8E%A8%E8%8D%90%E5%A4%A7%E5%AE%B6%E5%8E%BB%E4%B8%AD%E5%9B%BD%E7%9C%8B%E7%9C%8B",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时03分 ~ 02时59分]"
+        },
+        {
+          "title": "马斯克：我们会先解决Grok Bot测试版目前存在的一些基础问题，并在本周晚些时候发布Grok4.6后，向更多用户开放Grok Bot测试。",
+          "url": "https://flash.jin10.com/detail/20260812014747467800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
+        {
+          "title": "马斯克母子强推中国游",
+          "url": "https://www.toutiao.com/trending/7672030137794248730/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        }
+      ]
+    },
     {
       "keyword_group": "openai",
       "match_count": 3,
@@ -23,11 +75,12 @@
           "url": "https://wallstreetcn.com/livenews/3148176",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时03分"
+          "appearance_count": 2,
+          "time_info": "[01时03分 ~ 02时59分]"
         },
         {
           "title": "OpenAI高管Brad Lightcap将离职，开启“新项目”",
@@ -43,30 +96,30 @@
       ]
     },
     {
-      "keyword_group": "马斯克",
+      "keyword_group": "gemini",
       "match_count": 2,
       "titles": [
         {
-          "title": "马斯克旗下太空探索公司SpaceX跌幅扩大至5%，刷新日低。",
-          "url": "https://wallstreetcn.com/livenews/3148172",
+          "title": "谷歌：Gemini月活用户数超过10亿",
+          "url": "https://wallstreetcn.com/livenews/3148199",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            6
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时03分"
+          "time_info": "02时59分"
         },
         {
-          "title": "马斯克：强烈推荐大家去中国看看",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9A%E5%BC%BA%E7%83%88%E6%8E%A8%E8%8D%90%E5%A4%A7%E5%AE%B6%E5%8E%BB%E4%B8%AD%E5%9B%BD%E7%9C%8B%E7%9C%8B",
-          "source": "百度热搜",
+          "title": "谷歌(GOOG.O)：Gemini应用的月活跃用户超过10亿，成为谷歌历史上增长速度最快的产品。",
+          "url": "https://flash.jin10.com/detail/20260812014236644800",
+          "source": "金十数据",
           "ranks": [
-            23
+            15
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时03分"
+          "time_info": "02时59分"
         }
       ]
     },
@@ -79,11 +132,12 @@
           "url": "https://www.zhihu.com/question/2070437867311174069",
           "source": "知乎",
           "ranks": [
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时03分"
+          "appearance_count": 2,
+          "time_info": "[01时03分 ~ 02时59分]"
         }
       ]
     },
@@ -99,8 +153,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时03分"
+          "appearance_count": 2,
+          "time_info": "[01时03分 ~ 02时59分]"
         }
       ]
     }
