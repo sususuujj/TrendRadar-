@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-11T17:59:26.157930+08:00",
-  "total_titles_processed": 1351,
+  "generated_at": "2026-08-11T18:53:22.014434+08:00",
+  "total_titles_processed": 1459,
   "failed_sources": [],
   "trends": [
     {
@@ -228,11 +228,24 @@
           "source": "微博",
           "ranks": [
             2,
-            8
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时53分 ~ 18时53分]"
+        },
+        {
+          "title": "马斯克母子强推中国游",
+          "url": "https://www.toutiao.com/trending/7672030137794248730/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时53分 ~ 17时59分]"
+          "time_info": "[17时59分 ~ 18时53分]"
         },
         {
           "title": "马斯克一年赚2.16万亿 平均每天59亿",
@@ -247,6 +260,17 @@
           "time_info": "[16时53分 ~ 17时59分]"
         },
         {
+          "title": "马斯克平均每天赚59亿",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%B9%B3%E5%9D%87%E6%AF%8F%E5%A4%A9%E8%B5%9A59%E4%BA%BF%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时59分 ~ 18时53分]"
+        },
+        {
           "title": "马斯克母子发文强烈推荐中国游",
           "url": "https://www.toutiao.com/trending/7672030137794248730/",
           "source": "今日头条",
@@ -256,28 +280,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
-        },
-        {
-          "title": "马斯克母子强推中国游",
-          "url": "https://www.toutiao.com/trending/7672030137794248730/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时59分"
-        },
-        {
-          "title": "马斯克平均每天赚59亿",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%B9%B3%E5%9D%87%E6%AF%8F%E5%A4%A9%E8%B5%9A59%E4%BA%BF%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时59分"
         }
       ]
     },
@@ -318,8 +320,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时42分 ~ 17时59分]"
+          "appearance_count": 5,
+          "time_info": "[11时42分 ~ 18时53分]"
         },
         {
           "title": "推荐酒店收佣金,豆包转行当中介",
@@ -327,11 +329,24 @@
           "source": "贴吧",
           "ranks": [
             17,
-            19
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时53分 ~ 18时53分]"
+        },
+        {
+          "title": "大模型攻入OTA腹地？豆包称酒店推荐“按成交收费” 或挑战“佣金+广告”模式|深度",
+          "url": "https://www.cls.cn/detail/2451001",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时53分 ~ 17时59分]"
+          "time_info": "[17时59分 ~ 18时53分]"
         },
         {
           "title": "豆包回应“推荐酒店抽取12%佣金”",
@@ -343,17 +358,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
-        },
-        {
-          "title": "大模型攻入OTA腹地？豆包称酒店推荐“按成交收费” 或挑战“佣金+广告”模式|深度",
-          "url": "https://www.cls.cn/detail/2451001",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时59分"
         }
       ]
     },
