@@ -1,63 +1,11 @@
 {
-  "generated_at": "2026-08-12T02:59:22.267028+08:00",
-  "total_titles_processed": 395,
+  "generated_at": "2026-08-12T05:43:48.146140+08:00",
+  "total_titles_processed": 465,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "马斯克",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "马斯克旗下太空探索公司SpaceX跌幅扩大至5%，刷新日低。",
-          "url": "https://wallstreetcn.com/livenews/3148172",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 02时59分]"
-        },
-        {
-          "title": "马斯克：强烈推荐大家去中国看看",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9A%E5%BC%BA%E7%83%88%E6%8E%A8%E8%8D%90%E5%A4%A7%E5%AE%B6%E5%8E%BB%E4%B8%AD%E5%9B%BD%E7%9C%8B%E7%9C%8B",
-          "source": "百度热搜",
-          "ranks": [
-            23,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 02时59分]"
-        },
-        {
-          "title": "马斯克：我们会先解决Grok Bot测试版目前存在的一些基础问题，并在本周晚些时候发布Grok4.6后，向更多用户开放Grok Bot测试。",
-          "url": "https://flash.jin10.com/detail/20260812014747467800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时59分"
-        },
-        {
-          "title": "马斯克母子强推中国游",
-          "url": "https://www.toutiao.com/trending/7672030137794248730/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时59分"
-        }
-      ]
-    },
-    {
       "keyword_group": "openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "据The Information：OpenAI特别项目负责人、前首席运营官Brad Lightcap即将离职。",
@@ -92,6 +40,70 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时03分"
+        },
+        {
+          "title": "美国参议院Sanders发函，要求OpenAI、Anthropic、Meta等众多AI公司暂停开发。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3148238",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "马斯克：强烈推荐大家去中国看看",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9A%E5%BC%BA%E7%83%88%E6%8E%A8%E8%8D%90%E5%A4%A7%E5%AE%B6%E5%8E%BB%E4%B8%AD%E5%9B%BD%E7%9C%8B%E7%9C%8B",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            17,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时03分 ~ 05时43分]"
+        },
+        {
+          "title": "马斯克旗下太空探索公司SpaceX跌幅扩大至5%，刷新日低。",
+          "url": "https://wallstreetcn.com/livenews/3148172",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时03分 ~ 02时59分]"
+        },
+        {
+          "title": "马斯克：我们会先解决Grok Bot测试版目前存在的一些基础问题，并在本周晚些时候发布Grok4.6后，向更多用户开放Grok Bot测试。",
+          "url": "https://flash.jin10.com/detail/20260812014747467800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
+        {
+          "title": "马斯克母子强推中国游",
+          "url": "https://www.toutiao.com/trending/7672030137794248730/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时59分"
         }
       ]
     },
@@ -106,7 +118,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
         },
@@ -117,7 +129,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
         }
@@ -133,11 +145,12 @@
           "source": "知乎",
           "ranks": [
             19,
-            18
+            18,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 02时59分]"
+          "appearance_count": 3,
+          "time_info": "[01时03分 ~ 05时43分]"
         }
       ]
     },
@@ -153,8 +166,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 02时59分]"
+          "appearance_count": 3,
+          "time_info": "[01时03分 ~ 05时43分]"
         }
       ]
     }
