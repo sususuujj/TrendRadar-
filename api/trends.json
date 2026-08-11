@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-11T20:58:52.491052+08:00",
-  "total_titles_processed": 1601,
+  "generated_at": "2026-08-11T22:21:30.745472+08:00",
+  "total_titles_processed": 1719,
   "failed_sources": [],
   "trends": [
     {
@@ -331,11 +331,12 @@
           "ranks": [
             17,
             19,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时53分 ~ 20时58分]"
+          "appearance_count": 5,
+          "time_info": "[16时53分 ~ 22时21分]"
         },
         {
           "title": "大模型攻入OTA腹地？豆包称酒店推荐“按成交收费” 或挑战“佣金+广告”模式|深度",
@@ -343,11 +344,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时59分 ~ 20时58分]"
+          "appearance_count": 4,
+          "time_info": "[17时59分 ~ 22时21分]"
         },
         {
           "title": "豆包回应“推荐酒店抽取12%佣金”",
@@ -395,7 +397,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
         }
