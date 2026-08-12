@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-12T12:07:26.565786+08:00",
-  "total_titles_processed": 893,
+  "generated_at": "2026-08-12T16:15:46.150171+08:00",
+  "total_titles_processed": 1079,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             1,
-            3
+            3,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时44分 ~ 12时07分]"
+          "appearance_count": 3,
+          "time_info": "[09时44分 ~ 16时15分]"
         },
         {
           "title": "马斯克：强烈推荐大家去中国看看",
@@ -35,6 +36,17 @@
           "time_info": "[01时03分 ~ 09时44分]"
         },
         {
+          "title": "马斯克推荐“去中国看看”打了谁的脸",
+          "url": "https://news.ifeng.com/c/8vWMaBULmmE",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时44分 ~ 16时15分]"
+        },
+        {
           "title": "马斯克旗下太空探索公司SpaceX跌幅扩大至5%，刷新日低。",
           "url": "https://wallstreetcn.com/livenews/3148172",
           "source": "华尔街见闻-快讯",
@@ -45,17 +57,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时03分 ~ 02时59分]"
-        },
-        {
-          "title": "马斯克推荐“去中国看看”打了谁的脸",
-          "url": "https://news.ifeng.com/c/8vWMaBULmmE",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时44分 ~ 12时07分]"
         },
         {
           "title": "马斯克母子强推中国游",
@@ -76,7 +77,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
         },
@@ -215,6 +216,23 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时03分 ~ 12时07分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "千问",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "“千问AI Arena”上线 首个任务聚焦跨境电商",
+          "url": "https://wallstreetcn.com/livenews/3148509",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
         }
       ]
     },
