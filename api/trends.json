@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-13T03:06:01.234480+08:00",
-  "total_titles_processed": 385,
+  "generated_at": "2026-08-13T04:41:16.155195+08:00",
+  "total_titles_processed": 452,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "DeepSeek Pro 正式版已经发布，如何评价该模型？",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时58分 ~ 03时06分]"
+          "appearance_count": 5,
+          "time_info": "[00时58分 ~ 04时41分]"
         },
         {
           "title": "DeepSeek V4 Pro正式版上线",
@@ -27,8 +27,31 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时58分 ~ 03时06分]"
+          "appearance_count": 5,
+          "time_info": "[00时58分 ~ 04时41分]"
+        },
+        {
+          "title": "DeepSeek发布V4Pro正式版",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E5%8F%91%E5%B8%83V4Pro%E6%AD%A3%E5%BC%8F%E7%89%88%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时05分 ~ 04时41分]"
+        },
+        {
+          "title": "如何评价 Deepseek V4Pro 正式版（Deepseek-V4-Pro-0813）？",
+          "url": "https://www.zhihu.com/question/2071019389479023642",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时40分 ~ 04时41分]"
         },
         {
           "title": "DeepSeek官网API文档新增“DeepSeek-V4-Pro-0813”模型",
@@ -41,17 +64,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时58分 ~ 03时06分]"
-        },
-        {
-          "title": "DeepSeek发布V4Pro正式版",
-          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E5%8F%91%E5%B8%83V4Pro%E6%AD%A3%E5%BC%8F%E7%89%88%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时05分 ~ 03时06分]"
         }
       ]
     },
@@ -66,7 +78,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
         },
@@ -77,7 +89,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
         },
@@ -88,7 +100,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
         }
@@ -106,8 +118,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时58分 ~ 03时06分]"
+          "appearance_count": 5,
+          "time_info": "[00时58分 ~ 04时41分]"
         },
         {
           "title": "马斯克：Grok4.6在智能程度、运行速度和使用成本方面综合排名第一。",
@@ -116,7 +128,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
         },
