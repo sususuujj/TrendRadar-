@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-12T07:37:43.932762+08:00",
-  "total_titles_processed": 559,
+  "generated_at": "2026-08-12T09:44:59.518866+08:00",
+  "total_titles_processed": 721,
   "failed_sources": [],
   "trends": [
     {
@@ -81,8 +81,19 @@
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "马斯克安利中国,外网闹麻",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357190&amp;topic_name=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%AE%89%E5%88%A9%E4%B8%AD%E5%9B%BD%2C%E5%A4%96%E7%BD%91%E9%97%B9%E9%BA%BB",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时44分"
+        },
         {
           "title": "马斯克：强烈推荐大家去中国看看",
           "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9A%E5%BC%BA%E7%83%88%E6%8E%A8%E8%8D%90%E5%A4%A7%E5%AE%B6%E5%8E%BB%E4%B8%AD%E5%9B%BD%E7%9C%8B%E7%9C%8B",
@@ -95,8 +106,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 07时37分]"
+          "appearance_count": 6,
+          "time_info": "[01时03分 ~ 09时44分]"
         },
         {
           "title": "马斯克旗下太空探索公司SpaceX跌幅扩大至5%，刷新日低。",
@@ -121,6 +132,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时59分 ~ 06时39分]"
+        },
+        {
+          "title": "马斯克推荐“去中国看看”打了谁的脸",
+          "url": "https://news.ifeng.com/c/8vWMaBULmmE",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时44分"
         },
         {
           "title": "马斯克：我们会先解决Grok Bot测试版目前存在的一些基础问题，并在本周晚些时候发布Grok4.6后，向更多用户开放Grok Bot测试。",
@@ -175,11 +197,12 @@
             19,
             18,
             14,
-            9
+            9,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 07时37分]"
+          "appearance_count": 6,
+          "time_info": "[01时03分 ~ 09时44分]"
         }
       ]
     },
@@ -192,11 +215,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357131&amp;topic_name=%E6%8E%A8%E8%8D%90%E9%85%92%E5%BA%97%E6%94%B6%E4%BD%A3%E9%87%91%2C%E8%B1%86%E5%8C%85%E8%BD%AC%E8%A1%8C%E5%BD%93%E4%B8%AD%E4%BB%8B",
           "source": "贴吧",
           "ranks": [
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 07时37分]"
+          "appearance_count": 6,
+          "time_info": "[01时03分 ~ 09时44分]"
         }
       ]
     }
