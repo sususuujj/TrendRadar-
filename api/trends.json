@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-15T05:23:41.639158+08:00",
-  "total_titles_processed": 362,
+  "generated_at": "2026-08-15T06:21:02.601434+08:00",
+  "total_titles_processed": 408,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
         },
@@ -26,8 +26,21 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时41分 ~ 05时23分]"
+          "appearance_count": 5,
+          "time_info": "[04时41分 ~ 06时21分]"
+        },
+        {
+          "title": "DeepSeek Harness实测",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E5%AE%9E%E6%B5%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            18,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时41分 ~ 06时21分]"
         },
         {
           "title": "网友热议DeepSeek Harness：“自进化软件”的雏形",
@@ -37,20 +50,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时41分 ~ 05时23分]"
-        },
-        {
-          "title": "DeepSeek Harness实测",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E5%AE%9E%E6%B5%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时41分 ~ 05时23分]"
+          "appearance_count": 5,
+          "time_info": "[04时41分 ~ 06时21分]"
         }
       ]
     },
@@ -66,8 +67,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时41分 ~ 05时23分]"
+          "appearance_count": 5,
+          "time_info": "[04时41分 ~ 06时21分]"
         }
       ]
     }
