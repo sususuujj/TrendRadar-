@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-08-14T16:14:36.808089+08:00",
-  "total_titles_processed": 1100,
+  "generated_at": "2026-08-14T17:59:57.289129+08:00",
+  "total_titles_processed": 1251,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek",
       "match_count": 23,
       "titles": [
+        {
+          "title": "俱往矣!DeepSeek大幅涨价",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357395&amp;topic_name=%E4%BF%B1%E5%BE%80%E7%9F%A3%21DeepSeek%E5%A4%A7%E5%B9%85%E6%B6%A8%E4%BB%B7",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[03时58分 ~ 17时59分]"
+        },
         {
           "title": "DeepSeek宣布API涨价，8月17日起峰值价格最高涨至27元，新版V4 Pro正式上线",
           "url": "https://wallstreetcn.com/articles/3779377",
@@ -17,20 +29,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时00分 ~ 16时14分]"
-        },
-        {
-          "title": "俱往矣!DeepSeek大幅涨价",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357395&amp;topic_name=%E4%BF%B1%E5%BE%80%E7%9F%A3%21DeepSeek%E5%A4%A7%E5%B9%85%E6%B6%A8%E4%BB%B7",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[03时58分 ~ 16时14分]"
+          "appearance_count": 11,
+          "time_info": "[00时00分 ~ 17时59分]"
         },
         {
           "title": "如何评价在 8 月 13 日发布的 DeepSeek Harness？",
@@ -83,6 +83,19 @@
           "time_info": "[09时44分 ~ 09时45分]"
         },
         {
+          "title": "DeepSeek Harness 开发者预览版：一切皆插件",
+          "url": "https://wallstreetcn.com/articles/3779385",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时44分 ~ 17时59分]"
+        },
+        {
           "title": "DeepSeek API确认涨价",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%20API%E7%A1%AE%E8%AE%A4%E6%B6%A8%E4%BB%B7",
           "source": "bilibili 热搜",
@@ -94,6 +107,20 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时00分 ~ 06时39分]"
+        },
+        {
+          "title": "DeepSeek Harness 来了，它不想做下一个Codex",
+          "url": "https://wallstreetcn.com/articles/3779390",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时44分 ~ 17时59分]"
         },
         {
           "title": "DeepSeek Harness发布",
@@ -121,18 +148,6 @@
           "time_info": "00时00分"
         },
         {
-          "title": "DeepSeek Harness 开发者预览版：一切皆插件",
-          "url": "https://wallstreetcn.com/articles/3779385",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时44分 ~ 16时14分]"
-        },
-        {
           "title": "DeepSeek智能体曝光！人人用得起的Agent？",
           "url": "https://wallstreetcn.com/articles/3779332",
           "source": "华尔街见闻",
@@ -143,19 +158,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时00分 ~ 06时39分]"
-        },
-        {
-          "title": "DeepSeek Harness 来了，它不想做下一个Codex",
-          "url": "https://wallstreetcn.com/articles/3779390",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时44分 ~ 16时14分]"
         },
         {
           "title": "DeepSeek官方Agent发布",
@@ -223,11 +225,12 @@
           "url": "https://www.zhihu.com/question/2071361705183899939",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时14分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时14分 ~ 17时59分]"
         },
         {
           "title": "如何评价 DeepSeek 与北大联合发布的新论文，有哪些亮点？对 Agent 发展有什么影响？",
@@ -236,9 +239,9 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时14分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时14分 ~ 17时59分]"
         },
         {
           "title": "DeepSeek Harness 已发布，如何评价这款产品？",
@@ -288,7 +291,7 @@
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "马斯克安利中国,外网闹麻",
@@ -314,6 +317,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时00分 ~ 06时39分]"
+        },
+        {
+          "title": "事关特朗普与马斯克，美媒最新爆料",
+          "url": "https://news.ifeng.com/c/8vaHza2NSPn",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时59分"
         },
         {
           "title": "特朗普与马斯克重修旧好：私人恩怨退场，政治利益重新把两人绑在一起",
@@ -348,12 +362,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
+        },
+        {
+          "title": "马斯克母子为何“种草”中国旅游",
+          "url": "https://www.toutiao.com/trending/7673631749909253695/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时59分"
         }
       ]
     },
     {
       "keyword_group": "openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "OpenAI商业化加速：年化收入超400亿美元，7月单月增长超过20%",
@@ -362,7 +387,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
         },
@@ -376,6 +401,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时39分"
+        },
+        {
+          "title": "据Axios：OpenAI在IPO前进行高管更换。",
+          "url": "https://flash.jin10.com/detail/20260814173053117800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时59分"
         },
         {
           "title": "据悉OpenAI年化营收突破400亿美元",
@@ -403,7 +439,7 @@
     },
     {
       "keyword_group": "豆包",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "用豆包给各地特产拍大片",
@@ -418,6 +454,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[03时58分 ~ 12时07分]"
+        },
+        {
+          "title": "让豆包把所有前任的脸融一起了",
+          "url": "https://s.weibo.com/weibo?q=%E8%AE%A9%E8%B1%86%E5%8C%85%E6%8A%8A%E6%89%80%E6%9C%89%E5%89%8D%E4%BB%BB%E7%9A%84%E8%84%B8%E8%9E%8D%E4%B8%80%E8%B5%B7%E4%BA%86&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时59分"
         }
       ]
     }
