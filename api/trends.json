@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-15T09:05:40.606055+08:00",
-  "total_titles_processed": 533,
+  "generated_at": "2026-08-15T10:51:00.937838+08:00",
+  "total_titles_processed": 641,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "网友热议DeepSeek Harness：“自进化软件”的雏形",
@@ -14,17 +14,6 @@
           "ranks": [
             9,
             5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时41分 ~ 09时05分]"
-        },
-        {
-          "title": "俱往矣!DeepSeek大幅涨价",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357395&amp;topic_name=%E4%BF%B1%E5%BE%80%E7%9F%A3%21DeepSeek%E5%A4%A7%E5%B9%85%E6%B6%A8%E4%BB%B7",
-          "source": "贴吧",
-          "ranks": [
-            8
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -41,8 +30,31 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时41分 ~ 09时05分]"
+          "appearance_count": 8,
+          "time_info": "[04时41分 ~ 10时51分]"
+        },
+        {
+          "title": "俱往矣!DeepSeek大幅涨价",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357395&amp;topic_name=%E4%BF%B1%E5%BE%80%E7%9F%A3%21DeepSeek%E5%A4%A7%E5%B9%85%E6%B6%A8%E4%BB%B7",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[04时41分 ~ 10时51分]"
+        },
+        {
+          "title": "DeepSeek-V4 Pro 跑分飙升",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek-V4%20Pro%20%E8%B7%91%E5%88%86%E9%A3%99%E5%8D%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时50分 ~ 10时51分]"
         },
         {
           "title": "DeepSeek Harness是什么",
@@ -59,7 +71,7 @@
     },
     {
       "keyword_group": "openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "英伟达缩减为OpenAI数据中心提供2500亿美元担保的计划",
@@ -68,7 +80,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时05分"
         },
@@ -77,17 +89,29 @@
           "url": "https://flash.jin10.com/detail/20260815080428529800",
           "source": "金十数据",
           "ranks": [
-            12
+            12,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时05分 ~ 10时51分]"
+        },
+        {
+          "title": "据悉英伟达缩减为OpenAI数据中心提供2500亿美元担保的计划",
+          "url": "https://flash.jin10.com/detail/20260815090110907800",
+          "source": "金十数据",
+          "ranks": [
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时05分"
+          "time_info": "10时51分"
         }
       ]
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "事关特朗普与马斯克，美媒最新爆料",
@@ -99,6 +123,34 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[04时41分 ~ 09时05分]"
+        },
+        {
+          "title": "特朗普如何将马斯克重新拉回身边",
+          "url": "https://www.toutiao.com/trending/7674001293995675190/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时50分 ~ 10时51分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "具身智能",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "具身智能机器人扎堆进厂干活",
+          "url": "https://www.douyin.com/hot/2610312",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时50分 ~ 10时51分]"
         }
       ]
     }
