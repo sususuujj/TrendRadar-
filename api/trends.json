@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-17T01:18:33.088862+08:00",
-  "total_titles_processed": 352,
+  "generated_at": "2026-08-17T02:25:39.528028+08:00",
+  "total_titles_processed": 390,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时18分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时25分]"
         },
         {
           "title": "降幅超50%！英伟达缩减对OpenAI数据中心担保规模",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时18分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时25分]"
         },
         {
           "title": "英伟达悄然缩减OpenAI数据中心担保规模，从2500亿美元降至1200亿美元以下",
@@ -37,19 +37,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时18分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时25分]"
         },
         {
           "title": "周末要闻汇总：英伟达缩减对OpenAI数据中心项目担保计划；全国首个算力“Token贷”落地",
           "url": "https://www.cls.cn/detail/2455353",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时18分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时25分]"
         }
       ]
     }
