@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-16T21:29:54.484282+08:00",
-  "total_titles_processed": 1152,
+  "generated_at": "2026-08-16T22:20:44.568452+08:00",
+  "total_titles_processed": 1208,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时18分 ~ 21时29分]"
+          "appearance_count": 15,
+          "time_info": "[07时18分 ~ 22时20分]"
         },
         {
           "title": "【早报】英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划；伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
@@ -30,8 +30,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时50分 ~ 21时29分]"
+          "appearance_count": 13,
+          "time_info": "[11时50分 ~ 22时20分]"
         },
         {
           "title": "英伟达悄然缩减OpenAI数据中心担保规模，从2500亿美元降至1200亿美元以下",
@@ -44,8 +44,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时35分 ~ 21时29分]"
+          "appearance_count": 10,
+          "time_info": "[14时35分 ~ 22时20分]"
         },
         {
           "title": "英伟达拟投资SB Energy 30亿美元，布局OpenAI数据中心",
@@ -63,6 +63,18 @@
           "time_info": "[11时50分 ~ 17时25分]"
         },
         {
+          "title": "周末要闻汇总：英伟达缩减对OpenAI数据中心项目担保计划；全国首个算力“Token贷”落地",
+          "url": "https://www.cls.cn/detail/2455353",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时29分 ~ 22时20分]"
+        },
+        {
           "title": "OpenAI Codex产品负责人：让Sol为你管理一支高效的Luna代理团队。这些模型彼此非常熟悉，能够通力合作，以惊人的速度和效率达成目标。",
           "url": "https://flash.jin10.com/detail/20260816043254635800",
           "source": "金十数据",
@@ -73,17 +85,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时18分 ~ 09时09分]"
-        },
-        {
-          "title": "周末要闻汇总：英伟达缩减对OpenAI数据中心项目担保计划；全国首个算力“Token贷”落地",
-          "url": "https://www.cls.cn/detail/2455353",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时29分"
         },
         {
           "title": "据TheInformation：英伟达(NVDA.O)正在洽谈向SB Energy投资30亿美元，作为OpenAI数据中心交易的一部分。",
