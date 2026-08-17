@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-17T19:23:11.098550+08:00",
-  "total_titles_processed": 1254,
+  "generated_at": "2026-08-17T23:23:12.036890+08:00",
+  "total_titles_processed": 1440,
   "failed_sources": [],
   "trends": [
     {
@@ -94,7 +94,7 @@
     },
     {
       "keyword_group": "openai",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "周末要闻汇总：英伟达缩减对OpenAI数据中心项目担保计划；全国首个算力“Token贷”落地",
@@ -167,6 +167,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时39分 ~ 12时40分]"
+        },
+        {
+          "title": "市场消息：美国金融服务公司Synchrony宣布与OpenAI达成企业合作协议，Synchrony将部署GPT-5.6 Sol、Terra和Luna模型，还将推出ChatGPT插件。",
+          "url": "https://flash.jin10.com/detail/20260817230059912800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
         }
       ]
     },
