@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-17T18:30:33.104375+08:00",
-  "total_titles_processed": 1157,
+  "generated_at": "2026-08-17T19:23:11.098550+08:00",
+  "total_titles_processed": 1254,
   "failed_sources": [],
   "trends": [
     {
@@ -32,6 +32,18 @@
           "time_info": "[10时57分 ~ 11时52分]"
         },
         {
+          "title": "DeepSeek 新定价已生效，实际体验下来你的感受如何？跟你预想的差异大吗？",
+          "url": "https://www.zhihu.com/question/2072598571090538898",
+          "source": "知乎",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时40分 ~ 19时23分]"
+        },
+        {
           "title": "DeepSeek正式涨价",
           "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E6%AD%A3%E5%BC%8F%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -55,18 +67,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时57分 ~ 12时40分]"
-        },
-        {
-          "title": "DeepSeek 新定价已生效，实际体验下来你的感受如何？跟你预想的差异大吗？",
-          "url": "https://www.zhihu.com/question/2072598571090538898",
-          "source": "知乎",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时40分 ~ 18时30分]"
         },
         {
           "title": "博主：DeepSeek要当全球Agent的底座",
