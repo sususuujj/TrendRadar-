@@ -1,183 +1,72 @@
 {
-  "generated_at": "2026-08-17T23:23:12.036890+08:00",
-  "total_titles_processed": 1440,
+  "generated_at": "2026-10-17T03:18:41.827060+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "DeepSeek",
-      "match_count": 7,
+      "keyword_group": "马斯克",
+      "match_count": 3,
       "titles": [
         {
-          "title": "DeepSeek正式涨价",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%AD%A3%E5%BC%8F%E6%B6%A8%E4%BB%B7",
-          "source": "bilibili 热搜",
+          "title": "马斯克：正在开发专用议价机器人，每年可为全球节省6万亿美元",
+          "url": "https://wallstreetcn.com/livenews/3180443",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2,
-            26
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时51分 ~ 16时41分]"
+          "appearance_count": 1,
+          "time_info": "03时18分"
         },
         {
-          "title": "如何评价 DeepSeek 涨价后，OpenCode Go 套餐的 Flash 模型调用量削减 94%？",
-          "url": "https://www.zhihu.com/question/2072481373085028433",
-          "source": "知乎",
+          "title": "能飞还会空中翻滚！特斯拉新款Roadster跑车亮相，马斯克称2028年量产",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34261270",
+          "source": "澎湃新闻",
           "ranks": [
-            2,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时57分 ~ 11时52分]"
-        },
-        {
-          "title": "DeepSeek 新定价已生效，实际体验下来你的感受如何？跟你预想的差异大吗？",
-          "url": "https://www.zhihu.com/question/2072598571090538898",
-          "source": "知乎",
-          "ranks": [
-            9,
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时40分 ~ 19时23分]"
+          "appearance_count": 1,
+          "time_info": "03时18分"
         },
         {
-          "title": "DeepSeek正式涨价",
-          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E6%AD%A3%E5%BC%8F%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
+          "title": "马斯克：我们正全力研发一款面向企业级应用的专用议价机器人（Hagglebot），因为我们认为它能将企业的成本效益提升5%甚至更多。若将其应用于全球GDP，每年节省额最高可达6万亿美元。",
+          "url": "https://flash.jin10.com/detail/20261017022726569800",
+          "source": "金十数据",
           "ranks": [
-            20,
-            26
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时57分 ~ 12时40分]"
-        },
-        {
-          "title": "DeepSeek调价生效 涨幅最高达1100%",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E8%B0%83%E4%BB%B7%E7%94%9F%E6%95%88+%E6%B6%A8%E5%B9%85%E6%9C%80%E9%AB%98%E8%BE%BE1100%25",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            23,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时57分 ~ 12时40分]"
-        },
-        {
-          "title": "博主：DeepSeek要当全球Agent的底座",
-          "url": "https://www.toutiao.com/trending/7674830497876282921/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时39分 ~ 12时40分]"
-        },
-        {
-          "title": "DeepSeek Harness 有什么好用的插件？",
-          "url": "https://www.zhihu.com/question/2071617281214378127",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时40分 ~ 16时41分]"
+          "appearance_count": 1,
+          "time_info": "03时18分"
         }
       ]
     },
     {
-      "keyword_group": "openai",
-      "match_count": 7,
+      "keyword_group": "DeepSeek",
+      "match_count": 2,
       "titles": [
         {
-          "title": "周末要闻汇总：英伟达缩减对OpenAI数据中心项目担保计划；全国首个算力“Token贷”落地",
-          "url": "https://www.cls.cn/detail/2455353",
-          "source": "财联社热门",
+          "title": "已恢复!DeepSeek发故障补偿",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367231&amp;topic_name=%E5%B7%B2%E6%81%A2%E5%A4%8D%21DeepSeek%E5%8F%91%E6%95%85%E9%9A%9C%E8%A1%A5%E5%81%BF",
+          "source": "贴吧",
           "ranks": [
-            6,
-            7,
-            4
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时21分 ~ 12时40分]"
-        },
-        {
-          "title": "英伟达悄然缩减OpenAI数据中心担保规模，从2500亿美元降至1200亿美元以下",
-          "url": "https://wallstreetcn.com/articles/3779526",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 11时52分]"
-        },
-        {
-          "title": "【早报】英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划；伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
-          "url": "https://www.cls.cn/detail/2455237",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 07时18分]"
-        },
-        {
-          "title": "降幅超50%！英伟达缩减对OpenAI数据中心担保规模",
-          "url": "https://www.cls.cn/detail/2455147",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 07时18分]"
-        },
-        {
-          "title": "OpenAI内部动荡加剧：重组不断，员工疲惫，高管离职潮持续，上市计划悄然推迟",
-          "url": "https://wallstreetcn.com/articles/3779533",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时39分 ~ 16时41分]"
-        },
-        {
-          "title": "OpenAI 人事地震",
-          "url": "https://www.baidu.com/s?wd=OpenAI+%E4%BA%BA%E4%BA%8B%E5%9C%B0%E9%9C%87",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时39分 ~ 12时40分]"
-        },
-        {
-          "title": "市场消息：美国金融服务公司Synchrony宣布与OpenAI达成企业合作协议，Synchrony将部署GPT-5.6 Sol、Terra和Luna模型，还将推出ChatGPT插件。",
-          "url": "https://flash.jin10.com/detail/20260817230059912800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时23分"
+          "time_info": "03时18分"
+        },
+        {
+          "title": "如何看待网友说 DeepSeek 在爱里长大？",
+          "url": "https://www.zhihu.com/question/2093751116613866755",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时18分"
         }
       ]
     },
@@ -186,15 +75,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "Codex调用豆包清理C盘",
-          "url": "https://s.weibo.com/weibo?q=Codex%E8%B0%83%E7%94%A8%E8%B1%86%E5%8C%85%E6%B8%85%E7%90%86C%E7%9B%98&t=31&band_rank=19&Refer=top",
-          "source": "微博",
+          "title": "豆包力压鲸鱼娘,荣获虎扑女神",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367239&amp;topic_name=%E8%B1%86%E5%8C%85%E5%8A%9B%E5%8E%8B%E9%B2%B8%E9%B1%BC%E5%A8%98%2C%E8%8D%A3%E8%8E%B7%E8%99%8E%E6%89%91%E5%A5%B3%E7%A5%9E",
+          "source": "贴吧",
           "ranks": [
-            19
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时39分 ~ 12时40分]"
+          "appearance_count": 1,
+          "time_info": "03时18分"
         }
       ]
     }
